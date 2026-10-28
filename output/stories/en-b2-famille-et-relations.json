@@ -1,0 +1,195 @@
+{
+  "title": "A Difficult Decision",
+  "new_vocabulary": [
+    "negotiate", "compromise", "resolve", "conflict", "misunderstanding", 
+    "tension", "emotional", "bond", "depend", "reliable", 
+    "loyalty", "betrayal", "forgive", "apologize", "regret", 
+    "hesitate", "overcome", "challenge", "struggle", "accomplish", 
+    "ambition", "expectation", "disappoint", "frustration", "patience", 
+    "tolerance", "perspective", "attitude", "behavior", "consideration", 
+    "thoughtful", "affection", "warmth", "empathy", "comfort", 
+    "reassure", "secure", "independent", "autonomous", "guidance"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Mark sat in the kitchen, feeling a deep sense of tension after the family meeting.",
+      "phonetic": "/mɑːk sæt ɪn ðə ˈkɪtʃɪn, ˈfiːlɪŋ ə diːp sɛns ɒv ˈtɛnʃən ˈɑːftə ðə ˈfæmɪli ˈmiːtɪŋ./",
+      "text_native": "Mark était assis dans la cuisine, ressentant une profonde tension après la réunion de famille."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He knew they had to negotiate a better compromise regarding the upcoming holiday plans.",
+      "phonetic": "/hiː nuː ðeɪ hæd tuː nɪˈgəʊʃɪeɪt ə ˈbɛtə ˈkɒmprəmaɪz rɪˈgɑːdɪŋ ði ˈʌpˌkʌmɪŋ ˈhɒlədeɪ plænz./",
+      "text_native": "Il savait qu'ils devaient négocier un meilleur compromis concernant les projets de vacances à venir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "A persistent misunderstanding had created an emotional distance between him and his brother.",
+      "phonetic": "/ə pəˈsɪstənt ˌmʌsʌndəˈstændɪŋ hæd kriːˈteɪd ən ɪˈməʊʃənl ˈdɪstəns bɪˈtwiːn hɪm ænd hɪz ˈbrʌðə./",
+      "text_native": "Un malentendu persistant avait créé une distance émotionnelle entre lui et son frère."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Despite the conflict, their strong family bond always helped them resolve serious arguments.",
+      "phonetic": "/dɪsˈpaɪt ðə ˈkɒnflɪkt, ðeər strɒŋ ˈfæmɪli bɒnd ˈɔːlweɪz hɛlpt ðɛm rɪˈzɒlv ˈsɪəriəs ˈɑːgjʊmənts./",
+      "text_native": "Malgré le conflit, leur lien familial fort les aidait toujours à résoudre les disputes sérieuses."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Mark realized that true loyalty meant being a reliable person when loved ones struggle.",
+      "phonetic": "/mɑːk ˈrɪəlaɪzd ðæt truː ˈlɔɪəlti mɛnt ˈbiːɪŋ ə rɪˈlaɪəbl ˈpɜːsn wɛn lʌvd wʌnz ˈstrʌgl./",
+      "text_native": "Mark a réalisé que la vraie loyauté signifiait être une personne fiable lorsque les êtres chers traversent des difficultés."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He hesitated for a moment, remembering a past betrayal that still caused mild regret.",
+      "phonetic": "/hiː ˈhɛzɪteɪtɪd fɔːr ə ˈməʊmənt, rɪˈmɛmbərɪŋ ə pɑːst bɪˈtreɪəl ðæt stɪl kɔːzd maɪld rɪˈgrɛt./",
+      "text_native": "Il a hésité un instant, se souvenant d'une trahison passée qui causait encore un léger regret."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "However, he wanted to forgive his sibling and sincerely apologize for his own stubborn attitude.",
+      "phonetic": "/haʊˈɛvə, hiː ˈwɒntɪd tuː fəˈgɪv hɪz ˈsɪblɪŋ ænd sɪnˈsɪəli əˈpɒləʤaɪz fɔːr hɪz əʊn ˈstʌbən ˈætɪtjuːd./",
+      "text_native": "Cependant, il voulait pardonner à son frère et s'excuser sincèrement pour sa propre attitude têtue."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Family relationships often demand incredible patience and high tolerance for different opinions.",
+      "phonetic": "/ˈfæmɪli rɪˈleɪʃənʃɪps ˈɒfən dɪˈmɑːnd ɪnˈkrɛdəbl ˈpeɪʃəns ænd haɪ ˈtɒlərəns fɔːr ˈdɪfrənt əˈpɪnjənz./",
+      "text_native": "Les relations familiales exigent souvent une patience incroyable et une grande tolérance envers les différentes opinions."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "To overcome this challenge, Mark changed his perspective and tried to understand his brother's behavior.",
+      "phonetic": "/tuː ˌəʊvəˈkʌm ðɪs ˈʧælɪnʤ, mɑːk ʧeɪnʤd hɪz pəˈspɛktɪv ænd traɪd tuː ˌʌndəˈstænd hɪz ˈbrʌðəz bɪˈheɪvjə./",
+      "text_native": "Pour surmonter ce défi, Mark a changé de perspective et a essayé de comprendre le comportement de son frère."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "They both had high ambitions, which created unrealistic expectations during stressful career periods.",
+      "phonetic": "/ðeɪ bəʊθ hæd haɪ æmˈbɪʃənz, wɪʧ kriːˈteɪd ˌʌnrɪəˈlɪstɪk ˌɛkspɛkˈteɪʃənz ˈdjʊərɪŋ ˈstrɛsfʊl kəˈrɪə ˈpɪəriədz./",
+      "text_native": "Ils avaient tous deux de grandes ambitions, ce qui créait des attentes irréalistes pendant les périodes de carrière stressantes."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Mark did not want to disappoint his parents by letting this minor frustration ruin their gathering.",
+      "phonetic": "/mɑːk dɪd nɒt wɒnt tuː ˌdɪsəˈpɔɪnt hɪz ˈpeərənts baɪ ˈlɛtɪŋ ðɪs ˈmaɪnə frʌsˈtreɪʃən ˈruːɪn ðeə ˈgæðərɪŋ./",
+      "text_native": "Mark ne voulait pas décevoir ses parents en laissant cette frustration mineure gâcher leur rassemblement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Thoughtful consideration of others usually prevents unnecessary arguments and hurt feelings.",
+      "phonetic": "/ˈθɔːtfʊl kənˌsɪdəˈreɪʃən ɒv ˈʌðəz ˈjuːʒʊəli prɪˈvɛnts ʌnˈsɛsɪsəri ˈɑːgjʊmənts ænd hɜːt ˈfiːlɪŋz./",
+      "text_native": "Une considération attentive des autres évite généralement les disputes inutiles et les blessures émotionnelles."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He picked up his phone and called his brother to offer some much-needed emotional warmth.",
+      "phonetic": "/hiː pɪkt ʌp hɪz fəʊn ænd kɔːld hɪz ˈbrʌðə tuː ˈɒfə sʌm ˈmʌʧˌniːdɪd ɪˈməʊʃənl wɔːmθ./",
+      "text_native": "Il a décroché son téléphone et a appelé son frère pour offrir une chaleur émotionnelle bien nécessaire."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The sound of his familiar voice brought immediate comfort and helped reassure them both.",
+      "phonetic": "/ðə saʊnd ɒv hɪz fəˈmɪliə vɔɪs brɔːt ɪˈmiːdiət ˈkʌmfət ænd hɛlpt ˌriːəˈʃʊə ðɛm bəʊθ./",
+      "text_native": "Le son de sa voix familière a apporté un réconfort immédiat et a aidé à les rassurer tous les deux."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "They talked openly, depending on each other for wise guidance and honest feedback.",
+      "phonetic": "/ðeɪ tɔːkt ˈəʊpənli, dɪˈpɛndɪŋ ɒn iːʧ ˈʌðə fɔːr waɪz ˈgaɪdəns ænd ˈɒnɪst ˈfiːdbæk./",
+      "text_native": "Ils ont parlé ouvertement, comptant l'un sur l'autre pour des conseils avisés et des retours honnêtes."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Even though they were independent adults, familial guidance remained vital for their personal growth.",
+      "phonetic": "/ˈiːvən ðəʊ ðeɪ wɜːr ˌɪndɪˈpɛndənt ˈædʌlts, fəˈmɪliəl ˈgaɪdəns rɪˈmeɪnd ˈvaɪtl fɔːr ðeə ˈpɜːsnəl grəʊθ./",
+      "text_native": "Même s'ils étaient des adultes indépendants, les conseils familiaux restaient vitaux pour leur épanouissement personnel."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Mark expressed deep affection, reminding his brother that they could accomplish anything together.",
+      "phonetic": "/mɑːk ɪkˈsprɛst diːp əˈfɛkʃən, rɪˈmaɪndɪŋ hɪz ˈbrʌðə ðæt ðeɪ kʊd əˈkʌmplɪʃ ˈɛniθɪŋ təˈgɛðə./",
+      "text_native": "Mark a exprimé une affection profonde, rappelant à son frère qu'ils pouvaient accomplir n'importe quoi ensemble."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Building a secure environment within a family requires constant effort and deep empathy.",
+      "phonetic": "/ˈbɪldɪŋ ə sɪˈkjʊər ɪnˈvaɪərənmənt wɪðɪn ə ˈfæmɪli rɪˈkwaɪəz ˈkɒnstənt ˈɛfət ænd diːp ˈɛmpəθi./",
+      "text_native": "Construire un environnement sûr au sein d'une famille demande un effort constant et une profonde empathie."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Their mother watched them reconnect from across the room with a gentle, approving smile.",
+      "phonetic": "/ðeə ˈmʌðə wɒʧt ðɛm ˌriːkəˈnɛkt frəm əˈkrɒs ðə ruːm wɪð ə ˈʤɛntl, əˈpruːvɪŋ smaɪl./",
+      "text_native": "Leur mère les a regardés renouer le contact de l'autre côté de la pièce avec un sourire doux et approbateur."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "She knew that every family had to struggle through occasional misunderstandings to truly connect.",
+      "phonetic": "/ʃiː nuː ðæt ˈɛvri ˈfæmɪli hæd tuː ˈstrʌgl θruː əˈkeɪʒənl ˌmʌsʌndəˈstændɪŋz tuː ˈtruːli kəˈnɛkt./",
+      "text_native": "Elle savait que chaque famille devait traverser des malentendus occasionnels pour se connecter véritablement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Mark felt a wave of relief wash over him as the last pieces of tension disappeared.",
+      "phonetic": "/mɑːk fɛlt ə weɪv ɒv rɪˈliːf wɒʃ ˈəʊvə hɪm æz ðə lɑːst ˈpiːsɪz ɒv ˈtɛnʃən ˌdɪsəˈpɪəd./",
+      "text_native": "Mark a ressenti une vague de soulagement l'envahir alors que les derniers relents de tension disparaissaient."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He promised himself to maintain better habits of communication in the future.",
+      "phonetic": "/hiː ˈprɒmɪst hɪmˈsɛlf tuː meɪnˈteɪn ˈbɛtə ˈhæbɪts ɒv kəˌmjuːnɪˈkeɪʃən ɪn ðə ˈfjuːʧə./",
+      "text_native": "Il s'est promis de maintenir de meilleures habitudes de communication à l'avenir."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Good relationships need daily maintenance, just like a balanced lifestyle or a healthy career.",
+      "phonetic": "/gʊd rɪˈleɪʃənʃɪps niːd ˈdeɪli ˈmeɪntənəns, ʤʌst laɪk ə ˈbælənst ˈlaɪfstaɪl ɔːr ə ˈhɛlθi kəˈrɪə./",
+      "text_native": "De bonnes relations ont besoin d'un entretien quotidien, tout comme un mode de vie équilibré ou une carrière saine."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "His sister suggested they organize a weekend retreat to celebrate their renewed harmony.",
+      "phonetic": "/hɪz ˈsɪstə səˈʤɛstɪd ðeɪ ˈɔːgənaɪz ə ˈwiːkɛnd rɪˈtriːt tuː ˈsɛlɪbreɪt ðeə rɪˈnjuːd ˈhɑːməni./",
+      "text_native": "Sa sœur a suggéré d'organiser une retraite d'un week-end pour célébrer leur harmonie retrouvée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Everyone agreed that stepping away from daily pressure would improve their collective well-being.",
+      "phonetic": "/ˈɛvriwʌn əˈgriːd ðæt ˈstɛpɪŋ əˈweɪ frəm ˈdeɪli ˈprɛʃə wʊd ɪmˈpruːv ðeə kəˈlɛktɪv ˈwɛlˌbiːɪŋ./",
+      "text_native": "Tout le monde a convenu que s'éloigner de la pression quotidienne améliorerait leur bien-être collectif."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "They spent the rest of the evening sharing stories and laughing about old childhood memories.",
+      "phonetic": "/ðeɪ spɛnt ðə rɛst ɒv ði ˈiːvnɪŋ ˈʃeərɪŋ ˈstɔːriz ænd ˈlɑːfɪŋ əˈbaʊt əʊld ˈʧaɪldhʊd ˈmɛmriz./",
+      "text_native": "Ils ont passé le reste de la soirée à partager des histoires et à rire de vieux souvenirs d'enfance."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Such simple moments of togetherness proved more valuable than any professional success.",
+      "phonetic": "/sʌʧ ˈsɪmpl ˈməʊmənts ɒv təˈgɛðənəs pruːvd mɔːr ˈvæljuəbl ðæn ˈɛni prəˈfɛʃənl səkˈsɛs./",
+      "text_native": "De tels moments simples de complicité se sont révélés plus précieux que n'importe quel succès professionnel."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Mark looked around the room and felt deeply grateful for the unwavering support of his relatives.",
+      "phonetic": "/mɑːk lʊkt əˈraʊnd ðə ruːm ænd fɛlt ˈdiːpli ˈgreɪtfʊl fɔːr ði ʌnˈweɪvərɪŋ səˈpɔːt ɒv hɪz ˈrɛlətɪvz./",
+      "text_native": "Mark a regardé autour de la pièce et s'est senti profondément reconnaissant pour le soutien indéfectible de ses proches."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He understood that finding practical solutions to personal problems always starts with open dialogue.",
+      "phonetic": "/hiː ˌʌndəˈstʊd ðæt ˈfaɪndɪŋ ˈpræktɪkəl səˈluːʃənz tuː ˈpɜːsnl ˈprɒbləmz ˈɔːlweɪz stɑːts wɪð ˈəʊpən ˈdaɪəlɒg./",
+      "text_native": "Il a compris que trouver des solutions pratiques aux problèmes personnels commence toujours par un dialogue ouvert."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "With a peaceful mind, he finally went to sleep, ready to embrace a brighter tomorrow.",
+      "phonetic": "/wɪð ə ˈpiːsfʊl maɪnd, hiː ˈfaɪnəli wɛnt tuː sliːp, ˈrɛdi tuː ɪmˈbreɪs ə ˈbraɪtə təˈmɒrəʊ./",
+      "text_native": "L'esprit en paix, il est enfin allé dormir, prêt à accueillir un lendemain plus radieux."
+    }
+  ]
+}

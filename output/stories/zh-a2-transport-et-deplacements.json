@@ -1,0 +1,190 @@
+{
+  "title": "明明的出行计划",
+  "new_vocabulary": [
+    "计划", "打算", "明天", "天气", "晴天", "骑", "自行车", "运动", "健康", "但是",
+    "可能", "雨伞", "地铁", "方便", "换乘", "路线", "方向", "问", "警察", "地图",
+    "附近", "超市", "买", "东西", "回家", "晚饭", "累", "高兴", "周末", "休息"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天晚上，明明在家制定明天的出行计划。",
+      "phonetic": "Jītiān wǎnshang, Míngmíng zài jiā zhìdìng míngtiān de chūxíng jìhuà.",
+      "text_native": "Ce soir, Mingming élabore chez lui son plan de déplacement pour demain."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他打算早起去上班。",
+      "phonetic": "Tā dǎsuàn zǎoqǐ qù shàngbān.",
+      "text_native": "Il a l'intention de se lever tôt pour aller travailler."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "他先看手机上的天气预报。",
+      "phonetic": "Tā xiān kàn shǒujī shàng de tiānqì yùbào.",
+      "text_native": "Il regarde d'abord les prévisions météo sur son téléphone portable."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "天气预报说明天是一个晴天。",
+      "phonetic": "Tiānqì yùbào shuō míngtiān shì yí gè qíngtiān.",
+      "text_native": "Les prévisions météo annoncent que demain sera une journée ensoleillée."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "明明很喜欢晴天。",
+      "phonetic": "Míngmíng hěn xǐhuan qíngtiān.",
+      "text_native": "Mingming aime beaucoup les journées ensoleillées."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他想骑自行车去公司。",
+      "phonetic": "Tā xiǎng qí zìxíngchē qù gōngsī.",
+      "text_native": "Il a envie d'aller au bureau à vélo."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "骑自行车是一种很好的运动。",
+      "phonetic": "Qí zìxíngchē shì yì zhǒng hěn hǎo de yùndòng.",
+      "text_native": "Faire du vélo est un excellent sport."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "运动对身体健康很有帮助。",
+      "phonetic": "Yùndòng duì shēntǐ jiànkāng hěn yǒu bāngzhù.",
+      "text_native": "Le sport est très bénéfique pour la santé."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "但是他觉得骑车可能有点儿远。",
+      "phonetic": "Dànshì tā juéde qí chē kěnéng yǒudiǎnr yuǎn.",
+      "text_native": "Mais il trouve que faire du vélo est peut-être un peu loin."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "如果下雨，他需要带雨伞。",
+      "phonetic": "Rúguǒ xià yǔ, tā xūyào dài yǔsǎn.",
+      "text_native": "S'il pleut, il aura besoin de prendre un parapluie."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "所以坐地铁也是一个好选择。",
+      "phonetic": "Suǒyǐ zuò dìtiě yě shì yí gè hǎo xuǎnzé.",
+      "text_native": "C'est pourquoi prendre le métro est également une bonne option."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "地铁非常快而且很方便。",
+      "phonetic": "Dìtiě fēicháng kuài érqiě hěn fāngbiàn.",
+      "text_native": "Le métro est extrêmement rapide et très pratique."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他需要在中间换乘一次。",
+      "phonetic": "Tā xūyào zài zhōngjiān huànchéng yí cì.",
+      "text_native": "Il doit faire une correspondance en chemin."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他仔细研究了地铁路线图。",
+      "phonetic": "Tā zìxì yánjiū le dìtiě lùxiàntú.",
+      "text_native": "Il a étudié attentivement le plan du métro."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他确认了正确的方向。",
+      "phonetic": "Tā quèrèn le zhèngquè de fāngxiàng.",
+      "text_native": "Il a vérifié la bonne direction."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "如果他迷路了，他可以问警察。",
+      "phonetic": "Rúguǒ tā mílù le, tā kěyǐ wèn jǐngchá.",
+      "text_native": "S'il se perd, il pourra demander à un policier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "他也可以用手机地图找路。",
+      "phonetic": "Tā yě kěyǐ yòng shǒujī dìtú zhǎo lù.",
+      "text_native": "Il peut aussi utiliser le plan sur son téléphone pour trouver son chemin."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "早晨他起床以后，吃了一顿丰富的早饭。",
+      "phonetic": "Zǎochén tā qǐchuáng yǐhòu, chī le yí dùn fēngfù de zǎofàn.",
+      "text_native": "Le matin, après s'être levé, il a pris un petit-déjeuner copieux."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "然后他离开家，步行走到附近的地铁站。",
+      "phonetic": "Ránhòu tā líkāi jiā, bùxíng zǒu dào fùjìn de dìtiě zhàn.",
+      "text_native": "Ensuite, il a quitté la maison et a marché jusqu'à la station de métro la plus proche."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "站里的人非常多，但秩序很好。",
+      "phonetic": "Zhàn lǐ de rén fēicháng duō, dàn zhìxù hěn hǎo.",
+      "text_native": "Il y a énormément de monde dans la station, mais la discipline est bonne."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他刷卡进站，顺利上车。",
+      "phonetic": "Tā shuākǎ jìn zhàn, shùnlì shàng chē.",
+      "text_native": "Il a validé sa carte pour entrer dans la station et est monté dans la rame sans encombre."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "车上没有空座位，他只能站着。",
+      "phonetic": "Chē shàng méiyǒu kōng zuòwèi, tā zhǐnéng zhànzhe.",
+      "text_native": "Il n'y a pas de siège libre dans la rame, il doit rester debout."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "他在路上看手机听音乐。",
+      "phonetic": "Tā zài lùshang kàn shǒujī tīng yīnyuè.",
+      "text_native": "Pendant le trajet, il regarde son téléphone et écoute de la musique."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "不到三十分钟，他就到了公司。",
+      "phonetic": "Búdào sānshí fēnzhōng, tā jiù dào le gōngsī.",
+      "text_native": "En moins de trente minutes, il est arrivé au bureau."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "今天他没有迟到，真开心。",
+      "phonetic": "Jītiān tā méiyǒu chídào, zhēn kāixīn.",
+      "text_native": "Aujourd'hui, il n'est pas en retard, il est vraiment ravi."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "下班后，他去附近的超市买东西。",
+      "phonetic": "Xiàbān hòu, tā qù fùjìn de chāoshì mǎi dōngxi.",
+      "text_native": "Après le travail, il est allé faire des courses au supermarché du coin."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "他买了很多新鲜的水果和蔬菜。",
+      "phonetic": "Tā mǎi le hěn duō xīnxiān de shuǐguǒ hé shūcài.",
+      "text_native": "Il a acheté beaucoup de fruits et de légumes frais."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "买完东西以后，他坐公共汽车回家。",
+      "phonetic": "Mǎi wán dōngxi yǐhòu, tā zuò gōnggòng qìchē huí jiā.",
+      "text_native": "Une fois ses achats terminés, il a pris le bus pour rentrer chez lui."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "晚饭后，他觉得有点累了。",
+      "phonetic": "Wǎnfàn hòu, tā juéde yǒudiǎn lèi le.",
+      "text_native": "Après le dîner, il s'est senti un peu fatigué."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "明天是周末，他终于可以好好休息了。",
+      "phonetic": "Míngtiān shì zhōumò, tā zhōngyú kěyǐ hǎohǎo xiūxi le.",
+      "text_native": "Demain, c'est le week-end, il va enfin pouvoir bien se reposer."
+    }
+  ]
+}

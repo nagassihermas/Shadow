@@ -1,0 +1,217 @@
+{
+  "title": "A Misunderstood Email",
+  "new_vocabulary": [
+    "misunderstood",
+    "tone",
+    "harsh",
+    "interpret",
+    "intend",
+    "upset",
+    "colleague",
+    "clarify",
+    "misunderstanding",
+    "intent",
+    "apologize",
+    "reassure",
+    "appreciate",
+    "feedback",
+    "constructive",
+    "ensure",
+    "avoid",
+    "future",
+    "miscommunication",
+    "express",
+    "directly",
+    "phone call",
+    "instead",
+    "rely",
+    "written",
+    "medium",
+    "nuance",
+    "perceive",
+    "differently",
+    "resolve"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Arthur sat at his desk and stared at his computer screen with a worried expression.",
+      "phonetic": "/ˈɑːθə sæt æt hɪz dɛsk ænd steəd æt hɪz kəmˈpjuːtə skriːn wɪð ə ˈwʌrid ɪkˈsprɛʃən/",
+      "text_native": "Arthur était assis à son bureau et fixait l'écran de son ordinateur avec une expression inquiète."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He had just sent a professional email to a close colleague regarding the upcoming marketing campaign.",
+      "phonetic": "/hiː hæd ʤʌst sɛnt ə prəˈfɛʃənl ˈiːmeɪl tuː ə kləʊs ˈkɒliːg rɪˈgɑːdɪŋ ði ˈʌpˌkʌmɪŋ ˈmɑːkɪtɪŋ kæmˈpeɪn/",
+      "text_native": "Il venait d'envoyer un e-mail professionnel à un proche collègue concernant la campagne marketing à venir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "However, after re-reading the text, he realized that the tone sounded surprisingly harsh.",
+      "phonetic": "/haʊˈɛvə, ˈɑːftə ˌriːˈriːdɪŋ ðə tɛkst, hiː ˈrɪəlaɪzd ðæt ðə təʊn ˈsaʊndɪd səˈpraɪzɪŋli hɑːʃ/",
+      "text_native": "Cependant, après avoir relu le texte, il s'est rendu compte que le ton semblait étonnamment dur."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The other person might easily misinterpret his message and assume he was angry.",
+      "phonetic": "/ði ˈʌðə ˈpɜːsn maɪt ˈiːzɪli ˌmɪsɪnˈtɜːprɪt hɪz ˈmɛsɪʤ ænd əˈsuːm hiː wɒz ˈæŋgri/",
+      "text_native": "L'autre personne risquait facilement de mal interpréter son message et de supposer qu'il était en colère."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Arthur certainly did not intend to upset anyone with his direct instructions.",
+      "phonetic": "/ˈɑːθə ˈsɜːtənli dɪd nɒt ɪnˈtɛnd tuː ʌpˈsɛt ˈɛniwʌn wɪð hɪz dɪˈrɛkt ɪnˈstrʌkʃənz/",
+      "text_native": "Arthur n'avait certainement pas l'intention de contrarier qui que ce soit avec ses instructions directes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He quickly decided that he needed to clarify his intent before the situation escalated.",
+      "phonetic": "/hiː ˈkwɪkli dɪˈsaɪdɪd ðæt hiː ˈniːdɪd tuː ˈklærɪfaɪ hɪz ɪnˈtɛnt bɪˈfɔː ðə ˌsɪtjʊˈeɪʃən ˈɛskəleɪtɪd/",
+      "text_native": "Il a rapidement décidé qu'il devait clarifier son intention avant que la situation ne dégénère."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Opening a new reply window, he began typing an immediate apology.",
+      "phonetic": "/ˈəʊpənɪŋ ə njuː rɪˈplaɪ ˈwɪndəʊ, hiː bɪˈgæn ˈtaɪpɪŋ ən ɪˈmiːdiət əˈpɒləʤi/",
+      "text_native": "Ouvrant une nouvelle fenêtre de réponse, il commença à taper des excuses immédiates."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He wanted to reassure his coworker that the feedback was purely constructive.",
+      "phonetic": "/hiː ˈwɒntɪd tuː ˌriːəˈʃʊə hɪz ˈkəʊˌwɜːkə ðæt ðə ˈfiːdbæk wɒz ˈpjʊəli kənˈstrʌktɪv/",
+      "text_native": "Il voulait rassurer son collègue en lui disant que les commentaires étaient purement constructifs."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Misunderstandings happen far too often when people rely solely on written communication.",
+      "phonetic": "/ˌmɪsʌndəˈstændɪŋz ˈhæpən fɑː tuː ˈɒfən wɛn ˈpiːpl rɪˈlaɪ ˈsəʊli ɒn ˈrɪtn kəˌmjuːnɪˈkeɪʃən/",
+      "text_native": "Les malentendus se produisent bien trop souvent lorsque les gens se contentent de la communication écrite."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Without facial expressions or vocal tone, emotional nuance is extremely difficult to perceive.",
+      "phonetic": "/wɪðˈaʊt ˈfeɪʃəl ɪkˈsprɛʃənz ɔː ˈvəʊkəl təʊn, ɪˈməʊʃənl ˈnjuːɑːns ɪz ɪkˈstriːmli ˈdɪfɪkʌlt tuː pəˈsiːv/",
+      "text_native": "Sans expressions faciales ni tonalité vocale, la nuance émotionnelle est extrêmement difficile à percevoir."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Different readers might perceive the exact same sentence in completely contrasting ways.",
+      "phonetic": "/ˈdɪfrənt ˈriːdəz maɪt pəˈsiːv ði ɪgˈzækt seɪm ˈsɛntəns ɪn kəmˈpliːtli kənˈtrɑːstɪŋ weɪz/",
+      "text_native": "Différents lecteurs peuvent percevoir exactement la même phrase de manières totalement opposées."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Arthur deleted the problematic sentence and rephrased his thoughts much more politely.",
+      "phonetic": "/ˈɑːθə dɪˈliːtɪd ðə ˌprɒblɪˈmætɪk ˈsɛntəns ænd ˌriːˈfreɪzd hɪz θɔːts mʌʧ mɔː pəˈlaɪtli/",
+      "text_native": "Arthur a supprimé la phrase problématique et a reformulé ses pensées beaucoup plus poliment."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He added a friendly greeting at the beginning and a warm closing at the end.",
+      "phonetic": "/hiː ˈædɪd ə ˈfrɛndli ˈgriːtɪŋ æt ðə bɪˈgɪnɪŋ ænd ə wɔːm ˈkləʊzɪŋ æt ði ɛnd/",
+      "text_native": "Il a ajouté une salutation amicale au début et une conclusion chaleureuse à la fin."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Before clicking send again, he checked every single detail of the attached document.",
+      "phonetic": "/bɪˈfɔː ˈklɪkɪŋ sɛnd əˈgɛn, hiː ʧɛkt ˈɛvri ˈsɪŋgl ˈdiːteɪl ɒv ði əˈtæʧt ˈdɒkjʊmənt/",
+      "text_native": "Avant de cliquer à nouveau sur envoyer, il a vérifié le moindre détail du document joint."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The project manager had asked for this updated version by the end of the afternoon.",
+      "phonetic": "/ðə ˈprɒʤɛkt ˈmænɪʤə hæd ɑːskt fɔː ðɪs ˈʌpˌdeɪtɪd ˈvɜːʃən baɪ ði ɛnd ɒv ði ˈɑːftənuːn/",
+      "text_native": "Le chef de projet avait demandé cette version mise à jour avant la fin de l'après-midi."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Everything looked correct, so he finally transmitted the message successfully.",
+      "phonetic": "/ˈɛvrɪθɪŋ lʊkt kəˈrɛkt, səʊ hiː ˈfaɪnəli trænzˈmɪtɪd ðə ˈmɛsɪʤ səkˈsɛsfʊli/",
+      "text_native": "Tout semblait correct, alors il a finalement transmis le message avec succès."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "A few minutes later, his phone rang on the corner of his wooden desk.",
+      "phonetic": "/ə fjuː ˈmɪnɪts ˈleɪtə, hɪz fəʊn ræŋ ɒn ðə ˈkɔːnər ɒv hɪz ˈwʊdn dɛsk/",
+      "text_native": "Quelques minutes plus tard, son téléphone a sonné sur le coin de son bureau en bois."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "It was his colleague calling directly to resolve the minor miscommunication.",
+      "phonetic": "/ɪt wɒz hɪz ˈkɒliːg ˈkɔːlɪŋ dɪˈrɛktli tuː rɪˈzɒlv ðə ˈmaɪnə ˌmɪskəmjuːnɪˈkeɪʃən/",
+      "text_native": "C'était son collègue qui l'appelait directement pour résoudre ce petit malentendu."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "They laughed about the initial wording and agreed on the next steps.",
+      "phonetic": "/ðeɪ lɑːft əˈbaʊt ði ɪˈnɪʃəl ˈwɜːdɪŋ ænd əˈgriːd ɒn ðə nɛkst stɛps/",
+      "text_native": "Ils ont ri de la formulation initiale et se sont mis d'accord sur les prochaines étapes."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Arthur appreciated how quickly they managed to clear up the confusion.",
+      "phonetic": "/ˈɑːθə əˈpriːʃieɪtɪd haʊ ˈkwɪkli ðeɪ ˈmænɪʤd tuː klɪər ʌp ðə kənˈfjuːʒən/",
+      "text_native": "Arthur a apprécié la rapidité avec laquelle ils ont réussi à dissiper la confusion."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "This experience taught him to be much more careful with professional emails.",
+      "phonetic": "/ðɪs ɪkˈspɪəriəns tɔːt hɪm tuː biː mʌʧ mɔː ˈkeəfʊl wɪð prəˈfɛʃənl ˈiːmeɪlz/",
+      "text_native": "Cette expérience lui a appris à faire beaucoup plus attention aux e-mails professionnels."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "In the future, he would avoid sending abrupt phrases without proper context.",
+      "phonetic": "/ɪn ðə ˈfjuːʧə, hiː wʊd əˈvɔɪd ˈsɛndɪŋ əˈbrʌpt ˈfreɪzɪz wɪðˈaʊt ˈprɒpə ˈkɒntɛkst/",
+      "text_native": "À l'avenir, il éviterait d'envoyer des phrases brusques sans contexte approprié."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Whenever possible, he planned to discuss sensitive topics during a phone call instead.",
+      "phonetic": "/wɛnˈɛvə ˈpɒsəbl, hiː plænd tuː dɪsˈkʌs ˈsɛnsɪtɪv ˈtɒpɪks ˈdjʊərɪŋ ə fəʊn kɔːl ɪnˈstɛd/",
+      "text_native": "Chaque fois que possible, il prévoyait plutôt de discuter des sujets sensibles lors d'un appel téléphonique."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Writing clear messages requires patience, attention, and good formatting habits.",
+      "phonetic": "/ˈraɪtɪŋ klɪə ˈmɛsɪʤɪz rɪˈkwaɪəz ˈpeɪʃəns, əˈtɛnʃən, ænd gʊd ˈfɔːmætɪŋ ˈhæbɪts/",
+      "text_native": "Rédiger des messages clairs demande de la patience, de l'attention et de bonnes habitudes de mise en forme."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "His department manager joined the conversation to review the final schedule.",
+      "phonetic": "/hɪz dɪˈpɑːtmənt ˈmænɪʤə ʤɔɪnd ðə ˌkɒnvəˈseɪʃən tuː rɪˈvjuː ðə ˈfaɪnl ˈʃɛʤuːl/",
+      "text_native": "Le responsable de son département s'est joint à la conversation pour examiner le planning final."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Together, they confirmed that the important report was ready for the client.",
+      "phonetic": "/təˈgɛðə, ðeɪ kənˈfɜːmd ðæt ði ɪmˈpɔːtənt rɪˈpɔːt wɒz ˈrɛdi fɔː ðə ˈklaɪənt/",
+      "text_native": "Ensemble, ils ont confirmé que l'important rapport était prêt pour le client."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Arthur closed his inbox tab and took a short break to drink some coffee.",
+      "phonetic": "/ˈɑːθə kləʊzd hɪz ˈɪnbɒks tæb ænd tʊk ə ʃɔːt breɪk tuː drɪŋk sʌm ˈkɒfi/",
+      "text_native": "Arthur a fermé l'onglet de sa boîte de réception et a pris une courte pause pour boire un café."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Returning to his desk, he felt relieved that the previous issue was completely resolved.",
+      "phonetic": "/rɪˈtɜːnɪŋ tuː hɪz dɛsk, hiː fɛlt rɪˈliːvd ðæt ðə ˈpriːvɪəs ˈɪʃuː wɒz kəmˈpliːtli rɪˈzɒlvd/",
+      "text_native": "De retour à son bureau, il s'est senti soulagé que le problème précédent soit complètement résolu."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Good communication remains the foundation of a successful working environment.",
+      "phonetic": "/gʊd kəˌmjuːnɪˈkeɪʃən rɪˈmeɪnz ðə ˈfaʊndeɪʃən ɒv ə səkˈsɛsfʊl ˈwɜːkɪŋ ɪnˈvaɪərənmənt/",
+      "text_native": "Une bonne communication reste le fondement d'un environnement de travail réussi."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He turned off his computer at the end of the day, ready for tomorrow's challenges.",
+      "phonetic": "/hiː tɜːnd ɒf hɪz kəmˈpjuːtə æt ði ɛnd ɒv ðə deɪ, ˈrɛdi fɔː təˈmɒrəʊz ˈʧælɪnʤɪz/",
+      "text_native": "Il a éteint son ordinateur à la fin de la journée, prêt pour les défis de demain."
+    }
+  ]
+}

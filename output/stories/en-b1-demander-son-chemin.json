@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Morning in the City",
+  "new_vocabulary": [
+    "umbrella",
+    "forget",
+    "weather",
+    "forecast",
+    "heavy",
+    "rain",
+    "coat",
+    "button",
+    "leather",
+    "shoes",
+    "wet",
+    "cold",
+    "breeze",
+    "umbrella",
+    "shop",
+    "direction",
+    "stranger",
+    "polite",
+    "smile",
+    "jacket",
+    "scarf",
+    "pocket",
+    "notebook",
+    "pen",
+    "address",
+    "paper",
+    "schedule",
+    "goal",
+    "arrival",
+    "success"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Good morning, today is a very busy day for me.",
+      "phonetic": "/ɡʊd ˈmɔːrnɪŋ, təˈdeɪ ɪz ə ˈvɛri ˈbɪzi deɪ fɔːr miː/",
+      "text_native": "Bonjour, aujourd'hui est une journée très chargée pour moi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I check the weather forecast before leaving my hotel room.",
+      "phonetic": "/aɪ tʃɛk ðə ˈwɛðər ˈfɔːrkæst bɪˈfɔːr ˈliːvɪŋ maɪ hoʊˈtɛl ruːm/",
+      "text_native": "Je consulte les prévisions météo avant de quitter ma chambre d'hôtel."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Unfortunately, I completely forget to take my umbrella.",
+      "phonetic": "/ʌnˈfɔːrtʃənətli, aɪ kəmˈpliːtli fərˈɡɛt tuː teɪk maɪ ʌmˈbrɛlə/",
+      "text_native": "Malheureusement, j'oublie complètement de prendre mon parapluie."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Heavy rain starts falling immediately as I step outside.",
+      "phonetic": "/ˈhɛvi reɪn stɑːrts ˈfɔːlɪŋ ɪˈmiːdiətli æz aɪ stɛp ˌaʊtˈsaɪd/",
+      "text_native": "Une forte pluie commence à tomber dès que je mets un pied dehors."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I button my warm coat and check my leather shoes.",
+      "phonetic": "/aɪ ˈbʌtn maɪ wɔːrm koʊt ænd tʃɛk maɪ ˈlɛðər ʃuːz/",
+      "text_native": "Je boutonne mon manteau chaud et vérifie mes chaussures en cuir."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A cold breeze blows through the busy avenue.",
+      "phonetic": "/ə koʊld briːz bloʊz θruː ðə ˈbɪzi ˈævənuː/",
+      "text_native": "Une brise fraîche souffle dans l'avenue animée."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "My clothes quickly become wet because of the storm.",
+      "phonetic": "/maɪ kloʊðz ˈkwɪkli bɪˈkʌm wɛt bɪˈkɒz ɒv ðə stɔːrm/",
+      "text_native": "Mes vêtements sont rapidement trempés à cause de la tempête."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I need to find an umbrella shop very fast.",
+      "phonetic": "/aɪ niːd tuː faɪnd ən ʌmˈbrɛlə ʃɒp ˈvɛri fɑːst/",
+      "text_native": "Je dois trouver un magasin de parapluies très vite."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I walk past a bakery and smell fresh bread.",
+      "phonetic": "/aɪ wɔːk pɑːst ə ˈbeɪkəri ænd smɛl frɛʃ brɛd/",
+      "text_native": "Je passe devant une boulangerie et sens l'odeur du pain frais."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I am a little hungry, but an important meeting waits for me.",
+      "phonetic": "/aɪ æm ə ˈlɪtl ˈhʌŋɡri, bʌt ən ɪmˈpɔːrtənt ˈmiːtɪŋ weɪts fɔːr miː/",
+      "text_native": "J'ai un peu faim, mais une réunion importante m'attend."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I reach a busy street corner with heavy traffic.",
+      "phonetic": "/aɪ riːtʃ ə ˈbɪzi striːt ˈkɔːrnər wɪð ˈhɛvi ˈtræfɪk/",
+      "text_native": "J'arrive à un coin de rue très fréquenté avec une circulation dense."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I stop at the traffic light near the pedestrian crossing.",
+      "phonetic": "/aɪ stɒp æt ðə ˈtræfɪk laɪt nɪər ðə pəˈdɛstriən ˈkrɒsɪŋ/",
+      "text_native": "Je m'arrête au feu tricolore près du passage piéton."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "My smartphone battery is completely dead today.",
+      "phonetic": "/maɪ ˈsmɑːrtfoʊn ˈbætəri ɪz kəmˈpliːtli dɛd təˈdeɪ/",
+      "text_native": "La batterie de mon smartphone est complètement plate aujourd'hui."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Therefore, I cannot check my digital map online.",
+      "phonetic": "/ˈðɛrˌfɔːr, aɪ ˈkænɒt tʃɛk maɪ ˈdɪdʒɪtəl mæp ˈɒnˌlaɪn/",
+      "text_native": "Par conséquent, je ne peux pas consulter ma carte numérique en ligne."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I take a small paper notebook from my jacket pocket.",
+      "phonetic": "/aɪ teɪk ə smɔːl ˈpeɪpər ˈnoʊtˌbʊk frɒm maɪ ˈdʒækɪt ˈpɒkɪt/",
+      "text_native": "Je sors un petit carnet en papier de la poche de ma veste."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I hold a pen to read the written address clearly.",
+      "phonetic": "/aɪ hoʊld ə pɛn tuː riːd ðə ˈrɪtn əˈdrɛs ˈklɪrli/",
+      "text_native": "Je tiens un stylo pour lire clairement l'adresse écrite."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I feel a bit worried because time passes quickly.",
+      "phonetic": "/aɪ fiːl ə bɪt ˈwʌrid bɪˈkɒz taɪm ˈpæsɪz ˈkwɪkli/",
+      "text_native": "Je me sens un peu inquiet car le temps passe vite."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I need to ask someone for the correct direction.",
+      "phonetic": "/aɪ niːd tuː ɑːsk ˈsʌmwʌn fɔːr ðə kəˈrɛkt dɪˈrɛkʃən/",
+      "text_native": "Je dois demander la bonne direction à quelqu'un."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I see a friendly tourist walking down the sidewalk.",
+      "phonetic": "/aɪ siː ə ˈfrɛndli ˈtʊrɪst ˈwɔːkɪŋ daʊn ðə ˈsaɪdˌwɔːk/",
+      "text_native": "Je vois un touriste sympathique qui marche sur le trottoir."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The smiling stranger stops near a large public building.",
+      "phonetic": "/ðə ˈsmaɪlɪŋ ˈstreɪndʒər stɒps nɪər ə lɑːrdʒ ˈpʌblɪk ˈbɪldɪŋ/",
+      "text_native": "L'inconnu souriant s'arrête près d'un grand bâtiment public."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Excuse me, could you please help me find this office?",
+      "phonetic": "/ɪkˈskjuːz miː, kʊd juː pliːz hɛlp miː faɪnd ðɪs ˈɒfɪs/",
+      "text_native": "Excusez-moi, pourriez-vous m'aider à trouver ce bureau s'il vous plaît ?"
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The polite person looks at my schedule and nods.",
+      "phonetic": "/ðə pəˈlaɪt ˈpɜːrsən lʊks æt maɪ ˈʃɛdjuːl ænd nɒdz/",
+      "text_native": "La personne polie regarde mon programme et fait signe de la tête."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Walk straight for two minutes past the big museum.",
+      "phonetic": "/wɔːk streɪt fɔːr tuː ˈmɪnɪts pɑːst ðə bɪɡ mjuˈziːəm/",
+      "text_native": "Marchez tout droit pendant deux minutes en passant devant le grand musée."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Then turn left behind the old stone hospital.",
+      "phonetic": "/ðɛn tɜːn lɛft bɪˈhaɪnd ði oʊld stoʊn ˈhɒspɪtəl/",
+      "text_native": "Ensuite, tournez à gauche derrière le vieux hôpital en pierre."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The bank is on the right next to the park.",
+      "phonetic": "/ðə bæŋk ɪz ɒn ðə raɪt nɛkst tuː ðə pɑːrk/",
+      "text_native": "La banque est sur la droite, à côté du parc."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I thank him very much for his valuable help.",
+      "phonetic": "/aɪ θæŋk hɪm ˈvɛri mʌtʃ fɔːr hɪz ˈvæljuəbəl hɛlp/",
+      "text_native": "Je le remercie chaleureusement pour son aide précieuse."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I follow his clear instructions quickly through the rain.",
+      "phonetic": "/aɪ ˈfɒloʊ hɪz klɪr ɪnˈstrʌkʃənz ˈkwɪkli θruː ðə reɪn/",
+      "text_native": "Je suis rapidement ses instructions claires à travers la pluie."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Finally, I reach the correct door just in time.",
+      "phonetic": "/ˈfaɪnəli, aɪ riːtʃ ðə kəˈrɛkt dɔːr dʒʌst ɪn taɪm/",
+      "text_native": "Enfin, j'arrive devant la bonne porte juste à temps."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "My safe arrival brings great success to my business day.",
+      "phonetic": "/maɪ seɪf əˈraɪvəl brɪŋz ɡreɪt səkˈsɛs tuː maɪ ˈbɪznəs deɪ/",
+      "text_native": "Cette arrivée sans encombre augure un grand succès pour ma journée professionnelle."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Good preparation and polite questions solve every difficult problem.",
+      "phonetic": "/ɡʊd ˌprɛpəˈreɪʃən ænd pəˈlaɪt ˈkwɛstʃənz sɒlv ˈɛvri ˈdɪfɪkəlt ˈprɒbləm/",
+      "text_native": "Une bonne préparation et des questions polies permettent de résoudre tous les problèmes."
+    }
+  ]
+}

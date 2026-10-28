@@ -1,0 +1,217 @@
+{
+  "title": "住酒店",
+  "new_vocabulary": [
+    "行李",
+    "重",
+    "电梯",
+    "上",
+    "楼",
+    "左边",
+    "右边",
+    "开",
+    "里面",
+    "干净",
+    "安静",
+    "冷",
+    "热",
+    "空调",
+    "开机",
+    "电视",
+    "工作",
+    "累",
+    "洗澡",
+    "毛巾",
+    "肥皂",
+    "舒服",
+    "睡觉",
+    "晚",
+    "起",
+    "穿",
+    "衣服",
+    "下",
+    "问",
+    "路"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "你好，我要一个房间。",
+      "phonetic": "Nǐ hǎo, wǒ yào yī gè fángjiān.",
+      "text_native": "Bonjour, je voudrais une chambre."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "这是我的护照。",
+      "phonetic": "Zhè shì wǒ de hùzhào.",
+      "text_native": "Voici mon passeport."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "谢谢，请到前台来。",
+      "phonetic": "Xièxiè, qǐng dào qiántái lái.",
+      "text_native": "Merci, veuillez vous approcher de la réception."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "给你钥匙。",
+      "phonetic": "Gěi nǐ yàoshi.",
+      "text_native": "Voici la clé."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我的行李很重。",
+      "phonetic": "Wǒ de xínglǐ hěn zhòng.",
+      "text_native": "Mes bagages sont très lourds."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "电梯在哪里？",
+      "phonetic": "Diàntī zài nǎlǐ?",
+      "text_native": "Où est l'ascenseur ?"
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "电梯在右边。",
+      "phonetic": "Diàntī zài yòubian.",
+      "text_native": "L'ascenseur est à droite."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我上楼去。",
+      "phonetic": "Wǒ shàng lóu qù.",
+      "text_native": "Je monte à l'étage."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "房间在左边。",
+      "phonetic": "Fángjiān zài zuǒbian.",
+      "text_native": "La chambre est à gauche."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "请开门。",
+      "phonetic": "Qǐng kāi mén.",
+      "text_native": "S'il vous plaît, ouvrez la porte."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "里面很大也很干净。",
+      "phonetic": "Lǐmiàn hěn dà yě hěn gānjìng.",
+      "text_native": "L'intérieur est grand et aussi très propre."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "这个地方很安静。",
+      "phonetic": "Zhège dìfāng hěn ānjìng.",
+      "text_native": "Cet endroit est très calme."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "房间里有点冷。",
+      "phonetic": "Fángjiān lǐ yǒudiǎn lěng.",
+      "text_native": "Il fait un peu froid dans la chambre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我想开空调。",
+      "phonetic": "Wǒ xiǎng kāi kòngtiáo.",
+      "text_native": "Je veux allumer la climatisation."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "空调吹出暖风。",
+      "phonetic": "Kòngtiáo chuī chū nuǎnfēng.",
+      "text_native": "La climatisation souffle de l'air chaud."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "桌子上面有一杯水。",
+      "phonetic": "Zhuōzi shàngmiàn yǒu yì bēi shuǐ.",
+      "text_native": "Il y a une tasse d'eau sur la table."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "电视可以看吗？",
+      "phonetic": "Diànshì kěyǐ kàn ma?",
+      "text_native": "Est-ce que la télévision fonctionne ?"
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我今天很累。",
+      "phonetic": "Wǒ jīntiān hěn lèi.",
+      "text_native": "Je suis très fatigué aujourd'hui."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我想洗澡。",
+      "phonetic": "Wǒ xiǎng xǐzǎo.",
+      "text_native": "Je veux prendre une douche."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "毛巾和肥皂在哪里？",
+      "phonetic": "Máojīn hé féizào zài nǎlǐ?",
+      "text_native": "Où sont la serviette et le savon ?"
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "床很舒服。",
+      "phonetic": "Chuáng hěn shūfú.",
+      "text_native": "Le lit est très confortable."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我要睡觉了。",
+      "phonetic": "Wǒ yào shuìjiào le.",
+      "text_native": "Je vais aller dormir."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "晚安，明天见。",
+      "phonetic": "Wǎn'ān, míngtiān jiàn.",
+      "text_native": "Bonne nuit, à demain."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "早上我起得很早。",
+      "phonetic": "Zǎoshang wǒ qǐ de hěn zǎo.",
+      "text_native": "Le matin, je me lève très tôt."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我穿好衣服。",
+      "phonetic": "Wǒ chuān hǎo yīfu.",
+      "text_native": "Je m'habille."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我下楼吃早饭。",
+      "phonetic": "Wǒ xià lóu chī zǎofàn.",
+      "text_native": "Je descends pour prendre le petit-déjeuner."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我要喝一杯咖啡。",
+      "phonetic": "Wǒ yào hē yì bēi kāfēi.",
+      "text_native": "Je veux boire une tasse de café."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "服务员问我感觉怎么样。",
+      "phonetic": "Fúwùyuán wèn wǒ gǎnjué zěnmeyàng.",
+      "text_native": "Le serveur me demande si tout se passe bien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这家酒店非常好。",
+      "phonetic": "Zhè jiā jiǔdiàn fēicháng hǎo.",
+      "text_native": "Cet hôtel est très bien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "再见，谢谢。",
+      "phonetic": "Zàijiàn, xièxiè.",
+      "text_native": "Au revoir, merci."
+    }
+  ]
+}

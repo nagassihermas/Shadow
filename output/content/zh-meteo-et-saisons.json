@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "今天天气怎么样？",
+    "phonetic": "jīn tiān tiān qì zěn me yàng?",
+    "text_native": "Quel temps fait-il aujourd'hui ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天天气很好。",
+    "phonetic": "jīn tiān tiān qì hěn hǎo.",
+    "text_native": "Il fait très beau aujourd'hui.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "外面出太阳了。",
+    "phonetic": "wài miàn chū tài yáng le.",
+    "text_native": "Le soleil est sorti dehors.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天有太阳。",
+    "phonetic": "jīn tiān yǒu tài yáng.",
+    "text_native": "Il y a du soleil aujourd'hui.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天没有云。",
+    "phonetic": "jīn tiān méi yǒu yún.",
+    "text_native": "Il n'y a pas de nuages aujourd'hui.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "现在刮大风了。",
+    "phonetic": "xiàn zài guā dà fēng le.",
+    "text_native": "Il y a beaucoup de vent maintenant.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "外面在下雨。",
+    "phonetic": "wài miàn zài xià yǔ.",
+    "text_native": "Il pleut dehors.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "出门记得带雨伞。",
+    "phonetic": "chū mén jì de dài yǔ sǎn.",
+    "text_native": "Pense à prendre ton parapluie en sortant.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天有一点冷。",
+    "phonetic": "jīn tiān yǒu yì diǎn lěng.",
+    "text_native": "Il fait un peu froid aujourd'hui.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天热不热？",
+    "phonetic": "jīn tiān rè bù rè?",
+    "text_native": "Est-ce qu'il fait chaud aujourd'hui ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "今天真的好热。",
+    "phonetic": "jīn tiān zhēn de hǎo rè.",
+    "text_native": "Qu'est-ce qu'il fait chaud aujourd'hui !",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我喜欢夏天。",
+    "phonetic": "wǒ xǐ huan xià tiān.",
+    "text_native": "J'aime l'été.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "秋天有很多落叶。",
+    "phonetic": "qiū tiān yǒu hěn duō luò yè.",
+    "text_native": "Il y a beaucoup de feuilles mortes en automne.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "冬天会下雪吗？",
+    "phonetic": "dōng tiān huì xià xuě ma?",
+    "text_native": "Est-ce qu'il neige en hiver ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "冬天到处都是雪。",
+    "phonetic": "dōng tiān dào chù dōu shì xuě.",
+    "text_native": "Il y a de la neige partout en hiver.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "春天花都开了。",
+    "phonetic": "chūn tiān huā dōu kāi le.",
+    "text_native": "Les fleurs ont toutes éclos au printemps.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "你最喜欢哪个季节？",
+    "phonetic": "nǐ zuì xǐ huan nǎ gè jì jié?",
+    "text_native": "Quelle est ta saison préférée ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我最喜欢春天。",
+    "phonetic": "wǒ zuì xǐ huan chūn tiān.",
+    "text_native": "Ma saison préférée, c'est le printemps.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "现在气温是多少？",
+    "phonetic": "xiàn zài qì wēn shì duō shǎo?",
+    "text_native": "Quelle est la température actuelle ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "明天的天气会更好。",
+    "phonetic": "míng tiān de tiān qì huì gèng hǎo.",
+    "text_native": "Il fera encore meilleur temps demain.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

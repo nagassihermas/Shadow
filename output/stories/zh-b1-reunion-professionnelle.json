@@ -1,0 +1,188 @@
+{
+  "title": "市场部的下午会议",
+  "new_vocabulary": [
+    "准备", "资料", "方案", "讨论", "具体", "细节", "意见", "建议", "同意", "决定", "记录", "负责", "安排", "任务", "进度", "效率", "压力", "成功", "经验", "总结", "问题", "解决", "方向", "挑战", "未来", "合作", "团队", "部门", "领导", "通知"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "下午两点半，市场部的员工们走进了大会议室。",
+      "phonetic": "Xiàwǔ liǎng diǎn bàn, shìchǎng bù de yuángōngmen zǒu jìn le dà huìyìshì.",
+      "text_native": "À 14h30, les employés du département marketing sont entrés dans la grande salle de réunion."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "经理已经坐在桌子旁边等待大家了。",
+      "phonetic": "Jīnglǐ yǐjīng zuò zài zhuōzi pángbiān děngdài dàjiā le.",
+      "text_native": "Le directeur était déjà assis à côté de la table à attendre tout le monde."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "每个人都带了自己的笔记本电脑和笔。",
+      "phonetic": "Měi gè rén dōu dài le zìjǐ de bǐjìběn diànnǎo hé bǐ.",
+      "text_native": "Chacun avait apporté son propre ordinateur portable et son stylo."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "王经理首先通知大家今天的会议主要讨论新项目的方案。",
+      "phonetic": "Wáng jīnglǐ shǒuxiān tōngzhī dàjiā jīntiān de huìyì zhǔyào tǎolùn xīn xiàngmù de fāng'àn.",
+      "text_native": "Le directeur Wang a d'abord informé tout le monde que la réunion d'aujourd'hui discuterait principalement du plan du nouveau projet."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "他让小李把上个月的销售报告发给每位同事。",
+      "phonetic": "Tā ràng Xiǎo Lǐ bǎ shàng gè yuè de xiāoshòu bàogào fā gěi měi wèi tóngshì.",
+      "text_native": "Il a demandé à Xiao Li de distribuer le rapport de ventes du mois dernier à chaque collègue."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "大家认真地看着手中的纸质资料。",
+      "phonetic": "Dàjiā rènzhēn de kàn zhe shǒuzhōng de zhǐzhì zīliào.",
+      "text_native": "Tout le monde regardait attentivement les documents papier dans leurs mains."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "虽然去年的业绩增长不错，但是今年的竞争压力更大了。",
+      "phonetic": "Suīrán qùnián de yèjì zēngzhǎng búcuò, dànshì jīnnián de jìngzhēng yālì gèng dà le.",
+      "text_native": "Bien que la croissance des performances de l'année dernière ait été bonne, la pression concurrentielle de cette année est encore plus grande."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "经理问大家对新计划有什么具体的意见。",
+      "phonetic": "Jīnglǐ wèn dàjiā duì xīn jìhuà yǒu shénme jùtǐ de yìjiàn.",
+      "text_native": "Le directeur a demandé à tout le monde s'ils avaient des avis précis sur le nouveau plan."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "坐在角落里的小张首先举手发表了看法。",
+      "phonetic": "Zuò zài jiǎoluò lǐ de Xiǎo Zhāng shǒuxiān jǔshǒu fābiǎo le kànfǎ.",
+      "text_native": "Xiao Zhang, assis dans le coin, a levé la main le premier pour exprimer son point de vue."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他认为广告预算应该增加百分之十。",
+      "phonetic": "Tā rènwéi guǎnggào yùsuàn yīnggāi zēngjiā bǎi fēn zhī shí.",
+      "text_native": "Il pensait que le budget publicitaire devrait augmenter de dix pour cent."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "听到这个建议，旁边的同事们开始小声讨论。",
+      "phonetic": "Tīng dào zhège jiànyì, pángbiān de tóngshìmen kāishǐ xiǎoshēng tǎolùn.",
+      "text_native": "En entendant cette suggestion, les collègues à côté ont commencé à discuter à voix basse."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "有的人觉得这个想法很好，能够吸引更多客户。",
+      "phonetic": "Yǒu de rén juédé zhège xiǎngfǎ hěn hǎo, nénggòu xīyǐn gèng duō kèhù.",
+      "text_native": "Certaines personnes trouvaient cette idée très bonne, capable d'attirer plus de clients."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "但是也有人担心公司的预算不够。",
+      "phonetic": "Dànshì yě yǒu rén dānxīn gōngsī de yùsuàn bú gòu.",
+      "text_native": "Mais il y avait aussi des gens qui s'inquiétaient que le budget de l'entreprise ne soit pas suffisant."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "经理听了大家的发言，认真地点了点头。",
+      "phonetic": "Jīnglǐ tīng le dàjiā de fāyán, rènzhēn de diǎn le diǎn tóu.",
+      "text_native": "Le directeur a écouté les interventions de tout le monde et a hoché la tête sérieusement."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他觉得小张的建议符合目前市场的实际情况。",
+      "phonetic": "Tā juédé Xiǎo Zhāng de jiànyì fúhé mùqián shìchǎng de shíjì qíngkuàng.",
+      "text_native": "Il estimait que la suggestion de Xiao Zhang correspondait à la situation réelle du marché actuel."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "接着，大家又研究了下周的工作安排。",
+      "phonetic": "Jiēzhe, dàjiā yòu yánjiū le xià zhōu de gōngzuò ānpái.",
+      "text_native": "Ensuite, tout le monde a de nouveau examiné l'organisation du travail pour la semaine prochaine."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "每个小组都要负责一部分具体任务。",
+      "phonetic": "Měi gè xiǎozǔ dōu yào fùzé yī bùfèn jùtǐ rènwù.",
+      "text_native": "Chaque petit groupe devait être responsable d'une partie des tâches spécifiques."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "技术部的同事承诺在星期五之前完成软件测试。",
+      "phonetic": "Jìshù bù de tóngshì chéngnuò zài xīngqíwǔ zhīqián wánchéng ruǎnjiàn cèshì.",
+      "text_native": "Les collègues du département technique ont promis de terminer les tests logiciels avant vendredi."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "行政部负责准备会议室和相关设备。",
+      "phonetic": "Xíngzhèng bù fùzé zhǔnbèi huìyìshì hé xiāngguān shèbèi.",
+      "text_native": "Le département administratif est responsable de la préparation de la salle de réunion et des équipements associés."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "会议中间，秘书仔细记录了每一个重要问题。",
+      "phonetic": "Huìyì zhōngjiān, mìshū zǐxì jìlù le měi yī gè zhòngyào wèntí.",
+      "text_native": "Au milieu de la réunion, la secrétaire a enregistré soigneusement chaque question importante."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "大家希望通过这次合作提高工作效率。",
+      "phonetic": "Dàjiā xīwàng tōngguò zhè cì hézuò tígāo gōngzuò xiàolǜ.",
+      "text_native": "Tout le monde espère améliorer l'efficacité du travail grâce à cette coopération."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "面对各种挑战，团队必须保持积极的态度。",
+      "phonetic": "Miànduì gèzhǒng tiǎozhàn, tuánduì bìxū bǎochí jījí de tàidù.",
+      "text_native": "Face à divers défis, l'équipe doit maintenir une attitude positive."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "经理强调，今年的核心目标是拓展海外市场。",
+      "phonetic": "Jīnglǐ qiángdiào, jīnnián de héxīn mùbiāo shì tuòzhǎn hǎiwài shìchǎng.",
+      "text_native": "Le directeur a souligné que l'objectif principal de cette année est d'étendre le marché d'outre-mer."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "经过两个小时的讨论，大家终于达成了一致意见。",
+      "phonetic": "Jīngguò liǎng gè xiǎoshí de tǎolùn, dàjiā zhōngyú dáchéng le yīzhì yìjiàn.",
+      "text_native": "Après deux heures de discussion, tout le monde est enfin parvenu à un avis unanime."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "老板对这次会议的成果表示非常满意。",
+      "phonetic": "Lǎobǎn duì zhè cì huìyì de chéngguǒ biǎoshì fēicháng mǎnyì.",
+      "text_native": "Le patron s'est montré très satisfait des résultats de cette réunion."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "会议结束前，经理提醒大家别忘了把资料存进电脑。",
+      "phonetic": "Huìyì jiéshù qián, jīnglǐ tíxǐng dàjiā bié wàng le bǎ zīliào cún jìn diànnǎo.",
+      "text_native": "Avant la fin de la réunion, le directeur a rappelé à tout le monde de ne pas oublier d'enregistrer les documents dans l'ordinateur."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "秘书会在明天上午把会议记录发给所有领导。",
+      "phonetic": "Mìshū huì zài míngtiān shàngwǔ bǎ huìyì jìlù fā gěi suǒyǒu lǐngdǎo.",
+      "text_native": "La secrétaire enverra le compte-rendu de réunion à tous les dirigeants demain matin."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "大家合上笔记本，收拾好桌子上的纸和笔。",
+      "phonetic": "Dàjiā hé shàng bǐjìběn, shōushí hǎo zhuōzi shàng de zhǐ hé bǐ.",
+      "text_native": "Tout le monde a fermé son carnet, rangé le papier et le stylo sur la table."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "员工们微笑着互相道别，然后陆续走出了会议室。",
+      "phonetic": "Yuángōngmen wēixiào zhe hùxiāng dàobié, ránhòu xùxù zǒu chū le huìyìshì.",
+      "text_native": "Les employés se sont dit au revoir en souriant, puis sont sortis successivement de la salle de réunion."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "这是一次非常成功且高效的职业会议。",
+      "phonetic": "Zhè shì yī cì fēicháng chénggōng qiě gāoxiào de zhíyè huìyì.",
+      "text_native": "C'était une réunion professionnelle très réussie et efficace."
+    }
+  ]
+}

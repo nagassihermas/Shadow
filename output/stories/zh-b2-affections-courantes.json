@@ -1,0 +1,217 @@
+{
+  "title": "办公室里的流感",
+  "new_vocabulary": [
+    "办公室",
+    "同事",
+    "项目",
+    "截止日期",
+    "加班",
+    "传染",
+    "症状",
+    "恶心",
+    "头晕",
+    "请假",
+    "经理",
+    "批准",
+    "回家",
+    "测验",
+    "药房",
+    "医保卡",
+    "消炎药",
+    "退烧药",
+    "说明书",
+    "副作用",
+    "忌口",
+    "辛辣",
+    "清淡",
+    "消化",
+    "免疫力",
+    "补充",
+    "维生素",
+    "蛋白质",
+    "彻底",
+    "复工"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "临近项目截止日期，办公室里的气氛非常紧张。",
+      "phonetic": "línjìn xiàngmù jiézhǐ rìqī, bàngōngshì lǐ de qìfēn fēicháng jǐnzhāng.",
+      "text_native": "À l'approche de la date limite du projet, l'atmosphère au bureau était très tendue."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "为了赶进度，我和几个同事连续几天加班到深夜。",
+      "phonetic": "wèile gǎn jìndù, wǒ hé jǐ gè tóngshì liánxù jǐ tiān jiābān dào shēnyè.",
+      "text_native": "Pour rattraper le retard, plusieurs collègues et moi avons fait des heures supplémentaires tard dans la nuit pendant plusieurs jours."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "由于过度疲劳，办公室里开始有人感冒并互相传染。",
+      "phonetic": "yóuyú guòdù píláo, bàngōngshì lǐ kāishǐ yǒurén gǎnmào bìng hùxiāng chuánrǎn.",
+      "text_native": "En raison d'une fatigue excessive, les gens ont commencé à attraper des rhumes au bureau et à se contaminer mutuellement."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "周三早上，我突然觉得浑身无力，还伴随着轻微的头晕。",
+      "phonetic": "zhōusān zǎoshang, wǒ tūrán juéde húnshēn wúlì, hái bànsuí zhe qīngwēi de tóuyūn.",
+      "text_native": "Mercredi matin, j'ai soudainement senti tout mon corps sans force, accompagné de légers vertiges."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "除了喉咙疼和鼻塞，我的胃里也感到一阵恶心。",
+      "phonetic": "chúle hóulóng téng hé básāi, wǒ de wèi lǐ yě gǎndào yí zhèn ěxīn.",
+      "text_native": "En plus d'avoir mal à la gorge et le nez bouché, j'ai aussi ressenti des nausées dans l'estomac."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "同事帮我量了体温，发现已经达到了三十八度五。",
+      "phonetic": "tóngshì bāng wǒ liáng le tǐwēn, fāxiàn yǐjīng dádào le sānshíbā dù wǔ.",
+      "text_native": "Un collègue m'a pris la température et a constaté qu'elle avait déjà atteint 38,5 degrés."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "面对这些明显的症状，我意识到自己可能中了流感病毒。",
+      "phonetic": "miànduì zhèxiē míngxiǎn de zhèngzhuàng, wǒ yìshí dào zìjǐ kěnéng zhòng le liúgǎn bìngdú.",
+      "text_native": "Face à ces symptômes évidents, j'ai réalisé que j'avais probablement attrapé le virus de la grippe."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "经理看到我的脸色很难看，立刻劝我马上请假回家。",
+      "phonetic": "jīnglǐ kàn dào wǒ de liǎnsè hěn nánkàn, lìkè quàn wǒ mǎshàng qǐngjià huíjiā.",
+      "text_native": "Voyant que mon visage avait mauvaise mine, le manager m'a immédiatement conseillé de demander un congé pour rentrer chez moi."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我向主管提交了假条，很快得到了批准。",
+      "phonetic": "wǒ xiàng zhǔguǎn tíjiāo le jiàtiáo, hěn kuài dédào le pīzhǔn.",
+      "text_native": "J'ai soumis ma demande de congé à mon supérieur et j'ai rapidement obtenu son approbation."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "戴好口罩之后，我独自坐地铁返回了住所。",
+      "phonetic": "dài hǎo kǒuzhào zhīhòu, wǒ dúzì zuò dìtiě fǎnhuí le zhùsuǒ.",
+      "text_native": "Après avoir bien mis mon masque, j'ai pris le métro seul pour regagner mon logement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "在回家的路上，我在小区的药房停了下来。",
+      "phonetic": "zài huíjiā de lùshang, wǒ zài xiǎoqū de yàofáng tíng le xiàlái.",
+      "text_native": "Sur le chemin du retour, je me suis arrêté à la pharmacie de la résidence."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "药剂师询问了我的病情，并查看了我的医保卡。",
+      "phonetic": "yàojìshī xúnwèn le wǒ de bìngqíng, bìng chākǎn le wǒ de yībǎokǎ.",
+      "text_native": "Le pharmacien m'a interrogé sur mon état de santé et a vérifié ma carte d'assurance maladie."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他针对我的症状推荐了一些退烧药和消炎药。",
+      "phonetic": "tā zhēnduì wǒ de zhèngzhuàng tuījiàn le yìxiē tuìshāoyào hé xiāoyányào.",
+      "text_native": "Il m'a recommandé des médicaments antipyrétiques et anti-inflammatoires adaptés à mes symptômes."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "付完钱后，我拿着药袋步履蹒跚地走进了家门。",
+      "phonetic": "fù wán qián hòu, wǒ ná zhe yàodài bùlǚpánshān de zǒu jìn le jiāmén.",
+      "text_native": "Après avoir payé, j'ai franchi la porte de chez moi d'un pas mal assuré, un sac de médicaments à la main."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "进屋后，我先打开窗户通风，让新鲜空气进来。",
+      "phonetic": "jìn wū hòu, wǒ xiān dǎkāi chuānghù tōngfēng, ràng xīnxiān kōngqì jìnlái.",
+      "text_native": "Une fois entré, j'ai d'abord ouvert la fenêtre pour aérer et laisser entrer l'air frais."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "随后，我仔细阅读了每种药的说明书和副作用。",
+      "phonetic": "suíhòu, wǒ zìxì yuèdú le měi zhǒng yào de shuōmíngshū hé fùzuòyòng.",
+      "text_native": "Ensuite, j'ai lu attentivement la notice et les effets secondaires de chaque médicament."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "按照医嘱，我用温水服下了医生开的药片。",
+      "phonetic": "ànzhào yīzhǔ, wǒ yòng wēnshuǐ fú xià le yīshēng kāi de yàopiàn.",
+      "text_native": "Conformément aux instructions médicales, j'ai pris les comprimés prescrits avec de l'eau tiède."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "因为胃口不好，我只喝了一碗清淡的蔬菜粥。",
+      "phonetic": "yīnwèi wèikǒu bù hǎo, wǒ zhǐ hē le yì wǎn qīngdàn de shūcài zhōu.",
+      "text_native": "Comme je n'avais pas d'appétit, je n'ai bu qu'un bol de bouillie de légumes légère."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "药剂师提醒我最近饮食必须忌口，不能吃辛辣的食物。",
+      "phonetic": "yàojìshī tíxǐng wǒ zuìjìn yǐnshí bìxū jìkǒu, bùnéng chī xīnlà de shíwù.",
+      "text_native": "Le pharmacien m'a rappelé de faire attention à mon alimentation récemment et de ne pas manger d'aliments épicés."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "清淡的饮食更有利于肠胃的消化和身体的康复。",
+      "phonetic": "qīngdàn de yǐnshí gèng yǒulì yú chángwèi de xiāohuà hé shēntǐ de kāngfù.",
+      "text_native": "Une alimentation légère est plus propice à la digestion et à la récupération du corps."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "为了补充营养，妈妈特地给我送来了一些新鲜水果。",
+      "phonetic": "wèile bǔchōng yíngyǎng, māmā tèdì gěi wǒ sòng lái le yìxiē xīnxiān shuǐguǒ.",
+      "text_native": "Afin de faire le plein de nutriments, ma mère m'a spécialement apporté des fruits frais."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "她叮嘱我要多喝水，有助于排出体内的病毒。",
+      "phonetic": "tā dīngzhǔ wǒ yào duō hē shuǐ, yǒu zhù yú páichū tǐnèi de bìngdú.",
+      "text_native": "Elle m'a exhorté à boire beaucoup d'eau, ce qui aide à éliminer les virus du corps."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "盖上厚毯子躺在床上，我很快就沉沉地睡着了。",
+      "phonetic": "gài shàng hòu tǎnzi tǎng zài chuángshang, wǒ hěn kuài jiù chénchén de shuì zhǎo le.",
+      "text_native": "Couvert d'une épaisse couverture et allongé sur le lit, je me suis rapidement endormi profondément."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "接下来的两天里，我基本上都在床上度过。",
+      "phonetic": "jiē xiàlái de liǎng tiān lǐ, wǒ jīběn shàng dōu zài chuángshang dùguò.",
+      "text_native": "Pendant les deux jours suivants, j'ai passé l'essentiel de mon temps au lit."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "除了吃药和喝水，我没有做任何激烈的户外活动。",
+      "phonetic": "chúle chī yào hé hē shuǐ, wǒ méiyǒu zuò rènhé jīliè de hùwài huódòng.",
+      "text_native": "À part prendre des médicaments et boire de l'eau, je n'ai fait aucune activité extérieure intense."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "高烧渐渐退去，咳嗽的频率也明显减少了。",
+      "phonetic": "gāoshāo jiànjiàn tuì qù, késòu de pínlǜ yě míngxiǎn jiǎnshǎo le.",
+      "text_native": "La forte fièvre a progressivement baissé et la fréquence de la toux a également diminué de manière évidente."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "到了第四天，我的体力开始慢慢恢复。",
+      "phonetic": "dào le dì sì tiān, wǒ de tǐlì kāishǐ mànmàn huīfù.",
+      "text_native": "Le quatrième jour, ma force physique a commencé à revenir lentement."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "虽然还有一点鼻塞，但整体感觉已经好多了。",
+      "phonetic": "suīrán hái yǒu yìdiǎn básāi, dàn zhěngtǐ gǎnjué yǐjīng hǎo duō le.",
+      "text_native": "Bien qu'il reste un léger nez bouché, l'impression générale est déjà bien meilleure."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这次生病让我意识到提高个人免疫力的重要性。",
+      "phonetic": "zhè cì shēngbìng ràng wǒ yìshí dào tígāo gèrén miǎnyìlì de zhòngyào xìng.",
+      "text_native": "Cette maladie m'a fait réaliser l'importance d'améliorer mon immunité personnelle."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "彻底康复之后，我终于可以重新回到办公室复工了。",
+      "phonetic": "chèdǐ kāngfù zhīhòu, wǒ zhōngyú kěyǐ chóngxīn huídào bàngōngshì fùgōng le.",
+      "text_native": "Après une guérison complète, j'ai enfin pu retourner au bureau pour reprendre le travail."
+    }
+  ]
+}

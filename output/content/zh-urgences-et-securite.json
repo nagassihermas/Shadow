@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "不好意思，请问最近的药店怎么走？",
+    "phonetic": "bù hǎo yì si, qǐng wèn zuì jìn de yào diàn zěn me zǒu?",
+    "text_native": "Excusez-moi, pour aller à la pharmacie la plus proche, s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我好像有点发烧，头特别疼。",
+    "phonetic": "wǒ hǎo xiàng yǒu diǎn fā shāo, tóu tè bié téng.",
+    "text_native": "J'ai l'impression d'avoir un peu de fièvre, j'ai très mal à la tête.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我的钱包在地铁里被人偷了。",
+    "phonetic": "wǒ de qián bāo zài dì tiě lǐ bèi rén tōu le.",
+    "text_native": "On m'a volé mon portefeuilles dans le métro.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "请立刻帮我叫一辆救护车！",
+    "phonetic": "qǐng lì kè bāng wǒ jiào yí liàng jiù hù chē!",
+    "text_native": "Appelez-moi une ambulance tout de suite, s'il vous plaît !",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "这附近有什么会讲英文的诊所吗？",
+    "phonetic": "zhè fù jìn yǒu shén me huì jiǎng yīng wén de zhěn suǒ ma?",
+    "text_native": "Il y a une clinique anglophone par ici ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我护照和身份证全丢了，该怎么办？",
+    "phonetic": "wǒ hù zhào hé shēn fèn zhèng quán diū le, gāi zěn me bàn?",
+    "text_native": "J'ai perdu mon passeport et ma carte d'identité, qu'est-ce que je dois faire ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我在街上迷路了，手机也快没电了。",
+    "phonetic": "wǒ zài jiē shàng mí lù le, shǒu jī yě kuài méi diàn le.",
+    "text_native": "Je me suis perdu dans la rue et mon téléphone n'a presque plus de batterie.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我对海鲜过敏，这个里面有放虾吗？",
+    "phonetic": "wǒ duì hǎi xiān guò mǐn, zhè gè lǐ miàn yǒu fàng xiā ma?",
+    "text_native": "Je suis allergique aux fruits de mer, il y a des crevettes là-dedans ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "那边好像发生车祸了，快报警！",
+    "phonetic": "nà biān hǎo xiàng fā shēng chē huò le, kuài bào jǐng!",
+    "text_native": "On dirait qu'il y a eu un accident de voiture là-bas, prévenez la police !",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我的行李箱在机场不见了，我想报失。",
+    "phonetic": "wǒ de xíng li xiāng zài jī chǎng bú jiàn le, wǒ xiǎng bào shī.",
+    "text_native": "Ma valise a disparu à l'aéroport, je voudrais faire une déclaration de perte.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "这里空气太闷了，我有点喘不过气来。",
+    "phonetic": "zhè lǐ kōng qì tài mèn le, wǒ yǒu diǎn chuǎn bú guò qì lái.",
+    "text_native": "L'air est trop étouffant ici, j'ai un peu de mal à respirer.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "请问大使馆的紧急联络电话是多少？",
+    "phonetic": "qǐng wèn dà shǐ guǎn de jǐn jí lián luò diàn huà shì duō shǎo?",
+    "text_native": "Quel est le numéro de contact d'urgence de l'ambassade, s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我刚才吃完东西觉得胃剧烈疼痛。",
+    "phonetic": "wǒ gāng cái chī wán dōng xī jué de wèi jù liè téng tòng.",
+    "text_native": "Je ressens de fortes douleurs à l'estomac depuis que j'ai fini de manger.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "救命啊！有人在抢包，快帮我拦住他！",
+    "phonetic": "jiù mìng a! yǒu rén zài qiǎng bāo, kuài bāng wǒ lán zhù tā!",
+    "text_native": "Au secours ! Quelqu'un est en train de voler un sac, aidez-moi à l'arrêter !",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "不好意思，我的房门钥匙不小心锁在屋里了。",
+    "phonetic": "bù hǎo yì si, wǒ de fáng mén yào shi bù xiǎo xīn suǒ zài wū lǐ le.",
+    "text_native": "Désolé, j'ai accidentellement enfermé mes clés de chambre à l'intérieur.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "医生，我需要每天按时服用这种消炎药吗？",
+    "phonetic": "yī shēng, wǒ xū yào měi tiān àn shí fú yòng zhè zhǒng xiāo yán yào ma?",
+    "text_native": "Docteur, est-ce que je dois prendre ce médicament anti-inflammatoire régulièrement tous les jours ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "刚才地震的时候，我们应该躲在什么地方？",
+    "phonetic": "gāng cái dì zhèn de shí hòu, wǒ men yīng gāi duǒ zài shén me dì fāng?",
+    "text_native": "Où est-ce qu'on aurait dû se cacher pendant le tremblement de terre de tout à l'heure ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "请帮我查一下，最近的派出所在哪个方向？",
+    "phonetic": "qǐng bāng wǒ chá yí xià, zuì jìn de pài chū suǒ zài něi gè fāng xiàng?",
+    "text_native": "Pourriez-vous m'indiquer dans quelle direction se trouve le poste de police le plus proche ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "我的信用卡在提款机里被吞了，卡号还在。",
+    "phonetic": "wǒ de xìn yòng kǎ zài tí kuǎn jī lǐ bèi tūn le, kǎ hào hái zài.",
+    "text_native": "Ma carte bancaire a été avalée par le distributeur, mais j'ai toujours le numéro de carte.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "如果不小心迷路了，千万不要慌张，先找个安全的地方待着。",
+    "phonetic": "rú guǒ bù xiǎo xīn mí lù le, qiān wàn bú yào huāng zhāng, xiān zhǎo gè ān quán de dì fāng dāi zhe.",
+    "text_native": "Si jamais vous vous perdez, surtout ne paniquez pas et trouvez d'abord un endroit sûr où attendre.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "B1"
+  }
+]

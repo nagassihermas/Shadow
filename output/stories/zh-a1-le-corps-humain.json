@@ -1,0 +1,217 @@
+{
+  "title": "我的健康一天",
+  "new_vocabulary": [
+    "健康",
+    "一天",
+    "早晨",
+    "起床",
+    "洗",
+    "刷牙",
+    "吃",
+    "早饭",
+    "苹果",
+    "喝",
+    "水",
+    "去",
+    "工作",
+    "走路",
+    "腿",
+    "脚",
+    "累",
+    "回家",
+    "坐",
+    "看",
+    "书",
+    "听",
+    "音乐",
+    "晚上",
+    "睡觉",
+    "好",
+    "高兴",
+    "爱",
+    "身体",
+    "运动"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是一个美好的早晨。",
+      "phonetic": "Zhè shì yí gè měihǎo de zǎochén.",
+      "text_native": "C'est un beau matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我起床了。",
+      "phonetic": "Wǒ qǐchuáng le.",
+      "text_native": "Je me lève."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我还有一点困。",
+      "phonetic": "Wǒ hái yǒu yì diǎnr kùn.",
+      "text_native": "Je suis encore un tout petit peu fatigué."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我睁开眼睛。",
+      "phonetic": "Wǒ zhēng kāi yǎnjīng.",
+      "text_native": "J'ouvre les yeux."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我去卫生间洗脸。",
+      "phonetic": "Wǒ qù wèishēngjiān xǐ liǎn.",
+      "text_native": "Je vais à la salle de bain pour me laver le visage."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我用清水洗脸。",
+      "phonetic": "Wǒ yòng qīngshuǐ xǐ liǎn.",
+      "text_native": "Je me lave le visage à l'eau claire."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我用牙刷刷牙。",
+      "phonetic": "Wǒ yòng yáshuā shuāyá.",
+      "text_native": "Je me brosse les dents avec une brosse à dents."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我的口腔现在很干净。",
+      "phonetic": "Wǒ de kǒuqiāng xiànzài hěn gānjìng.",
+      "text_native": "Ma bouche est maintenant très propre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我梳理头发。",
+      "phonetic": "Wǒ shūlǐ tóufǎ.",
+      "text_native": "Je coiffe mes cheveux."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "然后我去厨房吃早饭。",
+      "phonetic": "Ránhòu wǒ qù chúfáng chī zǎofàn.",
+      "text_native": "Ensuite, je vais à la cuisine pour prendre le petit-déjeuner."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我吃了一个红色的苹果。",
+      "phonetic": "Wǒ chī le yí gè hóngsè de píngguǒ.",
+      "text_native": "J'ai mangé une pomme rouge."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "苹果吃起来很甜。",
+      "phonetic": "Píngguǒ chī qǐlái hěn tián.",
+      "text_native": "La pomme est très sucrée à manger."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我的肚子现在不饿了。",
+      "phonetic": "Wǒ de dùzi xiànzài bú è le.",
+      "text_native": "Mon ventre n'a plus faim maintenant."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我喝了一杯温水。",
+      "phonetic": "Wǒ hē le yì bēi wēn shuǐ.",
+      "text_native": "J'ai bu une tasse d'eau tiède."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我觉得胃里很舒服。",
+      "phonetic": "Wǒ juéde wèi lǐ hěn shūfu.",
+      "text_native": "Je me sens très bien à l'estomac."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我穿好衣服准备去工作。",
+      "phonetic": "Wǒ chuān hǎo yīfu zhǔnbèi qù gōngzuò.",
+      "text_native": "Je m'habille et me prépare à aller travailler."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我走路去上班。",
+      "phonetic": "Wǒ zǒulù qù shàngbān.",
+      "text_native": "Je vais au travail à pied."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我的脚踩在平坦的路上。",
+      "phonetic": "Wǒ de jiǎo cǎi zài píngtǎn de lù shang.",
+      "text_native": "Mes pieds marchent sur la route plane."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我的手里拿著一个包。",
+      "phonetic": "Wǒ de shǒu lǐ názhe yí gè bāo.",
+      "text_native": "Je tiens un sac à la main."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我在路上运动了一会儿。",
+      "phonetic": "Wǒ zài lù shang yùndòng le yí huìr.",
+      "text_native": "J'ai fait un peu d'exercice sur le chemin."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "下午我工作得很努力。",
+      "phonetic": "Xiàwǔ wǒ gōngzuò de hěn nǔlì.",
+      "text_native": "L'après-midi, j'ai travaillé dur."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "晚上我回家了。",
+      "phonetic": "Wǎnshang wǒ huí jiā le.",
+      "text_native": "Le soir, je suis rentré chez moi."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我的身体有一点累。",
+      "phonetic": "Wǒ de shēntǐ yǒu yì diǎn lèi.",
+      "text_native": "Mon corps est un peu fatigué."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我坐在沙发上看书。",
+      "phonetic": "Wǒ zuò zài shāfā shàng kàn shū.",
+      "text_native": "Je m'assois sur le canapé pour lire un livre."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我听着优美的音乐。",
+      "phonetic": "Wǒ tīngzhe yōuměi de yīnyuè.",
+      "text_native": "J'écoute de la belle musique."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "今天过得非常高兴。",
+      "phonetic": "Jīntiān guò de fēicháng gāoxìng.",
+      "text_native": "La journée s'est très bien passée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我爱我健康的生活。",
+      "phonetic": "Wǒ ài wǒ jiànkāng de shēnghuó.",
+      "text_native": "J'aime ma vie saine."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "夜深了，我准备睡觉。",
+      "phonetic": "Yè shēn le, wǒ zhǔnbèi shuìjiào.",
+      "text_native": "Il se fait tard, je me prépare à dormir."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "闭上眼睛，祝自己做个好梦。",
+      "phonetic": "Bì shàng yǎnjīng, zhù zìjǐ zuò gè hǎo mèng.",
+      "text_native": "Je ferme les yeux et me souhaite de faire de beaux rêves."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "明天又是美好的一天。",
+      "phonetic": "Míngtiān yòu shì měihǎo de yì tiān.",
+      "text_native": "Demain sera un autre beau jour."
+    }
+  ]
+}

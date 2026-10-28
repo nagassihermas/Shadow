@@ -1,0 +1,186 @@
+{
+  "title": "Changing Plans",
+  "new_vocabulary": ["change", "plan", "weekend", "forecast", "thunderstorm", "lightning", "umbrella", "take", "stay", "indoor", "activity", "read", "book", "drink", "tea", "cook", "soup", "kitchen", "smell", "delicious", "next", "afternoon", "stop", "shine", "bright", "put", "shoes", "decide", "visit", "friend"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom checks the weather forecast for the weekend.",
+      "phonetic": "tɒm tʃɛks ðə ˈwɛðə ˈfɔːkɑːst fɔː ðə ˈwiːkɛnd.",
+      "text_native": "Tom consulte les prévisions météo pour le week-end."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He wants to plan a nice trip outside.",
+      "phonetic": "hi wɒnts tu plæn ə naɪs trɪp ˈaʊtsaɪd.",
+      "text_native": "Il veut planifier une belle sortie dehors."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Today the sky is very grey and cloudy.",
+      "phonetic": "təˈdeɪ ðə skaɪ ɪz ˈvɛri ɡreɪ ənd ˈklaʊdi.",
+      "text_native": "Aujourd'hui le ciel est très gris et nuageux."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "A big thunderstorm starts in the morning.",
+      "phonetic": "ə bɪɡ ˈθʌndəstɔːm stɑːts ɪn ðə ˈmɔːnɪŋ.",
+      "text_native": "Un gros orage commence le matin."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He sees strong wind and heavy rain drops.",
+      "phonetic": "hi siːz strɒŋ wɪnd ənd ˈhɛvi reɪn drɒps.",
+      "text_native": "Il voit un vent fort et de grosses gouttes de pluie."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Lightning appears quickly behind the dark trees.",
+      "phonetic": "ˈlaɪtnɪŋ əˈpɪəz ˈkwɪkli bɪˈhaɪnd ðə dɑːk triːz.",
+      "text_native": "Des éclairs apparaissent rapidement derrière les arbres sombres."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom understands he cannot wear his summer clothes.",
+      "phonetic": "tɒm ˌʌndəˈstændz hi ˈkænɒt wɛə hɪz ˈsʌmə kləʊðz.",
+      "text_native": "Tom comprend qu'il ne peut pas porter ses vêtements d'été."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He stays at home for his indoor activities.",
+      "phonetic": "hi steɪz ət həʊm fɔː hɪz ˈɪndɔː ækˈtɪvɪtiz.",
+      "text_native": "Il reste à la maison pour ses activités en intérieur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "First, he wants to read a good book.",
+      "phonetic": "fɜːst, hi wɒnts tu riːd ə ɡʊd bʊk.",
+      "text_native": "D'abord, il veut lire un bon livre."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He sits on the comfortable sofa near the window.",
+      "phonetic": "hi sɪts ɒn ðə ˈkʌmfətəbl ˈsəʊfə nɪə ðə ˈwɪndəʊ.",
+      "text_native": "Il s'assoit sur le canapé confortable près de la fenêtre."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The cold weather makes him want hot tea.",
+      "phonetic": "ðə kəʊld ˈwɛðə meɪks hɪm wɒnt hɒt tiː.",
+      "text_native": "Le temps froid lui donne envie de thé chaud."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He goes to the kitchen to prepare it.",
+      "phonetic": "hi ɡəʊz tu ðə ˈkɪtʃɪn tu prɪˈpeə ɪt.",
+      "text_native": "Il va dans la cuisine pour le préparer."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Then, he decides to cook some warm soup.",
+      "phonetic": "ðɛn, hi dɪˈsaɪdz tu kʊk sʌm wɔːm suːp.",
+      "text_native": "Ensuite, il décide de cuisiner de la soupe chaude."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The kitchen smells very delicious during the process.",
+      "phonetic": "ðə ˈkɪtʃɪn smɛlz ˈvɛri dɪˈlɪʃəs ˈdjʊərɪŋ ðə ˈprəʊsɛs.",
+      "text_native": "La cuisine sent très bon pendant la préparation."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He eats his meal while looking at the landscape.",
+      "phonetic": "hi iːts hɪz miːl waɪl ˈlʊkɪŋ æt ðə ˈlændskeɪp.",
+      "text_native": "Il prend son repas en regardant le paysage."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The ground outside is completely wet from the water.",
+      "phonetic": "ðə ɡraʊnd ˈaʊtsaɪd ɪz kəmˈpliːtli wɛt frɒm ðə ˈwɔːtə.",
+      "text_native": "Le sol dehors est complètement mouillé par l'eau."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "No birds fly in the sky right now.",
+      "phonetic": "nəʊ bɜːdz flaɪ ɪn ðə skaɪ raɪt naʊ.",
+      "text_native": "Aucun oiseau ne vole dans le ciel en ce moment."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "After a few hours, the rain finally stops.",
+      "phonetic": "ˈɑːftər ə fjuː ˈaʊəz, ðə reɪn ˈfaɪnəli stɒps.",
+      "text_native": "Après quelques heures, la pluie s'arrête enfin."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The sun begins to shine very bright.",
+      "phonetic": "ðə sʌn bɪˈɡɪnz tu ʃaɪn ˈvɛri braɪt.",
+      "text_native": "Le soleil commence à briller très fort."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Tom opens the door and breathes fresh air.",
+      "phonetic": "tɒm ˈəʊpənz ðə dɔːr ənd briːðz frɛʃ eə.",
+      "text_native": "Tom ouvre la porte et respire l'air frais."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He puts on his comfortable walking shoes.",
+      "phonetic": "hi pʊts ɒn hɪz ˈkʌmfətəbl ˈwɔːkɪŋ ʃuːz.",
+      "text_native": "Il met ses chaussures de marche confortables."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He takes a light jacket just in case.",
+      "phonetic": "hi teɪks ə laɪt ˈʤækɪt ʤʌst ɪn keɪs.",
+      "text_native": "Il prend une veste légère juste au cas où."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He walks towards the local public park.",
+      "phonetic": "hi wɔːks təˈwɔːdz ðə ˈləʊkəl ˈpʌblɪk pɑːk.",
+      "text_native": "Il marche vers le parc public du quartier."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The trees look very clean in the afternoon light.",
+      "phonetic": "ðə triːz lʊk ˈvɛri kliːn ɪn ði ˈɑːftənuːn laɪt.",
+      "text_native": "Les arbres ont l'air très propres sous la lumière de l'après-midi."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Some brown leaves fall slowly on the grass.",
+      "phonetic": "sʌm braʊn liːvz fɔːl ˈsləʊli ɒn ðə ɡrɑːs.",
+      "text_native": "Quelques feuilles brunes tombent lentement sur l'herbe."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He meets his good friend near the big tree.",
+      "phonetic": "hi miːts hɪz ɡʊd frɛnd nɪə ðə bɪɡ triː.",
+      "text_native": "Il rencontre son bon ami près du grand arbre."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "They talk about the changing weather this month.",
+      "phonetic": "ðeɪ tɔːk əˈbaʊt ðə ˈʧeɪnʤɪŋ ˈwɛðə ðɪs mʌnθ.",
+      "text_native": "Ils parlent du temps changeant ce mois-ci."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tomorrow will be another sunny and warm day.",
+      "phonetic": "təˈmɒrəʊ wɪl bi əˈnʌðə ˈsʌni ənd wɔːm deɪ.",
+      "text_native": "Demain sera une autre journée ensoleillée et chaude."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "In the evening, Tom returns happily home.",
+      "phonetic": "ɪn ði ˈiːvnɪŋ, tɒm rɪˈtɜːnz ˈhæpɪli həʊm.",
+      "text_native": "Le soir, Tom rentre chez lui avec le sourire."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He goes to bed and sleeps very well.",
+      "phonetic": "hi ɡəʊz tu bɛd ənd sliːps ˈvɛri wɛl.",
+      "text_native": "Il va se coucher et dort très bien."
+    }
+  ]
+}

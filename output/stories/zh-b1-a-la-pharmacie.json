@@ -1,0 +1,217 @@
+{
+  "title": "在药店配药",
+  "new_vocabulary": [
+    "配药",
+    "处方",
+    "药剂师",
+    "社保卡",
+    "刷卡",
+    "过敏",
+    "副作用",
+    "饭前",
+    "说明书",
+    "包装",
+    "打开",
+    "胶囊",
+    "药水",
+    "摇匀",
+    "毫升",
+    "疗程",
+    "康复",
+    "症状",
+    "减轻",
+    "复查",
+    "传染",
+    "口罩",
+    "洗手",
+    "保持",
+    "通风",
+    "多喝",
+    "清淡",
+    "饮食",
+    "祝愿",
+    "顺利"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "下午我拿着医生的处方去了家附近的药店。",
+      "phonetic": "Xiàwǔ wǒ názhe yīshēng de chǔfāng qùle jiā fùjìn de yàodiàn.",
+      "text_native": "Cet après-midi, j'ai pris l'ordonnance du médecin et je suis allé à la pharmacie près de chez moi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "药剂师是一位非常热心的中年女士。",
+      "phonetic": "Yàojìshī shì yī wèi fēicháng rèxīn de zhōngnián nǚshì.",
+      "text_native": "La pharmacienne était une femme d'âge moyen très chaleureuse."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我把处方和社保卡一起交给了她。",
+      "phonetic": "Wǒ bǎ chǔfāng hé shèbǎokǎ yīqǐ jiāogěile tā.",
+      "text_native": "Je lui ai remis l'ordonnance et ma carte de sécurité sociale ensemble."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "她仔细看了看处方上的每一种药。",
+      "phonetic": "Tā zǐxì kànle kàn chǔfāng shàng de měi yī zhǒng yào.",
+      "text_native": "Elle a examiné attentivement chaque médicament sur l'ordonnance."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "她问我以前有没有对青霉素过敏。",
+      "phonetic": "Tā wèn wǒ yǐqián yǒu méiyǒu duì qīngméisù guòmǐn.",
+      "text_native": "Elle m'a demandé si j'avais déjà eu des allergies à la pénicilline."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我回答说没有过敏史，身体一直很好。",
+      "phonetic": "Wǒ huídá shuō méiyǒu guòmǐnshǐ, shēntǐ yìzhí hěn hǎo.",
+      "text_native": "J'ai répondu que je n'avais pas d'antécédents d'allergie et que j'étais toujours en bonne santé."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "药剂师开始在货架上找我需要的药。",
+      "phonetic": "Yàojìshī kāishǐ zài huòjià shàng zhǎo wǒ xūyào de yào.",
+      "text_native": "La pharmacienne a commencé à chercher les médicaments dont j'avais besoin sur les étagères."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这次医生给我开了两种不同的药。",
+      "phonetic": "Zhè cì yīshēng gěi wǒ kāile liǎng zhǒng bùtóng de yào.",
+      "text_native": "Cette fois-ci, le médecin m'a prescrit deux types de médicaments différents."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "一种是白色的胶囊，另一种是止咳药水。",
+      "phonetic": "Yī zhǒng shì báisè de jiāonáng, lìng yī zhǒng shì zhǐké yàoshuǐ.",
+      "text_native": "L'un est une gélule blanche et l'autre est un sirop contre la toux."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "她把这些药整齐地放进一个纸袋里。",
+      "phonetic": "Tā bǎ zhèxiē yào zhěngqí de fàng jìn yīgè zhǐdài lǐ.",
+      "text_native": "Elle a rangé soigneusement ces médicaments dans un sac en papier."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "付款的时候，我选择用手机扫码付钱。",
+      "phonetic": "Fùkuǎn de shíhòu, wǒ xuǎnzé yòng shǒujī sǎomǎ fù qián.",
+      "text_native": "Au moment de payer, j'ai choisi de régler avec mon téléphone portable par scan de code."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "她把收据和零钱一起递给了我。",
+      "phonetic": "Tā bǎ shōujù hé língqián yīqǐ dìgěile wǒ.",
+      "text_native": "Elle m'a remis le reçu et la monnaie ensemble."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "离开之前，她叮嘱我一定要看使用说明书。",
+      "phonetic": "Líkāi zhīqián, tā dīngzhǔ wǒ yīdìng yào kàn shǐyòng shuōmíngshū.",
+      "text_native": "Avant de partir, elle m'a rappelé de bien lire la notice d'utilisation."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "胶囊必须在饭后半小时用温水吞服。",
+      "phonetic": "Jiāonáng bìxū zài fàn hòu bàn xiǎoshí yòng wēnshuǐ tūn fú.",
+      "text_native": "Les gélules doivent être avalées avec de l'eau tiède une demi-heure après les repas."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "药水喝之前一定要先摇匀。",
+      "phonetic": "Yàoshuǐ hē zhīqián yīdìng yào xiān yáoyún.",
+      "text_native": "Il faut bien agiter le sirop avant de le boire."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "每次服用十毫升，一天不要超过三次。",
+      "phonetic": "Měi cì fúyòng shí háoshēng, yìtiān bùyào chāoguò sāncì.",
+      "text_native": "Prenez dix millilitres à chaque fois, pas plus de trois fois par jour."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "药剂师还告诉我这种药可能会有一点儿副作用。",
+      "phonetic": "Yàojìshī hái gàosù wǒ zhè zhǒng yào kěnéng huì yǒu yīdiǎnr fùzuòyòng.",
+      "text_native": "La pharmacienne m'a également dit que ce médicament pouvait avoir de légers effets secondaires."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "如果觉得头晕，可以在床上多躺一会儿。",
+      "phonetic": "Rúguǒ juéde tóuyūn, kěyǐ zài chuáng shàng duō tǎng yīhuǐ'er.",
+      "text_native": "Si vous vous sentez étourdi, vous pouvez rester allongé un peu plus longtemps sur le lit."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "整个疗程大概需要五天时间。",
+      "phonetic": "Zhěnggè liáochéng dàgài xūyào wǔ tiān shíjiān.",
+      "text_native": "L'ensemble du traitement prend environ cinq jours."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我认真听着她的每一句建议并记在心里。",
+      "phonetic": "Wǒ rènzhēn tīngzhe tā de měi yījù jiànyì bìng jì zài xīnlǐ.",
+      "text_native": "J'ai écouté attentivement chacun de ses conseils et je les ai gardés à l'esprit."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "拿好药后，我戴上口罩走出了药店。",
+      "phonetic": "Ná hǎo yào hòu, wǒ dài shàng kǒuzhào zǒu chūle yàodiàn.",
+      "text_native": "Après avoir récupéré les médicaments, j'ai mis mon masque et je suis sorti de la pharmacie."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "走在回家的路上，秋天的风让人觉得有点凉。",
+      "phonetic": "Zǒu zài huí jiā de lùshang, qiūtiān de fēng ràng rén juéde yǒudiǎn liáng.",
+      "text_native": "En rentrant chez moi, le vent d'automne me semblait un peu frais."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "回到家第一件事就是去厨房洗手。",
+      "phonetic": "Huí dào jiā dì yī jiàn shì jiùshì qù chúfáng xǐshǒu.",
+      "text_native": "La première chose en rentrant à la maison a été d'aller me laver les mains à la cuisine."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "为了防止病情传染，房间必须保持通风。",
+      "phonetic": "Wèile fángzhǐ bìngqíng chuánrán, fángjiān bìxū bǎochí tōngfēng.",
+      "text_native": "Pour éviter la propagation de la maladie, la pièce doit rester bien ventilée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "医生说过这段时间要多喝开水。",
+      "phonetic": "Yīshēng shuōguò zhè duàn shíjiān yào duō hē kāishuǐ.",
+      "text_native": "Le médecin a dit qu'il fallait boire beaucoup d'eau bouillie pendant cette période."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "晚饭我只吃了一些清淡的粥和蔬菜。",
+      "phonetic": "Wǎnfàn wǒ zhǐ chīle yīxiē qīngdàn de zhōu hé shūcài.",
+      "text_native": "Pour le dîner, je n'ai mangé que du porridge léger et des légumes."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "吃了药以后，我的咳嗽症状减轻了很多。",
+      "phonetic": "Chīle yào yǐhòu, wǒ de késòu zhèngzhuàng jiǎnqīngle hěn duō.",
+      "text_native": "Après avoir pris les médicaments, mes symptômes de toux se sont beaucoup atténués."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "希望身体能快点完全康复。",
+      "phonetic": "Xīwàng shēntǐ néng kuài diǎn wánquán kāngfù.",
+      "text_native": "J'espère que mon corps pourra récupérer complètement et rapidement."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "如果周末还没有好，我再去医院复查。",
+      "phonetic": "Rúguǒ zhōumò hái méiyǒu hǎo, wǒ zài qù yīyuàn fùchá.",
+      "text_native": "Si je ne vais pas mieux ce week-end, je retournerai à l'hôpital pour un contrôle."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "祝愿大家在这个季节都能保持健康。",
+      "phonetic": "Zhùyuàn dàjiā zài zhège jìjié dōu néng bǎochí jiànkāng.",
+      "text_native": "Je souhaite à tout le monde de rester en bonne santé en cette saison."
+    }
+  ]
+}

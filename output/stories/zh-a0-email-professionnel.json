@@ -1,0 +1,186 @@
+{
+  "title": "工作邮件",
+  "new_vocabulary": ["工作", "邮件", "电脑", "办公室", "看", "写", "发"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我是马克。",
+      "phonetic": "Wǒ shì Mǎkè.",
+      "text_native": "Je suis Marc."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我在办公室。",
+      "phonetic": "Wǒ zài bàngōngshì.",
+      "text_native": "Je suis au bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我有电脑。",
+      "phonetic": "Wǒ yǒu diànnǎo.",
+      "text_native": "J'ai un ordinateur."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "电脑很好。",
+      "phonetic": "Diànnǎo hěn hǎo.",
+      "text_native": "L'ordinateur est bien."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "桌子上有手机。",
+      "phonetic": "Zhuōzi shàng yǒu shǒujī.",
+      "text_native": "Il y a un téléphone sur le bureau."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "手机响了。",
+      "phonetic": "Shǒujī xiǎng le.",
+      "text_native": "Le téléphone a sonné."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我看手机。",
+      "phonetic": "Wǒ kàn shǒujī.",
+      "text_native": "Je regarde le téléphone."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "老板发信息。",
+      "phonetic": "Lǎobǎn fā xìnxī.",
+      "text_native": "Le patron envoie un message."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "老板要邮件。",
+      "phonetic": "Lǎobǎn yào yóujiàn.",
+      "text_native": "Le patron veut un email."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我用电脑。",
+      "phonetic": "Wǒ yòng diànnǎo.",
+      "text_native": "J'utilise l'ordinateur."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "电脑开着。",
+      "phonetic": "Diànnǎo kāi zhe.",
+      "text_native": "L'ordinateur est allumé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我看电脑。",
+      "phonetic": "Wǒ kàn diànnǎo.",
+      "text_native": "Je regarde l'ordinateur."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "邮件是中文。",
+      "phonetic": "Yóujiàn shì zhōngwén.",
+      "text_native": "L'email est en chinois."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我写新邮件。",
+      "phonetic": "Wǒ xiě xīn yóujiàn.",
+      "text_native": "J'écris un nouvel email."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "电脑很好。",
+      "phonetic": "Diànnǎo hěn hǎo.",
+      "text_native": "L'ordinateur est bien."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我写老板名字。",
+      "phonetic": "Wǒ xiě lǎobǎn míngzì.",
+      "text_native": "J'écris le nom du patron."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "名字是对的。",
+      "phonetic": "Míngzì shì duì de.",
+      "text_native": "Le nom est correct."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我写字。",
+      "phonetic": "Wǒ xiě zì.",
+      "text_native": "J'écris des caractères."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "这是工作。",
+      "phonetic": "Zhè shì gōngzuò.",
+      "text_native": "C'est le travail."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我写好了。",
+      "phonetic": "Wǒ xiě hǎo le.",
+      "text_native": "J'ai fini d'écrire."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "汉字很简单。",
+      "phonetic": "Hànzì hěn jiǎndān.",
+      "text_native": "Les caractères chinois sont simples."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我有三个字。",
+      "phonetic": "Wǒ yǒu sān gè zì.",
+      "text_native": "J'ai trois mots."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "字很好看。",
+      "phonetic": "Zì hěn hǎokàn.",
+      "text_native": "Les mots sont jolis."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我看邮件。",
+      "phonetic": "Wǒ kàn yóujiàn.",
+      "text_native": "Je regarde l'email."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "没有错误。",
+      "phonetic": "Méiyǒu cuòwù.",
+      "text_native": "Il n'y a pas d'erreur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我发邮件。",
+      "phonetic": "Wǒ fā yóujiàn.",
+      "text_native": "J'envoie l'email."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "邮件发了。",
+      "phonetic": "Yóujiàn fā le.",
+      "text_native": "L'email est envoyé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "老板知道了。",
+      "phonetic": "Lǎobǎn zhīdào le.",
+      "text_native": "Le patron le sait."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "老板很高兴。",
+      "phonetic": "Lǎobǎn hěn gāoxìng.",
+      "text_native": "Le patron est très content."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "工作结束了。",
+      "phonetic": "Gōngzuò jiéshù le.",
+      "text_native": "Le travail est terminé."
+    }
+  ]
+}

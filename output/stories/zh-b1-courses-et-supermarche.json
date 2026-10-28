@@ -1,0 +1,191 @@
+{
+  "title": "周末超市购物",
+  "new_vocabulary": [
+    "计划", "列", "清单", "厨房", "冰箱", "发现", "空", "决定", "附近", "步行",
+    "出发", "入口", "借", "塑料袋", "各类", "货架", "寻找", "质量", "价格", "对比",
+    "秤", "称重", "标签", "顾客", "挑选", "推车", "区域", "饮料", "饼干", "零食",
+    "购物车", "满", "方向", "等候", "轮到", "钱包", "袋子", "顺利", "累"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "周末早上，我制定了一个买东西的计划。",
+      "phonetic": "Zhōumò zǎoshang, wǒ zhìdìng le yígè mǎi dōngxī de jìhuà.",
+      "text_native": "Samedi matin, j'ai fait un plan pour aller faire des courses."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我先在纸上列了一张详细的清单。",
+      "phonetic": "Wǒ xiān zài zhǐ shàng liè le yì zhāng xiángxì de qīngdān.",
+      "text_native": "J'ai d'abord dressé une liste détaillée sur du papier."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "因为厨房的冰箱已经空了，所以我需要补充很多食材。",
+      "phonetic": "Yīnwèi chúfáng de bīngxiāng yǐjīng kōng le, suǒyǐ wǒ xūyào bǔchōng hěnduō shícái.",
+      "text_native": "Comme le réfrigérateur de la cuisine est déjà vide, j'ai besoin de faire le plein d'ingrédients."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我决定去附近那家大型超市。",
+      "phonetic": "Wǒ juédìng qù fùjìn nà jiā dàxíng chāoshì.",
+      "text_native": "J'ai décidé d'aller au grand supermarché près d'ici."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "天气非常好，所以我选择步行出发。",
+      "phonetic": "Tiānqì fēicháng hǎo, suǒyǐ wǒ xuǎnzé bùxíng chūfā.",
+      "text_native": "Le temps est magnifique, j'ai donc choisi d'y aller à pied."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "走到超市入口时，我从门口推了一辆购物车。",
+      "phonetic": "Zǒu dào chāoshì rùkǒu shí, wǒ cóng ménkǒu tuī le yí liàng gòuwùchē.",
+      "text_native": "En arrivant à l'entrée du supermarché, j'ai pris un chariot à la porte."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "超市里有很多不同的区域，摆满了各类商品。",
+      "phonetic": "Chāoshì lǐ yǒu hěnduō bùtóng de qūyù, bǎi mǎn le gèlèi shāngpǐn.",
+      "text_native": "Il y a de nombreuses zones différentes dans le supermarché, remplies de toutes sortes de marchandises."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我推着车子慢慢走进生鲜区。",
+      "phonetic": "Wǒ tuīzhe chēzi mànmàn zǒu jìn shēngxiān qū.",
+      "text_native": "Je pousse mon caddie et entre lentement dans la zone des produits frais."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "货架上整齐地放着新鲜的蔬菜和水果。",
+      "phonetic": "Huòjià shàng zhěngqí de fàngzhe xīnxiān de shūcài hé shuǐguǒ.",
+      "text_native": "Des légumes et des fruits frais sont disposés bien nettement sur les étagères."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我仔细挑选了几斤红色的苹果和一些黄色的香蕉。",
+      "phonetic": "Wǒ zìxì tiāoxuǎn le jǐ jīn hóngsè de píngguǒ hé yìxiē huángsè de xiāngjiāo.",
+      "text_native": "J'ai soigneusement choisi quelques kilos de pommes rouges et quelques bananes jaunes."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我还拿了几个西红柿和土豆准备做晚饭。",
+      "phonetic": "Wǒ hái ná le jǐgè xīhóngshì hé tǔdòu zhǔnbèi zuò wǎnfàn.",
+      "text_native": "J'ai aussi pris quelques tomates et pommes de terre pour préparer le dîner."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "接着，我走到肉类冷藏柜前面。",
+      "phonetic": "Jiēzhe, wǒ zǒu dào ròulèi lěngcáng guì qiánmiàn.",
+      "text_native": "Ensuite, je me suis dirigé vers le rayon des viandes réfrigérées."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "这里的牛肉和鸡肉看起来质量都很好。",
+      "phonetic": "Zhèlǐ de niúròu hé jīròu kàn qǐlái zhìliàng dōu hěn hǎo.",
+      "text_native": "Le bœuf et le poulet ici ont l'air d'être d'excellente qualité."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "对比了价格之后，我买了一块新鲜的鱼肉。",
+      "phonetic": "Duìbǐ le jiàgé zhīhòu, wǒ mǎi le yíkuài xīnxiān de yúròu.",
+      "text_native": "Après avoir comparé les prix, j'ai acheté un morceau de poisson frais."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "选好蔬菜后，我需要去旁边的秤上称重。",
+      "phonetic": "Xuǎn hǎo shūcài hòu, wǒ xūyào qù pángbiān de chèng shàng chēngzhòng.",
+      "text_native": "Une fois les légumes choisis, je dois aller les peser sur la balance à côté."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "把蔬菜放在秤上，机器就会打印出价格标签。",
+      "phonetic": "Bǎ shūcài fàng zài chèng shàng, jīqì jiù huì dǎyìn chū jiàgé biāoqiān.",
+      "text_native": "En plaçant les légumes sur la balance, la machine imprime l'étiquette de prix."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "然后我把标签贴在袋子外面。",
+      "phonetic": "Ránhòu wǒ bǎ biāoqiān tiē zài dàizi wàimiàn.",
+      "text_native": "Ensuite, je colle l'étiquette à l'extérieur du sachet."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "周围有许多顾客也在认真地挑选商品。",
+      "phonetic": "Zhōuwéi yǒu xǔduō gùkè yě zài rènzhēn de tiāoxuǎn shāngpǐn.",
+      "text_native": "Autour de moi, de nombreux clients choisissent également leurs articles avec attention."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我推着购物车继续往前走，来到了饮料区。",
+      "phonetic": "Wǒ tuīzhe gòuwùchē jìxù wǎng qián zǒu, lái dào le yǐnliào qū.",
+      "text_native": "Je pousse mon chariot et continue d'avancer pour arriver au rayon des boissons."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我拿了两瓶牛奶和一袋大米。",
+      "phonetic": "Wǒ ná le liǎng píng niúnǎi hé yí dài dàmǐ.",
+      "text_native": "J'ai pris deux bouteilles de lait et un sac de riz."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我还顺便买了一些饼干和零食。",
+      "phonetic": "Wǒ hái shùnbiàn mǎi le yìxiē bǐnggān hé língshí.",
+      "text_native": "J'en ai profité pour acheter quelques biscuits et en-cas."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "这时候，我的购物车已经快要满了。",
+      "phonetic": "Zhè shíhòu, wǒ de gòuwùchē yǐjīng kuàiyào mǎn le.",
+      "text_native": "À ce moment-là, mon chariot est presque plein."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我看了一下清单，发现需要的东西都拿齐了。",
+      "phonetic": "Wǒ kàn le yíxià qīngdān, fāxiàn xūyào de dōngxī dōu ná qí le.",
+      "text_native": "J'ai jeté un œil à ma liste et constaté que j'avais pris tout ce dont j'avais besoin."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "于是，我朝着收银台的方向走去。",
+      "phonetic": "Yúshì, wǒ cháozhe shōuyíntái de fāngxiàng zǒu qù.",
+      "text_native": "Par conséquent, je me suis dirigé vers la caisse."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "前面排了很长的队，我只能耐心等候。",
+      "phonetic": "Qiánmiàn pái le hěn cháng de duì, wǒ zhǐnéng nàixīn děnghòu.",
+      "text_native": "Il y avait une longue file d'attente devant, j'ai donc dû patienter patiemment."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "终于轮到我结账了，收银员非常热情。",
+      "phonetic": "Zhōngyú lún dào wǒ jiézhàng le, shōuyínyuán fēicháng rèqíng.",
+      "text_native": "C'était enfin mon tour de payer, et l'caissier a été très chaleureux."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我拿出手机通过扫码支付了全部的费用。",
+      "phonetic": "Wǒ ná chū shǒujī tōngguò sǎomǎ zhīfù le quánbù de fèiyòng.",
+      "text_native": "J'ai sorti mon téléphone pour payer le montant total par code QR."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "付完钱后，我把所有的商品装进结实的大塑料袋里。",
+      "phonetic": "Fù wán qián hòu, wǒ bǎ suǒyǒu de shāngpǐn zhuāng jìn jiēshi de dà sùliàodài lǐ.",
+      "text_native": "Après avoir payé, j'ai rangé toutes mes courses dans un grand sac en plastique solide."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我手里拎着重重的袋子，高兴地往家里走去。",
+      "phonetic": "Wǒ shǒu lǐ līnzhe zhòngzhòng de dàizi, gāoxìng de wǎng jiālǐ zǒu qù.",
+      "text_native": "Portant les sacs lourds dans mes mains, je suis rentré chez moi joyeusement."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "这次愉快的周末采购非常顺利，虽然有点累但是很满足。",
+      "phonetic": "Zhè cì yúkuài de zhōumò cǎigōu fēicháng shùnlì, suīrán yǒudiǎn lèi dànshì hěn mǎnzú.",
+      "text_native": "Cette agréable virée de courses du week-end s'est très bien passée ; même si je suis un peu fatigué, je suis très satisfait."
+    }
+  ]
+}

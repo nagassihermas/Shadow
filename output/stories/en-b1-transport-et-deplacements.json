@@ -1,0 +1,207 @@
+{
+  "title": "A Commuter's Journey",
+  "new_vocabulary": [
+    "commute",
+    "schedule",
+    "delay",
+    "platform",
+    "miss",
+    "alternative",
+    "route",
+    "bike",
+    "helmet",
+    "path",
+    "park",
+    "pedestrian",
+    "crosswalk",
+    "convenient",
+    "journey",
+    "destination",
+    "plan",
+    "change",
+    "missed",
+    "reach"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom checked his schedule before leaving his home.",
+      "phonetic": "/tɒm tʃekt hɪz ˈʃedjuːl bɪˈfɔːr ˈliːvɪŋ hɪz həʊm/",
+      "text_native": "Tom a vérifié son emploi du temps avant de quitter sa maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He walked down the street toward the train station.",
+      "phonetic": "/hiː wɔːkt daʊn ðə striːt təˈwɔːd ðə treɪn ˈsteɪʃn/",
+      "text_native": "Il a descendu la rue en direction de la gare."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "A heavy rain started to fall from the grey sky.",
+      "phonetic": "/ə ˈhevi reɪn ˈstɑːtɪd tuː fɔːl frɒm ðə ɡreɪ skaɪ/",
+      "text_native": "Une forte pluie a commencé à tomber du ciel gris."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He put on his warm coat and started to run.",
+      "phonetic": "/hiː pʊt ɒn hɪz wɔːm kəʊt ænd ˈstɑːtɪd tuː rʌn/",
+      "text_native": "Il a enfilé son manteau chaud et s'est mis à courir."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When he arrived at the platform, he saw a big problem.",
+      "phonetic": "/wen hiː əˈraɪvd æt ðə ˈplætfɔːm, hiː sɔː ə bɪɡ ˈprɒbləm/",
+      "text_native": "Quand il est arrivé sur le quai, il a vu un gros problème."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "An electronic board showed a long delay for his usual train.",
+      "phonetic": "/ən ɪlekˈtrɒnɪk bɔːd ʃəʊd ə lɒŋ dɪˈleɪ fɔːr hɪz ˈjuːʒuəl treɪn/",
+      "text_native": "Un panneau électronique affichait un long retard pour son train habituel."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Many people were waiting and complaining near the closed door.",
+      "phonetic": "/ˈmeni ˈpiːpl wɜː ˈweɪtɪŋ ænd kəmˈpleɪɪŋ nɪə ðə kləʊzd dɔː/",
+      "text_native": "Beaucoup de gens attendaient et se plaignaient près de la porte fermée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom realized he would miss his important meeting if he waited.",
+      "phonetic": "/tɒm ˈriːəlaɪzd hiː wʊd mɪs hɪz ɪmˈpɔːtənt ˈmiːtɪŋ ɪf hiː ˈweɪtɪd/",
+      "text_native": "Tom a réalisé qu'il raterait sa réunion importante s'il attendait."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He needed to find an alternative route immediately.",
+      "phonetic": "/hiː ˈniːdɪd tuː faɪnd ən ɔːlˈtɜːnətɪv ruːt ɪˈmiːdiətli/",
+      "text_native": "Il devait trouver un autre itinéraire immédiatement."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He opened a map application on his smartphone.",
+      "phonetic": "/hiː ˈəʊpənd ə mæp ˌæplɪˈkeɪʃn ɒn hɪz ˈsmɑːtfəʊn/",
+      "text_native": "Il a ouvert une application de cartographie sur son smartphone."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The screen showed that taking a bus was a good option.",
+      "phonetic": "/ðə skriːn ʃəʊd ðæt ˈteɪkɪŋ ə bʌs wɒz ə ɡʊd ˈɒpʃn/",
+      "text_native": "L'écran indiquait que prendre le bus était une bonne option."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He left the station and walked quickly to the nearest bus stop.",
+      "phonetic": "/hiː left ðə ˈsteɪʃn ænd wɔːkt ˈkwikli tuː ðə ˈnɪərɪst bʌs stɒp/",
+      "text_native": "Il a quitté la gare et a marché d'un pas vif jusqu'à l'arrêt de bus le plus proche."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Traffic on the main road was moving very slowly because of the rain.",
+      "phonetic": "/ˈtræfɪk ɒn ðə meɪn rəʊd wɒz ˈmuːvɪŋ ˈveri ˈsləʊli bɪˈkɒz ɒv ðə reɪn/",
+      "text_native": "La circulation sur l'avenue avançait très lentement à cause de la pluie."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Cars and trucks formed a long line around the corner.",
+      "phonetic": "/kɑːz ænd trʌks fɔːmd ə lɒŋ laɪn əˈraʊnd ðə ˈkɔːnə/",
+      "text_native": "Voitures et camions formaient une longue file dans le tournant."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He understood that the bus journey would take too much time.",
+      "phonetic": "/hiː ˌʌndəˈstʊd ðæt ðə bʌs ˈdʒɜːni wʊd teɪk tuː mʌtʃ taɪm/",
+      "text_native": "Il a compris que le trajet en bus prendrait trop de temps."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Then he remembered the public bike rental service nearby.",
+      "phonetic": "/ðen hiː rɪˈmembəd ðə ˈpʌblɪk baɪk ˈrentl ˈsɜːvɪs ˈnɪəbaɪ/",
+      "text_native": "Il s'est alors souvenu du service de location de vélos en libre-service à proximité."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He walked to the bike rack and took out his payment card.",
+      "phonetic": "/hiː wɔːkt tuː ðə baɪk ræk ænd tʊk aʊt hɪz ˈpeɪmənt kɑːd/",
+      "text_native": "Il s'est dirigé vers le râtelier à vélos et a sorti sa carte bancaire."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He paid quickly, unlocked a red bicycle, and put on his helmet.",
+      "phonetic": "/hiː peɪd ˈkwikli, ʌnˈlɒkt ə red ˈbaɪsɪkl, ænd pʊt ɒn hɪz ˈhelmɪt/",
+      "text_native": "Il a payé rapidement, a déverrouillé un vélo rouge et a mis son casque."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Riding a bike in the city center required a lot of attention.",
+      "phonetic": "/ˈraɪdɪŋ ə baɪk ɪn ðə ˈsɪti ˈsentə rɪˈkwaɪəd ə lɒt ɒv əˈtenʃn/",
+      "text_native": "Rouler à vélo dans le centre-ville demandait beaucoup d'attention."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He followed the safe bike path along the river.",
+      "phonetic": "/hiː ˈfɒləʊd ðə seɪf baɪk pɑːθ əˈlɒŋ ðə ˈrɪvə/",
+      "text_native": "Il a emprunté la piste cyclable aménagée le long de la rivière."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Many pedestrians were crossing the street at the special crosswalk.",
+      "phonetic": "/ˈmeni pəˈdestriənz wɜː ˈkrɒsɪŋ ðə striːt æt ðə ˈspeʃl ˈkrɒswɔːk/",
+      "text_native": "De nombreux piétons traversaient la rue sur le passage piéton."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom stopped respectfully and let the people pass safely.",
+      "phonetic": "/tɒm stɒpt rɪˈspektfʊli ænd let ðə ˈpiːpl pɑːs ˈseɪfli/",
+      "text_native": "Tom s'est arrêté courtoisement pour laisser passer les gens en toute sécurité."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The rain stopped slowly as he crossed the big old bridge.",
+      "phonetic": "/ðə reɪn stɒpt ˈsləʊli æz hiː krɒst ðə bɪɡ əʊld brɪdʒ/",
+      "text_native": "La pluie a peu à peu cessé alors qu'il traversait le vieux pont."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The fresh air felt good after the stressful minutes at the station.",
+      "phonetic": "/ðə freʃ eə felt ɡʊd ˈɑːftə ðə ˈstresfʊl ˈmɪnɪts æt ðə ˈsteɪʃn/",
+      "text_native": "L'air frais lui a fait du bien après les minutes stressantes passées à la gare."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He turned right into a quiet street near his office building.",
+      "phonetic": "/hiː tɜːnd raɪt ˈɪntuː ə ˈkwaɪət striːt nɪə hɪz ˈɒfɪs ˈbɪldɪŋ/",
+      "text_native": "Il a tourné à droite dans une rue calme près de son immeuble de bureaux."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He found a convenient parking space for the bicycle near the entrance.",
+      "phonetic": "/hiː faʊnd ə kənˈviːniənt ˈpɑːkɪŋ speɪs fɔː ðə ˈbaɪsɪkl nɪə ði ˈentrəns/",
+      "text_native": "Il a trouvé un emplacement pratique pour garer le vélo près de l'entrée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He locked the bike securely and took off his wet coat.",
+      "phonetic": "/hiː lɒkt ðə baɪk sɪˈkjʊəli ænd tʊk ɒf hɪz wet kəʊt/",
+      "text_native": "Il a attaché solidement le vélo et a retiré son manteau mouillé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Finally, he reached his destination just before the meeting started.",
+      "phonetic": "/ˈfaɪnəli, hiː riːtʃt hɪz ˌdestɪˈneɪʃn dʒʌst bɪˈfɔːr ðə ˈmiːtɪŋ ˈstɑːtɪd/",
+      "text_native": "Il a enfin atteint sa destination juste avant le début de la réunion."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He walked through the glass door and sat at his desk.",
+      "phonetic": "/hiː wɔːkt θruː ðə ɡlɑːs dɔː ænd sæt æt hɪz desk/",
+      "text_native": "Il a franchi la porte vitrée et s'est installé à son bureau."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Despite the travel problems, he was happy to be on time.",
+      "phonetic": "/dɪˈspaɪt ðə ˈtrævl ˈprɒbləmz, hiː wɒz ˈhæpi tuː biː ɒn taɪm/",
+      "text_native": "Malgré les péripéties du trajet, il était heureux d'être à l'heure."
+    }
+  ]
+}

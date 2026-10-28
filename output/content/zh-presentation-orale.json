@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "大家好，今天由我来跟大家聊聊这个项目。",
+    "phonetic": "dàjiā hǎo, jīntiān yóu wǒ lái gēn dàjiā liáoliao zhè ge xiàngmù.",
+    "text_native": "Bonjour à tous, c'est moi qui vais vous parler de ce projet aujourd'hui.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "为了让大家听得更清楚，我做了一个简短的幻灯片。",
+    "phonetic": "wèile ràng dàjiā tīng de gèng qīngchu, wǒ zuò le yí gè jiǎnduǎn de huàndēngpiàn.",
+    "text_native": "Pour que ce soit plus clair pour tout le monde, j'ai préparé un petit diaporama.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "我的分享大概会持续十五分钟左右。",
+    "phonetic": "wǒ de fēnxiǎng dàgài huì chíxù shíwǔ fēnzhōng zuǒyòu.",
+    "text_native": "Mon intervention durera environ quinze minutes.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "咱们先从目前的市场大环境切入。",
+    "phonetic": "zánmen xiān cóng mùqián de shìchǎng dà huánjìng qièrù.",
+    "text_native": "On va commencer par planter le décor avec la situation actuelle du marché.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "大家请看这张图，数据其实说明得很明白了。",
+    "phonetic": "dàjiā qǐng kàn zhè zhāng tú, shùjù qíshí shuōmíng de hěn míngbai le.",
+    "text_native": "Regardez ce graphique, les chiffres parlent d'eux-mêmes.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "换句话说，我们必须马上调整现有的策略。",
+    "phonetic": "huàn jù huà shuō, wǒmen bìxū mǎshàng tiáozhěng xiànyǒu de cèlüè.",
+    "text_native": "Autrement dit, nous devons revoir notre stratégie sans attendre.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "说到这里，可能有人会好奇为什么会这样。",
+    "phonetic": "shuō dào zhèlǐ, kěnéng yǒurén huì hàoqí wèishénme huì zhèyàng.",
+    "text_native": "Arrivé à ce stade, vous vous demandez sûrement pourquoi on en est arrivé là.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "这恰恰暴露了我们在执行力上的短板。",
+    "phonetic": "zhè qiàqià bàolù le wǒmen zài zhíxínglì shàng de duǎnbǎn.",
+    "text_native": "C'est précisément ce qui met en lumière nos failles en matière d'exécution.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "针对这个痛点，我们团队琢磨出了一套新方案。",
+    "phonetic": "zhēnduì zhè ge tòngdiǎn, wǒmen tuánduì zuómó chū le yí tào xīn fāngàn.",
+    "text_native": "Pour répondre à cette problématique, notre équipe a planché sur une nouvelle solution.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "请大家把目光聚焦在屏幕右下角的部分。",
+    "phonetic": "qǐng dàjiā bǎ mùguāng jūjiāo zài píngmù yòuxiàjiǎo de bùfen.",
+    "text_native": "Je vous invite à prêter attention à la partie en bas à droite de l'écran.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "这个功能用起来非常顺手，大大省去了繁琐步骤。",
+    "phonetic": "zhè ge gōngnéng yòng qǐlai fēicháng shùnshǒu, dàdà shěngqù le fánsuǒ bùzhòu.",
+    "text_native": "Cette fonctionnalité est très intuitive et évite pas mal d'étapes fastidieuses.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "当然了，这么做也不是完全没有风险的。",
+    "phonetic": "dāngrán le, zhème zuò yě bú shì wánquán méiyǒu fēngxiǎn de.",
+    "text_native": "Bien évidemment, cette approche comporte aussi sa part de risques.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "不过没关系，我们已经准备好了应急预案。",
+    "phonetic": "búguò méiguānxi, wǒmen yǐjīng zhǔnbèi hǎo le yìngjí yùàn.",
+    "text_native": "Mais rassurez-vous, nous avons déjà prévu un plan de secours.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "我拿上个月的真实案例来给大家做个比方。",
+    "phonetic": "wǒ ná shàng gè yuè de zhēnshí ànlì lái gěi dàjiā zuò gè bǐfang.",
+    "text_native": "Laissez-moi illustrer mon propos avec un cas concret du mois dernier.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "从长远的角度来看，这一步棋绝对走对了。",
+    "phonetic": "cóng chángyuǎn de jiǎodù lái kàn, zhè yí bù qí juéduì zǒu duì le.",
+    "text_native": "Sur le long terme, c'était vraiment le bon choix stratégique à faire.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "好了，我的部分差不多先讲到这里。",
+    "phonetic": "hǎo le, wǒ de bùfen chàbuduō xiān jiǎng dào zhèlǐ.",
+    "text_native": "Voilà, j'en ai globalement terminé pour ma part.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "接下来留出时间听听大家的意见和反馈。",
+    "phonetic": "jiēxiàlái liú chū shíjiān tīngting dàjiā de yìjiàn hé fǎnkuì.",
+    "text_native": "Je laisse maintenant place à vos remarques et retours d'expérience.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "关于刚才提到的细节，不知各位有什么疑问吗？",
+    "phonetic": "guānyú gāngcái tí dào de xìjié, bùzhī gèwèi yǒu shénme yíwèn ma?",
+    "text_native": "Avez-vous des questions particulières concernant les points que je viens d'aborder ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "非常感谢大家的聆听，期待接下来能跟各位深入交流。",
+    "phonetic": "fēicháng gǎnxiè dàjiā de língtīng, qīdài jiēxiàlái néng gēn gèwèi shēnrù jiāoliú.",
+    "text_native": "Merci beaucoup pour votre écoute, j'ai hâte de pouvoir en discuter plus en détail avec vous.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  },
+  {
+    "text_target": "会后如果还有没聊透的，随时欢迎来找我探讨。",
+    "phonetic": "huì hòu rúguǒ hái yǒu méi liáo tòu de, suíshí huānyíng lái zhǎo wǒ tǎntǎo.",
+    "text_native": "Si certains points restent flous, n'hésitez pas à venir me voir après la réunion pour en parler.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B2"
+  }
+]

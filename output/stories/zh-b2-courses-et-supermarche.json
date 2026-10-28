@@ -1,0 +1,217 @@
+{
+  "title": "超市购物的烦恼与解决",
+  "new_vocabulary": [
+    "偶尔",
+    "忘记",
+    "补充",
+    "消耗",
+    "消耗量",
+    "营养",
+    "搭配",
+    "建议",
+    "烹饪",
+    "方式",
+    "清淡",
+    "油腻",
+    "避免",
+    "浪费",
+    "理性",
+    "预算",
+    "超过",
+    "促销",
+    "活动",
+    "吸引",
+    "注意力",
+    "标签",
+    "仔细",
+    "核对",
+    "总额",
+    "积分",
+    "兑换",
+    "礼品",
+    "便利",
+    "体验"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "偶尔我会忘记家里缺少哪些日常用品，所以今天我必须仔细检查冰箱。",
+      "phonetic": "ǒu'ěr wǒ huì wàngjì jiālǐ quēshǎo nǎxiē rìcháng yòngpǐn, suǒyǐ jīntiān wǒ bìxū zǐxì jiǎnchá bīngxiāng.",
+      "text_native": "Il m'arrive parfois d'oublier quels articles de première nécessité manquent à la maison, alors aujourd'hui je dois vérifier attentivement le réfrigérateur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "为了补充一周的消耗量，我决定制定一份更加健康的饮食计划。",
+      "phonetic": "wèile bǔchōng yīzhōu de xiāohào liàng, wǒ juédìng zhìdìng yīfèn gèngjiā jiànkāng de yǐnshí jìhuà.",
+      "text_native": "Afin de subvenir à la consommation de la semaine, j'ai décidé d'établir un plan alimentaire plus sain."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "营养搭配非常重要，因此蔬菜和优质肉类是不可缺少的。",
+      "phonetic": "yíngyǎng dāpèi fēicháng zhòngyào, yīncǐ shūcài hé yōuzhì ròulèi shì bù kě quēshǎo de.",
+      "text_native": "L'association nutritionnelle est très importante, c'est pourquoi les légumes et les viandes de qualité sont indispensables."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "朋友常常建议我改变烹饪方式，多吃清淡的食物，少吃油腻的东西。",
+      "phonetic": "péngyǒu chángcháng jiànyì wǒ gǎibiàn pēngrèn fāngshì, duō chī qīngdàn de shíwù, shǎo chī yóunì de dōngxī.",
+      "text_native": "Un ami me suggère souvent de changer ma façon de cuisiner, de manger plus d'aliments légers et moins de choses grasses."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "为了避免浪费，我在出发前特意估算了大概的预算。",
+      "phonetic": "wèile bìmiǎn làngfèi, wǒ zài chūfā qián tèyì gūsuàn le dàgài de yùsuàn.",
+      "text_native": "Pour éviter le gaspillage, j'ai estimé exprès le budget approximatif avant de partir."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "走到附近的大型超市门口时，我发现推车已经所剩无几了。",
+      "phonetic": "zǒu dào fùjìn de dàxíng chāoshì ménkǒu shí, wǒ fāxiàn tuīchē yǐjīng suǒ shèng wú jǐ le.",
+      "text_native": "En arrivant devant l'entrée du grand supermarché voisin, j'ai constaté qu'il ne restait presque plus de chariots."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我迅速拉住一辆空车，熟练地向生鲜食品区域走去。",
+      "phonetic": "wǒ xùnsù lā zhù yīliàng kōngchē, shùliàn de xiàng shēngxiān shípǐn qūyù zǒu qù.",
+      "text_native": "J'ai rapidement saisi un chariot vide et me suis dirigé habilement vers la zone des produits frais."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "今天西红柿和土豆的价格比上个周末稍微贵了一些。",
+      "phonetic": "jīntiān xīhóngshì hé tǔdòu de jiàgé bǐ shàng gè zhōumò shāowēi guì le yīxiē.",
+      "text_native": "Aujourd'hui, les prix des tomates et des pommes de terre sont un peu plus élevés que le week-end dernier."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我仔细挑选了几斤新鲜的蔬菜，放进购物篮里。",
+      "phonetic": "wǒ zǐxì tiāoxuǎn le jǐ jīn xīnxiān de shūcài, fàng jìn gòuwù lán lǐ.",
+      "text_native": "J'ai soigneusement sélectionné quelques jin de légumes frais et les ai mis dans le panier."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "货架上的各类饮料和饼干正在搞促销活动，吸引了很多顾客的注意力。",
+      "phonetic": "huòjià shàng de gè lèi yǐnliào hé bǐnggān zhèngzài gǎo cùxiāo huódòng, xīyǐn le hěn duō gùkè de zhùyìlì.",
+      "text_native": "Toutes sortes de boissons et de biscuits sur les étagères font l'objet d'activités promotionnelles, attirant l'attention de nombreux clients."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "虽然这些零食看起来很美味，但我必须保持理性，不能冲动购买。",
+      "phonetic": "suīrán zhèxiē língshí kàn qǐlái hěn měiwèi, dàn wǒ bìxū bǎochí lǐxìng, bùnéng chōngdòng gòumǎi.",
+      "text_native": "Bien que ces en-cas aient l'air délicieux, je dois garder la raison et ne pas faire d'achats impulsifs."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "冷藏柜里的牛奶和鸡蛋品质很好，我各拿了两盒。",
+      "phonetic": "lěngcáng guì lǐ de niúnǎi hé jīdàn pǐnzhì hěn hǎo, wǒ gè ná le liǎng hé.",
+      "text_native": "Le lait et les œufs dans le meuble réfrigéré sont d'excellente qualité, j'en ai pris deux boîtes de chaque."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "走过肉类专柜时，我顺便称了一斤优质的鸡肉。",
+      "phonetic": "zǒu guò ròulèi zhuānguì shí, wǒ shùnbiàn chēng le yī jīn yōuzhì de jīròu.",
+      "text_native": "En passant devant le rayon de la viande, j'en ai profité pour faire peser un jin de poulet de qualité."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "购物车渐渐满了，推起来也稍微费力了一些。",
+      "phonetic": "gòuwù chē jiànjiàn mǎn le, tuī qǐlái yě shāowēi fèilì le yīxiē.",
+      "text_native": "Le caddie s'est progressivement rempli, et le pousser est devenu un peu plus difficile."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我推着车转向结账的方向，发现排队的人并不算太多。",
+      "phonetic": "wǒ tuī zhe chē zhuǎnxiàng jiézhàng de fāngxiàng, fāxiàn páiduì de rén bìng bù suàn tài duō.",
+      "text_native": "Je poussais le chariot en direction de la caisse et j'ai constaté qu'il n'y avait pas tant de monde que ça qui faisait la queue."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "等待轮到我的时候，我顺便查看了手里的购物清单。",
+      "phonetic": "děngdài lún dào wǒ de shíhòu, wǒ shùnbiàn chākǎn le shǒu lǐ de gòuwù qīngdān.",
+      "text_native": "En attendant que ce soit mon tour, j'en ai profité pour consulter ma liste de courses."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "收银员熟练地扫描每一个商品，屏幕上立刻显示出总额。",
+      "phonetic": "shōuyínhéng yuán shùliàn de sǎomiáo měi yīgè shāngpǐn, píngmù shàng lìkè xiǎnshì chū zǒng'é.",
+      "text_native": "La caissière a scanné habilement chaque article, et le montant total s'est affiché immédiatement sur l'écran."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "为了确认价格是否准确，我仔细核对了一下标签和明细。",
+      "phonetic": "wèile quèrèn jiàgé shìfǒu zhǔquè, wǒ zǐxì héduì le yīxià biāoqiān hé míngxì.",
+      "text_native": "Pour confirmer si le prix était exact, j'ai vérifié attentivement l'étiquette et le détail."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "总金额没有超过我的预算，这让我感到十分高兴。",
+      "phonetic": "zǒng jīn'é méiyǒu chāoguò wǒ de yùsuàn, zhè ràng wǒ gǎndào shífēn gāoxìng.",
+      "text_native": "Le montant total n'a pas dépassé my budget, ce qui m'a ravi."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "今天我不打算使用现金，而是直接拿出了手机进行移动支付。",
+      "phonetic": "jīntiān wǒ bù dǎsuàn shǐyòng xiànjīn, ér shì zhíjiē ná chū le shǒujī jìnxíng yídòng zhīfù.",
+      "text_native": "Aujourd'hui, je n'avais pas l'intention d'utiliser d'espèces, mais plutôt de sortir directement mon téléphone pour effectuer un paiement mobile."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "付款成功之后，收银员问我是否需要积分兑换礼品。",
+      "phonetic": "fùkuǎn chénggōng zhīhòu, shōuyínhéng yuán wèn wǒ shìfǒu xūyào jīfēn duìhuàn lǐpǐn.",
+      "text_native": "Une fois le paiement réussi, la caissière m'a demandé si je voulais cumuler des points pour les échanger contre des cadeaux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我摇了摇头回答说不需要，因为家里已经有很多小东西了。",
+      "phonetic": "wǒ yáo le yáo tóu huídá shuō bù xūyào, yīnwèi jiālǐ yǐjīng yǒu hěn duō xiǎo dōngxī le.",
+      "text_native": "J'ai secoué la tête en répondant que non, car il y a déjà beaucoup de babioles à la maison."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "随后，我把所有的物品整齐地装进自带的环保袋里。",
+      "phonetic": "suíhòu, wǒ bǎ suǒyǒu de wùpǐn zhěngqí de zhuāng jìn zìdài de huánbǎo dài lǐ.",
+      "text_native": "Ensuite, j'ai rangé proprement tous les articles dans mon propre sac cabas écologique."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "拎着沉甸甸的袋子，我满意地向超市出口走去。",
+      "phonetic": "līn zhe chéndiàndiàn de dàizi, wǒ mǎnyì de xiàng chāoshì chūkǒu zǒu qù.",
+      "text_native": "Portant le sac bien lourd, je me suis dirigé avec satisfaction vers la sortie du supermarché."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "现代大型超市确实给我们带来了极大的便利和良好的购物体验。",
+      "phonetic": "xiàndài dàxíng chāoshì quèshí gěi wǒmen dài lái le jídà de biànlì hé liánghǎo de gòuwù tǐyàn.",
+      "text_native": "Les grands supermarchés modernes nous apportent effectivement une grande commodité et une excellente expérience d'achat."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "走出大门时，天空开始飘起几滴微小的雨丝。",
+      "phonetic": "zǒu chū dàmén shí, tiānkōng kāishǐ piāo qǐ jǐ dī wēixiǎo de yǔsī.",
+      "text_native": "En sortant, le ciel a commencé à laisser tomber quelques fines gouttes de pluie."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "幸好我步行回家的距离不远，十几分钟就能顺利到达。",
+      "phonetic": "xìnghǎo wǒ bùxíng huí jiā de jùlí bù yuǎn, shí jǐ fēnzhōng jiù néng shùnlì dàodá.",
+      "text_native": "Heureusement, la distance pour rentrer chez soi à pied n'est pas grande, en une dizaine de minutes je peux y arriver sans encombre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "回到厨房后，我把新鲜的水果和蔬菜放回冰箱保存。",
+      "phonetic": "huídào chúfáng hòu, wǒ bǎ xīnxiān de shuǐguǒ hé shūcài fàng huí bīngxiāng bǎocún.",
+      "text_native": "De retour dans la cuisine, j'ai remis les fruits et légumes frais dans le réfrigérateur pour les conserver."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "看着满满的冰箱，我心里觉得十分踏实和满足。",
+      "phonetic": "kàn zhe mǎn mǎn de bīngxiāng, wǒ xīnlǐ juéde shífēn tāshí hé mǎnzú.",
+      "text_native": "En regardant le réfrigérateur bien rempli, je me suis senti tout à fait serein et comblé."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "这次愉快的购物经历让我对周末的生活充满了期待。",
+      "phonetic": "zhè cì yúkuài de gòuwù jīnglì ràng wǒ duì zhōumò de shēnghuó chōngmǎn le qídài.",
+      "text_native": "Cette agréable expérience de courses m'a rempli d'attentes pour le reste du week-end."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "A Sick Day",
+  "new_vocabulary": [
+    "sick",
+    "headache",
+    "fever",
+    "temperature",
+    "thermometer",
+    "bed",
+    "rest",
+    "pharmacy",
+    "pharmacist",
+    "box",
+    "tablet",
+    "glass",
+    "kitchen",
+    "living room",
+    "sofa",
+    "blanket",
+    "table",
+    "kitchen counter",
+    "label",
+    "instructions",
+    "dose",
+    "hours",
+    "package",
+    "food",
+    "stomach",
+    "health",
+    "phone",
+    "sleep",
+    "recovery",
+    "tomorrow"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom wakes up in his bed.",
+      "phonetic": "/tɒm weɪks ʌp ɪn hɪz bɛd/",
+      "text_native": "Tom se réveille dans son lit."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He feels very sick today.",
+      "phonetic": "/hi fiːlz ˈvɛri sɪk təˈdeɪ/",
+      "text_native": "Il se sent très malade aujourd'hui."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He has a bad headache and a fever.",
+      "phonetic": "/hi hæz ə bæd ˈhɛdˌeɪk ænd ə ˈfiːvə/",
+      "text_native": "Il a un affreux mal de tête et de la fièvre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom takes the thermometer to check his temperature.",
+      "phonetic": "/tɒm teɪks ðə θəˈmɒmɪtə tu tʃɛk hɪz ˈtɛmprɪtʃə/",
+      "text_native": "Tom prend le thermomètre pour vérifier sa température."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The doctor is not here.",
+      "phonetic": "/ðə ˈdɒktə ɪz nɒt hɪə/",
+      "text_native": "Le médecin n'est pas là."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He needs to go to the pharmacy.",
+      "phonetic": "/hi niːdz tu gəʊ tu ðə ˈfɑːməsi/",
+      "text_native": "Il doit aller à la pharmacie."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom walks to the local pharmacy near his house.",
+      "phonetic": "/tɒm wɔːks tu ðə ˈləʊkəl ˈfɑːməsi nɪə hɪz haʊs/",
+      "text_native": "Tom se rend à pied à la pharmacie du quartier près de chez lui."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The pharmacist gives him a box of medicine.",
+      "phonetic": "/ðə ˈfɑːməsɪst gɪvz hɪm ə bɒks ɒv ˈmɛdsɪn/",
+      "text_native": "Le pharmacien lui donne une boîte de médicaments."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom returns to his kitchen.",
+      "phonetic": "/tɒm rɪˈtɜːnz tu hɪz ˈkɪtʃɪn/",
+      "text_native": "Tom retourne dans sa cuisine."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He puts the box on the kitchen counter.",
+      "phonetic": "/hi pʊts ðə bɒks ɒn ðə ˈkɪtʃɪn ˈkaʊntə/",
+      "text_native": "Il pose la boîte sur le plan de travail de la cuisine."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He opens the package carefully.",
+      "phonetic": "/hi ˈəʊpənz ðə ˈpækɪdʒ ˈkeəfʊli/",
+      "text_native": "Il ouvre l'emballage avec précaution."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "There is a bottle and a small spoon inside.",
+      "phonetic": "/ðeər ɪz ə ˈbɒtl ænd ə smɔːl spuːn ɪnˈsaɪd/",
+      "text_native": "Il y a une bouteille et une petite cuillère à l'intérieur."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He sees a tablet and reads the label.",
+      "phonetic": "/hi siːz ə ˈtæblɪt ænd riːdz ðə ˈleɪbl/",
+      "text_native": "Il voit un comprimé et lit l'étiquette."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The instructions explain the posology.",
+      "phonetic": "/ði ɪnˈstrʌkʃənz ɪksˈpleɪn ðə pəˈsɒlədʒi/",
+      "text_native": "La notice explique la posologie."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He must take one pill in the morning.",
+      "phonetic": "/hi mʌst teɪk wʌn pɪl ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Il doit prendre un comprimé le matin."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He needs another dose at night.",
+      "phonetic": "/hi niːdz əˈnʌðə dəʊs æt naɪt/",
+      "text_native": "Il a besoin d'une autre dose le soir."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The correct dose is important for his health.",
+      "phonetic": "/ðə kəˈrɛkt dəʊs ɪz ɪmˈpɔːtənt fɔː hɪz hɛlθ/",
+      "text_native": "La bonne posologie est importante pour sa santé."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He fills a glass with fresh water.",
+      "phonetic": "/hi fɪlz ə glɑːs wɪð frɛʃ ˈwɔːtə/",
+      "text_native": "Il remplit un verre d'eau fraîche."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom swallows the pill with the water.",
+      "phonetic": "/tɒm ˈswɒləʊz ðə pɪl wɪð ðə ˈwɔːtə/",
+      "text_native": "Tom avale le comprimé avec l'eau."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He waits a little time in the kitchen.",
+      "phonetic": "/hi weɪts ə ˈlɪtl taɪm ɪn ðə ˈkɪtʃɪn/",
+      "text_native": "Il patiente un moment dans la cuisine."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "His stomach feels a bit strange after the food.",
+      "phonetic": "/hɪz ˈstʌmək fiːlz ə bɪt streɪndʒ ˈɑːftə ðə fuːd/",
+      "text_native": "Son estomac se sent un peu bizarre après avoir mangé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He walks slowly to the living room.",
+      "phonetic": "/hi wɔːks ˈsləʊli tu ðə ˈlɪvɪŋ ruːm/",
+      "text_native": "Il marche lentement vers le salon."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "There is a comfortable sofa near the table.",
+      "phonetic": "/ðeər ɪz ə ˈkʌmfətəbl ˈsəʊfə nɪə ðə ˈteɪbl/",
+      "text_native": "Il y a un canapé confortable près de la table."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Tom lies down on the sofa.",
+      "phonetic": "/tɒm laɪz daʊn ɒn ðə ˈsəʊfə/",
+      "text_native": "Tom s'allonge sur le canapé."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He puts a warm blanket over his legs.",
+      "phonetic": "/hi pʊts ə wɔːm ˈblæŋkɪt ˈəʊvə hɪz lɛgz/",
+      "text_native": "Il pose une couverture chaude sur ses jambes."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He leaves his phone on the small table.",
+      "phonetic": "/hi liːvz hɪz fəʊn ɒn ðə smɔːl ˈteɪbl/",
+      "text_native": "Il laisse son téléphone sur la petite table."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He needs to rest for several hours.",
+      "phonetic": "/hi niːdz tu rɛst fɔː ˈsɛvrəl ˈaʊəz/",
+      "text_native": "Il a besoin de se reposer pendant plusieurs heures."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom closes his eyes and tries to sleep.",
+      "phonetic": "/tɒm ˈkləʊzɪz hɪz aɪz ænd traɪz tu sliːp/",
+      "text_native": "Tom ferme les yeux et essaie de dormir."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Good rest helps his fast recovery.",
+      "phonetic": "/gʊd rɛst hɛlps hɪz fɑːst rɪˈkʌvəri/",
+      "text_native": "Un bon repos l'aide à guérir rapidement."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He will feel much better tomorrow.",
+      "phonetic": "/hi wɪl fiːl mʌtʃ ˈbɛtə təˈmɒrəʊ/",
+      "text_native": "Il se sentira beaucoup mieux demain."
+    }
+  ]
+}

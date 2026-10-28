@@ -1,0 +1,186 @@
+{
+  "title": "At the Doctor",
+  "new_vocabulary": ["doctor", "sick", "headache", "fever", "pharmacy", "medicine"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "My name is Tom.",
+      "phonetic": "maɪ neɪm ɪz tɑm.",
+      "text_native": "Je m'appelle Tom."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I am sick today.",
+      "phonetic": "aɪ æm sɪk təˈdeɪ.",
+      "text_native": "Je suis malade aujourd'hui."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My head hurts.",
+      "phonetic": "maɪ hɛd hɜrts.",
+      "text_native": "J'ai mal à la tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I have a headache.",
+      "phonetic": "aɪ hæv ə ˈhɛdˌeɪk.",
+      "text_native": "J'ai mal à la tête."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I have a fever too.",
+      "phonetic": "aɪ hæv ə ˈfivər tu.",
+      "text_native": "J'ai aussi de la fièvre."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I need a doctor.",
+      "phonetic": "aɪ nid ə ˈdɑktər.",
+      "text_native": "J'ai besoin d'un médecin."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I walk to the clinic.",
+      "phonetic": "aɪ wɔk tu ðə ˈklɪnɪk.",
+      "text_native": "Je marche jusqu'à la clinique."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I open the door.",
+      "phonetic": "aɪ ˈoʊpən ðə dɔr.",
+      "text_native": "Je pousse la porte."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I see the waiting room.",
+      "phonetic": "aɪ si ðə ˈweɪtɪŋ rum.",
+      "text_native": "Je vois la salle d'attente."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Many people are here.",
+      "phonetic": "ˈmɛni ˈpipəl ɑr hir.",
+      "text_native": "Il y a beaucoup de monde."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I sit on a chair.",
+      "phonetic": "aɪ sɪt ɑn ə ʧɛr.",
+      "text_native": "Je m'assois sur une chaise."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I wait ten minutes.",
+      "phonetic": "aɪ weɪt tɛn ˈmɪnəts.",
+      "text_native": "J'attends dix minutes."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "A nurse calls my name.",
+      "phonetic": "ə nɜrs kɔlz maɪ neɪm.",
+      "text_native": "Une infirmière m'appelle."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I stand up.",
+      "phonetic": "aɪ stænd ʌp.",
+      "text_native": "Je me lève."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I walk into the office.",
+      "phonetic": "aɪ wɔk ˈɪntu ðə ˈɔfəs.",
+      "text_native": "J'entre dans le cabinet."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The doctor smiles.",
+      "phonetic": "ðə ˈdɑktər smaɪlz.",
+      "text_native": "Le médecin sourit."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He says hello.",
+      "phonetic": "hi sɛz həˈloʊ.",
+      "text_native": "Il dit bonjour."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I sit down.",
+      "phonetic": "aɪ sɪt daʊn.",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He asks what is wrong.",
+      "phonetic": "hi æsks wʌt ɪz rɔŋ.",
+      "text_native": "Il me demande ce qui ne va pas."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I explain my problem.",
+      "phonetic": "aɪ ɪkˈspleɪn maɪ ˈprɑbləm.",
+      "text_native": "J'explique mon problème."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He listens to me.",
+      "phonetic": "hi ˈlɪsənz tu mi.",
+      "text_native": "Il m'écoute."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He checks my temperature.",
+      "phonetic": "hi ʧɛks maɪ ˈtɛmpərəʧər.",
+      "text_native": "Il prend ma température."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He examines my throat.",
+      "phonetic": "hi ɪɡˈzæmənz maɪ θroʊt.",
+      "text_native": "Il examine ma gorge."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He writes on paper.",
+      "phonetic": "hi raɪts ɑn ˈpeɪpər.",
+      "text_native": "Il écrit sur une feuille."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He gives me a prescription.",
+      "phonetic": "hi gɪvz mi ə prɪˈskrɪpʃən.",
+      "text_native": "Il me donne une ordonnance."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I take the paper.",
+      "phonetic": "aɪ teɪk ðə ˈpeɪpər.",
+      "text_native": "Je prends l'ordonnance."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I say thank you.",
+      "phonetic": "aɪ seɪ θæŋk ju.",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I leave the clinic.",
+      "phonetic": "aɪ liv ðə ˈklɪnɪk.",
+      "text_native": "Je quitte la clinique."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I go to the pharmacy.",
+      "phonetic": "aɪ goʊ tu ðə ˈfɑrməsi.",
+      "text_native": "Je vais à la pharmacie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I buy my medicine.",
+      "phonetic": "aɪ baɪ maɪ ˈmɛdəsən.",
+      "text_native": "J'achète mes médicaments."
+    }
+  ]
+}

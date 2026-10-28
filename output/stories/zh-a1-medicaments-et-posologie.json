@@ -1,0 +1,205 @@
+{
+  "title": "买药和吃药",
+  "new_vocabulary": [
+    "买",
+    "医生",
+    "感冒",
+    "药店",
+    "瓶",
+    "每天",
+    "次",
+    "粒",
+    "早",
+    "晚",
+    "饭",
+    "后",
+    "温水",
+    "杯",
+    "休息",
+    "好",
+    "身体",
+    "谢谢"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我感冒了。",
+      "phonetic": "Jīntiān wǒ gǎnmào le.",
+      "text_native": "Aujourd'hui, je suis enrhumé."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "医生说我要买药。",
+      "phonetic": "Yīshēng shuō wǒ yào mǎi yào.",
+      "text_native": "Le médecin m'a dit de comprar des médicaments / Le médecin dit que je dois acheter des médicaments."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我走去药店。",
+      "phonetic": "Wǒ zǒu qù yàodiàn.",
+      "text_native": "Je vais à la pharmacie à pied."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "药店很大。",
+      "phonetic": "Yàodiàn hěn dà.",
+      "text_native": "La pharmacie est grande."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我看药。",
+      "phonetic": "Wǒ kàn yào.",
+      "text_native": "Je regarde les médicaments."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我买一瓶药。",
+      "phonetic": "Wǒ mǎi yì píng yào.",
+      "text_native": "J'achète un flacon de médicament."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "药是白色的。",
+      "phonetic": "Yào shì báisè de.",
+      "text_native": "Le médicament est blanc."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我回家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre chez moi."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我拿出一粒药。",
+      "phonetic": "Wǒ ná chū yí lì yào.",
+      "text_native": "Je sors un comprimé."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我看药的说明书。",
+      "phonetic": "Wǒ kàn yào de shuōmíngshū.",
+      "text_native": "Je lis la notice du médicament."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "医生说每天吃两次。",
+      "phonetic": "Yīshēng shuō měitiān chī liǎng cì.",
+      "text_native": "Le médecin a dit de le prendre deux fois par jour."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "每天吃两次药。",
+      "phonetic": "Měitiān chī liǎng cì yào.",
+      "text_native": "Je prends le médicament deux fois par jour."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "每次吃两粒。",
+      "phonetic": "Měi cì chī liǎng lì.",
+      "text_native": "Je prends deux comprimés à chaque fois."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "早饭后吃药。",
+      "phonetic": "Zǎofàn hòu chī yào.",
+      "text_native": "Je prends le médicament après le petit-déjeuner."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "晚饭后吃药。",
+      "phonetic": "Wǎnfàn hòu chī yào.",
+      "text_native": "Je prends le médicament après le dîner."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我倒了一杯水。",
+      "phonetic": "Wǒ dào le yì bēi shuǐ.",
+      "text_native": "Je verse un verre d'eau."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "水是温的。",
+      "phonetic": "Shuǐ shì wēn de.",
+      "text_native": "L'eau est tiède."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我喝温水。",
+      "phonetic": "Wǒ hē wēnshuǐ.",
+      "text_native": "Je bois de l'eau tiède."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我把药放进嘴里。",
+      "phonetic": "Wǒ bǎ yào fàng jìn zuǐ lǐ.",
+      "text_native": "Je mets le médicament dans ma bouche."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我用水把药吞下去。",
+      "phonetic": "Wǒ yòng shuǐ bǎ yào tūn xiàqù.",
+      "text_native": "J'avale le médicament avec de l'eau."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "药有一点儿苦。",
+      "phonetic": "Yào yǒu yìdiǎnr kǔ.",
+      "text_native": "Le médicament est un peu amer."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我多喝了几口水。",
+      "phonetic": "Wǒ duō hē le jǐ kǒu shuǐ.",
+      "text_native": "Je bois un peu plus d'eau."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "吃药以后要休息。",
+      "phonetic": "Chī yào yǐhòu yào xiūxí.",
+      "text_native": "Il faut se reposer après avoir pris le médicament."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我在床上休息。",
+      "phonetic": "Wǒ zài chuáng shàng xiūxí.",
+      "text_native": "Je me repose sur le lit."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "药很有效。",
+      "phonetic": "Yào hěn yǒuxiào.",
+      "text_native": "Le médicament est très efficace."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我的身体慢慢好起来了。",
+      "phonetic": "Wǒ de shēntǐ mànmàn hǎo qǐlái le.",
+      "text_native": "Mon état s'améliore petit à petit."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "感冒好了。",
+      "phonetic": "Gǎnmào hǎo le.",
+      "text_native": "Le rhume est guéri."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "药瓶空了。",
+      "phonetic": "Yàopíng kōng le.",
+      "text_native": "Le flacon de médicament est vide."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我对医生说谢谢。",
+      "phonetic": "Wǒ duì yīshēng shuō xièxiè.",
+      "text_native": "Je dis merci au médecin."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在我很健康。",
+      "phonetic": "Xiànzài wǒ hěn jiànkāng.",
+      "text_native": "Maintenant, je suis en bonne santé."
+    }
+  ]
+}

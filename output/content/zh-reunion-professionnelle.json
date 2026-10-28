@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "大家请坐，我们马上开始开会。",
+    "phonetic": "Dàjiā qǐng zuò, wǒmen mǎshàng kāishǐ kāihuì.",
+    "text_native": "Asseyez-vous tout le monde, on commence la réunion tout de suite.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "今天主要讨论下季度的项目预算。",
+    "phonetic": "Jīntiān zhǔyào tǎolùn xià jìdù de xiàngmù yùsuàn.",
+    "text_native": "Aujourd'hui, on va principalement parler du budget des projets pour le trimestre prochain.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "小王，你先展示一下上个月的数据吧。",
+    "phonetic": "Xiǎo Wáng, nǐ xiān zhǎnshì yíxià shàng gè yuè de shùjù ba.",
+    "text_native": "Xiao Wang, tu peux nous présenter les chiffres du mois dernier pour commencer ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "从图表来看，我们的线上销售增长了不少。",
+    "phonetic": "Cóng túbiǎo lái kàn, wǒmen de xiànshàng xiāoshòu zēngzhǎng le bùshǎo.",
+    "text_native": "D'après le graphique, nos ventes en ligne ont pas mal augmenté.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "不过，物流成本比之前高了一点。",
+    "phonetic": "Bùguò, wùliú chéngběn bǐ zhīqián gāo le yì diǎn.",
+    "text_native": "Par contre, les coûts de logistique ont un peu grimpé par rapport à avant.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "大家对这个情况有什么看法吗？",
+    "phonetic": "Dàjiā duì zhè gè qíngkuàng yǒu shénme kànfǎ ma?",
+    "text_native": "Est-ce que certains d'entre vous ont un avis sur cette situation ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我补充一句，主要是因为人工费用涨了。",
+    "phonetic": "Wǒ bǔchōng yí jù, zhǔyào shì yīnwèi réngōng fèiyong zhǎng le.",
+    "text_native": "Je me permets d'ajouter un détail, c'est surtout à cause de la hausse des salaires.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我完全同意这个分析，我们得找个省钱的办法。",
+    "phonetic": "Wǒ wánquán tóngyì zhè gè fēnxī, wǒmen děi zhǎo gè shěng qián de bànfǎ.",
+    "text_native": "Je suis tout à fait d'accord avec cette analyse, il faut qu'on trouve un moyen de faire des économies.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "针对这个问题，我建议换一个快递供应商。",
+    "phonetic": "Zhēndui zhè gè wèntí, wǒ jiànyì huàn yí gè kuàidì gòngyīngshāng.",
+    "text_native": "Pour régler ce problème, je suggère qu'on change de prestataire de livraison.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这个方案听起来可行，但我们需要做个测试。",
+    "phonetic": "Zhè gè fāng'àn tīng qǐlái kěxíng, dàn wǒmen xūyào zuò gè cèshì.",
+    "text_native": "Cette solution a l'air faisable, mais il nous faudrait faire un test avant.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "抱歉打断一下，我想确认合同的截止日期是几号？",
+    "phonetic": "Bàoqiàn dǎduàn yíxià, wǒ xiǎng quèrèn hétóng de jiézhǐ rìqī shì jǐ hào?",
+    "text_native": "Désolé de couper la parole, je voudrais juste confirmer la date limite pour le contrat.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "合同内页写得很清楚，本周五是最后期限。",
+    "phonetic": "Hétóng nèiyè xiě de hěn qīngchǔ, běn zhōuwǔ shì zuìhòu qīxiàn.",
+    "text_native": "C'est écrit clairement dans les pages intérieures du contrat, c'est ce vendredi la date limite.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "时间差不多了，我们抓紧讨论下一个议题。",
+    "phonetic": "Shíjiān chàbuduō le, wǒmen zhuājǐn tǎolùn xià yí gè yìtí.",
+    "text_native": "Le temps avance, dépêchons-nous d'embrayer sur le point suivant de l'ordre du jour.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "关于新产品的设计稿，市场部还有什么要求吗？",
+    "phonetic": "Guānyú xīn chǎnpǐn de shèjì gǎo, shìchǎng bù hái yǒu shénme yāoqiú ma?",
+    "text_native": "Concernant les maquettes du nouveau produit, est-ce que le service marketing a d'autres exigences ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "色彩方面希望能更年轻化一点，吸引年轻消费者。",
+    "phonetic": "Sècǎi fāngmiàn xīwàng néng gèng niánqīnghuà yìdiǎn, xīyǐn niánqīng xiāofèizhě.",
+    "text_native": "Niveau couleurs, on aimerait que ce soit un peu plus jeune pour attirer un public jeune.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "设计团队会根据这个反馈尽快调整细节。",
+    "phonetic": "Shèjì tuánduì huì gēnjù zhè gè fǎnkuì jǐnkuài tiáozhěng xìjié.",
+    "text_native": "L'équipe design va prendre en compte ces retours pour ajuster les détails au plus vite.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "如果大家没有别的异议，我们就暂时定下这个方案。",
+    "phonetic": "Rúguǒ dàjiā méiyǒu bié de yìyì, wǒmen jiù zhànshí dìng xià zhè gè fāng'àn.",
+    "text_native": "Si personne n'a d'autres objections, on valide cette option pour le moment.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "会议纪要稍后会发到每个人的邮箱里。",
+    "phonetic": "Huìyì jìyào shāohòu huì fā dào měi gè rén de yóuxiāng lǐ.",
+    "text_native": "Le compte-rendu de réunion sera envoyé dans la boîte mail de tout le monde tout à l'heure.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "请各部门负责人督促好各自团队的后续执行。",
+    "phonetic": "Qǐng gè bùmén fùzérén dūcù hǎo gèzì tuánduì de hòuxù zhíxíng.",
+    "text_native": "Je demande aux responsables de département de bien superviser le suivi dans leurs équipes respectives.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "今天的会议就到这里，谢谢大家的配合，散会。",
+    "phonetic": "Jīntiān de huìyì jiù dào zhèlǐ, xièxie dàjiā de pèihé, sànhuì.",
+    "text_native": "On s'arrête là pour aujourd'hui, merci à tous pour votre participation, la séance est levée.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  }
+]

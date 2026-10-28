@@ -1,0 +1,186 @@
+{
+  "title": "A Bad Day",
+  "new_vocabulary": ["help", "fire", "hurt", "danger", "police", "call", "safe"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom is at home.",
+      "phonetic": "/tɒm ɪz æt hoʊm/",
+      "text_native": "Tom est à la maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "It is ten o'clock.",
+      "phonetic": "/ɪt ɪz tɛn əˈklɒk/",
+      "text_native": "Il est dix heures."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Tom looks in the kitchen.",
+      "phonetic": "/tɒm lʊks ɪn ðə ˈkɪtʃən/",
+      "text_native": "Tom regarde dans la cuisine."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "There is smoke.",
+      "phonetic": "/ðɛr ɪz smoʊk/",
+      "text_native": "Il y a de la fumée."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "There is fire.",
+      "phonetic": "/ðɛr ɪz ˈfaɪər/",
+      "text_native": "Il y a du feu."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Tom is afraid.",
+      "phonetic": "/tɒm ɪz əˈfreɪd/",
+      "text_native": "Tom a peur."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He has a phone.",
+      "phonetic": "/hiː hæz ə foʊn/",
+      "text_native": "Il a un téléphone."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He calls for help.",
+      "phonetic": "/hiː kɔːlz fɔːr hɛlp/",
+      "text_native": "Il appelle à l'aide."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He dials nine one one.",
+      "phonetic": "/hiː ˈdaɪəlz naɪn wʌn wʌn/",
+      "text_native": "Il compose le 911."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "A woman answers.",
+      "phonetic": "/ə ˈwʊmən ˈænsərz/",
+      "text_native": "Une femme répond."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom speaks.",
+      "phonetic": "/tɒm spiːks/",
+      "text_native": "Tom parle."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He says fire.",
+      "phonetic": "/hiː sɛz ˈfaɪər/",
+      "text_native": "Il crie au feu."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He gives his address.",
+      "phonetic": "/hiː gɪvz hɪz əˈdrɛs/",
+      "text_native": "Il donne son adresse."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The woman says wait.",
+      "phonetic": "/ðə ˈwʊmən sɛz weɪt/",
+      "text_native": "La femme lui dit d'attendre."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Tom runs outside.",
+      "phonetic": "/tɒm rʌnz ˈaʊtˈsaɪd/",
+      "text_native": "Tom court dehors."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He is in the street.",
+      "phonetic": "/hiː ɪz ɪn ðə striːt/",
+      "text_native": "Il est dans la rue."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He is safe.",
+      "phonetic": "/hiː ɪz seɪf/",
+      "text_native": "Il est en sécurité."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He waits.",
+      "phonetic": "/hiː weɪts/",
+      "text_native": "Il attend."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He hears a siren.",
+      "phonetic": "/hiː hɪərz ə ˈsaɪrən/",
+      "text_native": "Il entend une sirène."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "A red truck arrives.",
+      "phonetic": "/ə rɛd trʌk əˈraɪvz/",
+      "text_native": "Un camion rouge arrive."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Firefighters are here.",
+      "phonetic": "/ˈfaɪərˌfaɪtərz ɑːr hɪər/",
+      "text_native": "Les pompiers sont là."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "They are fast.",
+      "phonetic": "/ðeɪ ɑːr fɑːst/",
+      "text_native": "Ils sont rapides."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The police arrive too.",
+      "phonetic": "/ðə pəˈliːs əˈraɪv tuː/",
+      "text_native": "La police arrive aussi."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Tom talks to them.",
+      "phonetic": "/tɒm tɔːks tuː ðɛm/",
+      "text_native": "Tom leur parle."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He is not hurt.",
+      "phonetic": "/hiː ɪz nɒt hɜːrt/",
+      "text_native": "Il n'est pas blessé."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The fire is small.",
+      "phonetic": "/ðə ˈfaɪər ɪz smɔːl/",
+      "text_native": "Le feu est petit."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "They stop the fire.",
+      "phonetic": "/ðeɪ stɒp ðə ˈfaɪər/",
+      "text_native": "Ils éteignent le feu."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The danger is gone.",
+      "phonetic": "/ðə ˈdeɪndʒər ɪz gɒn/",
+      "text_native": "Le danger est écarté."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom breathes.",
+      "phonetic": "/tɒm briːðz/",
+      "text_native": "Tom respire."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now he is okay.",
+      "phonetic": "/naʊ hiː ɪz oʊˈkeɪ/",
+      "text_native": "Maintenant, il va bien."
+    }
+  ]
+}

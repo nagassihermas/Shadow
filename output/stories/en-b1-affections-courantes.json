@@ -1,0 +1,221 @@
+{
+  "title": "A Bad Flu",
+  "new_vocabulary": [
+    "flu",
+    "winter",
+    "weather",
+    "catch",
+    "serious",
+    "symptoms",
+    "worse",
+    "night",
+    "sleep",
+    "sweat",
+    "chills",
+    "muscles",
+    "ache",
+    "joint",
+    "strength",
+    "message",
+    "boss",
+    "explain",
+    "absence",
+    "appointment",
+    "clinic",
+    "schedule",
+    "patient",
+    "waiting",
+    "room",
+    "nurse",
+    "examine",
+    "chest",
+    "lungs",
+    "prescription",
+    "pharmacy",
+    "recover",
+    "days",
+    "soon"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The winter weather was very cold this week.",
+      "phonetic": "/ðə ˈwɪntər ˈwɛðər wəz ˈvɛri koʊld ðɪs wiːk/",
+      "text_native": "Le temps hivernal était très froid cette semaine."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "David unfortunately caught a bad flu.",
+      "phonetic": "/ˈdeɪvɪd ʌnˈfɔrtʃənətli kɔt ə bæd fluː/",
+      "text_native": "David a malheureusement attrapé une mauvaise grippe."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "His symptoms became much worse during the night.",
+      "phonetic": "/hɪz ˈsɪmptəmz bɪˈkeɪm mʌtʃ wɜrs ˈdʊrɪŋ ðə naɪt/",
+      "text_native": "Ses symptômes ont empiré pendant la nuit."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He could not sleep because of heavy sweats.",
+      "phonetic": "/hi kʊd nɑt sliːp bɪˈkəz ʌv ˈhɛvi swɛts/",
+      "text_native": "Il ne pouvait pas dormir à cause de sueurs abondantes."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Sudden chills shook his entire body.",
+      "phonetic": "/ˈsʌdən tʃɪlz ʃʊk hɪz ɪnˈtaɪər ˈbɑdi/",
+      "text_native": "Des frissons soudains secouaient tout son corps."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "All his muscles and joints started to ache.",
+      "phonetic": "/ɔl hɪz ˈmʌsəlz ænd dʒɔɪnts ˈstɑrtɪd tu eɪk/",
+      "text_native": "Tous ses muscles et ses articulations ont commencé à le faire souffrir."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He felt too weak to get out of bed.",
+      "phonetic": "/hi fɛlt tu wiːk tu gɛt aʊt ʌv bɛd/",
+      "text_native": "Il se sentait trop faible pour sortir du lit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "David tried to find his phone on the table.",
+      "phonetic": "/ˈdeɪvɪd traɪd tu faɪnd hɪz foʊn ɑn ðə ˈteɪbəl/",
+      "text_native": "David a essayé de trouver son téléphone sur la table."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He wrote a quick message to his boss.",
+      "phonetic": "/hi roʊt ə kwɪk ˈmɛsɪdʒ tu hɪz bɑs/",
+      "text_native": "Il a écrit un message rapide à son patron."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He explained his unexpected absence for today.",
+      "phonetic": "/hi ɪkˈspleɪnd hɪz ˌʌnɪkˈspɛktɪd ˈæbsəns fər təˈdeɪ/",
+      "text_native": "Il a expliqué son absence imprévue pour la journée."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "His head hurt badly when he looked at the screen.",
+      "phonetic": "/hɪz hɛd hɜrt ˈbædli wɛn hi lʊkt æt ðə skriːn/",
+      "text_native": "Sa tête lui faisait très mal quand il regardait l'écran."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He decided to call a local medical clinic.",
+      "phonetic": "/hi dɪˈsaɪdɪd tu kɔl ə ˈloʊkəl ˈmɛdɪkəl ˈklɪnɪk/",
+      "text_native": "Il a décidé d'appeler une clinique médicale locale."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The receptionist scheduled an urgent appointment.",
+      "phonetic": "/ðə rɪˈsɛpʃənɪst ˈskɛdʒʊld ən ˈɜrdʒənt əˈpɔɪntmənt/",
+      "text_native": "La réceptionniste a planifié un rendez-vous urgent."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He dressed very slowly and wore a warm coat.",
+      "phonetic": "/hi drɛst ˈvɛri ˈsloʊli ænd wɔr ə wɔrm koʊt/",
+      "text_native": "Il s'est habillé très lentement et a enfilé un manteau chaud."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The walk outside made him shiver again.",
+      "phonetic": "/ðə wɔk ˈaʊtsaɪd meɪd hɪm ˈʃɪvər əˈɡɛn/",
+      "text_native": "La marche dehors l'a fait frissonner à nouveau."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "When he arrived, he sat in the quiet waiting room.",
+      "phonetic": "/wɛn hi əˈraɪvd, hi sæt ɪn ðə ˈkwaɪət ˈweɪtɪŋ rum/",
+      "text_native": "Quand il est arrivé, il s'est assis dans la salle d'attente calme."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "A friendly nurse called his name after twenty minutes.",
+      "phonetic": "/ə ˈfrɛndli nɜrs kɔld hɪz neɪm ˈæftər ˈtwɛnti ˈmɪnɪts/",
+      "text_native": "Une infirmière aimable a prononcé son nom après vingt minutes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The doctor welcomed him inside the office.",
+      "phonetic": "/ðə ˈdɑktər ˈwɛlkəmd hɪm ɪnˈsaɪd ði ˈɔfɪs/",
+      "text_native": "Le médecin l'a fait entrer dans son bureau."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "David described every single painful symptom.",
+      "phonetic": "/ˈdeɪvɪd dɪˈskraɪbd ˈɛvəri ˈsɪŋgəl ˈpeɪnfəl ˈsɪmptəm/",
+      "text_native": "David a décrit chaque symptôme douloureux."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The physician checked his temperature with a thermometer.",
+      "phonetic": "/ðə fɪˈzɪʃən tʃɛkt hɪz ˈtɛmprətʃər wɪð ə θərˈmɑmətər/",
+      "text_native": "Le médecin a pris sa température avec un thermomètre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The high fever was confirmed immediately.",
+      "phonetic": "/ðə haɪ ˈfivər wəz kənˈfɜrmd ɪˈmidiətli/",
+      "text_native": "La forte fièvre a été confirmée immédiatement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He listened carefully to David's chest and lungs.",
+      "phonetic": "/hi ˈlɪsənd ˈkɛrfuli tu ˈdeɪvɪdz tʃɛst ænd lʌŋz/",
+      "text_native": "Il a ausculté attentivement la poitrine et les poumons de David."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He confirmed it was a serious respiratory infection.",
+      "phonetic": "/hi kənˈfɜrmd ɪt wəz ə ˈsɪriəs ˈrɛspərətɔri ɪnˈfɛkʃən/",
+      "text_native": "Il a confirmé qu'il s'agissait d'une infection respiratoire grave."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The doctor wrote a professional prescription on paper.",
+      "phonetic": "/ðə ˈdɑktər roʊt ə prəˈfɛʃənəl prɪˈskrɪpʃən ɑn ˈpeɪpər/",
+      "text_native": "Le médecin a rédigé une ordonnance sur papier."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "David walked slowly to the local pharmacy.",
+      "phonetic": "/ˈdeɪvɪd wɔkt ˈsloʊli tu ðə ˈloʊkəl ˈfɑrməsi/",
+      "text_native": "David a marché lentement jusqu'à la pharmacie du quartier."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The pharmacist gave him strong medicine and syrup.",
+      "phonetic": "/ðə ˈfɑrməsɪst geɪv hɪm strɔŋ ˈmɛdɪsɪn ænd ˈsɪrəp/",
+      "text_native": "Le pharmacien lui a délivré des médicaments puissants et du sirop."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He returned home and drank a hot glass of water.",
+      "phonetic": "/hi rɪˈtɜrnd hoʊm ænd dræŋk ə hɑt glæs ʌv ˈwɔtər/",
+      "text_native": "Il est rentré chez lui et a bu un verre d'eau chaude."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He pulled the thick blanket over his body.",
+      "phonetic": "/hi pʊld ðə θɪk ˈblæŋkɪt ˈoʊvər hɪz ˈbɑdi/",
+      "text_native": "Il a tiré une épaisse couverture sur son corps."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Good rest and proper care helped him recover.",
+      "phonetic": "/gʊd rɛst ænd ˈprɑpər kɛr hɛlpt hɪm rɪˈkʌvər/",
+      "text_native": "Un bon repos et des soins appropriés l'ont aidé à guérir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His health returned to normal after a few days.",
+      "phonetic": "/hɪz hɛlθ rɪˈtɜrnd tu ˈnɔrməl ˈæftər ə fjuː deɪz/",
+      "text_native": "Sa santé est redevenue normale après quelques jours."
+    }
+  ]
+}

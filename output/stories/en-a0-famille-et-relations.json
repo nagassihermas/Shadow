@@ -1,0 +1,197 @@
+{
+  "title": "My Family",
+  "new_vocabulary": [
+    "family",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "live",
+    "house",
+    "big",
+    "small",
+    "love"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "This is my family.",
+      "phonetic": "/ðɪs ɪz maɪ ˈfæm.əl.i/",
+      "text_native": "Voici ma famille."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "We live in a house.",
+      "phonetic": "/wi lɪv ɪn ə haʊs/",
+      "text_native": "Nous habitons dans une maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The house is big.",
+      "phonetic": "/ðə haʊs ɪz bɪɡ/",
+      "text_native": "La maison est grande."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I have a mother.",
+      "phonetic": "/aɪ hæv ə ˈmʌð.ɚ/",
+      "text_native": "J'ai une mère."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "My mother is nice.",
+      "phonetic": "/maɪ ˈmʌð.ɚ ɪz naɪs/",
+      "text_native": "Ma mère est gentille."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I have a father.",
+      "phonetic": "/aɪ hæv ə ˈfɑːð.ɚ/",
+      "text_native": "J'ai un père."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "My father is tall.",
+      "phonetic": "/maɪ ˈfɑːð.ɚ ɪz tɔːl/",
+      "text_native": "Mon père est grand."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I have a sister.",
+      "phonetic": "/aɪ hæv ə ˈsɪs.tɚ/",
+      "text_native": "J'ai une sœur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "My sister is young.",
+      "phonetic": "/maɪ ˈsɪs.tɚ ɪz jʌŋ/",
+      "text_native": "Ma sœur est jeune."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I have a brother.",
+      "phonetic": "/aɪ hæv ə ˈbrʌð.ɚ/",
+      "text_native": "J'ai un frère."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "My brother is old.",
+      "phonetic": "/maɪ ˈbrʌð.ɚ ɪz oʊld/",
+      "text_native": "Mon frère est plus âgé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "We eat together.",
+      "phonetic": "/wi iːt təˈɡɛð.ɚ/",
+      "text_native": "Nous mangeons ensemble."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "We eat food.",
+      "phonetic": "/wi iːt fuːd/",
+      "text_native": "Nous mangeons."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The food is good.",
+      "phonetic": "/ðə fuːd ɪz ɡʊd/",
+      "text_native": "Le repas est bon."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "We drink water.",
+      "phonetic": "/wi drɪŋk ˈwɑː.tɚ/",
+      "text_native": "Nous buvons de l'eau."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "We talk a lot.",
+      "phonetic": "/wi tɔːk ə lɑːt/",
+      "text_native": "Nous parlons beaucoup."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "We are happy.",
+      "phonetic": "/wi ɑːr ˈhæp.i/",
+      "text_native": "Nous sommes heureux."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "We sit in the room.",
+      "phonetic": "/wi sɪt ɪn ðə ruːm/",
+      "text_native": "Nous sommes assis dans la pièce."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The room is warm.",
+      "phonetic": "/ðə ruːm ɪz wɔːrm/",
+      "text_native": "La pièce est chauffée."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I look at my mother.",
+      "phonetic": "/aɪ lʊk æt maɪ ˈmʌð.ɚ/",
+      "text_native": "Je regarde ma mère."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "She smiles at me.",
+      "phonetic": "/ʃi smaɪlz æt mi/",
+      "text_native": "Elle me sourit."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I look at my father.",
+      "phonetic": "/aɪ lʊk æt maɪ ˈfɑːð.ɚ/",
+      "text_native": "Je regarde mon père."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He speaks to me.",
+      "phonetic": "/hi spiːks tuː mi/",
+      "text_native": "Il me parle."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I play with my sister.",
+      "phonetic": "/aɪ pleɪ wɪð maɪ ˈsɪs.tɚ/",
+      "text_native": "Je joue avec ma sœur."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "We have a toy.",
+      "phonetic": "/wi hæv ə tɔɪ/",
+      "text_native": "Nous avons un jouet."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "My brother reads a book.",
+      "phonetic": "/maɪ ˈbrʌð.ɚ riːdz ə bʊk/",
+      "text_native": "Mon frère lit un livre."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The book is red.",
+      "phonetic": "/ðə bʊk ɪz rɛd/",
+      "text_native": "Le livre est rouge."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The day is nice.",
+      "phonetic": "/ðə deɪ ɪz naɪs/",
+      "text_native": "La journée est belle."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I love my family.",
+      "phonetic": "/aɪ lʌv maɪ ˈfæm.əl.i/",
+      "text_native": "J'aime ma famille."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "They love me too.",
+      "phonetic": "/ðeɪ lʌv mi tuː/",
+      "text_native": "Ils m'aiment aussi."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "title": "At the Restaurant",
+  "new_vocabulary": [
+    "evening", "hungry", "walk", "door", "hello", "person", "waiter", "friend", "sit", "chair", "open", "read", "choose", "fish", "potato", "salad", "drink", "juice", "apple", "order", "speak", "wait", "minute", "plate", "hot", "delicious", "eat", "pay", "card", "leave"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is a nice evening.",
+      "phonetic": "/ɪt ɪz ə naɪs ˈiːvnɪŋ/",
+      "text_native": "C'est une belle soirée."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I am very hungry.",
+      "phonetic": "/aɪ æm ˈvɛri ˈhʌŋɡri/",
+      "text_native": "J'ai très faim."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I walk to the restaurant.",
+      "phonetic": "/aɪ wɔːk tuː ðə ˈrɛstrɒnt/",
+      "text_native": "Je vais au restaurant à pied."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I open the door.",
+      "phonetic": "/aɪ ˈəʊpən ðə dɔː/",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A person says hello.",
+      "phonetic": "/ə ˈpɜːsn sɛz həˈləʊ/",
+      "text_native": "Quelqu'un dit bonjour."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The waiter is nice.",
+      "phonetic": "/ðə ˈweɪtər ɪz naɪs/",
+      "text_native": "Le serveur est gentil."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I am with a friend.",
+      "phonetic": "/aɪ æm wɪð ə frɛnd/",
+      "text_native": "Je suis avec un ami."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "We see a free table.",
+      "phonetic": "/wiː siː ə friː ˈteɪbl/",
+      "text_native": "Nous voyons une table libre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "We sit on the chair.",
+      "phonetic": "/wiː sɪt ɒn ðə tʃɛər/",
+      "text_native": "Nous nous asseyons sur les chaises."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I look at the menu, please.",
+      "phonetic": "/aɪ lʊk æt ðə ˈmɛnjuː pliːz/",
+      "text_native": "Je regarde le menu, s'il vous plaît."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "My friend opens the book.",
+      "phonetic": "/maɪ frɛnd ˈəʊpənz ðə bʊk/",
+      "text_native": "Mon ami ouvre la carte."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "We read the text.",
+      "phonetic": "/wiː riːd ðə tɛkst/",
+      "text_native": "Nous lisons les propositions."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I choose fish and potato.",
+      "phonetic": "/aɪ tʃuːz fɪʃ ænd pəˈteɪtəʊz/",
+      "text_native": "Je choisis du poisson et des pommes de terre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "My friend wants a salad.",
+      "phonetic": "/maɪ frɛnd wɒnts ə ˈsæləd/",
+      "text_native": "Mon ami veut une salade."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "We need some water.",
+      "phonetic": "/wiː niːd sʌm ˈwɔːtər/",
+      "text_native": "Nous avons besoin d'eau."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I ask for apple juice.",
+      "phonetic": "/aɪ ɑːsk fɔːr ˈæpl dʒuːs/",
+      "text_native": "Je demande du jus de pomme."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The waiter speaks to us.",
+      "phonetic": "/ðə ˈweɪtər spiːks tuː ʌs/",
+      "text_native": "Le serveur nous parle."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "We order the food now.",
+      "phonetic": "/wiː ˈɔːdər ðə fuːd naʊ/",
+      "text_native": "Nous commandons les plats maintenant."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "We wait one minute.",
+      "phonetic": "/wiː weɪt wʌn ˈmɪnɪt/",
+      "text_native": "Nous attendons une minute."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He brings a hot plate.",
+      "phonetic": "/hiː brɪŋz ə hɒt pleɪt/",
+      "text_native": "Il apporte une assiette chaude."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The food is very delicious.",
+      "phonetic": "/ðə fuːd ɪz ˈvɛri dɪˈlɪʃəs/",
+      "text_native": "Le repas est délicieux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "We eat everything.",
+      "phonetic": "/wiː iːt ˈɛvriθɪŋ/",
+      "text_native": "Nous mangeons tout."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I drink my water.",
+      "phonetic": "/aɪ drɪŋk maɪ ˈwɔːtər/",
+      "text_native": "Je bois mon eau."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "My friend finishes the juice.",
+      "phonetic": "/maɪ frɛnd ˈfɪnɪʃɪz ðə dʒuːs/",
+      "text_native": "Mon ami finit son jus."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "We ask for the bill.",
+      "phonetic": "/wiː ɑːsk fɔːr ðə bɪl/",
+      "text_native": "Nous demandons l'addition."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I pay with my card.",
+      "phonetic": "/aɪ peɪ wɪð maɪ kɑːd/",
+      "text_native": "Je paie avec ma carte."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I give money, thank you.",
+      "phonetic": "/aɪ gɪv ˈmʌni ˈθæŋk juː/",
+      "text_native": "Je donne l'argent, merci."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The waiter smiles.",
+      "phonetic": "/ðə ˈweɪtər smaɪlz/",
+      "text_native": "Le serveur sourit."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "We leave the restaurant.",
+      "phonetic": "/wiː liːv ðə ˈrɛstrɒnt/",
+      "text_native": "Nous quittons le restaurant."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Goodbye, see you soon.",
+      "phonetic": "/gʊdˈbaɪ siː juː suːn/",
+      "text_native": "Au revoir, à bientôt."
+    }
+  ]
+}

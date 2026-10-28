@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Afternoon in the City",
+  "new_vocabulary": [
+    "afternoon",
+    "busy",
+    "meeting",
+    "important",
+    "office",
+    "minute",
+    "late",
+    "worried",
+    "corner",
+    "cross",
+    "avenue",
+    "traffic",
+    "light",
+    "pedestrian",
+    "sidewalk",
+    "past",
+    "bank",
+    "supermarket",
+    "bakery",
+    "smell",
+    "bread",
+    "hungry",
+    "pocket",
+    "smartphone",
+    "battery",
+    "dead",
+    "someone",
+    "friendly",
+    "smiling",
+    "finally"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is a very busy afternoon in the city.",
+      "phonetic": "/ɪt ɪz ə ˈvɛri ˈbɪzi ˈɑftərnun ɪn ðə ˈsɪti/",
+      "text_native": "C'est un après-midi très animé en ville."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "David has an important meeting at his new office.",
+      "phonetic": "/ˈdeɪvɪd hæz ən ɪmˈpɔrtənt ˈmitɪŋ æt hɪs nu ˈɔfɪs/",
+      "text_native": "David a une réunion importante dans son nouveau bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He looks at his watch every single minute.",
+      "phonetic": "/hi lʊks æt hɪz wɑtʃ ˈɛvəri ˈsɪŋɡəl ˈmɪnɪt/",
+      "text_native": "Il regarde sa montre à chaque minute."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He does not want to be late today.",
+      "phonetic": "/hi dʌz nɑt wɑnt tu bi leɪt təˈdeɪ/",
+      "text_native": "Il ne veut pas être en retard aujourd'hui."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Suddenly, David feels very worried.",
+      "phonetic": "/ˈsʌdənli, ˈdeɪvɪd filz ˈvɛri ˈwɜrid/",
+      "text_native": "Soudain, David se sent très inquiet."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He checks his smartphone in his pocket.",
+      "phonetic": "/hi tʃɛks hɪz ˈsmɑrtfoʊn ɪn hɪz ˈpɑkɪt/",
+      "text_native": "Il vérifie son smartphone dans sa poche."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Oh no, the battery is completely dead.",
+      "phonetic": "/oʊ noʊ, ðə ˈbætəri ɪz kəmˈplitli dɛd/",
+      "text_native": "Oh non, la batterie est complètement déchargée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He cannot use the digital map anymore.",
+      "phonetic": "/hi ˈkænɑt juz ðə ˈdɪdʒɪtəl mæp ˈɛniˌmɔr/",
+      "text_native": "Il ne peut plus utiliser la carte numérique."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "David walks fast on the crowded sidewalk.",
+      "phonetic": "/ˈdeɪvɪd wɔks fæst ɑn ðə ˈkraʊdɪd ˈsaɪdwɔk/",
+      "text_native": "David marche vite sur le trottoir bondé."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He reaches a big street corner.",
+      "phonetic": "/hi ˈritʃɪz ə bɪɡ strit ˈkɔrnər/",
+      "text_native": "Il arrive à un grand coin de rue."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Many cars wait at the red traffic light.",
+      "phonetic": "/ˈmɛni kɑrz weɪt æt ðə rɛd ˈtræfɪk laɪt/",
+      "text_native": "De nombreuses voitures attendent au feu rouge."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "A friendly pedestrian stands next to him.",
+      "phonetic": "/ə ˈfrɛndli pəˈdɛstriən stændz nɛkst tu hɪm/",
+      "text_native": "Un piéton sympathique se tient à côté de lui."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "David decides to ask this person for help.",
+      "phonetic": "/ˈdeɪvɪd dɪˈsaɪdz tu æsk ðɪs ˈpɜrsən fɔr hɛlp/",
+      "text_native": "David décide de demander de l'aide à cette personne."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Excuse me, can you help me please?",
+      "phonetic": "/ɪkˈskyuz mi, kæn ju hɛlp mi pliz/",
+      "text_native": "Excusez-moi, pouvez-vous m'aider s'il vous plaît ?"
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The smiling man turns and looks at him.",
+      "phonetic": "/ðə ˈsmaɪlɪŋ mæn tɜrnz ænd lʊks æt hɪm/",
+      "text_native": "L'homme souriant se retourne et le regarde."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Yes, of course, what do you need?",
+      "phonetic": "/jɛs, ʌv kɔrs, wʌt du ju nid/",
+      "text_native": "Oui, bien sûr, de quoi avez-vous besoin ?"
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I am looking for the new business building.",
+      "phonetic": "/aɪ æm ˈlʊkɪŋ fɔr ðə nu ˈbɪznəs ˈbɪldɪŋ/",
+      "text_native": "Je cherche le nouvel immeuble d'affaires."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "It is on Baker Avenue near the old park.",
+      "phonetic": "/ɪt ɪz ɑn ˈbeɪkər ˈævənu nɪr ðə oʊld pɑrk/",
+      "text_native": "Il est sur Baker Avenue près du vieux parc."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The man points straight ahead across the street.",
+      "phonetic": "/ðə mæn pɔɪnts streɪt əˈhɛd əˈkrɔs ðə strit/",
+      "text_native": "L'homme pointe tout droit devant lui de l'autre côté de la rue."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "You need to cross this large avenue now.",
+      "phonetic": "/ju nid tu krɔs ðɪs lɑrdʒ ˈævənu naʊ/",
+      "text_native": "Vous devez traverser cette grande avenue maintenant."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Then walk straight for two blocks.",
+      "phonetic": "/ðɛn wɔk streɪt fɔr tu blɑks/",
+      "text_native": "Ensuite, marchez tout droit pendant deux blocs."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "You will walk past a yellow bakery.",
+      "phonetic": "/ju wɪl wɔk pæst ə ˈjɛloʊ ˈbeɪkəri/",
+      "text_native": "Vous passerez devant une boulangerie jaune."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "A delicious smell of fresh bread comes from there.",
+      "phonetic": "/ə dɪˈlɪʃəs smɛl ʌv frɛʃ brɛd kʌmz frʌm ðɛr/",
+      "text_native": "Une délicieuse odeur de pain frais en provient."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "David feels very hungry because he has no time for lunch.",
+      "phonetic": "/ˈdeɪvɪd filz ˈvɛri ˈhʌŋɡri bɪˈkɔz hi hæz noʊ taɪm fɔr lʌntʃ/",
+      "text_native": "David a très faim car il n'a pas eu le temps de déjeuner."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "After the bakery, turn left at the small bank.",
+      "phonetic": "/ˈæftər ðə ˈbeɪkəri, tɜrn lɛft æt ðə smɔl bæŋk/",
+      "text_native": "Après la boulangerie, tournez à gauche à la petite banque."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Your tall building is right behind the supermarket.",
+      "phonetic": "/jʊər tɔl ˈbɪldɪŋ ɪz raɪt bɪˈhaɪnd ðə ˈsupəˌmɑrkɪt/",
+      "text_native": "Votre grand immeuble se trouve juste derrière le supermarché."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "David listens carefully and smiles at the stranger.",
+      "phonetic": "/ˈdeɪvɪd ˈlɪsənz ˈkɛrfəli ænd smaɪlz æt ðə ˈstreɪndʒər/",
+      "text_native": "David écoute attentivement et sourit à l'inconnu."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Thank you so much for your great help.",
+      "phonetic": "/θæŋk ju soʊ mʌtʃ fɔr jʊər ɡreɪt hɛlp/",
+      "text_native": "Merci beaucoup pour votre aide précieuse."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "You are very welcome, have a wonderful day.",
+      "phonetic": "/ju ɑr ˈvɛri ˈwɛlkəm, hæv ə ˈwʌndərfəl deɪ/",
+      "text_native": "De rien, passez une excellente journée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Finally, David finds his destination just in time.",
+      "phonetic": "/ˈfaɪnəli, ˈdeɪvɪd faɪndz hɪz ˌdɛstəˈneɪʃən dʒʌst ɪn taɪm/",
+      "text_native": "Finalement, David trouve sa destination juste à temps."
+    }
+  ]
+}

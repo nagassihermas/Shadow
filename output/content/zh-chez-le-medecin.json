@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "医生您好，我这两天感觉整个人都不太对劲。",
+    "phonetic": "yīshēng nín hǎo, wǒ zhè liǎng tiān gǎnjué zhěng gè rén dōu bù tài duì jìn.",
+    "text_native": "Bonjour docteur, ces deux derniers jours, j'ai l'impression de ne pas être dans mon assiette.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "哪里不舒服？快跟我说说具体情况。",
+    "phonetic": "nǎlǐ bù shūfu? kuài gēn wǒ shuō shuō jùtǐ qíngkuàng.",
+    "text_native": "Qu'est-ce qui ne va pas ? Dites-moi ce qu'il en est exactement.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "从昨天晚上开始，我突然发起烧来。",
+    "phonetic": "cóng zuótiān wǎnshang kāishǐ, wǒ tūrán fā qǐ shāo lái.",
+    "text_native": "Depuis hier soir, j'ai eu une brusque montée de fièvre.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "除了发烧以外，还有没有别的症状？",
+    "phonetic": "chúle fāshāo yǐwài, hái yǒu méiyǒu biéde zhèngzhuàng?",
+    "text_native": "À part la fièvre, est-ce qu'il y a d'autres symptômes ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "脑袋一直在隐隐作痛，浑身也酸软无力。",
+    "phonetic": "nǎodai yìzhí zài yǐnyǐn zuò tòng, húnshēn yě suānruǎn wúlì.",
+    "text_native": "J'ai la tête qui me lance en continu et je me sens tout courbaturé.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "有鼻塞或者喉咙痛的现象吗？",
+    "phonetic": "yǒu bísāi huòzhě hóulóng tòng de xiànxiàng ma?",
+    "text_native": "Est-ce que vous avez le nez bouché ou mal à la gorge ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "嗓子倒是不怎么疼，就是一直咳嗽不停。",
+    "phonetic": "sǎngzi dào shì bù zěnme téng, jiù shì yìzhí késòu bù tíng.",
+    "text_native": "La gorge ça va, pas trop mal, par contre je n'arrête pas de tousser.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "来，张大嘴巴，让我用压舌板看看你的咽喉。",
+    "phonetic": "lái, zhāng dà zuǐba, ràng wǒ yòng yāshébǎn kàn kàn nǐ de yānhóu.",
+    "text_native": "Allez, ouvrez grand la bouche que je regarde votre fond de gorge.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "平时肠胃消化方面有没有什么老毛病？",
+    "phonetic": "píngshí chángwèi xiōuhuà fāngmiàn yǒu méiyǒu shénme lǎo máobìng?",
+    "text_native": "D'habitude, est-ce que vous avez des soucis chroniques de digestion ou d'estomac ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "肠胃倒是挺正常的，就是这两天吃不下东西。",
+    "phonetic": "chángwèi dào shì tǐng zhèngcháng de, jiù shì zhè liǎng tiān chī bù xià dōngxi.",
+    "text_native": "Côté estomac ça va, c'est juste ces deux derniers jours que je n'arrive rien avaler.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "把袖子卷起来，我先帮你量一下血压。",
+    "phonetic": "bǎ xiùzi juǎn qǐlái, wǒ xiān bāng nǐ liáng yíxià xuèyā.",
+    "text_native": "Remontez votre manche, je vais d'abord vous prendre la tension.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "最近工作压力是不是挺大的，睡眠质量怎么样？",
+    "phonetic": "zuìjìn gōngzuò yālì shì bú tíng dà de, shuìmián zhìliàng zěnme yàng?",
+    "text_native": "Ces derniers temps, vous avez beaucoup de pression au travail ? Comment est la qualité de votre sommeil ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "项目赶deadline，经常失眠，生物钟完全乱了。",
+    "phonetic": "xiàngmù gǎn deadline, jīngcháng shīmián, shēngwùzhōng wánquán luàn le.",
+    "text_native": "On court après les délais pour le projet, je fais souvent d'insomnies, mon horloge biologique est totalement chamboulée.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "免疫力下降加上着凉，难怪会突然病倒。",
+    "phonetic": "miǎnyìlì xiàjiàng jiāshàng zháoliáng, nánguài huì tūrán bìng dǎo.",
+    "text_native": "Une baisse d'immunité combinée à un coup de froid, pas étonnant que vous soyez tombé malade d'un coup.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "那我需要去抽血化验一下吗？",
+    "phonetic": "nà wǒ xūyào qù chōuxuè huàyàn yíxià ma?",
+    "text_native": "Du coup, est-ce que je dois faire une prise de sang pour analyser tout ça ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "不用那么麻烦，听呼吸音像是普通的流感病毒。",
+    "phonetic": "búyòng nàme máfan, tīng hūxī yīn xiàngshì pǔtōng de liúgǎn bìngdú.",
+    "text_native": "Pas besoin de se compliquer la vie, en écoutant votre respiration, on dirait une simple grippe.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "回去之后多喝点温开水，千万别再熬夜了。",
+    "phonetic": "huíqù zhīhòu duō hē diǎn wēn kāishuǐ, qiānwàn bié zài áoyè le.",
+    "text_native": "Une fois rentré chez vous, buvez beaucoup d'eau tiède et évitez absolument de veiller tard.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "这几种药按说明书吃，要是三天后没好转就得复诊。",
+    "phonetic": "zhè jǐ zhǒng yào àn shuōmíngshū chī, yàoshi sān tiān hòu méi hǎozhuǎn jiù děi fùzhěn.",
+    "text_native": "Prenez ces médicaments en suivant la notice, et si dans trois jours il n'y a pas d'amélioration, il faudra revenir me voir.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "好的，医生，那这几天我需要请假在家隔离吗？",
+    "phonetic": "hǎo de, yīshēng, nà zhè jǐ tiān wǒ xūyào qǐngjià zài jiā gélí ma?",
+    "text_native": "D'accord docteur, du coup ces prochains jours, est-ce que je dois poser un arrêt pour rester isolé chez moi ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "最好在家静养个三四天，顺便开张病假条给你吧。",
+    "phonetic": "zuìhǎo zài jiā jìngyǎng gè sān sì tiān, shùnbiàn kāi zhāng bìngjiàtiáo gěi nǐ ba.",
+    "text_native": "Le mieux serait de vous reposer tranquillement à la maison pendant trois ou quatre jours, je vais d'ailleurs vous faire un certificat médical.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B1"
+  }
+]

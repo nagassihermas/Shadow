@@ -1,0 +1,217 @@
+{
+  "title": "迷路的时候",
+  "new_vocabulary": [
+    "迷路",
+    "下午",
+    "打算",
+    "参观",
+    "博物馆",
+    "市中心",
+    "附近",
+    "问",
+    "路人",
+    "打扰",
+    "方向",
+    "错",
+    "应该",
+    "沿着",
+    "条",
+    "马路",
+    "大概",
+    "分钟",
+    "就能",
+    "到达",
+    "目的地",
+    "感谢",
+    "帮助",
+    "顺利",
+    "进",
+    "售票处",
+    "买",
+    "票",
+    "开始",
+    "参观"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天下午，我打算去市中心参观一个著名的博物馆。",
+      "phonetic": "Jīntiān xiàwǔ, wǒ dǎsuàn qù shìzhōngxīn cānguān yí gè zhùmíng de bówùguǎn.",
+      "text_native": "Cet après-midi, j'ai l'intention d'aller visiter un musée célèbre dans le centre-ville."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "因为我是第一次去那个地方，所以我有点担心会迷路。",
+      "phonetic": "Yīnwèi wǒ shì dì yí cì qù nà gè dìfāng, suǒyǐ wǒ yǒudiǎn dānxīn huì mílù.",
+      "text_native": "Comme c'est la première fois que je vais là-bas, j'ai un peu peur de me perdre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我走出地铁站以后，发现周围的景色非常陌生。",
+      "phonetic": "Wǒ zǒuchū dìtiězhàn yǐhòu, fāxiàn zhōuwéi de jǐngsè fēicháng mòshēng.",
+      "text_native": "Après être sorti de la station de métro, j'ai trouvé que le paysage environnant était très inconnu."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我拿出手机，想打开地图看看正确的方向。",
+      "phonetic": "Wǒ ná chū shǒujī, xiǎng dǎkāi dìtú kànkan zhèngquè de fāngxiàng.",
+      "text_native": "J'ai sorti mon téléphone portable et j'ai voulu ouvrir la carte pour voir la bonne direction."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "可是，手机的电池突然用完了，屏幕黑了。",
+      "phonetic": "Kěshì, shǒujī de diànchí tūrán yòng wán le, píngmù hēi le.",
+      "text_native": "Cependant, la batterie du téléphone s'est soudainement épuisée et l'écran s'est éteint."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "这让我感到非常着急，因为我不知道博物馆到底在哪儿。",
+      "phonetic": "Zhè ràng wǒ gǎndào fēicháng zháojí, yīnwèi wǒ bù zhīdào bówùguǎn dàodǐ zài nǎr.",
+      "text_native": "Cela m'a beaucoup inquiété, car je ne savais pas où se trouvait exactement le musée."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我决定向路边的一位先生问路。",
+      "phonetic": "Wǒ juédìng xiàng lùbiān de yí wèi xiānsheng wèn lù.",
+      "text_native": "J'ai décidé de demander mon chemin à un monsieur au bord de la route."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我走过去，礼貌地对他说：“打扰一下，请问博物馆怎么走？”",
+      "phonetic": "Wǒ zǒu guòqù, lǐmào de duì tā shuō: \"Dǎrǎo yíxià, qǐngwèn bówùguǎn zěnme zǒu?\"",
+      "text_native": "Je me suis approché et lui ai dit poliment : « Excusez-moi, pour aller au musée s'il vous plaît ? »"
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "那个先生很友好，他停下脚步认真听我说话。",
+      "phonetic": "Nà gè xiānsheng hěn yǒuhǎo, tā tíng xià jiǎobù rènzhēn tīng wǒ shuōhuà.",
+      "text_native": "Ce monsieur était très aimable, il s'est arrêté et m'a écouté attentivement."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他微笑着回答说：“你现在走的方向完全错了。”",
+      "phonetic": "Tā wēixiàozhe huídá shuō: \"Nǐ xiànzài zǒu de fāngxiàng wánquán cuò le.\"",
+      "text_native": "Il a souri et a répondu : « Vous allez complètement dans la mauvaise direction. »"
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "他告诉我：“你先往后转，走到前面的那个十字路口。”",
+      "phonetic": "Tā gàosù wǒ: \"Nǐ xiān wǎng hòu zhuǎn, zǒu dào qiánmiàn de nà gè shízì lùkǒu.\"",
+      "text_native": "Il m'a dit : « Faites d'abord demi-tour et marchez jusqu'au carrefour devant vous. »"
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "到了红绿灯那里，你要往右边转弯。",
+      "phonetic": "Dào le hónglǜdēng nàlǐ, nǐ yào wǎng yòubiān zhuǎnwān.",
+      "text_native": "Arrivé au feu tricolore, vous devez tourner à droite."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "然后，你会看到一座很高的白色建筑和一个老桥。",
+      "phonetic": "Ránhòu, nǐ huì kàn dào yí zuò hěn gāo de báisè jiànzhù hé yí gè lǎo qiáo.",
+      "text_native": "Ensuite, vous verrez un grand bâtiment blanc et un vieux pont."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "过桥以后，沿着这条马路一直走，不要拐弯。",
+      "phonetic": "Guò qiáo yǐhòu, yánzhe zhè tiáo mǎlù yìzhí zǒu, bú yào guǎiwān.",
+      "text_native": "Après avoir traversé le pont, marchez tout droit le long de cette route sans tourner."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "博物馆就在那条街的左边，旁边有一个漂亮的咖啡馆。",
+      "phonetic": "Bówùguǎn jiù zài nà tiáo jiē de zuǒbiān, pángbiān yǒu yí gè piàoliang de kāfēiguǎn.",
+      "text_native": "Le musée est juste sur le côté gauche de cette rue, avec un joli café juste à côté."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "他解释得很清楚，还用手给我指了指方向。",
+      "phonetic": "Tā jiěshì de hěn qīngchǔ, hái yòng shǒu gěi wǒ zhǐ le zhǐ fāngxiàng.",
+      "text_native": "Il a expliqué très clairement et m'a également indiqué la direction de la main."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我认真听着，把他的话记在心里。",
+      "phonetic": "Wǒ rènzhēn tīngzhe, bǎ tā de huà jì zài xīn lǐ.",
+      "text_native": "J'ai écouté attentivement et j'ai bien gravé ses paroles dans ma mémoire."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我微笑着对他说：“太谢谢您的热心帮助了！”",
+      "phonetic": "Wǒ wēixiàozhe duì tā shuō: \"Tài xièxie nín de rèxīn bāngzhù le!\"",
+      "text_native": "Je lui ai souri et ai dit : « Merci infiniment pour votre aide précieuse ! »"
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他客气地回答：“不用谢，祝你玩得开心。”",
+      "phonetic": "Tā kèqi de huídá: \"Bú yòng xiè, zhù nǐ wán de kāixīn.\"",
+      "text_native": "Il a répondu poliment : « De rien, pas de quoi, profitez bien de votre visite. »"
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "按照他的指引，我转身向十字路口走去。",
+      "phonetic": "ànzhào tā de zhǐyǐn, wǒ zhuǎnshēn xiàng shízì lùkǒu zǒu qù.",
+      "text_native": "Suivant ses indications, j'ai fait demi-tour et me suis dirigé vers le carrefour."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "几分钟后，我顺利地看到了那个红绿灯。",
+      "phonetic": "Jǐ fēnzhōng hòu, wǒ shùnlì de kàn dào le nà gè hónglǜdēng.",
+      "text_native": "Quelques minutes plus tard, j'ai facilement repéré le feu tricolore."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我按照要求往右转，果然看到了那座白色建筑。",
+      "phonetic": "ànzhào yāoqiú wǎng yòu zhuǎn, guǒrán kàn dào le nà zuò báisè jiànzhù.",
+      "text_native": "J'ai tourné à droite comme prévu et j'ai effectivement aperçu le bâtiment blanc."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "走过老桥的时候，微风吹过来，让人感觉很舒服。",
+      "phonetic": "Zǒu guò lǎo qiáo de shíhòu, wēifēng chuī guòlái, ràng rén gǎnjué hěn shūfu.",
+      "text_native": "En traversant le vieux pont, une douce brise soufflait, ce qui était très agréable."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我继续往前走，发现周围的商店和标志都和他说的一模一样。",
+      "phonetic": "Wǒ jìxù wǎng qián zǒu, fāxiàn zhōuwéi de shāngdiàn hé biāozhì dōu hé tā shuō de yì móu yí yàng.",
+      "text_native": "J'ai continué à avancer et j'ai constaté que les magasins et les panneaux autour correspondaient exactement à sa description."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "终于，我在左边找到了那个美丽的博物馆。",
+      "phonetic": "Zhōngyú, wǒ zài zuǒbiān zhǎo dào le nà gè měilì de bówùguǎn.",
+      "text_native": "Finalement, j'ai trouvé ce magnifique musée sur ma gauche."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我走近大门，看到门前有很多游客在排队。",
+      "phonetic": "Wǒ zǒu jìn dàmén, kàn dào mén qián yǒu hěn duō yóukè zài páiduì.",
+      "text_native": "Je me suis approché de l'entrée principale et j'ai vu qu'il y avait beaucoup de touristes qui faisaient la queue."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我快步走进售票处，买了一张参观票。",
+      "phonetic": "Wǒ kuàibù zǒu jìn shòupiàochù, mǎi le yì zhāng cānguān piào.",
+      "text_native": "Je me suis dirigé d'un pas vif vers la billetterie et j'ai acheté un billet d'entrée."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "虽然刚才手机没电了，也经历了一点小麻烦。",
+      "phonetic": "Suīrán gāngcái shǒujī méi diàn le, yě jīnglì le yìdiǎn xiǎo máfan.",
+      "text_native": "Bien que mon téléphone ait manqué de batterie tout à l'heure et que j'aie eu quelques petits soucis,"
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "但是多亏了路人的帮助，我还是顺利地到达了目的地。",
+      "phonetic": "Dànshì duōkuī le lùrén de bāngzhù, wǒ háishì shùnlì de dàodá le mùdìdì.",
+      "text_native": "grâce à l'aide précieuse du passant, je suis quand même arrivé à destination sans encombre."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在，我可以开开心心地开始我的博物馆之旅了。",
+      "phonetic": "Xiànzài, wǒ kěyǐ kāi kāixīng xīng de kāishǐ wǒ de bówùguǎn zhī lǚ le.",
+      "text_native": "Maintenant, je peux commencer ma visite du musée l'esprit léger et joyeux."
+    }
+  ]
+}

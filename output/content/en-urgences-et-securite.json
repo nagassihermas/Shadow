@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Excuse me, where is the nearest police station?",
+    "phonetic": "/ɪkˈskjuːz miː, wer ɪz ðə ˈnɪərɪst pəˈliːs ˈsteɪʃn/",
+    "text_native": "Excusez-moi, où se trouve le commissariat le plus proche ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "I seem to have misplaced my wallet somewhere around here.",
+    "phonetic": "/aɪ siːm tuː həv mɪsˈpleɪst maɪ ˈwɒlɪt ˈsʌmwer əˈraʊnd hɪər/",
+    "text_native": "J'ai l'impression d'avoir égaré mon portefeuille quelque part par ici.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Could you help me contact the front desk, please?",
+    "phonetic": "/kʊd juː help miː ˈkɒntækt ðə frʌnt desk, pliːz/",
+    "text_native": "Pourriez-vous m'aider à joindre la réception, s'il vous plaît ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Keep an eye on your bags, this area gets quite busy.",
+    "phonetic": "/kiːp ən aɪ ɒn jɔː bæɡz, ðɪs ˈeəriə ɡets kwaɪt ˈbɪzi/",
+    "text_native": "Gardez un œil sur vos sacs, c'est assez fréquenté par ici.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "I'd like to report something that was stolen from my room.",
+    "phonetic": "/aɪd laɪk tuː rɪˈpɔːt ˈsʌmθɪŋ ðæt wɒz ˈstəʊlən frʌm maɪ ruːm/",
+    "text_native": "Je voudrais signaler un vol qui a eu lieu dans ma chambre.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Something feels off about this neighborhood after dark.",
+    "phonetic": "/ˈsʌmθɪŋ fiːlz ɒf əˈbaʊt ðɪs ˈneɪbəhʊd ˈɑːftə dɑːk/",
+    "text_native": "Ce quartier ne m'inspire pas confiance à la tombée de la nuit.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Do you know if there is an open pharmacy nearby?",
+    "phonetic": "/duː juː nəʊ ɪf ðeər ɪz ən ˈəʊpən ˈfɑːməsi ˈnɪəbaɪ/",
+    "text_native": "Vous savez s'il y a une pharmacie ouverte dans le coin ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "I think I ate something that didn't agree with me.",
+    "phonetic": "/aɪ θɪŋk aɪ eɪt ˈsʌmθɪŋ ðæt ˈdɪdnt əˈɡriː wɪð miː/",
+    "text_native": "Je crois que j'ai mangé un truc qui est mal passé.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "My phone battery is dead and I need to find a charger.",
+    "phonetic": "/maɪ fəʊn ˈbætəri ɪz ded ənd aɪ niːd tuː faɪnd ə ˈʧɑːdʒə/",
+    "text_native": "Mon téléphone est déchargé et il faut absolument que je trouve un chargeur.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "We should probably head back before the weather gets worse.",
+    "phonetic": "/wiː ʃʊd ˈprɒbəbli hed bæk bɪˈfɔː ðə ˈweðə ɡets wɜːs/",
+    "text_native": "On ferait mieux de rentre avant que le temps ne se gâte.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Hold on, I think we took a wrong turn somewhere.",
+    "phonetic": "/həʊld ɒn, aɪ θɪŋk wiː tʊk ə rɒŋ tɜːn ˈsʌmwer/",
+    "text_native": "Attends, je crois qu'on s'est trompés de chemin.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Let's ask someone where the emergency exit is located.",
+    "phonetic": "/lets ɑːsk ˈsʌmwʌn wer ði ɪˈmɜːdʒənsi ˈeksɪt ɪz ˈləʊkeɪtɪd/",
+    "text_native": "Demandons à quelqu'un où se trouve la sortie de secours.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "I'm having a bit of trouble catching my breath right now.",
+    "phonetic": "/aɪm ˈhævɪŋ ə bɪt ɒv ˈtrʌbl ˈkætʃɪŋ maɪ breθ raɪt naʊ/",
+    "text_native": "J'ai un peu de mal à reprendre mon souffle là.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Can someone please call an ambulance for my friend?",
+    "phonetic": "/kæn ˈsʌmwʌn pliːz kɔːl ən ˈæmbjʊləns fɔː maɪ frend/",
+    "text_native": "Est-ce que quelqu'un peut appeler une ambulance pour mon ami ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "My travel documents are completely gone, I have nothing left.",
+    "phonetic": "/maɪ ˈtrævl ˈdɒkjʊmənts ɑː kəmˈpliːtli ɡɒn, aɪ həv ˈnʌθɪŋ left/",
+    "text_native": "J'ai perdu tous mes papiers d'identité, je n'ai plus rien.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Tell them we need assistance immediately, it's urgent.",
+    "phonetic": "/tel ðem wiː niːd əˈsɪstəns ɪˈmiːdiətli, ɪts ˈɜːdʒənt/",
+    "text_native": "Prévenez-les qu'il nous faut de l'aide tout de suite, c'est urgent.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Is there anybody here who speaks English well enough to help?",
+    "phonetic": "/ɪz ðeər ˈenibɒdi hɪər huː spiːks ˈɪŋɡlɪʃ wel ɪˈnʌf tuː help/",
+    "text_native": "Y a-t-il quelqu'un ici qui parle assez bien anglais pour donner un coup de main ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "We've been locked out of our rental car in the middle of nowhere.",
+    "phonetic": "/wiːv biːn lɒkt aʊt ɒv ˈaʊə ˈrentl kɑːr ɪn ðə ˈmɪdl ɒv ˈnəʊweə/",
+    "text_native": "On s'est enfermés hors de notre voiture de location au milieu de nulle part.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Make sure you follow all safety guidelines while doing this activity.",
+    "phonetic": "/meɪk ʃʊə juː ˈfɒləʊ ɔːl ˈseɪfti ˈɡaɪdlaɪnz waɪl ˈduːɪŋ ðɪs ækˈtɪvɪti/",
+    "text_native": "Veillez à bien respecter toutes les consignes de sécurité pendant cette activité.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  },
+  {
+    "text_target": "Don't panic, just stay where you are and wait for the staff.",
+    "phonetic": "/dəʊnt ˈpænɪk, dʒʌst steɪ wer juː ɑːr ənd weɪt fɔː ðə stɑːf/",
+    "text_native": "Pas de panique, restez simplement là où vous êtes en attendant le personnel.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "B1"
+  }
+]

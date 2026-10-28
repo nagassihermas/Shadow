@@ -1,0 +1,24 @@
+{
+  "common": {
+    "interfaceLanguage": "Langue de l'interface",
+    "back": "Retour"
+  },
+  "nav": {
+    "home": "Accueil",
+    "blocks": "Blocs",
+    "practice": "Pratique",
+    "stats": "Stats"
+  },
+  "auth": {
+    "emailLabel": "Adresse e-mail",
+    "sendMagicLink": "Recevoir le lien de connexion",
+    "sending": "Envoi en cours…",
+    "magicLinkSent": "Lien envoyé — vérifie ta boîte mail.",
+    "error": "Échec de l'envoi. Réessaie."
+  },
+  "TODO_blocks_page": "__NEEDS_SOURCE__",
+  "TODO_practice_page": "__NEEDS_SOURCE__",
+  "TODO_stats_page": "__NEEDS_SOURCE__",
+  "TODO_shadowing_page": "__NEEDS_SOURCE__",
+  "TODO_recall_page": "__NEEDS_SOURCE__"
+}

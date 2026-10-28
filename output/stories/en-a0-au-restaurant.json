@@ -1,0 +1,197 @@
+{
+  "title": "At the Restaurant",
+  "new_vocabulary": [
+    "restaurant",
+    "table",
+    "menu",
+    "water",
+    "food",
+    "please",
+    "thank you",
+    "bill",
+    "money",
+    "goodbye"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "I am at the restaurant.",
+      "phonetic": "/aɪ æm æt ðə ˈrɛstərənt/",
+      "text_native": "Je suis au restaurant."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I see a table.",
+      "phonetic": "/aɪ siː ə ˈteɪbəl/",
+      "text_native": "Je vois une table."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I walk to the table.",
+      "phonetic": "/aɪ wɔːk tuː ðə ˈteɪbəl/",
+      "text_native": "Je m'approche de la table."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I sit down.",
+      "phonetic": "/aɪ sɪt daʊn/",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A man comes to me.",
+      "phonetic": "/ə mæn kʌmz tuː miː/",
+      "text_native": "Un homme s'approche de moi."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He is a waiter.",
+      "phonetic": "/hiː ɪz ə ˈweɪtər/",
+      "text_native": "C'est un serveur."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He smiles.",
+      "phonetic": "/hiː smaɪlz/",
+      "text_native": "Il sourit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He gives me a paper.",
+      "phonetic": "/hiː gɪvz miː ə ˈpeɪpər/",
+      "text_native": "Il me tend un document."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "It is the menu.",
+      "phonetic": "/ɪt ɪz ðə ˈmɛnjuː/",
+      "text_native": "C'est le menu."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I open the menu.",
+      "phonetic": "/aɪ ˈoʊpən ðə ˈmɛnjuː/",
+      "text_native": "J'ouvre le menu."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I read the menu.",
+      "phonetic": "/aɪ riːd ðə ˈmɛnjuː/",
+      "text_native": "Je lis le menu."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I want water.",
+      "phonetic": "/aɪ wɒnt ˈwɔːtər/",
+      "text_native": "Je voudrais de l'eau."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I want food.",
+      "phonetic": "/aɪ wɒnt fuːd/",
+      "text_native": "Je voudrais manger."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The waiter returns.",
+      "phonetic": "/ðə ˈweɪtər rɪˈtɜːnz/",
+      "text_native": "Le serveur revient."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He looks at me.",
+      "phonetic": "/hiː lʊks æt miː/",
+      "text_native": "Il me regarde."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I speak to him.",
+      "phonetic": "/aɪ spiːk tuː hɪm/",
+      "text_native": "Je lui parle."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Water please.",
+      "phonetic": "/ˈwɔːtər pliːz/",
+      "text_native": "De l'eau, s'il vous plaît."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Food please.",
+      "phonetic": "/fuːd pliːz/",
+      "text_native": "À manger, s'il vous plaît."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The waiter says yes.",
+      "phonetic": "/ðə ˈweɪtər sɛz jɛs/",
+      "text_native": "Le serveur accepte."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He goes away.",
+      "phonetic": "/hiː goʊz əˈweɪ/",
+      "text_native": "Il s'éloigne."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He comes back.",
+      "phonetic": "/hiː kʌmz bæk/",
+      "text_native": "Il revient."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He has a glass.",
+      "phonetic": "/hiː hæz ə glɑːs/",
+      "text_native": "Il a un verre."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He has a plate.",
+      "phonetic": "/hiː hæz ə pleɪt/",
+      "text_native": "Il a une assiette."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He puts them down.",
+      "phonetic": "/hiː pʊts ðɛm daʊn/",
+      "text_native": "Il les pose sur la table."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk juː/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I eat the food.",
+      "phonetic": "/aɪ iːt ðə fuːd/",
+      "text_native": "Je mange."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I drink the water.",
+      "phonetic": "/aɪ drɪŋk ðə ˈwɔːtər/",
+      "text_native": "Je bois l'eau."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I pay the bill.",
+      "phonetic": "/aɪ peɪ ðə bɪl/",
+      "text_native": "Je paye l'addition."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I stand up.",
+      "phonetic": "/aɪ stænd ʌp/",
+      "text_native": "Je me lève."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I say goodbye.",
+      "phonetic": "/aɪ seɪ gʊdˈbaɪ/",
+      "text_native": "Je dis au revoir."
+    }
+  ]
+}

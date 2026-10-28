@@ -1,0 +1,156 @@
+{
+  "title": "自我介绍",
+  "new_vocabulary": ["自我介绍", "名字", "老师", "学生", "高兴"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "你好。",
+      "phonetic": "Nǐ hǎo.",
+      "text_native": "Bonjour."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我是王生。",
+      "phonetic": "Wǒ shì Wáng shēng.",
+      "text_native": "Je suis Wang."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我是学生。",
+      "phonetic": "Wǒ shì xuésheng.",
+      "text_native": "Je suis étudiant."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他是我老师。",
+      "phonetic": "Tā shì wǒ lǎoshī.",
+      "text_native": "Il est mon professeur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我有书。",
+      "phonetic": "Wǒ yǒu shū.",
+      "text_native": "J'ai un livre."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "书很大。",
+      "phonetic": "Shū hěn dà.",
+      "text_native": "Le livre est grand."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我有笔。",
+      "phonetic": "Wǒ yǒu bǐ.",
+      "text_native": "J'ai un stylo."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "笔很小。",
+      "phonetic": "Bǐ hěn xiǎo.",
+      "text_native": "Le stylo est petit."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "桌子在这。",
+      "phonetic": "Zhuōzi zài zhè.",
+      "text_native": "La table est ici."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "椅子在那。",
+      "phonetic": "Yǐzi zài nà.",
+      "text_native": "La chaise est là-bas."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我坐椅子。",
+      "phonetic": "Wǒ zuò yǐzi.",
+      "text_native": "Je m'assois sur la chaise."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我看书。",
+      "phonetic": "Wǒ kàn shū.",
+      "text_native": "Je lis le livre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我写字。",
+      "phonetic": "Wǒ xiě zì.",
+      "text_native": "J'écris."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "字很好。",
+      "phonetic": "Zì hěn hǎo.",
+      "text_native": "C'est très bien."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "门开了。",
+      "phonetic": "Mén kāi le.",
+      "text_native": "La porte s'ouvre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "他来了。",
+      "phonetic": "Tā lái le.",
+      "text_native": "Il arrive."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "他进来了。",
+      "phonetic": "Tā jìn lái le.",
+      "text_native": "Il entre."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我看他。",
+      "phonetic": "Wǒ kàn tā.",
+      "text_native": "Je le regarde."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他说话。",
+      "phonetic": "Tā shuō huà.",
+      "text_native": "Il parle."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我听见了。",
+      "phonetic": "Wǒ tīng jiàn le.",
+      "text_native": "J'entends."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "大家听。",
+      "phonetic": "Dàjiā tīng.",
+      "text_native": "Tout le monde écoute."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他很高兴。",
+      "phonetic": "Tā hěn gāoxìng.",
+      "text_native": "Il est content."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我也高兴。",
+      "phonetic": "Wǒ yě gāoxìng.",
+      "text_native": "Je suis content aussi."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "下课了。",
+      "phonetic": "Xià kè le.",
+      "text_native": "Le cours est fini."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "再见。",
+      "phonetic": "Zàijiàn.",
+      "text_native": "Au revoir."
+    }
+  ]
+}

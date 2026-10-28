@@ -1,0 +1,217 @@
+{
+  "title": "按时服药与健康",
+  "new_vocabulary": [
+    "按时",
+    "忘记",
+    "严重",
+    "遵照",
+    "医嘱",
+    "效果",
+    "副作用",
+    "头晕",
+    "恶心",
+    "减量",
+    "咨询",
+    "药剂师",
+    "调整",
+    "方案",
+    "坚持",
+    "疗程",
+    "完全",
+    "恢复",
+    "健康",
+    "包装",
+    "密封",
+    "阴凉",
+    "干燥",
+    "地方",
+    "避免",
+    "儿童",
+    "误服",
+    "安全",
+    "第一",
+    "习惯"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "张伟昨天因为感冒去医院看医生。",
+      "phonetic": "Zhāng Wěi zuótiān yīnwèi gǎnmào qù yīyuàn kàn yīshēng.",
+      "text_native": "Zhang Wei est allé voir un médecin à l'hôpital hier à cause d'un rhume."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "医生给他开了一些药并嘱咐他按时服药。",
+      "phonetic": "Yīshēng gěi tā kāi le yìxiē yào bìng zhǔfù tā ànshí fúyào.",
+      "text_native": "Le médecin lui a prescrit des médicaments et lui a recommandé de les prendre à l'heure."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "张伟回到家里觉得有点累。",
+      "phonetic": "Zhāng Wěi huí dào jiālǐ juéde yǒudiǎn lèi.",
+      "text_native": "Zhang Wei est rentré chez lui et s'est senti un peu fatigué."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他把药盒放在桌子上。",
+      "phonetic": "Tā bǎ yàohé fàng zài zhuōzi shàng.",
+      "text_native": "Il a posé la boîte de médicaments sur la table."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "他拿起说明书仔细阅读。",
+      "phonetic": "Tā ná qǐ shuōmíngshū zìxì yuèdú.",
+      "text_native": "Il a pris la notice et l'a lue attentivement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "上面写着每天三次，每次两片。",
+      "phonetic": "Shàngmiàn xiě zhe měitiān sān cì, měicì liǎng piàn.",
+      "text_native": "Il y est écrit : trois fois par jour, deux comprimés à chaque fois."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "饭后半小时用温水送服。",
+      "phonetic": "Fàn hòu bàn xiǎoshí yòng wēnshuǐ sòngfú.",
+      "text_native": "À prendre une demi-heure après le repas avec de l'eau tiède."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "可是中午的时候他太忙了，忘记吃药。",
+      "phonetic": "Kěshì zhōngwǔ de shíhou tā tài máng le, wàngjì chīyào.",
+      "text_native": "Cependant, à midi, il était trop occupé et a oublié de prendre ses médicaments."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "到了晚上，他的头痛更加严重了。",
+      "phonetic": "Dào le wǎnshang, tā de tóutòng gèngjiā yánzhòng le.",
+      "text_native": "Le soir venu, son mal de tête s'est encore aggravé."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他心里开始有点担心。",
+      "phonetic": "Tā xīnlǐ kāishǐ yǒudiǎn dānxīn.",
+      "text_native": "Il a commencé à s'inquiéter un peu."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "他决定严格遵照医嘱服药。",
+      "phonetic": "Tā juédìng yángé zūnzhào yīzhǔ fúyào.",
+      "text_native": "Il a décidé de suivre strictement les instructions du médecin."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他倒了一杯温开水。",
+      "phonetic": "Tā dào le yì bēi wēn kāishuǐ.",
+      "text_native": "Il a versé une tasse d'eau tiède."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "按照正确的剂量吃下药片。",
+      "phonetic": "ànzhào zhèngquè de jìliàng chī xià yàopiàn.",
+      "text_native": "Il a avalé les comprimés en respectant la dose prescrite."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "过了一会儿，药开始起效果了。",
+      "phonetic": "Guò le yí huìr, yào kāishǐ qǐ xiàoguǒ le.",
+      "text_native": "Peu de temps après, le médicament a commencé à faire effet."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "但是他感觉有点头晕和恶心。",
+      "phonetic": "Dànshì tā gǎnjué yǒudiǎn tóuyūn hé ěxīn.",
+      "text_native": "Cependant, il ressentait de légers vertiges et des nausées."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "他不知道是不是应该减量。",
+      "phonetic": "Tā bù zhīdào shì bu shì yīnggāi jiǎnliàng.",
+      "text_native": "Il ne savait pas s'il devait réduire la dose."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "于是他给药剂师打电话咨询。",
+      "phonetic": "Yúshì tā gěi yàojìshī dǎ diànhuà zīxún.",
+      "text_native": "Il a donc appelé le pharmacien pour lui demander conseil."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "药剂师告诉他这是正常的副作用。",
+      "phonetic": "Yàojìshī gàosù tā zhè shì zhèngcháng de fùzuòyòng.",
+      "text_native": "Le pharmacien lui a expliqué qu'il s'agissait d'effets secondaires normaux."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "不需要随便调整服药方案。",
+      "phonetic": "Bù xūyào suíbiàn tiáozhěng fúyào fāngàn.",
+      "text_native": "Il n'est pas nécessaire de modifier arbitrairement le traitement."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "只要多喝水、多休息就会好。",
+      "phonetic": "Zhǐyào duō hēshuǐ, duō xiūxī jiù huì hǎo.",
+      "text_native": "Tant qu'il boit beaucoup d'eau et se repose bien, ça ira mieux."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "张伟听了以后放心多了。",
+      "phonetic": "Zhāng Wěi tīng le yǐhòu fàngxīn duō le.",
+      "text_native": "Après avoir entendu cela, Zhang Wei a été beaucoup plus rassuré."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他决定坚持完成整个疗程。",
+      "phonetic": "Tā juédìng jiānchí wánchéng zhěnggè liáochéng.",
+      "text_native": "Il a décidé de mener tout son traitement jusqu'au bout."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "接下来的几天，他饮食很清淡。",
+      "phonetic": "Jiē xià lái de jǐ tiān, tā yǐnshí hěn qīngdàn.",
+      "text_native": "Les jours suivants, son alimentation a été très légère."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "他再也没有忘记过吃药。",
+      "phonetic": "Tā zài yě méiyǒu wàngjì guò chīyào.",
+      "text_native": "Il n'a plus jamais oublié de prendre ses médicaments."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "几天后，他的身体完全恢复了。",
+      "phonetic": "Jǐ tiān hòu, tā de shēntǐ wánquán huīfù le.",
+      "text_native": "Quelques jours plus tard, il était complètement rétabli."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "他终于恢复了健康的状态。",
+      "phonetic": "Tā zhōngyú huīfù le jiànkāng de zhuàngtài.",
+      "text_native": "Il a enfin retrouvé un bon état de santé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "他把剩下的药仔细包装好。",
+      "phonetic": "Tā bǎ shèngxià de yào zìxì bāozhuāng hǎo.",
+      "text_native": "Il a soigneusement rangé les médicaments restants."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "放在阴凉干燥的地方保存。",
+      "phonetic": "Fàng zài yīnliáng gānzào de dìfang bǎocún.",
+      "text_native": "Il les a conservés dans un endroit frais et sec."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这样可以避免儿童误服。",
+      "phonetic": "Zhèyàng kěyǐ bìmiǎn értóng wùfú.",
+      "text_native": "Cela permet d'éviter toute ingestion accidentelle par les enfants."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "安全用药永远是第一位的。",
+      "phonetic": "Ānquán yòngyào yǒngyuǎn shì dì yī wèi de.",
+      "text_native": "La sécurité médicamenteuse est toujours la priorité absolue."
+    }
+  ]
+}

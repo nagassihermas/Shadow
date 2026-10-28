@@ -1,0 +1,227 @@
+{
+  "title": "A Busy Weather Transition",
+  "new_vocabulary": [
+    "experience",
+    "sudden",
+    "shift",
+    "temperature",
+    "drop",
+    "pack",
+    "heavy",
+    "suitcase",
+    "vacation",
+    "mountain",
+    "cabin",
+    "arrive",
+    "foggy",
+    "valley",
+    "drive",
+    "careful",
+    "slippery",
+    "road",
+    "reach",
+    "destination",
+    "light",
+    "fireplace",
+    "gather",
+    "wood",
+    "warm",
+    "flame",
+    "enjoy",
+    "relax",
+    "atmosphere",
+    "prepare",
+    "equipment",
+    "hiking",
+    "schedule",
+    "early",
+    "dawn",
+    "frost",
+    "grass",
+    "breeze",
+    "fresh",
+    "breathe"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "We often experience a sudden shift in temperature during this unpredictable season.",
+      "phonetic": "/wi ˈɒf.ən ɪkˈspɪə.ri.əns ə ˈsʌd.ən ʃɪft ɪn ˈtem.prə.tʃər ˈdjʊə.rɪŋ ðɪs ˌʌn.prɪˈdɪk.tə.bəl ˈsiː.zən/",
+      "text_native": "Nous connaissons souvent un changement soudain de température pendant cette saison imprévisible."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The thermometer can drop significantly within just a few hours.",
+      "phonetic": "/ðə θəˈmɒm.ɪ.tər kən drɒp sɪɡˈnɪf.ɪ.kənt.li wɪˈðɪn dʒʌst ə fjuː aʊəz/",
+      "text_native": "Le thermomètre peut chuter de manière significative en quelques heures seulement."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Yesterday, I had to pack a heavy suitcase for a short vacation.",
+      "phonetic": "/ˈjes.tə.deɪ, aɪ hæd tuː pæk ə ˈhev.i ˈsuːt.keɪs fɔːr ə ʃɔːt vəˈkeɪ.ʃən/",
+      "text_native": "Hier, j'ai dû faire une lourde valise pour de courtes vacances."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "My destination was a remote wooden cabin in the mountains.",
+      "phonetic": "/maɪ ˌdes.tɪˈneɪ.ʃən wɒz ə rɪˈməʊt ˈwʊd.ən ˈkæb.ɪn ɪn ðə ˈmaʊn.tɪnz/",
+      "text_native": "Ma destination était un chalet en bois isolé dans les montagnes."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When I left my house, the morning was quite sunny and pleasant.",
+      "phonetic": "/wen aɪ left maɪ haʊs, ðə ˈmɔː.nɪŋ wɒz kwaɪt ˈsʌn.i ənd ˈplez.ənt/",
+      "text_native": "Quand j'ai quitté ma maison, la matinée était plutôt ensoleillée et agréable."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "However, the weather forecast predicted a major change for the afternoon.",
+      "phonetic": "/haʊˈev.ər, ðə ˈweð.ə ˈfɔː.kɑːst prɪˈdɪk.tɪd ə ˈmeɪ.dʒər tʃeɪndʒ fɔːr ði ˈɑːf.tə.nuːn/",
+      "text_native": "Cependant, les prévisions météo annonçaient un changement majeur pour l'après-midi."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I put my warm jacket and gloves inside the car.",
+      "phonetic": "/aɪ pʊt maɪ wɔːm ˈdʒæk.ɪt ənd ɡlʌvz ɪnˈsaɪd ðə kɑːr/",
+      "text_native": "J'ai mis ma veste chaude et mes gants à l'intérieur de la voiture."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "During the drive, the landscape transformed completely.",
+      "phonetic": "/ˈdjʊə.rɪŋ ðə draɪv, ðə ˈlænd.skeɪp trænsˈfɔːmd kəmˈpliːt.li/",
+      "text_native": "Pendant le trajet, le paysage s'est transformé complètement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "A thick grey cloud covered the bright sky very quickly.",
+      "phonetic": "/ə θɪk ɡreɪ klaʊd ˈkʌv.ərd ðə braɪt skaɪ ˈver.i ˈkwɪk.li/",
+      "text_native": "Un épais nuage gris a couvert le ciel lumineux très rapidement."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Then, a foggy mist appeared in the valley below.",
+      "phonetic": "/ðen, ə ˈfɒɡ.i mɪst əˈpɪəd ɪn ðə ˈvæl.i bɪˈləʊ/",
+      "text_native": "Ensuite, une brume épaisse est apparue dans la vallée en bas."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I had to be extremely careful because the road became very slippery.",
+      "phonetic": "/aɪ hæd tuː biː ɪkˈstriːm.li ˈkeə.fəl bɪˈkɒz ðə rəʊd bɪˈkeɪm ˈver.i ˈslɪp.ər.i/",
+      "text_native": "Je devais être extrêmement prudent car la route est devenue très glissante."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Raindrops started hitting the windshield without warning.",
+      "phonetic": "/ˈreɪn.drɒps ˈstɑː.tɪd ˈhɪt.ɪŋ ðə ˈwɪnd.ʃiːld wɪˈðaʊt ˈwɔː.nɪŋ/",
+      "text_native": "Des gouttes de pluie ont commencé à frapper le pare-brise sans avertissement."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Soon, a strong thunderstorm developed with loud thunder.",
+      "phonetic": "/suːn, ə strɒŋ ˈθʌ.də.stɔːm dɪˈvel.əpt wɪð laʊd ˈθʌn.dər/",
+      "text_native": "Bientôt, un fort orage s'est développé avec de violents thunders."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I turned on the windshield wipers immediately.",
+      "phonetic": "/aɪ tɜːnd ɒn ðə ˈwɪnd.ʃiːld ˈwaɪ.pərz ɪˈmiː.di.ət.li/",
+      "text_native": "J'ai immédiatement actionné les essuie-glaces."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "When I finally reached my destination, I felt relieved.",
+      "phonetic": "/wen aɪ ˈfaɪ.nəl.i riːtʃt maɪ ˌdes.tɪˈneɪ.ʃən, aɪ felt rɪˈliːvd/",
+      "text_native": "Quand j'ai enfin atteint ma destination, je me suis senti soulagé."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I opened the wooden door and stepped inside.",
+      "phonetic": "/aɪ ˈəʊ.pənd ðə ˈwʊd.ən dɔːr ənd stept ɪnˈsaɪd/",
+      "text_native": "J'ai ouvert la porte en bois et suis entré."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The cabin was cold, so I needed to gather some wood.",
+      "phonetic": "/ðə ˈkæb.ɪn wɒz kəʊld, səʊ aɪ ˈniː.dɪd tuː ˈɡæð.ər sʌm wʊd/",
+      "text_native": "Le chalet était froid, alors j'ai dû ramasser du bois."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I built a warm fire in the old stone fireplace.",
+      "phonetic": "/aɪ bɪlt ə wɔːm ˈfaɪər ɪn ði əʊld stəʊn ˈfaɪə.pleɪs/",
+      "text_native": "J'ai allumé un feu chaleureux dans la vieille cheminée en pierre."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The dancing flames brought a very cozy atmosphere to the room.",
+      "phonetic": "/ðə ˈdɑːn.sɪŋ fleɪmz brɔːt ə ˈver.i ˈkəʊ.zi ˈæt.məs.fɪər tuː ðə ruːm/",
+      "text_native": "Les flammes dansantes ont apporté une atmosphère très douillette à la pièce."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "While the storm raged outside, I prepared a hot drink.",
+      "phonetic": "/waɪl ðə stɔːm reɪdʒd ˈaʊt.saɪd, aɪ prɪˈpeəd ə hɒt drɪŋk/",
+      "text_native": "Pendant que la tempête faisait rage dehors, j'ai préparé une boisson chaude."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I cooked a delicious vegetable soup on the small stove.",
+      "phonetic": "/aɪ kʊkt ə dɪˈlɪʃ.əs ˈvedʒ.tə.bəl suːp ɒn ðə smɔːl stəʊv/",
+      "text_native": "J'ai préparé une délicieuse soupe de légumes sur le petit poêle."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The kitchen smelled wonderful with all those spices.",
+      "phonetic": "/ðə ˈkɪtʃ.ən smeld ˈwʌn.dər.fəl wɪð ɔːl ðəʊz ˈspaɪ.sɪz/",
+      "text_native": "La cuisine embaumait avec toutes ces épices."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Later that evening, I sat in a comfortable armchair with a good book.",
+      "phonetic": "/ˈleɪ.tər ðæt ˈiːv.nɪŋ, aɪ sæt ɪn ə ˈkʌm.fə.tə.bəl ˈɑːm.tʃeər wɪð ə ɡʊd bʊk/",
+      "text_native": "Plus tard dans la soirée, je me suis assis dans un fauteuil confortable avec un bon livre."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "By midnight, the heavy rain stopped completely.",
+      "phonetic": "/baɪ ˈmɪd.naɪt, ðə ˈhev.i reɪn stɒpt kəmˈpliːt.li/",
+      "text_native": "Vers minuit, la forte pluie s'est complètement arrêtée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The next morning brought a completely different kind of weather.",
+      "phonetic": "/ðə nekst ˈmɔː.nɪŋ brɔːt ə kəmˈpliːt.li ˈdɪf.ər.ənt kaɪnd ɒv ˈweð.ər/",
+      "text_native": "Le lendemain matin offrait un temps complètement différent."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "A white frost covered the green grass in the yard.",
+      "phonetic": "/ə waɪt frɒst ˈkʌv.ərd ðə ɡriːn ɡrɑːs ɪn ðə jɑːd/",
+      "text_native": "Une gelée blanche recouvrait l'herbe verte dans la cour."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The air felt exceptionally fresh when I stepped outside to breathe.",
+      "phonetic": "/ði eər felt ɪkˈsep.ʃən.əl.i freʃ wen aɪ stept ˈaʊt.saɪd tuː briːð/",
+      "text_native": "L'air était exceptionnellement frais lorsque je suis sorti pour respirer."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I checked my schedule and prepared my hiking equipment.",
+      "phonetic": "/aɪ tʃekt maɪ ˈsked.juːl ənd prɪˈpeəd maɪ ˈhaɪ.kɪŋ ɪˈkwɪp.mənt/",
+      "text_native": "J'ai vérifié mon programme et préparé mon équipement de randonnée."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The bright sun began to shine through the tall trees.",
+      "phonetic": "/ðə braɪt sʌn bɪˈɡæn tuː ʃaɪn θruː ðə tɔːl triːz/",
+      "text_native": "Le soleil éclatant a commencé à briller à travers les grands arbres."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "It was a wonderful weekend to explore nature after the storm.",
+      "phonetic": "/ɪt wɒz ə ˈwʌn.dər.fəl ˈwiːk.end tuː ɪkˈsplɔːr ˈneɪ.tʃər ˈɑːf.tər ðə stɔːm/",
+      "text_native": "C'était un week-end merveilleux pour explorer la nature après la tempête."
+    }
+  ]
+}

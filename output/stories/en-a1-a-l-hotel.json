@@ -1,0 +1,186 @@
+{
+  "title": "At the Hotel Reception",
+  "new_vocabulary": ["receptionist", "reservation", "passport", "please", "sign", "here", "name", "surname", "card", "lift", "floor", "number", "twelve", "baggage", "heavy", "thank", "you", "welcome", "good", "evening", "sir", "madam", "form", "pen", "look", "computer", "print", "receipt", "enjoy", "stay"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Good evening, sir.",
+      "phonetic": "/ɡʊd ˈiːvnɪŋ, sɜːr./",
+      "text_native": "Bonsoir, monsieur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Welcome to the hotel.",
+      "phonetic": "/ˈwɛlkəm tuː ðə hoʊˈtɛl./",
+      "text_native": "Bienvenue à l'hôtel."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I have a reservation.",
+      "phonetic": "/aɪ hæv ə ˌrɛzərˈveɪʃən./",
+      "text_native": "J'ai une réservation."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "What is your name?",
+      "phonetic": "/wʌt ɪz jʊər neɪm?/",
+      "text_native": "Quel est votre nom ?"
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "My surname is Smith.",
+      "phonetic": "/maɪ ˈsɜːrneɪm ɪz smɪθ./",
+      "text_native": "Mon nom de famille est Smith."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Can I see your passport?",
+      "phonetic": "/kæn aɪ siː jʊər ˈpæspɔːrt?/",
+      "text_native": "Puis-je voir votre passeport ?"
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Here is my passport.",
+      "phonetic": "/hɪər ɪz maɪ ˈpæspɔːrt./",
+      "text_native": "Voici mon passeport."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Thank you very much.",
+      "phonetic": "/θæŋk juː ˈvɛri mʌtʃ./",
+      "text_native": "Merci beaucoup."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Please look at the computer.",
+      "phonetic": "/pliːz lʊk æt ðə kəmˈpjuːtər./",
+      "text_native": "Veuillez regarder l'ordinateur."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Here is a registration form.",
+      "phonetic": "/hɪər ɪz ə ˌrɛdʒɪˈstreɪʃən fɔːrm./",
+      "text_native": "Voici un formulaire d'enregistrement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Do you have a pen?",
+      "phonetic": "/duː juː hæv ə pɛn?/",
+      "text_native": "Avez-vous un stylo ?"
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Yes, I have a pen.",
+      "phonetic": "/jɛs, aɪ hæv ə pɛn./",
+      "text_native": "Oui, j'ai un stylo."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Please sign here.",
+      "phonetic": "/pliːz saɪn hɪər./",
+      "text_native": "Veuillez signer ici."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I am signing the paper now.",
+      "phonetic": "/aɪ æm ˈsaɪnɪŋ ðə ˈpeɪpər naʊ./",
+      "text_native": "Je signe le papier maintenant."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "This is your room key.",
+      "phonetic": "/ðɪs ɪz jʊər ruːm kiː./",
+      "text_native": "Voici la clé de votre chambre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Your room is number twelve.",
+      "phonetic": "/jʊər ruːm ɪz ˈnʌmbər twɛlv./",
+      "text_native": "Votre chambre est la numéro douze."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "It is on the second floor.",
+      "phonetic": "/ɪt ɪz ɒn ðə ˈsɛkənd flɔːr./",
+      "text_native": "Elle est au deuxième étage."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Take the lift, please.",
+      "phonetic": "/teɪk ðə lɪft, pliːz./",
+      "text_native": "Prenez l'ascenseur, s'il vous plaît."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "My baggage is very heavy.",
+      "phonetic": "/maɪ ˈbæɡɪdʒ ɪz ˈvɛri ˈhɛvi./",
+      "text_native": "Mes bagages sont très lourds."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Do you need help?",
+      "phonetic": "/duː juː niːd hɛlp?/",
+      "text_native": "Avez-vous besoin d'aide ?"
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "No, thank you.",
+      "phonetic": "/noʊ, θæŋk juː./",
+      "text_native": "Non, merci."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Here is your key card.",
+      "phonetic": "/hɪər ɪz jʊər kiː kɑːrd./",
+      "text_native": "Voici votre carte magnétique."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Open the door with the card.",
+      "phonetic": "/ˈoʊpən ðə dɔːr wɪð ðə kɑːrd./",
+      "text_native": "Ouvrez la porte avec la carte."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The bed is big and clean.",
+      "phonetic": "/ðə bɛd ɪz bɪɡ ænd kliːn./",
+      "text_native": "Le lit est grand et propre."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I am staying here for one night.",
+      "phonetic": "/aɪ æm ˈsteɪɪŋ hɪər fɔːr wʌn naɪt./",
+      "text_native": "Je reste ici pour une nuit."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tomorrow is a new day.",
+      "phonetic": "/təˈmɑːroʊ ɪz ə nuː deɪ./",
+      "text_native": "Demain sera un nouveau jour."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Here is your receipt.",
+      "phonetic": "/hɪər ɪz jʊər rɪˈsiːt./",
+      "text_native": "Voici votre reçu."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Enjoy your stay, sir.",
+      "phonetic": "/ɪnˈdʒɔɪ jʊər steɪ, sɜːr./",
+      "text_native": "Profitez bien de votre séjour, monsieur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Thank you for your help.",
+      "phonetic": "/θæŋk juː fɔːr jʊər hɛlp./",
+      "text_native": "Merci pour votre aide."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Good night.",
+      "phonetic": "/ɡʊd naɪt./",
+      "text_native": "Bonne nuit."
+    }
+  ]
+}

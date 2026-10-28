@@ -1,0 +1,217 @@
+{
+  "title": "小明的健康计划",
+  "new_vocabulary": [
+    "计划",
+    "目标",
+    "体重",
+    "肌肉",
+    "脂肪",
+    "饮食",
+    "营养",
+    "蛋白质",
+    "蔬菜",
+    "碳水化合物",
+    "卡路里",
+    "消耗",
+    "坚持",
+    "习惯",
+    "改变",
+    "效果",
+    "测量",
+    "定期",
+    "记录",
+    "建议",
+    "专家",
+    "教练",
+    "指导",
+    "动作",
+    "强度",
+    "频率",
+    "恢复",
+    "睡眠",
+    "质量",
+    "状态"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "小明决定制定一个改善健康的新计划。",
+      "phonetic": "Xiǎomíng juédìng zhìdìng yígè gǎishàn jiànkāng de xīn jìhuà.",
+      "text_native": "Xiaoming décide de formuler un nouveau plan pour améliorer sa santé."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他的主要目标是减轻体重并增加肌肉。",
+      "phonetic": "Tā de zhǔyào mùbiāo shì jiǎnqīng tǐzhòng bìng zēngjiā jīròu.",
+      "text_native": "Son objectif principal est de perdre du poids et d'augmenter sa masse musculaire."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "他站在秤上面测量自己目前的脂肪含量。",
+      "phonetic": "Tā zhàn zài chèng shàngmiàn cèliáng zìjǐ mùqián de zhīfáng hánliàng.",
+      "text_native": "Il monte sur la balance pour mesurer son taux de graisse actuel."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "医生曾建议他必须彻底改变日常饮食。",
+      "phonetic": "Yīshēng céng jiànyì tā bìxū chèdǐ gǎibiàn rìcháng yǐnshí.",
+      "text_native": "Un médecin lui avait conseillé de changer radicalement son alimentation quotidienne."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "因此，他开始严格控制每天摄入的卡路里。",
+      "phonetic": "Yīncǐ, tā kāishǐ yángé kòngzhì měitiān shèrù de kǎlùlǐ.",
+      "text_native": "Par conséquent, il commence à contrôler strictement les calories qu'il absorbe chaque jour."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "冰箱里放满了各种新鲜的蔬菜和水果。",
+      "phonetic": "Bīngxiāng lǐ fàng mǎnle gèzhǒng xīnxiān de shūcài hé shuǐguǒ.",
+      "text_native": "Le réfrigérateur est rempli de diverses sortes de légumes et de fruits frais."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "每一餐都需要保证足够的蛋白质和营养。",
+      "phonetic": "Měiyī cān dōu xūyào bǎozhèng zúgòu de dànbáizhì hé yíngyǎng.",
+      "text_native": "Chaque repas doit garantir suffisamment de protéines et de nutriments."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "他减少了米饭等碳水化合物的比例。",
+      "phonetic": "Tā jiǎnshǎole mǐfàn děng tànshuǐhuàhéwù de bǐlì.",
+      "text_native": "Il a réduit la proportion de glucides tels que le riz."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "每天早晨，他去公园跑步来消耗能量。",
+      "phonetic": "Měitiān zǎochén, tā qù gōngyuán pǎobù lái xiāohào néngliàng.",
+      "text_native": "Chaque matin, il va courir au parc pour dépenser de l'énergie."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "温暖的阳光照在皮肤上让人感到非常舒服。",
+      "phonetic": "Wēnnuǎn de yángguāng zhào zài pífū shàng ràng rén gǎndào fēicháng shūfu.",
+      "text_native": "La lumière chaude du soleil sur la peau procure une sensation très agréable."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "运动过程中，他的额头不断流汗。",
+      "phonetic": "Yùndòng guòchéng zhōng, tā de étóu búduàn liúhàn.",
+      "text_native": "Pendant l'exercice, son front transpire continuellement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "为了让手臂更有力量，他请了一位专业教练。",
+      "phonetic": "Wèile ràng shǒubì gèng yǒu lìliàng, tā qǐngle yíwèi zhuānyè jiàoliàn.",
+      "text_native": "Pour avoir des bras plus forts, il a engagé un entraîneur professionnel."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "教练仔细地指导每一个训练动作。",
+      "phonetic": "Jiàoliàn zǐxì de zhǐdǎo měiyíge xùnliàn dòngzuò.",
+      "text_native": "L'entraîneur guide avec soin chaque mouvement d'entraînement."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "刚开始的时候，高强度的练习让他双腿发酸。",
+      "phonetic": "Gāng kāishǐ de shíhòu, gāo qiángdù de liànxí ràng tā shuāngtuǐ fāsuān.",
+      "text_native": "Au début, les exercices de haute intensité lui ont fait mal aux deux jambes."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "但是他没有放弃，而是选择坚持下去。",
+      "phonetic": "Dànshì tā méiyǒu fàngqì, érshì xuǎnzé jiānchí xiàqù.",
+      "text_native": "Mais il n'a pas abandonné, il a plutôt choisi de persévérer."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "合理的频率比盲目追求大重量更重要。",
+      "phonetic": "Hélǐ de pínlǜ bǐ mángmù zhuīqiú dà zhòngliàng gèng zhòngyào.",
+      "text_native": "Une fréquence raisonnable est plus importante que la recherche aveugle de lourdes charges."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "每次训练结束后，充分的休息是必须的。",
+      "phonetic": "Měicì xùnliàn jiéshù hòu, chōngfèn de xiūxí shì bìxū de.",
+      "text_native": "À la fin de chaque entraînement, un repos suffisant est indispensable."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "良好的睡眠质量直接影响肌肉的恢复。",
+      "phonetic": "Liánghǎo de shuìmián zhìliàng zhíjiē yǐngxiǎng jīròu de huīfù.",
+      "text_native": "La bonne qualité du sommeil affecte directement la récupération musculaire."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他在手机上认真记录每一天的饮食和运动。",
+      "phonetic": "Tā zài shǒujī shàng rènzhēn jìlù měiyītiān de yǐnshí hé yùndòng.",
+      "text_native": "Il enregistre consciencieusement sur son téléphone son alimentation et son sport de chaque jour."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "四周以后，他发现镜子里的自己有了明显的改变。",
+      "phonetic": "Sì zhōu yǐhòu, tā fāxiàn jìngzi lǐ de zìjǐ yǒule míngxiǎn de gǎibiàn.",
+      "text_native": "Quatre semaines plus tard, il constate que son reflet dans le miroir a changé de façon évidente."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "虽然过程有些辛苦，但是效果非常好。",
+      "phonetic": "Suīrán guòchéng yǒuxiē xīnkǔ, dànshì xiàoguǒ fēicháng hǎo.",
+      "text_native": "Bien que le processus ait été un peu difficile, les résultats sont très bons."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他的精神状态比以前好了很多，不再容易觉得累。",
+      "phonetic": "Tā de jīngshén zhuàngtài bǐ yǐqián hǎole hěnduō, bú zài róngyì juéde lèi.",
+      "text_native": "Son état mental est bien meilleur qu'avant, et il ne se sent plus facilement fatigué."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "免疫力也提高了，很少再发生感冒生病的情况。",
+      "phonetic": "Miǎnyìlì yě tígāole, hěn shǎo zài fāshēng gǎnmào shēngbìng de qíngkuàng.",
+      "text_native": "Son immunité s'est également améliorée, et il attrape rarement des rhumes ou tombe malade."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "健康的身体让他对生活充满了微笑与热情。",
+      "phonetic": "Jiànkāng de shēntǐ ràng tā duì shēnghuó chōngmǎnle wēixiào yǔ rèqíng.",
+      "text_native": "Un corps sain le remplit de sourires et d'enthousiasme pour la vie."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "他明白健康不是暂时的任务，而是一种长期的习惯。",
+      "phonetic": "Tā míngbái jiànkāng bú shì zhànshí de rènwù, ér shì yìzhǒng chángqī de xíguàn.",
+      "text_native": "Il comprend que la santé n'est pas une tâche temporaire, mais une habitude à long terme."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "朋友们看到他的变化都纷纷向他请教经验。",
+      "phonetic": "Péngyǒumen kàn dào tā de biànhuà dōu fēnfēn xiàng tā qǐngjiào jīngyàn.",
+      "text_native": "Ses amis, voyant son changement, lui demandent tous des conseils sur son expérience."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "他微笑着告诉大家，饮食和运动缺一不可。",
+      "phonetic": "Tā wēixiào zhe gàosù dàjiā, yǐnshí hé yùndòng quēyībùkě.",
+      "text_native": "Il leur dit avec un sourire que l'alimentation et l'exercice sont tous deux indispensables."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "晚上睡觉前，他会喝一杯温水放松心情。",
+      "phonetic": "Wǎnshàng shuìjiào qián, tā huì hē yìbēi wēn shuǐ fàngsōng xīnqíng.",
+      "text_native": "Le soir avant de dormir, il boit une tasse d'eau tiède pour se détendre l'esprit."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "他躺在床上，为自己能够完成目标感到很高兴。",
+      "phonetic": "Tā tǎng zài chuáng shàng, wèi zìjǐ nénggòu wánchéng mùbiāo gǎndào hěn gāoxìng.",
+      "text_native": "Il est couché dans son lit, très heureux d'avoir pu atteindre son objectif."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "明天他还会继续走这条充满活力的人生道路。",
+      "phonetic": "Míngtiān tā hái huì jìxù zǒu zhè tiáo chōngmǎn huólì de rénshēng dàolù.",
+      "text_native": "Demain, il continuera à parcourir ce chemin de vie plein de vitalité."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Afternoon at the Chemist",
+  "new_vocabulary": [
+    "chemist",
+    "counter",
+    "assistant",
+    "customer",
+    "insurance",
+    "card",
+    "allergies",
+    "symptoms",
+    "relief",
+    "ointment",
+    "cream",
+    "skin",
+    "rash",
+    "itchy",
+    "leg",
+    "bandage",
+    "sprain",
+    "injury",
+    "recovery",
+    "advice",
+    "leaflet",
+    "instructions",
+    "dosage",
+    "frequency",
+    "side",
+    "effects",
+    "sleepy",
+    "recovery",
+    "staff",
+    "service"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Lucas walked quickly to the local chemist shop because his leg hurt after his run.",
+      "phonetic": "/ˈluːkəs wɔːkt ˈkwɪkli tuː ðə ˈləʊkəl ˈkɛmɪst ʃɒp bɪˈkɒz hɪz lɛɡ hɜːt ˈɑːftər hɪz rʌn/",
+      "text_native": "Lucas a marché rapidement vers la pharmacie de quartier parce que sa jambe le faisait souffrir après sa course."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He pushed the heavy glass entrance and noticed several customers standing near the counter.",
+      "phonetic": "/hiː pʊʃt ðə ˈhɛvi ɡlɑːs ˈɛntrəns ænd ˈnəʊtɪst ˈsɛvrəl ˈkʌstəməz ˈstændɪŋ nɪə ðə ˈkaʊntə/",
+      "text_native": "Il a poussé la lourde porte vitrée et a remarqué plusieurs clients debout près du comptoir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "A helpful shop assistant looked up from her computer and smiled at him.",
+      "phonetic": "/ə ˈhɛlpfʊl ʃɒp əˈsɪstənt lʊkt ʌp frɒm hɜː kəmˈpjuːtə ænd smaɪld æt hɪm/",
+      "text_native": "Une vendeuse serviable a levé les yeux de son ordinateur et lui a souri."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Lucas joined the short queue and waited patiently for his turn.",
+      "phonetic": "/ˈluːkəs dʒɔɪnd ðə ʃɔːt kjuː ænd ˈweɪtɪd ˈpeɪʃəntli fɔː hɪz tɜːn/",
+      "text_native": "Lucas s'est mis dans la courte file d'attente et a attendu patiemment son tour."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When the previous customer left, he stepped forward to explain his minor injury.",
+      "phonetic": "/wɛn ðə ˈpriːvɪəs ˈkʌstəmə lɛft, hiː stɛpt ˈfɔːwəd tuː ɪkˈspleɪn hɪz ˈmaɪnə ˈɪndʒəri/",
+      "text_native": "Quand le client précédent est parti, il s'est avancé pour expliquer sa blessure bénigne."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He showed the young woman behind the desk a nasty red rash on his lower leg.",
+      "phonetic": "/hiː ʃəʊd ðə jʌŋ ˈwʊmən bɪˈhaɪnd ðə dɛsk ə ˈnɑːsti rɛd ræʃ ɒn hɪz ˈləʊə lɛɡ/",
+      "text_native": "Il a montré à la jeune femme derrière le comptoir une vilaine éruption cutanée rouge sur le bas de sa jambe."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "It looked very itchy, and he needed immediate relief from the constant burning sensation.",
+      "phonetic": "/ɪt lʊkt ˈvɛri ˈɪtʃi, ænd hiː ˈniːdɪd ɪˈmiːdiət rɪˈliːf frɒm ðə ˈkɒnstənt ˈbɜːnɪŋ sɛnˈseɪʃən/",
+      "text_native": "Elle avait l'air très irritante, et il avait besoin d'un soulagement immédiat face à cette sensation de brûlure constante."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The professional employee asked if he had any known allergies to common medical ingredients.",
+      "phonetic": "/ðə prəˈfɛʃənl ɪmˈplɔɪi ɑːskt ɪf hiː hæd ˈɛni nəʊn ˈælədʒiz tuː ˈkɒmən ˈmɛdɪkəl ɪnˈɡriːdiənts/",
+      "text_native": "L'employée professionnelle a demandé s'il avait des allergies connues à des principes actifs courants."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Lucas shook his head and confirmed that his general health was usually quite robust.",
+      "phonetic": "/ˈluːkəs ʃʊk hɪz hɛd ænd kənˈfɜːmd ðæt hɪz ˈʤɛnərəl hɛlt wɒz ˈjuːʒʊəli kwaɪt rəʊˈbʌst/",
+      "text_native": "Lucas a fait non de la tête et a confirmé que sa santé générale était habituellement plutôt robuste."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "She checked her computer system to verify available treatments on the electronic database.",
+      "phonetic": "/ʃiː tʧɛkt hɜː kəmˈpjuːtə ˈsɪstəm tuː ˈvɛrɪfaɪ əˈveɪləbl ˈtriːtmənts ɒn ði ɪlɛkˈtrɒnɪk ˈdeɪtəbeɪs/",
+      "text_native": "Elle a consulté son ordinateur pour vérifier les traitements disponibles sur la base de données informatique."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Then she walked quickly towards a tall metal shelf to fetch a special soothing ointment.",
+      "phonetic": "/ðɛn ʃiː wɔːkt ˈkwɪkli təˈwɔːdz ə tɔːl ˈmɛtl ʃɛlf tuː fɛʧ ə ˈspɛʃəl ˈsuːðɪŋ ˈɔɪntmənt/",
+      "text_native": "Ensuite, elle a marché rapidement vers une grande étagère métallique pour aller chercher une pommade apaisante spécifique."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "She placed a small white tube of soothing cream directly onto the shiny glass surface.",
+      "phonetic": "/ʃiː pleɪst ə smɔːl waɪt tjuːb ɒv ˈsuːðɪŋ kriːm daɪˈrɛktli ˈɒntuː ðə ˈʃaɪni ɡlɑːs ˈsɜːfɪs/",
+      "text_native": "Elle a posé un petit tube blanc de crème apaisante directement sur la surface en verre brillant."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Along with the cream, she picked up a supportive elastic bandage for a potential joint sprain.",
+      "phonetic": "/əˈlɒŋ wɪð ðə kriːm, ʃiː pɪkt ʌp ə səˈpɔːtɪv ɪˈlæstɪk ˈbændɪdʒ fɔːr ə pəˈtɛnʃəl dʒɔɪnt spreɪn/",
+      "text_native": "En plus de la crème, elle a pris une bande élastique de maintien pour une éventuelle entorse articulaire."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Lucas listened very carefully while she explained the specific usage instructions.",
+      "phonetic": "/ˈluːkəs ˈlɪsnd ˈvɛri ˈkɛəfʊli waɪl ʃiː ɪkˈspleɪnd ðə spɪˈsɪfɪk ˈjuːsɪdʒ ɪnˈstrʌkʃənz/",
+      "text_native": "Lucas a écouté très attentivement pendant qu'elle lui expliquait les instructions d'utilisation."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "She advised him to read the paper leaflet inside the cardboard box before the first application.",
+      "phonetic": "/ʃiː ədˈvaɪzd hɪm tuː riːd ðə ˈpeɪpə ˈliːflɪt ɪnˈsaɪd ðə ˈkɑːdbɔːd bɒks bɪˈfɔː ðə fɜːst ˌæplɪˈkeɪʃən/",
+      "text_native": "Elle lui a conseillé de lire la notice en papier à l'intérieur de la boîte en carton avant la première application."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "She mentioned that the correct dosage and frequency were clearly printed on the back panel.",
+      "phonetic": "/ʃiː ˈmɛnʃʊnd ðæt ðə kəˈrɛkt ˈdəʊsɪdʒ ænd ˈfriːkwənsi wɜː ˈklɪəli ˈprɪntɪd ɒn ðə bæk ˈpænl/",
+      "text_native": "Elle a précisé que la posologie et la fréquence exactes étaient clairement indiquées au dos."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The expert staff member also warned him about potential mild side effects like feeling slightly sleepy.",
+      "phonetic": "/ði ˈɛkspɜːt stɑːf ˈmɛmbə ˈɔːlsəʊ wɔːnd hɪm əˈbaʊt pəˈtɛnʃəl maɪld saɪd ɪˈfɛkts laɪk ˈfiːlɪŋ ˈslaɪtli ˈsliːpi/",
+      "text_native": "La pharmacienne l'a également mis en garde contre d'éventuels effets secondaires bénins, comme une légère somnolence."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Lucas nodded because he understood the medical advice completely.",
+      "phonetic": "/ˈluːkəs ˈnɒdɪd bɪˈkɒz hiː ˌʌndəˈstʊd ðə ˈmɛdɪkəl ədˈvaɪs kəmˈpliːtli/",
+      "text_native": "Lucas a hoché la tête parce qu'il avait parfaitement compris ses conseils médicaux."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Then she typed the final total amount into the modern electronic cash register.",
+      "phonetic": "/ðɛn ʃiː taɪpt ðə ˈfaɪnl ˈtəʊtəl əˈmaʊnt ˈɪntuː ðə ˈmɒdən ɪlɛkˈtrɒnɪk kæʃ ˈrɛdʒɪstə/",
+      "text_native": "Ensuite, elle a tapé le montant total à la caisse enregistreuse électronique."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The total price for both items came to exactly twenty-four euros.",
+      "phonetic": "/ðə ˈtəʊtəl praɪs fɔː bəʊθ ˈaɪtəmz keɪm tuː ɪɡˈzækli ˈtwɛnti-fɔː ˈjʊərəʊz/",
+      "text_native": "Le prix total pour les deux articles s'élevait exactement à vingt-quatre euros."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Lucas took his wallet from his pocket to pay for the medical products.",
+      "phonetic": "/ˈluːkəs tʊk hɪz ˈwɒlɪt frɒm hɪz ˈpɒkɪt tuː peɪ fɔː ðə ˈmɛdɪkəl ˈprɒdʌkts/",
+      "text_native": "Lucas a sorti son portefeuille de sa poche pour payer les produits de santé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He decided to use his insurance card for possible reimbursement later.",
+      "phonetic": "/hiː dɪˈsaɪdɪd tuː juːz hɪz ɪnˈʃʊərəns kɑːd fɔː ˈpɒsəbl ˌriːɪmˈbɜːsmənt ˈleɪtə/",
+      "text_native": "Il a décidé d'utiliser sa carte de mutuelle en vue d'un éventuel remboursement ultérieur."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He tapped his plastic card against the small wireless payment terminal.",
+      "phonetic": "/hiː tæpt hɪz ˈplæstɪk kɑːd əˈgɛnst ðə smɔːl ˈwaɪəlɪs ˈpeɪmənt ˈtɜːmɪnl/",
+      "text_native": "Il a posé sa carte bancaire sur le petit terminal de paiement sans contact."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The machine beeped twice to show that the financial transaction was successful.",
+      "phonetic": "/ðə məˈʃiːn biːpt twaɪs tuː ʃəʊ ðæt ðə fɪˈnænʃəl trænˈzækʃən wɒz səkˈsɛsfʊl/",
+      "text_native": "La machine a bipé deux fois pour indiquer que la transaction avait réussi."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The friendly assistant printed a detailed paper receipt and handed it to him.",
+      "phonetic": "/ðə ˈfrɛndli əˈsɪstənt ˈprɪntɪd ə ˈdiːteɪld ˈpeɪpə rɪˈsiːt ænd ˈhændɪd ɪt tuː hɪm/",
+      "text_native": "L'employée aimable a imprimé un ticket de caisse détaillé et le lui a remis."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Lucas put the small receipt safely inside his coat pocket.",
+      "phonetic": "/ˈluːkəs pʊt ðə smɔːl rɪˈsiːt ˈseɪfli ɪnˈsaɪd hɪz kəʊt ˈpɒkɪt/",
+      "text_native": "Lucas a soigneusement rangé le ticket dans la poche de son manteau."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "She carefully placed the tube and the bandage inside a clean paper bag.",
+      "phonetic": "/ʃiː ˈkɛəfʊli pleɪst ðə tjuːb ænd ðə ˈbændɪdʒ ɪnˈsaɪd ə kliːn ˈpeɪpə bæɡ/",
+      "text_native": "Elle a délicatement glissé le tube et la bande dans un sachet en papier propre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Lucas thanked the staff member warmly for her excellent customer service.",
+      "phonetic": "/ˈluːkəs θæŋkt ðə stɑːf ˈmɛmbə ˈwɔːmli fɔː hɜːr ˈɛksələnt ˈkʌstəmə ˈsɜːvɪs/",
+      "text_native": "Lucas a chaleureusement remercié la pharmacienne pour son excellent service client."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He wished her a good afternoon and walked out of the pharmacy.",
+      "phonetic": "/hiː wɪʃt hɜːr ə ɡʊd ˈɑːftənuːn ænd wɔːkt aʊt ɒv ðə ˈfɑːməsi/",
+      "text_native": "Il lui a souhaité un bon après-midi et est sorti de la pharmacie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He hoped his leg would feel much better soon so he could run again.",
+      "phonetic": "/hiː həʊpt hɪz lɛɡ wʊd fiːl mʌʧ ˈbɛtə suːn səʊ hiː kʊd rʌn əˈɡɛn/",
+      "text_native": "Il espérait que sa jambe irait beaucoup mieux bientôt pour pouvoir refaire de la course à pied."
+    }
+  ]
+}

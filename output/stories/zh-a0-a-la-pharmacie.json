@@ -1,0 +1,96 @@
+{
+  "title": "在药店",
+  "new_vocabulary": [
+    "药店",
+    "医生",
+    "药",
+    "水",
+    "钱"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我去药店。",
+      "phonetic": "wǒ qù yào diàn.",
+      "text_native": "Je vais à la pharmacie."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "药店很大。",
+      "phonetic": "yào diàn hěn dà.",
+      "text_native": "La pharmacie est grande."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我开门。",
+      "phonetic": "wǒ kāi mén.",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我进去。",
+      "phonetic": "wǒ jìn qù.",
+      "text_native": "J'entre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "里面有人。",
+      "phonetic": "lǐ miàn yǒu rén.",
+      "text_native": "Il y a quelqu'un à l'intérieur."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我看见医生。",
+      "phonetic": "wǒ kàn jiàn yī shēng.",
+      "text_native": "Je vois le pharmacien."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我说你好。",
+      "phonetic": "wǒ shuō nǐ hǎo.",
+      "text_native": "Je dis bonjour."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我头疼。",
+      "phonetic": "wǒ tóu téng.",
+      "text_native": "J'ai mal à la tête."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我买药。",
+      "phonetic": "wǒ mǎi yào.",
+      "text_native": "J'achète des médicaments."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "医生给我药。",
+      "phonetic": "yī shēng gěi wǒ yào.",
+      "text_native": "Le pharmacien me donne le médicament."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我买水。",
+      "phonetic": "wǒ mǎi shuǐ.",
+      "text_native": "J'achète de l'eau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我给钱。",
+      "phonetic": "wǒ gěi qián.",
+      "text_native": "Je donne l'argent."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我说谢谢。",
+      "phonetic": "wǒ shuō xiè xiè.",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我回家了。",
+      "phonetic": "wǒ huí jiā le.",
+      "text_native": "Je rentre à la maison."
+    }
+  ]
+}

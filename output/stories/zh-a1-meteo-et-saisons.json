@@ -1,0 +1,188 @@
+{
+  "title": "一年四季的早晨",
+  "new_vocabulary": [
+    "早晨", "今天", "天气", "多云", "刮风", "穿", "衣服", "出门", "工作", "吃", "早饭", "喜欢", "喝", "茶", "看", "书", "太阳", "出来", "高兴", "公园", "走", "花", "开", "漂亮", "水", "果", "多", "买", "苹果", "回家", "休息", "晚", "上", "睡", "觉"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早晨天气很好。",
+      "phonetic": "Jīntiān zǎochén tiānqì hěn hǎo.",
+      "text_native": "Il fait très beau ce matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "春天来了。",
+      "phonetic": "Chūntiān lái le.",
+      "text_native": "Le printemps est arrivé."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "外面不冷也不热。",
+      "phonetic": "Wàimiàn bù lěng yě bù rè.",
+      "text_native": "Il ne fait ni froid ni chaud dehors."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我早起穿衣服。",
+      "phonetic": "Wǒ zǎoqǐ chuān yīfu.",
+      "text_native": "Je me lève tôt et je m'habille."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我吃了早饭。",
+      "phonetic": "Wǒ chī le zǎofàn.",
+      "text_native": "J'ai pris mon petit-déjeuner."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我喜欢喝热茶。",
+      "phonetic": "Wǒ xǐhuān hē rè chá.",
+      "text_native": "J'aime boire du thé chaud."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我看了一会儿书。",
+      "phonetic": "Wǒ kàn le yí huìr shū.",
+      "text_native": "J'ai lu un livre pendant un moment."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "太阳出来了。",
+      "phonetic": "Tàiyáng chūlái le.",
+      "text_native": "Le soleil est sorti."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我心里很高兴。",
+      "phonetic": "Wǒ xīnli hěn gāoxìng.",
+      "text_native": "Je suis très heureux."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我出门去公园走走。",
+      "phonetic": "Wǒ chūmén qù gōngyuán zǒu zǒu.",
+      "text_native": "Je sors pour aller me promener au parc."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "公园里的花开了。",
+      "phonetic": "Gōngyuán lǐ de huā kāi le.",
+      "text_native": "Les fleurs du parc ont éclos."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "这些花非常漂亮。",
+      "phonetic": "Zhèxiē huā fēicháng piàoliang.",
+      "text_native": "Ces fleurs sont très jolies."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "夏天的时候很热。",
+      "phonetic": "Xiàtiān de shíhou hěn rè.",
+      "text_native": "En été, il fait très chaud."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "天常常下雨。",
+      "phonetic": "Tiān chángcháng xià yǔ.",
+      "text_native": "Il pleut souvent."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "水果有很多。",
+      "phonetic": "Shuǐguǒ yǒu hěn duō.",
+      "text_native": "Il y a beaucoup de fruits."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我去商店买苹果。",
+      "phonetic": "Wǒ qù shāngdiàn mǎi píngguǒ.",
+      "text_native": "Je vais au magasin acheter des pommes."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "秋天到了。",
+      "phonetic": "Qiūtiān dào le.",
+      "text_native": "L'automne est arrivé."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "今天多云。",
+      "phonetic": "Jīntiān duōyún.",
+      "text_native": "Le ciel est nuageux aujourd'hui."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "外面刮风了。",
+      "phonetic": "Wàimiàn guā fēng le.",
+      "text_native": "Il y a du vent dehors."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "天气有一点冷。",
+      "phonetic": "Tiānqì yǒu yìdiǎn lěng.",
+      "text_native": "Le temps est un peu frais."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "冬天也来了。",
+      "phonetic": "Dōngtiān yě lái le.",
+      "text_native": "L'hiver est également arrivé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "天上开始下雪。",
+      "phonetic": "Tiānshang kāishǐ xià xuě.",
+      "text_native": "Il commence à neiger."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "地上有很多雪。",
+      "phonetic": "Dìshang yǒu hěn duō xuě.",
+      "text_native": "Il y a beaucoup de neige sur le sol."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我穿了很多衣服。",
+      "phonetic": "Wǒ chuān le hěn duō yīfu.",
+      "text_native": "J'ai mis beaucoup de vêtements."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我去工作。",
+      "phonetic": "Wǒ qù gōngzuò.",
+      "text_native": "Je vais travailler."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我做完工作回家。",
+      "phonetic": "Wǒ zuò wán gōngzuò huí jiā.",
+      "text_native": "Je rentre à la maison après le travail."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我在家休息。",
+      "phonetic": "Wǒ zài jiā xiūxi.",
+      "text_native": "Je me repose à la maison."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "晚上到了。",
+      "phonetic": "Wǎnshang dào le.",
+      "text_native": "Le soir est tombé."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "天黑了。",
+      "phonetic": "Tiān hēi le.",
+      "text_native": "Il fait nuit."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我要睡觉了。",
+      "phonetic": "Wǒ yào shuìjiào le.",
+      "text_native": "Je vais aller me coucher."
+    }
+  ]
+}

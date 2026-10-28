@@ -1,0 +1,217 @@
+{
+  "title": "My New Laptop",
+  "new_vocabulary": [
+    "laptop",
+    "table",
+    "turn on",
+    "blue",
+    "light",
+    "battery",
+    "plug",
+    "wall",
+    "cable",
+    "power",
+    "button",
+    "start",
+    "desktop",
+    "picture",
+    "icon",
+    "click",
+    "browser",
+    "internet",
+    "wifi",
+    "connect",
+    "network",
+    "search",
+    "bar",
+    "type",
+    "letter",
+    "name",
+    "save",
+    "document",
+    "close",
+    "shut down"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom puts his laptop on the table.",
+      "phonetic": "/tɒm pʊts hɪz ˈlæptɒp ɒn ðə ˈteɪbəl/",
+      "text_native": "Tom pose son ordinateur portable sur la table."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He wants to turn on the screen.",
+      "phonetic": "/hi wɒnts tu tɜːn ɒn ðə skriːn/",
+      "text_native": "Il veut allumer l'écran."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "A blue light shows the battery is low.",
+      "phonetic": "/ə bluː laɪt ʃəʊz ðə ˈbætəri ɪz ləʊ/",
+      "text_native": "Une voyant bleu indique que la batterie est faible."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He takes a cable.",
+      "phonetic": "/hi teɪks ə ˈkeɪbəl/",
+      "text_native": "Il prend un câble."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Tom plugs the cable into the wall.",
+      "phonetic": "/tɒm plʌɡz ðə ˈkeɪbəl ˈɪntuː ðə wɔːl/",
+      "text_native": "Tom branche le câble dans la prise murale."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The power goes into the computer.",
+      "phonetic": "/ðə ˈpaʊər ɡəʊz ˈɪntuː ðə kəmˈpjuːtər/",
+      "text_native": "Le courant passe dans l'ordinateur."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He presses the power button.",
+      "phonetic": "/hi ˈpresɪz ðə ˈpaʊər ˈbʌtən/",
+      "text_native": "Il appuie sur le bouton d'alimentation."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The device begins to start.",
+      "phonetic": "/ðə dɪˈvaɪs bɪˈɡɪnz tu stɑːt/",
+      "text_native": "L'appareil commence à démarrer."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He waits for the desktop.",
+      "phonetic": "/hi weɪts fɔːr ðə ˈdesktɒp/",
+      "text_native": "Il attend l'affichage du bureau."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "A nice picture appears.",
+      "phonetic": "/ə naɪs ˈpɪktʃər əˈpɪərz/",
+      "text_native": "Une jolie image apparaît."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom sees a small icon.",
+      "phonetic": "/tɒm siːz ə smɔːl ˈaɪkɒn/",
+      "text_native": "Tom voit une petite icône."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He takes the mouse in his hand.",
+      "phonetic": "/hi teɪks ðə maʊs ɪn hɪz hænd/",
+      "text_native": "Il prend la souris en main."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He moves the mouse to click the icon.",
+      "phonetic": "/hi muːvz ðə maʊs tu klɪk ði ˈaɪkɒn/",
+      "text_native": "Il déplace la souris pour cliquer sur l'icône."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The web browser opens.",
+      "phonetic": "/ðə wɛb ˈbraʊzər ˈəʊpənz/",
+      "text_native": "Le navigateur web s'ouvre."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He wants to use the internet.",
+      "phonetic": "/hi wɒnts tu juːz ði ˈɪntəˌnɛt/",
+      "text_native": "Il veut utiliser Internet."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The wifi connects to the local network.",
+      "phonetic": "/ðə ˈwaɪfaɪ kəˈnekts tu ðə ˈləʊkəl ˈnetwɜːk/",
+      "text_native": "Le wifi se connecte au réseau local."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom looks at the search bar.",
+      "phonetic": "/tɒm lʊks æt ðə sɜːtʃ bɑː/",
+      "text_native": "Tom regarde la barre de recherche."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He uses the keyboard.",
+      "phonetic": "/hi ˈjuːzɪz ðə ˈkiːbɔːd/",
+      "text_native": "Il utilise le clavier."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He types every letter carefully.",
+      "phonetic": "/hi taɪps ˈɛvri ˈlɛtər ˈkeəfʊli/",
+      "text_native": "Il tape chaque lettre avec soin."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He writes his own name.",
+      "phonetic": "/hi raɪts hɪz əʊn neɪm/",
+      "text_native": "Il écrit son propre nom."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Some data appears on the screen.",
+      "phonetic": "/sʌm ˈdeɪtə əˈpɪərz ɒn ðə skriːn/",
+      "text_native": "Des données apparaissent sur l'écran."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He opens a new folder.",
+      "phonetic": "/hi ˈəʊpənz ə njuː ˈfəʊldər/",
+      "text_native": "Il ouvre un nouveau dossier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom creates a text document.",
+      "phonetic": "/tɒm kriˈeɪts ə tɛkst ˈdɒkjʊmənt/",
+      "text_native": "Tom crée un document texte."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He writes a short message inside.",
+      "phonetic": "/hi raɪts ə ʃɔːt ˈmesɪdʒ ˈɪnsaɪd/",
+      "text_native": "Il y écrit un court message."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He types a secret password for safety.",
+      "phonetic": "/hi taɪps ə ˈsiːkrɪt ˈpɑːswɜːd fɔːr ˈseɪfti/",
+      "text_native": "Il tape un mot de passe secret par sécurité."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He wants to save the file.",
+      "phonetic": "/hi wɒnts tu seɪv ðə faɪl/",
+      "text_native": "Il veut enregistrer le fichier."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The system saves the work fast.",
+      "phonetic": "/ðə ˈsɪstəm seɪvz ðə wɜːk fɑːst/",
+      "text_native": "Le système sauvegarde le travail rapidement."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom closes the document window.",
+      "phonetic": "/tɒm ˈkləʊzɪz ðə ˈdɒkjʊmənt ˈwɪndəʊ/",
+      "text_native": "Tom ferme la fenêtre du document."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He decides to shut down the laptop.",
+      "phonetic": "/hi dɪˈsaɪdz tu ʃʌt daʊn ðə ˈlæptɒp/",
+      "text_native": "Il décide d'éteindre l'ordinateur portable."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "The screen goes dark and he is done.",
+      "phonetic": "/ðə skriːn ɡəʊz dɑːk ænd hi ɪz dʌn/",
+      "text_native": "L'écran devient noir et il a terminé."
+    }
+  ]
+}

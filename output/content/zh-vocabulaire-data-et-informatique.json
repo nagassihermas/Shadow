@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我的电脑今天老是死机，真的太烦人了。",
+    "phonetic": "wǒ de diànnǎo jīntiān lǎo shì sǐjī, zhēn de tài fánrén le.",
+    "text_native": "Mon ordi n arrête pas de planter aujourd'hui, c'est vraiment pénible.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "你可以把那个文件发到我的邮箱吗？",
+    "phonetic": "nǐ kěyǐ bǎ nà gè wénjiàn fādào wǒ de yóuxiāng ma?",
+    "text_native": "Tu pourrais m'envoyer ce fichier par mail ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "等一下，我先连一下办公室的无线网。",
+    "phonetic": "děng yīxià, wǒ xiān lián yīxià bàngōngshì de wúxiànwǎng.",
+    "text_native": "Attends, je me connecte d'abord au wifi du bureau.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这个软件每次用之前都要先更新。",
+    "phonetic": "zhè gè ruǎnjiàn měicì yòng zhīqián dōu yào xiān gēngxīn.",
+    "text_native": "Ce logiciel demande à être mis à jour à chaque utilisation.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "密码一定要设复杂一点才安全。",
+    "phonetic": "mìmǎ yīdìng yào shè fùzá yīdiǎn cái ānquán.",
+    "text_native": "Il faut absolument définir un mot de passe assez complexe pour que ce soit sécurisé.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我刚刚不小心把重要的文档删掉了。",
+    "phonetic": "wǒ gānggāng bù xiǎoxīn bǎ zhòngyào de wéndàng shāndiào le.",
+    "text_native": "Je viens de supprimer par inadvertance un document important.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "别慌，去回收站找找看还能不能恢复。",
+    "phonetic": "bié huāng, qù huíshōuzhàn zhǎo zhǎo kàn hái néng bù néng huīfù.",
+    "text_native": "Pas de panique, va voir dans la corbeille si tu peux le récupérer.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "老板让我把这些销售数据整理成表格。",
+    "phonetic": "lǎobǎn ràng wǒ bǎ zhèxiē xiāoshòu shùjù zhěnglǐ chéng biǎogé.",
+    "text_native": "Mon boss m'a demandé de mettre ces chiffres de ventes sous forme de tableau.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "为了安全起见，所有文件我都备份了。",
+    "phonetic": "wèile ānquán qǐjiàn, suǒyǒu wénjiàn wǒ dōu bèifèn le.",
+    "text_native": "Par mesure de précaution, j'ai fait une sauvegarde de tous mes dossiers.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "网页加载得太慢了，是不是网速有问题？",
+    "phonetic": "wǎngyè jiāzài de tài màn le, shì bù shì wǎngsù yǒu wèntí?",
+    "text_native": "La page met une plombe à charger, y a un souci avec la connexion ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "服务器好像崩溃了，大家先别保存进度。",
+    "phonetic": "fúwùqì hǎoxiàng bēngkuì le, dàjiā xiān bié bǎocún jìndù.",
+    "text_native": "Le serveur a l'air d'avoir lâché, n'enregistrez surtout pas vos avancées pour l'instant.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我们必须把这几年的用户数据导入新系统。",
+    "phonetic": "wǒmen bìxū bǎ zhè jǐ nián de yònghù shùjù dǎorù xīn xìtǒng.",
+    "text_native": "On doit impérativement importer les données utilisateurs de ces dernières années dans la nouvelle plateforme.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这个账号必须通过双重认证才能登录。",
+    "phonetic": "zhè gè zhànghào bìxū tōngguò shuāngchóng rènzhèng cáinéng dēnglù.",
+    "text_native": "Ce compte requiert une double authentification pour pouvoir se connecter.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "技术部门正在排查代码里的漏洞。",
+    "phonetic": "jìshù bùmén zhèngzài páichá dàimǎ lǐ de lòudòng.",
+    "text_native": "L'équipe technique est en train de traquer les failles de sécurité dans le code.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "为了节省本地空间，我把部分文件存到了云端。",
+    "phonetic": "wèile jiéshěng běndì kōngjiān, wǒ bǎ bùfèn wénjiàn cún dào le yúnduān.",
+    "text_native": "Afin de libérer de l'espace disque, j'ai migré une partie de mes fichiers sur le cloud.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这次系统升级可能会清除部分缓存数据。",
+    "phonetic": "zhè cì xìtǒng shēngjí kěnéng huì qīngchú bùfèn huǎncún shùjù.",
+    "text_native": "Cette mise à niveau du système est susceptible d'effacer une partie des données en cache.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "分析这份市场报告前，我们要先过滤掉异常值。",
+    "phonetic": "fēnxī zhè fèn shìchǎng bàogào qián, wǒmen yào xiān guòlǜ diào yìcháng zhí.",
+    "text_native": "Avant d'analyser ce rapport de marché, il faut qu'on nettoie les valeurs aberrantes.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "如果API接口响应超时，前端就会报错。",
+    "phonetic": "rúguǒ jiēkǒu xiǎngyìng chāoshí, qiánduān jiù huì bàocò.",
+    "text_native": "Si l'appel API subit un délai d'attente dépassé, l'interface front-end renverra une erreur.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "为了防止恶意攻击，我们必须加强防火墙的配置。",
+    "phonetic": "wèile fángzhǐ èyì gōngjí, wǒmen bìxū jiāqiáng fánghuǒqiáng de pèizhì.",
+    "text_native": "Afin de parer à toute intrusion malveillante, nous devons durcir les paramètres du pare-feu.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "通过对大数据的挖掘，我们终于找出了潜在的业务盲点。",
+    "phonetic": "tōngguò duì dàshùjù de wājué, wǒmen zhōngyú zhǎochū le qiánzài de yèwù mángdiǎn.",
+    "text_native": "Grâce au data mining, nous avons enfin mis en lumière des angles morts insoupçonnés dans notre activité.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  }
+]

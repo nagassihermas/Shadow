@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Excuse me, where is the station?",
+    "phonetic": "/ɪkˈskjuːz miː, wer ɪz ðə ˈsteɪʃn?/",
+    "text_native": "Pardon, où est la gare ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Hello, I need the bus stop please.",
+    "phonetic": "/həˈloʊ, aɪ niːd ðə bʌs stɑːp pliːz./",
+    "text_native": "Bonjour, j'ai besoin de l'arrêt de bus s'il vous plaît.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Is there a bank near here?",
+    "phonetic": "/ɪz ðer ə bæŋk nɪr hɪr?/",
+    "text_native": "Est-ce qu'il y a une banque près d'ici ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Can you help me find a hotel?",
+    "phonetic": "/kæn juː help miː faɪnd ə hoʊˈtel?/",
+    "text_native": "Pouvez-vous m'aider à trouver un hôtel ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Where can I buy a ticket?",
+    "phonetic": "/wer kæn aɪ baɪ ə ˈtɪkɪt?/",
+    "text_native": "Où est-ce que je peux acheter un billet ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Which way is the city center?",
+    "phonetic": "/wɪtʃ weɪ ɪz ðə ˈsɪti ˈsentər?/",
+    "text_native": "C'est par où le centre-ville ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "How do I get to the museum?",
+    "phonetic": "/haʊ duː aɪ ɡet tuː ðə mjuˈziːəm?/",
+    "text_native": "Comment je fais pour aller au musée ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Is this the right way for the park?",
+    "phonetic": "/ɪz ðɪs ðə raɪt weɪ fɔːr ðə pɑːrk?/",
+    "text_native": "C'est bien par ici pour aller au parc ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Look for the big supermarket on the left.",
+    "phonetic": "/lʊk fɔːr ðə bɪɡ ˈsuːpərmɑːrkɪt ɑːn ðə left./",
+    "text_native": "Cherche le grand supermarché sur la gauche.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Go straight on until the traffic lights.",
+    "phonetic": "/ɡoʊ streɪt ɑːn ənˈtɪl ðə ˈtræfɪk laɪts./",
+    "text_native": "Va tout droit jusqu'aux feux tricolores.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Turn right at the pharmacy.",
+    "phonetic": "/tɜːrn raɪt æt ðə ˈfɑːrməsi./",
+    "text_native": "Tournez à droite à la pharmacie.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Take the second street on your left.",
+    "phonetic": "/teɪk ðə ˈsekənd striːt ɑːn jʊər left./",
+    "text_native": "Prenez la deuxième rue sur votre gauche.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Cross the street near the bakery.",
+    "phonetic": "/krɑːs ðə striːt nɪr ðə ˈbeɪkəri./",
+    "text_native": "Traversez la rue près de la boulangerie.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Walk past the coffee shop.",
+    "phonetic": "/wɔːk pæst ðə ˈkɑːfi ʃɑːp./",
+    "text_native": "Passez devant le café.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "The post office is behind the church.",
+    "phonetic": "/ðə poʊst ˈɑːfɪs ɪz bɪˈhaɪnd ðə tʃɜːrtʃ./",
+    "text_native": "La poste se trouve derrière l'église.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "You will see a bridge ahead.",
+    "phonetic": "/juː wɪl siː ə brɪdʒ əˈhed./",
+    "text_native": "Vous allez voir un pont un peu plus loin.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Is it far to walk from here?",
+    "phonetic": "/ɪz ɪt fɑːr tuː wɔːk frʌm hɪr?/",
+    "text_native": "C'est loin à pied d'ici ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "No, it takes only five minutes.",
+    "phonetic": "/noʊ, ɪt teɪks ˈoʊnli faɪv ˈmɪnɪts./",
+    "text_native": "Non, il y en a pour cinq minutes seulement.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Sorry, I am not from this town.",
+    "phonetic": "/ˈsɑːri, aɪ əm nɑːt frʌm ðɪs taʊn./",
+    "text_native": "Désolé, je ne suis pas d'ici.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "Thank you so much for your help!",
+    "phonetic": "/θæŋk juː soʊ mʌtʃ fɔːr jʊər help!/",
+    "text_native": "Un grand merci pour votre aide !",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A1"
+  }
+]

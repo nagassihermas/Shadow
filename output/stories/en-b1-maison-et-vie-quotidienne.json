@@ -1,0 +1,227 @@
+{
+  "title": "A Busy Tuesday at Home",
+  "new_vocabulary": [
+    "schedule",
+    "routine",
+    "tidy",
+    "messy",
+    "organize",
+    "drawer",
+    "wardrobe",
+    "laundry",
+    "basket",
+    "washing machine",
+    "detergent",
+    "button",
+    "cycle",
+    "hang",
+    "balcony",
+    "dry",
+    "breeze",
+    "vacuum",
+    "carpet",
+    "dust",
+    "shelf",
+    "plants",
+    "water",
+    "sink",
+    "dishes",
+    "sponge",
+    "counter",
+    "meal",
+    "grocery",
+    "delivery",
+    "package",
+    "receipt",
+    "signature",
+    "hallway",
+    "garbage",
+    "bin",
+    "evening",
+    "relax",
+    "candle",
+    "schedule"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom wakes up early because he has a busy schedule today.",
+      "phonetic": "/tɒm weɪks ʌp ˈɜːli bɪˈkɒz hiː hæz ə ˈbɪzi ˈʃedjuːl təˈdeɪ/",
+      "text_native": "Tom se réveille tôt parce qu'il a un emploi du temps chargé aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "His daily routine always starts in the bedroom.",
+      "phonetic": "/hɪz ˈdeɪli ruːˈtiːn ˈɔːlweɪz stɑːts ɪn ðə ˈbedruːm/",
+      "text_native": "Sa routine quotidienne commence toujours dans la chambre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He sees that his room is a little messy.",
+      "phonetic": "/hiː siːz ðæt hɪz ruːm ɪz ə ˈlɪtl ˈmesi/",
+      "text_native": "Il voit que sa chambre est un peu en désordre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He decides to tidy everything before he leaves.",
+      "phonetic": "/hiː dɪˈsaɪdz tuː ˈtaɪdi ˈevriθɪŋ bɪˈfɔː hiː liːvz/",
+      "text_native": "Il décide de tout ranger avant de partir."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "First, he opens the large wooden wardrobe.",
+      "phonetic": "/fɜːst, hiː ˈəʊpənz ðə lɑːʒ ˈwʊdn ˈwɔːdrəʊb/",
+      "text_native": "D'abord, il ouvre la grande armoire en bois."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He puts his clean clothes inside a small drawer.",
+      "phonetic": "/hiː pʊts hɪz kliːn kləʊðz ɪnˈsaɪd ə smɔːl drɔː/",
+      "text_native": "Il range ses vêtements propres dans un petit tiroir."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Then, he collects the dirty laundry from the floor.",
+      "phonetic": "/ðen, hiː kəˈlekts ðə ˈdɜːti ˈlɔːndri frəm ðə flɔː/",
+      "text_native": "Ensuite, il ramasse le linge sale par terre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He places all the clothes into a plastic basket.",
+      "phonetic": "/hiː ˈpleɪsɪz ɔːl ðə kləʊðz ˈɪntuː ə ˈplæstɪk ˈbɑːskɪt/",
+      "text_native": "Il met tous les vêtements dans un panier en plastique."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He carries the basket down to the small laundry room.",
+      "phonetic": "/hiː ˈkæriz ðə ˈbɑːskɪt daʊn tuː ðə smɔːl ˈlɔːndri ruːm/",
+      "text_native": "Il descend le panier dans la petite buanderie."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He opens the washing machine and puts the clothes inside.",
+      "phonetic": "/hiː ˈəʊpənz ðə ˈwɒʃɪŋ məˈʃiːn ænd pʊts ðə kləʊðz ɪnˈsaɪd/",
+      "text_native": "Il ouvre la machine à laver et y met les vêtements."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He pours some liquid detergent into the special tray.",
+      "phonetic": "/hiː pɔːz sʌm ˈlɪkwɪd dɪˈtɜːdʒənt ˈɪntuː ðə ˈspeʃəl treɪ/",
+      "text_native": "Il verse un peu de lessive liquide dans le bac spécial."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He pushes the start button to begin the cycle.",
+      "phonetic": "/hiː ˈpʊʃɪz ðə stɑːt ˈbʌtn tuː bɪˈɡɪn ðə ˈsaɪkl/",
+      "text_native": "Il appuie sur le bouton de démarrage pour lancer le cycle."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "After that, he walks back to the bright living room.",
+      "phonetic": "/ˈɑːftə ðæt, hiː wɔːks bæk tuː ðə braɪt ˈlɪvɪŋ ruːm/",
+      "text_native": "Après cela, il retourne dans le salon lumineux."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He takes a vacuum cleaner to clean the dirty carpet.",
+      "phonetic": "/hiː teɪks ə ˈvækjuəm ˈkliːnə tuː kliːn ðə ˈdɜːti ˈkɑːpɪt/",
+      "text_native": "Il prend un aspirateur pour nettoyer le tapis sale."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The machine makes a loud noise while working.",
+      "phonetic": "/ðə məˈʃiːn meɪks ə laʊd nɔɪz waɪl ˈwɜːkɪŋ/",
+      "text_native": "La machine fait beaucoup de bruit en fonctionnant."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "When he finishes, he uses a soft cloth to remove dust.",
+      "phonetic": "/wen hiː ˈfɪnɪʃɪz, hiː ˈjuːzɪz ə sɒft klɒθ tuː rɪˈmuːv dʌst/",
+      "text_native": "Quand il a fini, il utilise un chiffon doux pour enlever la poussière."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He wipes the wooden shelf where he keeps green plants.",
+      "phonetic": "/hiː waɪps ðə ˈwʊdn ʃelf weə hiː kiːps ɡriːn plɑːnts/",
+      "text_native": "Il essuie l'étagère en bois où il garde des plantes vertes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He remembers to give them some fresh water.",
+      "phonetic": "/hiː rɪˈmembəz tuː ɡɪv ðem sʌm freʃ ˈwɔːtə/",
+      "text_native": "Il pense à leur donner un peu d'eau fraîche."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Then he goes to the kitchen to check the sink.",
+      "phonetic": "/ðen hiː ɡəʊz tuː ðə ˈkɪtʃən tuː tʃek ðə sɪŋk/",
+      "text_native": "Ensuite, il va à la cuisine pour vérifier l'évier."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "There are a few dirty plates left on the counter.",
+      "phonetic": "/ðeə ɑː ə fjuː ˈdɜːti pleɪts left ɒn ðə ˈkaʊntə/",
+      "text_native": "Il y a quelques assiettes sales sur le plan de travail."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He washes them carefully with a yellow sponge.",
+      "phonetic": "/hiː ˈwɒʃɪz ðem ˈkeəfʊli wɪð ə ˈjeləʊ spʌndʒ/",
+      "text_native": "Il les lave soigneusement avec une éponge jaune."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Suddenly, the doorbell rings loudly in the hallway.",
+      "phonetic": "/ˈsʌdənli, ðə ˈdɔːbel rɪŋz ˈlaʊdli ɪn ðə ˈhɔːlweɪ/",
+      "text_native": "Soudain, la sonnette retentit fort dans le couloir."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "A delivery person is waiting outside with a heavy package.",
+      "phonetic": "/ə dɪˈlɪvəri ˈpɜːsn ɪz ˈweɪtɪŋ ˌaʊtˈsaɪd wɪð ə ˈhevi ˈpækɪdʒ/",
+      "text_native": "Un livreur attend dehors avec un colis lourd."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Tom signs the receipt and takes the box inside.",
+      "phonetic": "/tɒm saɪnz ðə rɪˈsiːt ænd teɪks ðə bɒks ɪnˈsaɪd/",
+      "text_native": "Tom signe le reçu et rentre le carton."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He puts the empty cardboard box near the garbage bin.",
+      "phonetic": "/hiː pʊts ði ˈempti ˈkɑːdbɔːd bɒks nɪə ðə ˈɡɑːbɪdʒ bɪn/",
+      "text_native": "Il met la boîte en carton vide près de la poubelle."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "After a busy morning, he prepares a simple meal for lunch.",
+      "phonetic": "/ˈɑːftə ə ˈbɪzi ˈmɔːnɪŋ, hiː prɪˈpeəz ə ˈsɪmpl miːl fɔː lʌntʃ/",
+      "text_native": "Après une matinée chargée, il se prépare un repas simple pour le déjeuner."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "In the evening, the apartment becomes quiet and peaceful.",
+      "phonetic": "/ɪn ði ˈiːvnɪŋ, ði əˈpɑːtmənt bɪˈkʌmz ˈkwaɪət ænd ˈpiːsfʊl/",
+      "text_native": "Le soir, l'appartement devient calme et paisible."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He lights a scented candle on the wooden coffee table.",
+      "phonetic": "/hiː laɪts ə ˈsentɪd ˈkændl ɒn ðə ˈwʊdn ˈkɒfi ˈteɪbl/",
+      "text_native": "Il allume une bougie parfumée sur la table basse en bois."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He sits comfortably on the sofa to relax.",
+      "phonetic": "/hiː sɪts ˈkʌmfətəbli ɒn ðə ˈsəʊfə tuː rɪˈlæks/",
+      "text_native": "Il s'assoit confortablement sur le canapé pour se détendre."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He enjoys his quiet home after such a long day.",
+      "phonetic": "/hiː ɪnˈdʒɔɪz hɪz ˈkwaɪət həʊm ˈɑːftə sʌtʃ ə lɒŋ deɪ/",
+      "text_native": "Il profite de son chez-soi calme après une si longue journée."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "我的口头报告",
+  "new_vocabulary": [
+    "准备",
+    "主题",
+    "介绍",
+    "幻灯片",
+    "电脑",
+    "屏幕",
+    "紧张",
+    "深呼吸",
+    "放松",
+    "声音",
+    "清楚",
+    "微笑",
+    "看着",
+    "大家",
+    "问题",
+    "回答",
+    "时间",
+    "结束",
+    "鼓掌",
+    "成功",
+    "高兴",
+    "以后",
+    "练习",
+    "重要",
+    "经验",
+    "进步",
+    "自信",
+    "骄傲",
+    "明天",
+    "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天下午，我在教室里准备我的口头报告。",
+      "phonetic": "Jīntiān xiàwǔ, wǒ zài jiàoshì lǐ zhǔnbèi wǒ de kǒutóu bàogào.",
+      "text_native": "Cet après-midi, je prépare mon exposé oral dans la salle de classe."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我的主题是介绍我的业余爱好。",
+      "phonetic": "Wǒ de zhǔtí shì jièshào wǒ de yèyú àihào.",
+      "text_native": "Mon sujet est la présentation de mes loisirs."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "很多同学已经坐在里面等我了。",
+      "phonetic": "Hěnduō tóngxué yǐjīng zuò zài lǐmiàn děng wǒ le.",
+      "text_native": "Beaucoup de camarades de classe sont déjà assis à l'intérieur pour m'attendre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "老师走到我旁边问我准备好了没有。",
+      "phonetic": "Lǎoshī zǒu dào wǒ pángbiān wèn wǒ zhǔnbèi hǎo le méiyǒu.",
+      "text_native": "Le professeur s'est approché de moi pour me demander si j'étais prêt."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我打开电脑，把幻灯片放在大屏幕上。",
+      "phonetic": "Wǒ dǎkāi diànnǎo, bǎ huàndēngpiàn fàng zài dà píngmù shàng.",
+      "text_native": "J'allume l'ordinateur et j'affiche les diapositives sur le grand écran."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "虽然我练习了很多次，但是我心里还是有一点紧张。",
+      "phonetic": "Suīrán wǒ liànxí le hěnduō cì, dànshì wǒ xīnlǐ háishì yǒu yīdiǎn jǐnzhāng.",
+      "text_native": "Bien que j'aie pratiqué de nombreuses fois, j'ai quand même un peu le trac."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "老师告诉我别着急，先做一个深呼吸。",
+      "phonetic": "Lǎoshī gàosù wǒ bié zháojí, xiān zuò yīgè shēn hūxī.",
+      "text_native": "Le professeur me dit de ne pas m'inquiéter et de prendre d'abord une grande inspiration."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我听了老师的话，慢慢地放松下来。",
+      "phonetic": "Wǒ tīng le lǎoshī de huà, mànmàn de fàngsōng xiàlái.",
+      "text_native": "J'ai écouté les conseils du professeur et je me suis détendu peu à peu."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我站到前面，微笑着看着大家。",
+      "phonetic": "Wǒ zhàn dào qiánmiàn, wēixiào zhe kànzhe dàjiā.",
+      "text_native": "Je me suis avancer vers l'avant et j'ai regardé tout le monde en souriant."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我开始说话，声音很大也很清楚。",
+      "phonetic": "Wǒ kāishǐ shuōhuà, shēngyīn hěn dà yě hěn qīngchǔ.",
+      "text_native": "J'ai commencé à parler, ma voix était forte et claire."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "第一页幻灯片展示了我的基本资料。",
+      "phonetic": "Dì yī yè huàndēngpiàn zhǎnshì le wǒ de jīběn zīliào.",
+      "text_native": "La première diapositive présente mes informations de base."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "同学们认真地听我说话，没有人说话聊天。",
+      "phonetic": "Tóngxuémen rènzhēn de tīng wǒ shuōhuà, méiyǒu rén shuōhuà liáotiān.",
+      "text_native": "Les camarades m'écoutent attentivement, personne ne parle ni ne discute."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我讲了我平时喜欢看书和听音乐。",
+      "phonetic": "Wǒ jiǎng le wǒ píngshí xǐhuān kànshū hé tīng yīnyuè.",
+      "text_native": "J'ai raconté que j'aime habituellement lire des livres et écouter de la musique."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我还介绍了我住在北京的日常生活。",
+      "phonetic": "Wǒ hái jièshào le wǒ zhù zài Běijīng de rìcháng shēnghuó.",
+      "text_native": "J'ai également présenté ma vie quotidienne à Pékin."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "每个周末我常常去公园散步。",
+      "phonetic": "Měi gè zhōumò wǒ chángcháng qù gōngyuán sànbù.",
+      "text_native": "Chaque week-end, je vais souvent me promener au parc."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "时间过得很快，我的报告已经进行了一半。",
+      "phonetic": "Shíjiān guò de hěn kuài, wǒ de bàogào yǐjīng jìnxíng le yībàn.",
+      "text_native": "Le temps passe très vite, mon exposé est déjà à moitié fait."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我翻到最后一页幻灯片。",
+      "phonetic": "Wǒ fān dào zuìhòu yī yè huàndēngpiàn.",
+      "text_native": "Je tourne jusqu'à la dernière diapositive."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我用响亮的声音对大家说谢谢。",
+      "phonetic": "Wǒ yòng xiǎuliàng de shēngyīn duì dàjiā shuō xièxiè.",
+      "text_native": "J'ai dit merci à tout le monde d'une voix retentissante."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "报告结束以后，教室里响起了掌声。",
+      "phonetic": "Bàogào jiéshù yǐhòu, jiàoshì lǐ xiǎngqǐ le zhǎngshēng.",
+      "text_native": "Après la fin de l'exposé, des applaudissements ont retenti dans la salle de classe."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "老师对我点头，表示非常满意。",
+      "phonetic": "Lǎoshī duì wǒ diǎntóu, biǎoshì fēicháng mǎnyì.",
+      "text_native": "Le professeur m'a fait un signe de tête, montrant qu'il était très satisfait."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "然后，一个同学举手问了一个问题。",
+      "phonetic": "Ránhòu, yīgè tóngxué jǔshǒu wèn le yīgè wèntí.",
+      "text_native": "Ensuite, un camarade a levé la main pour poser une question."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我微笑着认真回答了他的问题。",
+      "phonetic": "Wǒ wēixiào zhe rènzhēn huídá le tā de wèntí.",
+      "text_native": "J'ai répondu sérieusement à sa question avec un sourire."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "这次口头报告非常成功。",
+      "phonetic": "Zhè cì kǒutóu bàogào fēicháng chénggōng.",
+      "text_native": "Cet exposé oral a été un grand succès."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我觉得自己比以前更有自信了。",
+      "phonetic": "Wǒ juéde zìjǐ bǐ yǐqián gèng yǒu zìxìn le.",
+      "text_native": "Je sens que j'ai plus confiance en moi qu'avant."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "这是一次非常重要的学习经验。",
+      "phonetic": "Zhè shì yīcì fēicháng zhòngyào de xuéxí jīngyàn.",
+      "text_native": "C'est une expérience d'apprentissage très importante."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我很高兴能看到自己的进步。",
+      "phonetic": "Wǒ hěn gāoxìng néng kàn dào zìjǐ de jìnbù.",
+      "text_native": "Je suis très heureux de pouvoir voir mes propres progrès."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "下课以后，几个朋友走过来夸奖我。",
+      "phonetic": "Xiàkè yǐhòu, jǐ gè péngyǒu zǒu guòlái kuǎijiǎng wǒ.",
+      "text_native": "Après le cours, plusieurs amis sont venus me féliciter."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我心里感到非常骄傲和满足。",
+      "phonetic": "Wǒ xīnlǐ gǎndào fēicháng jiāo'ào hé mǎnzú.",
+      "text_native": "Je me sens très fier et satisfait dans mon for intérieur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "明天还有别的课，我要继续努力。",
+      "phonetic": "Míngtiān hái yǒu bié de kè, wǒ yào jìxù nǔlì.",
+      "text_native": "Demain il y a d'autres cours, je dois continuer à faire des efforts."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "收拾好东西后，我跟老师和同学说再见。",
+      "phonetic": "Shōushí hǎo dōngxī hòu, wǒ gēn lǎoshī hé tóngxué shuō zàijiàn.",
+      "text_native": "Après avoir rangé mes affaires, j'ai dit au revoir au professeur et aux camarades."
+    }
+  ]
+}

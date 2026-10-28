@@ -1,0 +1,217 @@
+{
+  "title": "感冒的日子",
+  "new_vocabulary": [
+    "感冒",
+    "流鼻涕",
+    "喉咙",
+    "疼",
+    "体温",
+    "度",
+    "测量",
+    "护士",
+    "戴",
+    "口罩",
+    "药片",
+    "温水",
+    "服",
+    "药水",
+    "毯子",
+    "躺",
+    "睡觉",
+    "客厅",
+    "窗户",
+    "关",
+    "新鲜",
+    "空气",
+    "煮",
+    "粥",
+    "蔬菜",
+    "盐",
+    "味道",
+    "胃口",
+    "完全",
+    "恢复"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我感冒了，很不舒服。",
+      "phonetic": "Jīntiān wǒ gǎnmào le, hěn bù shūfu.",
+      "text_native": "Aujourd'hui, j'ai attrapé un rhume et je ne me sens pas du tout bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我的头很痛，还有点发烧。",
+      "phonetic": "Wǒ de tóu hěn tòng, hái yǒu diǎn fāshāo.",
+      "text_native": "J'ai très mal à la tête et j'ai aussi un peu de fièvre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我一直咳嗽，也一直流鼻涕。",
+      "phonetic": "Wǒ yìzhí késòu, yě yìzhí liú bítì.",
+      "text_native": "Je n'arrête pas de tousser et j'ai le nez qui coule sans cesse."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我的喉咙也觉得很疼。",
+      "phonetic": "Wǒ de hóulóng yě juéde hěn téng.",
+      "text_native": "J'ai aussi très mal à la gorge."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我拿出体温计测量我的体温。",
+      "phonetic": "Wǒ ná chū tǐwēnjì cèliáng wǒ de tǐwēn.",
+      "text_native": "Je sors le thermomètre pour prendre ma température."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "体温计显示我有三十八度五。",
+      "phonetic": "Tǐwēnjì xiǎnshì wǒ yǒu sānshíbā dù wǔ.",
+      "text_native": "Le thermomètre indique trente-huit degrés cinq."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我知道我需要去看医生。",
+      "phonetic": "Wǒ zhīdào wǒ xūyào qù kàn yīshēng.",
+      "text_native": "Je sais que je dois aller voir un médecin."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我坐车去附近的医院。",
+      "phonetic": "Wǒ zuò chē qù fùjìn de yīyuàn.",
+      "text_native": "Je prends les transports pour me rendre à l'hôpital du coin."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "在医院里，我和别人一样戴着口罩。",
+      "phonetic": "Zài yīyuàn lǐ, wǒ hé biérén yíyàng dàizhe kǒuzhào.",
+      "text_native": "À l'hôpital, je porte un masque comme tout le monde."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "护士让我先坐一会儿。",
+      "phonetic": "Hùshi ràng wǒ xiān zuò yíhuìr.",
+      "text_native": "L'infirmière me demande de m'asseoir un moment."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "医生检查了我的身体和喉咙。",
+      "phonetic": "Yīshēng jiǎnchá le wǒ de shēntǐ hé hóulóng.",
+      "text_native": "Le médecin a examiné mon état général et ma gorge."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "医生说这只是普通的感冒。",
+      "phonetic": "Yīshēng shuō zhè zhǐ shì pǔtōng de gǎnmào.",
+      "text_native": "Le médecin dit que c'est juste un rhume banal."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他给我开了zi种药片和一瓶药水。",
+      "phonetic": "Tā gěi wǒ kāi le liǎng zhǒng yàopiàn hé yì píng yàoshuǐ.",
+      "text_native": "Il m'a prescrit deux sortes de comprimés et un flacon de sirop."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我拿了药，然后坐车回家。",
+      "phonetic": "Wǒ ná le yào, ránhòu zuò chē huí jiā.",
+      "text_native": "J'ai récupéré les médicaments, puis je suis rentré chez moi."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "回到家以后，我马上脱下外套。",
+      "phonetic": "Huí dào jiā yǐhòu, wǒ mǎshàng tuō xià wàitào.",
+      "text_native": "Une fois rentré à la maison, j'ai tout de suite enlevé mon manteau."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我关上窗户，因为外面风很大。",
+      "phonetic": "Wǒ guān shàng chuānghù, yīnwèi wàimiàn fēng hěn dà.",
+      "text_native": "Je ferme la fenêtre parce qu'il y a beaucoup de vent dehors."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "房间里需要有一点新鲜空气。",
+      "phonetic": "Fángjiān lǐ xūyào yǒu yìdiǎn xīnxiān kōngqì.",
+      "text_native": "Cependant, la pièce a besoin d'un peu d'air frais."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我给自己倒了一大杯温水。",
+      "phonetic": "Wǒ gěi zìjǐ dào le yí dà bēi wēn shuǐ.",
+      "text_native": "Je me suis versé un grand verre d'eau tiède."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "按照医生的要求，我按时吃药。",
+      "phonetic": "Ànzhào yīshēng de yāoqiú, wǒ ànshí chī yào.",
+      "text_native": "Conformément aux instructions du médecin, je prends mes médicaments à l'heure."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我先吃药片，再喝一口药水。",
+      "phonetic": "Wǒ xiān chī yàopiàn, zài hē yì kǒu yàoshuǐ.",
+      "text_native": "Je prends d'abord les comprimés, puis je bois une gorgée de sirop."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "药水带有一点甜的味道。",
+      "phonetic": "Yàoshuǐ dài yǒu yìdiǎn tián de wèidao.",
+      "text_native": "Le sirop a un goût légèrement sucré."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "中午的时候，我没有什么胃口吃饭。",
+      "phonetic": "Zhōngwǔ de shíhòu, wǒ méiyǒu shénme wèikǒu chī fàn.",
+      "text_native": "À midi, je n'ai pas vraiment d'appétit."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "妈妈帮我煮了一碗热热的蔬菜粥。",
+      "phonetic": "Māma bāng wǒ zhǔ le yì wǎn rè de shūcài zhōu.",
+      "text_native": "Maman m'a préparé un bol de bouillie de légumes bien chaude."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "粥里面放了一点点盐。",
+      "phonetic": "Zhōu lǐmiàn fàng le yìdiǎndiǎn yán.",
+      "text_native": "Il y a un tout petit peu de sel dedans."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "吃完饭以后，我觉得很累。",
+      "phonetic": "Chī wán fàn yǐhòu, wǒ juéde hěn lèi.",
+      "text_native": "Après avoir fini de manger, je me sens très fatigué."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我走到卧室，躺在舒服的床上。",
+      "phonetic": "Wǒ zǒu dào wòshì, tǎng zài shūfu de chuáng shàng.",
+      "text_native": "Je vais dans la chambre et je m'allonge sur le lit confortable."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "盖好毯子，我闭上眼睛睡觉。",
+      "phonetic": "Gài hǎo tǎnzi, wǒ bì shàng yǎnjīng shuìjiào.",
+      "text_native": "Bien blotti sous ma couverture, je ferme les yeux pour dormir."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我好好地休息了几个小时。",
+      "phonetic": "Wǒ hǎohǎo de xiūxi le jǐ gè xiǎoshí.",
+      "text_native": "Je me suis bien reposé pendant quelques heures."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "醒来的时候，发烧已经退了。",
+      "phonetic": "Xǐng lái de shíhòu, fāshāo yǐjīng tuì le.",
+      "text_native": "Au réveil, la fièvre était déjà tombée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我的身体正在慢慢地恢复。",
+      "phonetic": "Wǒ de shēntǐ zhèngzài mànman de huīfù.",
+      "text_native": "Mon corps est en train de se rétablir petit à petit."
+    }
+  ]
+}

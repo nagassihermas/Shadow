@@ -1,0 +1,186 @@
+{
+  "title": "A Busy Morning",
+  "new_vocabulary": ["busy", "arrive", "sit", "turn on", "password", "inbox", "subject", "important", "problem", "attach", "project", "boss", "read", "reply", "answer", "question", "send", "client", "phone", "call", "talk", "finish", "task", "take", "break", "drink", "coffee", "return", "complete", "day"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrives at the office early in the morning.",
+      "phonetic": "tɒm əˈraɪvz ət ði ˈɒfɪs ˈɜːli ɪn ðə ˈmɔːnɪŋ.",
+      "text_native": "Tom arrive au bureau tôt le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He walks into his office and sits in his chair.",
+      "phonetic": "hi wɔːks ˈɪntuː hɪz ˈɒfɪs ənd sɪts ɪn hɪz tʃeər.",
+      "text_native": "Il entre dans son bureau et s'assoit sur sa chaise."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He puts his bag on the desk.",
+      "phonetic": "hi pʊts hɪz bæɡ ɒn ðə dɛsk.",
+      "text_native": "Il pose son sac sur le bureau."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He turns on his computer.",
+      "phonetic": "hi tɜːnz ɒn hɪz kəmˈpjuːtər.",
+      "text_native": "Il allume son ordinateur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The screen lights up quickly.",
+      "phonetic": "ðə skriːn laɪts ʌp ˈkwɪkli.",
+      "text_native": "L'écran s'allume rapidement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He uses his keyboard to type his secret password.",
+      "phonetic": "hi ˈjuːzɪz hɪz ˈkiːbɔːd tuː taɪp hɪz ˈsiːkrɪt ˈpɑːswɜːd.",
+      "text_native": "Il utilise son clavier pour taper son mot de passe secret."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The system opens his main email account.",
+      "phonetic": "ðə ˈsɪstəm ˈəʊpənz hɪz meɪn ˈiːmeɪl əˈkaʊnt.",
+      "text_native": "Le système ouvre son compte de messagerie principal."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He looks at his busy inbox.",
+      "phonetic": "hi lʊks ət hɪz ˈbɪzi ˈɪnˌbɒks.",
+      "text_native": "Il regarde sa boîte de réception bien remplie."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "There are many new messages waiting for him.",
+      "phonetic": "ðeər ɑː ˈmɛni njuː ˈmɛsɪdʒɪz ˈweɪtɪŋ fɔː hɪm.",
+      "text_native": "Il y a beaucoup de nouveaux messages qui l'attendent."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "One message has a very important subject.",
+      "phonetic": "wʌn ˈmɛsɪdʒ hæz ə ˈvɛri ɪmˈpɔːtənt ˈsʌbdʒɪkt.",
+      "text_native": "Un message a un objet très important."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He clicks on the message to open it.",
+      "phonetic": "hi klɪks ɒn ðə ˈmɛsɪdʒ tuː ˈəʊpən ɪt.",
+      "text_native": "Il clique sur le message pour l'ouvrir."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "His boss writes about a big problem.",
+      "phonetic": "hɪz bɒs raɪts əˈbaʊt ə bɪɡ ˈprɒbləm.",
+      "text_native": "Son patron écrit au sujet d'un gros problème."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom reads the text carefully on his screen.",
+      "phonetic": "tɒm riːdz ðə tɛkst ˈkeəfʊli ɒn hɪz skriːn.",
+      "text_native": "Tom lit le texte attentivement sur son écran."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The document with the numbers is missing.",
+      "phonetic": "ðə ˈdɒkjʊmənt wɪð ðə ˈnʌmbəz ɪz ˈmɪsɪŋ.",
+      "text_native": "Le document contenant les chiffres est manquant."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He needs to reply to this issue quickly.",
+      "phonetic": "hi niːdz tuː rɪˈplaɪ tuː ðɪs ˈɪʃuː ˈkwɪkli.",
+      "text_native": "Il doit répondre à ce problème rapidement."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He writes a polite answer with his keyboard.",
+      "phonetic": "hi raɪts ə pəˈlaɪt ˈɑːnsər wɪð hɪz ˈkiːbɔːd.",
+      "text_native": "Il rédige une réponse polie à l'aide de son clavier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He attaches the correct file to the email.",
+      "phonetic": "hi əˈtætʃɪz ðə kəˈrɛkt faɪl tuː ði ˈiːmeɪl.",
+      "text_native": "Il joint le bon fichier à l'e-mail."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He checks everything one more time.",
+      "phonetic": "hi tʃɛks ˈɛvriθɪŋ wʌn mɔː taɪm.",
+      "text_native": "Il vérifie tout une dernière fois."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Then he clicks on the send button.",
+      "phonetic": "ðɛn hi klɪks ɒn ðə sɛnd ˈbʌtn.",
+      "text_native": "Ensuite, il clique sur le bouton d'envoi."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The message goes directly to his boss.",
+      "phonetic": "ðə ˈmɛsɪdʒ ɡəʊz daɪˈrɛktli tuː hɪz bɒs.",
+      "text_native": "Le message est envoyé directement à son patron."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Suddenly, his office phone starts to ring.",
+      "phonetic": "ˈsʌdənli, hɪz ˈɒfɪs fəʊn stɑːts tuː rɪŋ.",
+      "text_native": "Soudain, le téléphone de son bureau se met à sonner."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He picks up the phone to talk.",
+      "phonetic": "hi pɪks ʌp ðə fəʊn tuː tɔːk.",
+      "text_native": "Il décroche le téléphone pour parler."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "It is a good client calling about the project.",
+      "phonetic": "ɪt ɪz ə ɡʊd ˈklaɪənt ˈkɔːlɪŋ əˈbaʊt ðə ˈprɒdʒɛkt.",
+      "text_native": "C'est un important client qui appelle au sujet du projet."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Tom answers all his questions with a smile.",
+      "phonetic": "tɒm ˈɑːnsərz ɔːl hɪz ˈkwɛstʃənz wɪð ə smaɪl.",
+      "text_native": "Tom répond à toutes ses questions avec le sourire."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "After the call, he finishes his morning tasks.",
+      "phonetic": "ˈɑːftə ðə kɔːl, hi ˈfɪnɪʃɪz hɪz ˈmɔːnɪŋ tɑːsks.",
+      "text_native": "Après l'appel, il termine ses tâches du matin."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He closes the application on his computer screen.",
+      "phonetic": "hi ˈkləʊzɪz ði ˌæplɪˈkeɪʃən ɒn hɪz kəmˈpjuːtə skriːn.",
+      "text_native": "Il ferme l'application sur l'écran de son ordinateur."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Tom takes a short break to drink some coffee.",
+      "phonetic": "tɒm teɪks ə ʃɔːt breɪk tuː drɪŋk sʌm ˈkɒfi.",
+      "text_native": "Tom fait une courte pause pour boire un café."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He returns to his desk feeling happy.",
+      "phonetic": "hi rɪˈtɜːnz tuː hɪz dɛsk ˈfiːlɪŋ ˈhæpi.",
+      "text_native": "Il retourne à son bureau l'esprit serein."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He completes his work for the morning.",
+      "phonetic": "hi kəmˈpliːts hɪz wɜːk fɔː ðə ˈmɔːnɪŋ.",
+      "text_native": "Il achève son travail pour la matinée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "It is a very good day at the office.",
+      "phonetic": "ɪt ɪz ə ˈvɛri ɡʊd deɪ ət ði ˈɒfɪs.",
+      "text_native": "C'est une très bonne journée au bureau."
+    }
+  ]
+}

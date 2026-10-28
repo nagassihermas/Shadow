@@ -1,0 +1,217 @@
+{
+  "title": "A busy Saturday at the local market",
+  "new_vocabulary": [
+    "Saturday",
+    "list",
+    "paper",
+    "pen",
+    "wallet",
+    "pocket",
+    "weather",
+    "sunny",
+    "arrive",
+    "automatic",
+    "slide",
+    "grab",
+    "choose",
+    "fresh",
+    "heavy",
+    "weight",
+    "scale",
+    "price",
+    "tag",
+    "carton",
+    "yogurt",
+    "frozen",
+    "pizza",
+    "baker",
+    "smell",
+    "warm",
+    "queue",
+    "wait",
+    "total",
+    "smile"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Saturday morning and the weather is very sunny.",
+      "phonetic": "/ɪt ɪz ˈsætərdeɪ ˈmɔːrnɪŋ ənd ðə ˈwɛðər ɪz ˈvɛri ˈsʌni/",
+      "text_native": "C'est samedi matin et il fait très beau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom looks inside his kitchen fridge because it is empty.",
+      "phonetic": "/tɑːm lʊks ɪnˈsaɪd hɪz ˈkɪtʃən frɪdʒ bɪˈkʌz ɪt ɪz ˈɛmpti/",
+      "text_native": "Tom regarde à l'intérieur de son réfrigérateur car il est vide."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He takes a small piece of paper and a blue pen.",
+      "phonetic": "/hi teɪks ə smɔːl piːs ʌv ˈpeɪpər ənd ə bluː pɛn/",
+      "text_native": "Il prend un petit morceau de papier et un stylo bleu."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He writes a short shopping list on the table.",
+      "phonetic": "/hi raɪts ə ʃɔːrt ˈʃɑːpɪŋ lɪst ɑːn ðə ˈteɪbəl/",
+      "text_native": "Il écrit une courte liste de courses sur la table."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Tom puts his wallet safely inside his jacket pocket.",
+      "phonetic": "/tɑːm pʊts hɪz ˈwɑːlɪt ˈseɪfli ɪnˈsaɪd hɪz ˈdʒækɪt ˈpɑːkɪt/",
+      "text_native": "Tom met son portefeuille en sécurité dans la poche de sa veste."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He opens the front door and walks down the street.",
+      "phonetic": "/hi ˈoʊpənz ðə frʌnt dɔːr ənd wɔːks daʊn ðə striːt/",
+      "text_native": "Il ouvre la porte d'entrée et descend la rue en marchant."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "After ten minutes of walking, he arrives at the big supermarket.",
+      "phonetic": "/ˈæftər tɛn ˈmɪnɪts ʌv ˈwɔːkɪŋ, hi əˈraɪvz æt ðə bɪɡ ˈsuːpərmɑːrkɪt/",
+      "text_native": "Après dix minutes de marche, il arrive au grand supermarché."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The automatic glass doors slide open for every customer.",
+      "phonetic": "/ði ˌɔːtəˈmætɪk ɡlæs dɔːrz slaɪd ˈoʊpən fɔːr ˈɛvəri ˈkʌstəmər/",
+      "text_native": "Les portes vitrées automatiques s'ouvrent en coulissant pour chaque client."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom walks inside and grabs a shiny metal cart.",
+      "phonetic": "/tɑːm wɔːks ɪnˈsaɪd ənd ɡræbz ə ˈʃaɪni ˈmɛtəl kɑːrt/",
+      "text_native": "Tom entre et saisit un chariot en métal brillant."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He pushes the cart through the first wide aisle.",
+      "phonetic": "/hi ˈpʊʃɪz ðə kɑːrt θruː ðə fɜːrst waɪd aɪl/",
+      "text_native": "Il pousse le chariot dans la première grande allée."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He stops near the fresh fruit and vegetable section.",
+      "phonetic": "/hi stɑːps nɪr ðə frɛʃ fruːt ənd ˈvɛdʒətəbəl ˈsɛkʃən/",
+      "text_native": "Il s'arrête près du rayon des fruits et légumes frais."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Tom chooses three yellow bananas and some red tomatoes.",
+      "phonetic": "/tɑːm ˈtʃuːzɪz θriː ˈjɛloʊ bəˈnænəz ənd sʌm rɛd təˈmɑːtoʊz/",
+      "text_native": "Tom choisit trois bananes jaunes et quelques tomates rouges."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He places them on a small scale to check the weight.",
+      "phonetic": "/hi ˈpleɪsɪz ðɛm ɑːn ə smɔːl skeɪl tuː tʃɛk ðə weɪt/",
+      "text_native": "Il les place sur une petite balance pour vérifier le poids."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "A small white price tag prints out from the machine.",
+      "phonetic": "/ə smɔːl waɪt praɪs tæɡ prɪnts aʊt frəm ðə məˈʃiːn/",
+      "text_native": "Une petite étiquette de prix blanche sort de la machine."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He sticks the paper price tag onto the plastic bag.",
+      "phonetic": "/hi stɪks ðə ˈpeɪpər praɪs tæɡ ˈɑːntuː ðə ˈplæstɪk bæɡ/",
+      "text_native": "Il colle l'étiquette de prix en papier sur le sac en plastique."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Next, he visits the cold dairy aisle for some milk and cheese.",
+      "phonetic": "/nɛkst, hi ˈvɪzɪts ðə koʊld ˈdɛri aɪl fɔːr sʌm mɪlk ənd tʃiːz/",
+      "text_native": "Ensuite, il se rend au rayon frais des produits laitiers pour prendre du lait et du fromage."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He takes a big carton of milk and a pot of yogurt.",
+      "phonetic": "/hi teɪks ə bɪɡ ˈkɑːrtən ʌv mɪlk ənd ə pɑːt ʌv ˈjoʊɡərt/",
+      "text_native": "Il prend une grande brique de lait et un pot de yaourt."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Then he walks quickly to the frozen food section.",
+      "phonetic": "/ðɛn hi wɔːks ˈkwɪkli tuː ðə ˈfroʊzən fuːd ˈsɛkʃən/",
+      "text_native": "Puis il marche rapidement vers le rayon des produits surgelés."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom puts a box of frozen pizza inside his heavy cart.",
+      "phonetic": "/tɑːm pʊts ə bɑːks ʌv ˈfroʊzən ˈpiːtsə ɪnˈsaɪd hɪz ˈhɛvi kɑːrt/",
+      "text_native": "Tom place une boîte de pizza surgelée dans son chariot bien chargé."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He walks past the meat and fish counters.",
+      "phonetic": "/hi wɔːks pæst ðə miːt ənd fɪʃ ˈkaʊntərz/",
+      "text_native": "Il passe devant les comptoirs de la boucherie et de la poissonnerie."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The friendly baker offers him a piece of warm bread.",
+      "phonetic": "/ðə ˈfrɛndli ˈbeɪkər ˈɔfərz hɪm ə piːs ʌv wɔːrm brɛd/",
+      "text_native": "Le boulanger sympathique lui offre un morceau de pain chaud."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The shop smells wonderful with all the fresh ingredients.",
+      "phonetic": "/ðə ʃɑːp smɛlz ˈwʌndərfəl wɪð ɔːl ðə frɛʃ ɪnˈɡriːdiənts/",
+      "text_native": "Le magasin sent merveilleusement bon avec tous ces ingrédients frais."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He needs some dry rice and pasta for dinners during the week.",
+      "phonetic": "/hi niːdz sʌm draɪ raɪs ənd ˈpæstə fɔːr ˈdɪnərz ˈdʊrɪŋ ðə wiːk/",
+      "text_native": "Il a besoin de riz et de pâtes pour les dîners de la semaine."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He finds a tall shelf with many glass bottles of water.",
+      "phonetic": "/hi faɪndz ə tɔːl ʃɛlf wɪð ˈmɛni ɡlæs ˈbɑːtəlz ʌv ˈwɔːtər/",
+      "text_native": "Il trouve une grande étagère remplie de bouteilles d'eau en verre."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Finally, Tom moves toward the front of the busy store.",
+      "phonetic": "/ˈfaɪnəli, tɑːm muːvz təˈwɔːrd ðə frʌnt ʌv ðə ˈbɪzi stɔːr/",
+      "text_native": "Enfin, Tom se dirige vers l'avant du magasin animé."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "There is a long queue at the main cash register.",
+      "phonetic": "/ðɛr ɪz ə lɔːŋ kjuː æt ðə meɪn kæʃ ˈrɛdʒɪstər/",
+      "text_native": "Il y a une longue file d'attente à la caisse principale."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Tom waits quietly in line behind another person.",
+      "phonetic": "/tɑːm weɪts ˈkwaɪətli ɪn laɪn bɪˈhaɪnd əˈnʌðər ˈpɜːrsən/",
+      "text_native": "Tom attend patiemment dans la file derrière une autre personne."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The cashier scans the items and tells him the total price.",
+      "phonetic": "/ðə kæˈʃɪr skænz ði ˈaɪtəmz ənd tɛlz hɪm ðə ˈtoʊtəl praɪs/",
+      "text_native": "La caissière scanne les articles et lui annonce le montant total."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He pays with his plastic card and takes the small paper receipt.",
+      "phonetic": "/hi peɪz wɪð hɪz ˈplæstɪk kɑːrd ənd teɪks ðə smɔːl ˈpeɪpər rɪˈsiːt/",
+      "text_native": "Il paie avec sa carte bancaire et prend son petit ticket de caisse."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "With a big smile, he says thank you and heads back home.",
+      "phonetic": "/wɪð ə bɪɡ smaɪl, hi sɛz θæŋk juː ənd hɛdz bæk hoʊm/",
+      "text_native": "Avec un grand sourire, il dit merci et rentre chez lui."
+    }
+  ]
+}

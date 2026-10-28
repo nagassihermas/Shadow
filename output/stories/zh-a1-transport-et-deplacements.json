@@ -1,0 +1,217 @@
+{
+  "title": "我的上班路",
+  "new_vocabulary": [
+    "今天",
+    "早",
+    "起床",
+    "吃",
+    "早饭",
+    "离开",
+    "步行",
+    "分钟",
+    "到",
+    "站",
+    "坐",
+    "公共汽车",
+    "人",
+    "多",
+    "挤",
+    "买",
+    "票",
+    "刷",
+    "卡",
+    "找",
+    "座位",
+    "坐下",
+    "看",
+    "手机",
+    "听",
+    "音乐",
+    "下车",
+    "公司",
+    "迟到",
+    "真"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我很早起床。",
+      "phonetic": "Jīntiān wǒ hěn zǎo qǐchuáng.",
+      "text_native": "Aujourd'hui, je me suis levé très tôt."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我在家吃早饭。",
+      "phonetic": "Wǒ zài jiā chī zǎofàn.",
+      "text_native": "Je prends mon petit-déjeuner à la maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "然后我离开家去工作。",
+      "phonetic": "Ránhòu wǒ líkāi jiā qù gōngzuò.",
+      "text_native": "Ensuite, je quitte la maison pour aller travailler."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我家离公司有一点远。",
+      "phonetic": "Wǒ jiā lí gōngsī yǒu yìdiǎn yuǎn.",
+      "text_native": "Ma maison est un peu loin de l'entreprise."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我先步行去路边的车站。",
+      "phonetic": "Wǒ xiān bùxíng qù lùbiān de chēzhàn.",
+      "text_native": "Je marche d'abord vers l'arrêt de bus au bord de la route."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "走路需要十分钟。",
+      "phonetic": "Zǒulù xūyào shífēnzhōng.",
+      "text_native": "La marche prend dix minutes."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "车站有很多大车和小车。",
+      "phonetic": "Chēzhàn yǒu hěnduō dàchē hé xiǎochē.",
+      "text_native": "Il y a beaucoup de véhicules à la station."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我等公共汽车。",
+      "phonetic": "Wǒ děng gōnggòng qìchē.",
+      "text_native": "J'attends le bus."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "车来得很慢。",
+      "phonetic": "Chē lái de hěn màn.",
+      "text_native": "Le bus met du temps à arriver."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "很多人在车站等车。",
+      "phonetic": "Hěnduō rén zài chēzhàn děng chē.",
+      "text_native": "Beaucoup de gens attendent le bus à la station."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "公共汽车终于到了。",
+      "phonetic": "Gōnggòng qìchē zhōngyú dàole.",
+      "text_native": "Le bus est enfin arrivé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "车门开的时候人很多。",
+      "phonetic": "Chēmén kāi de shíhou rén hěnduō.",
+      "text_native": "Il y a beaucoup de monde quand les portes s'ouvrent."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "上车的人非常挤。",
+      "phonetic": "Shàng chē de rén fēicháng jǐ.",
+      "text_native": "La foule qui monte dans le bus se bouscule énormément."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我也跟着上车了。",
+      "phonetic": "Wǒ yě gēnzhe shàng chē le.",
+      "text_native": "Je suis monté dans le bus avec les autres."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我刷卡买票。",
+      "phonetic": "Wǒ shuākǎ mǎi piào.",
+      "text_native": "Je valide ma carte et prends mon ticket."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "车里的人真多。",
+      "phonetic": "Chē lǐ de rén zhēn duō.",
+      "text_native": "Il y a vraiment beaucoup de monde dans le bus."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我找了一个小座位坐下。",
+      "phonetic": "Wǒ zhǎo le yí gè xiǎo zuòwèi zuòxià.",
+      "text_native": "J'ai trouvé une petite place et je me suis assis."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "路上有很多车。",
+      "phonetic": "Lùshang yǒu hěnduō chē.",
+      "text_native": "Il y a beaucoup de circulation sur la route."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "今天的交通不太快。",
+      "phonetic": "Jīntiān de jiāotōng bú tài kuài.",
+      "text_native": "La circulation n'est pas très fluide aujourd'hui."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "汽车开得很慢。",
+      "phonetic": "Qìchē kāi de hěn màn.",
+      "text_native": "Le bus avance très lentement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我在车上看手机。",
+      "phonetic": "Wǒ zài chē shàng kàn shǒujī.",
+      "text_native": "Je regarde mon téléphone portable dans le bus."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我还听了一会儿音乐。",
+      "phonetic": "Wǒ hái tīng le yíhuìr yīnyuè.",
+      "text_native": "J'ai aussi écouté de la musique pendant un moment."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "过了一会儿，车到站了。",
+      "phonetic": "Guò le yíhuìr, chē dào zhàn le.",
+      "text_native": "Après un moment, le bus est arrivé à la station."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我站起来准备下车。",
+      "phonetic": "Wǒ zhàn qǐlái zhǔnbèi xiàchē.",
+      "text_native": "Je me suis levé pour me préparer à descendre."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我从后门下车。",
+      "phonetic": "Wǒ cóng hòumén xiàchē.",
+      "text_native": "Je descends par la porte arrière."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "下车以后我步行去公司。",
+      "phonetic": "Xiàchē yǐhòu wǒ bùxíng qù gōngsī.",
+      "text_native": "Après être descendu, je marche vers l'entreprise."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "公司的大门就在前面。",
+      "phonetic": "Gōngsī de dàmén jiù zài qiánmiàn.",
+      "text_native": "L'entrée de l'entreprise est juste devant."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我没有迟到。",
+      "phonetic": "Wǒ méiyǒu chídào.",
+      "text_native": "Je ne suis pas en retard."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "今天的路程真长。",
+      "phonetic": "Jīntiān de lùchéng zhēn cháng.",
+      "text_native": "Le trajet d'aujourd'hui était vraiment long."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在我开始工作了。",
+      "phonetic": "Xiànzài wǒ kāishǐ gōngzuò le.",
+      "text_native": "Maintenant, je commence à travailler."
+    }
+  ]
+}

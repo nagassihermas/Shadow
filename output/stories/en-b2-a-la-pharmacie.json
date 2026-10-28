@@ -1,0 +1,217 @@
+{
+  "title": "A Pharmacy Visit for Chronic Fatigue",
+  "new_vocabulary": [
+    "chronic",
+    "fatigue",
+    "exhaustion",
+    "schedule",
+    "demanding",
+    "consultation",
+    "alternative",
+    "supplements",
+    "magnesium",
+    "vitamins",
+    "energy",
+    "boost",
+    "deficiency",
+    "blood",
+    "test",
+    "results",
+    "physician",
+    "general",
+    "practitioner",
+    "lifestyle",
+    "balanced",
+    "diet",
+    "hydration",
+    "quality",
+    "sleep",
+    "routine",
+    "gradual",
+    "improvement",
+    "wellness",
+    "counterpart"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Mark woke up feeling a profound sense of exhaustion despite sleeping eight hours.",
+      "phonetic": "/mɑːk wəʊk ʌp ˈfiːlɪŋ ə prəˈfaʊnd sɛns ɒv ɪɡˈzɔːstʃən dɪˈspaɪt ˈsliːpɪŋ eɪt ˈaʊəz/",
+      "text_native": "Mark s'est réveillé en ressentant une profonde fatigue malgré huit heures de sommeil."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "His demanding work schedule had been draining his physical and mental energy for weeks.",
+      "phonetic": "/hɪz dɪˈmɑːndɪŋ wɜːk ˈʃɛdjuːl hæd biːn ˈdreɪnɪŋ hɪz ˈfɪzɪkl ænd ˈmɛntl ˈɛnəʤi fɔː wiːks/",
+      "text_native": "Son emploi du temps professionnel exigeant vidait son énergie physique et mentale depuis des semaines."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Realizing he needed professional guidance, he decided to visit his local pharmacy during his lunch break.",
+      "phonetic": "/ˈrɪəlaɪzɪŋ hiː ˈniːdɪd prəˈfɛʃənl ˈɡaɪdəns, hiː dɪˈsaɪdɪd tuː ˈvɪzɪt hɪz ˈləʊkl ˈfɑːməsi ˈdjʊərɪŋ hɪz lʌntʃ breɪk/",
+      "text_native": "Réalisant qu'il avait besoin de conseils professionnels, il a décidé d'aller dans sa pharmacie de quartier pendant sa pause déjeuner."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The morning street was bustling with commuters rushing toward the underground station.",
+      "phonetic": "/ðə ˈmɔːnɪŋ striːt wɒz ˈbʌslɪŋ wɪð kəˈmjuːtəz ˈrʌʃɪŋ təˈwɔːd ði ˈʌndəɡraʊnd ˈsteɪʃən/",
+      "text_native": "La rue matinale était animée par des navetteurs se précipitant vers la station de métro."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He walked briskly around the corner and reached the familiar green cross glowing brightly.",
+      "phonetic": "/hiː wɔːkt ˈbrɪskli əˈraʊnd ðə ˈkɔːnər ænd riːtʃt ðə fəˈmɪliə ɡriːn krɒs ˈɡləʊɪŋ ˈbraɪtli/",
+      "text_native": "Il a marché d'un pas vif en tournant le coin de la rue et a atteint la croix verte familière qui brillait intensément."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Pushing the glass door open, he stepped inside and joined a short queue near the entrance.",
+      "phonetic": "/ˈpʊʃɪŋ ðə ɡlɑːs dɔːr ˈəʊpən, hiː stɛpt ɪnˈsaɪd ænd dʒɔɪnd ə ʃɔːt kjuː nɪər ði ˈɛntrəns/",
+      "text_native": "Poussant la porte vitrée, il est entré et s'est joint à une courte file d'attente près de l'entrée."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "While waiting for his turn, he observed the shelves stocked with various wellness products.",
+      "phonetic": "/waɪl ˈweɪtɪŋ fɔː hɪz tɜːn, hiː əbˈzɜːvd ðə ʃɛlvz stɒkt wɪð ˈveəriəs ˈwɛlnɪs ˈprɒdʌkts/",
+      "text_native": "En attendant son tour, il a observé les étagères garnies de divers produits de bien-être."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "When the assistant called him, Mark stepped forward to the main counter.",
+      "phonetic": "/wɛn ði əˈsɪstənt kɔːld hɪm, mɑːk stɛpt ˈfɔːwəd tuː ðə meɪn ˈkaʊntə/",
+      "text_native": "Lorsque l'assistant l'a appelé, Mark s'est avancé vers le comptoir principal."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He explained that his persistent fatigue was interfering with his daily responsibilities.",
+      "phonetic": "/hiː ɪksˈpleɪnd ðæt hɪz pəˈsɪstənt fəˈtiːɡ wɒz ˌɪntəˈfɪərɪŋ wɪð hɪz ˈdeɪli rɪˌspɒnsəˈbɪlɪtiz/",
+      "text_native": "Il a expliqué que sa fatigue persistante nuisait à ses responsabilités quotidiennes."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The qualified pharmacist listened carefully and asked about his recent lifestyle habits.",
+      "phonetic": "/ðə ˈkwɒlɪfaɪd ˈfɑːməsɪst ˈlɪsn̩d ˈkɛəfʊli ænd ɑːskt əˈbaʊt hɪz ˈriːsnt ˈlaɪfstaɪl ˈhæbɪts/",
+      "text_native": "Le pharmacien diplômé a écouté attentivement et a posé des questions sur ses habitudes de vie récentes."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Mark admitted that his diet had become irregular and his hydration was quite poor.",
+      "phonetic": "/mɑːk ədˈmɪtɪd ðæt hɪz ˈdaɪt hæd bɪˈkʌm ɪˈrɛɡjʊlər ænd hɪz haɪˈdreɪʃən wɒz kwaɪt pʊə/",
+      "text_native": "Mark a admis que son alimentation était devenue irrégulière et son hydratation plutôt mauvaise."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The pharmacist suggested that a mild vitamin deficiency could explain these symptoms.",
+      "phonetic": "/ðə ˈfɑːməsɪst səˈʤɛstɪd ðæt ə maɪld ˈvɪtəmɪn dɪˈfɪʃənsi kʊd ɪksˈpleɪn ðiːz ˈsɪmptəmz/",
+      "text_native": "Le pharmacien a suggéré qu'une légère carence en vitamines pouvait expliquer ces symptômes."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "However, she recommended consulting a general practitioner if the problem continued.",
+      "phonetic": "/haʊˈɛvə, ʃiː ˌrɛkəˈmɛndɪd kənˈsʌltɪŋ ə ˈʤɛnərəl prækˈtɪʃənə ɪf ðə ˈprɒbləm kənˈtɪnjuːd/",
+      "text_native": "Cependant, elle a recommandé de consulter un médecin généraliste si le problème persistait."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "To help him regain his energy boost, she presented a specific box of magnesium tablets.",
+      "phonetic": "/tuː hɛlp hɪm rɪˈɡeɪn hɪz ˈɛnəʤi buːst, ʃiː prɪˈzɛntɪd ə spɪˈsɪfɪk bɒks ɒv mæɡˈniːziəm ˈtæblɪts/",
+      "text_native": "Pour l'aider à retrouver un regain d'énergie, elle lui a présenté une boîte spécifique de comprimés de magnésium."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "She pointed out the dosage instructions printed clearly on the back of the packaging.",
+      "phonetic": "/ʃiː ˈpɔɪntɪd aʊt ðə ˈdəʊsɪʤ ɪnˈstrʌkʃənz ˈprɪntɪd ˈklɪəli ɒn ðə bæk ɒv ðə ˈpækɪdʒɪŋ/",
+      "text_native": "Elle a attiré son attention sur la posologie clairement imprimée au dos de l'emballage."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Mark read the information leaflet inside the box to check for any side effects.",
+      "phonetic": "/mɑːk riːd ði ˌɪnfəˈmeɪʃən ˈliːflɪt ɪnˈsaɪd ðə bɒks tuː tʃɛk fɔːr ˈɛni saɪd ɪˈfɛkts/",
+      "text_native": "Mark a lu la notice d'information à l'intérieur de la boîte pour vérifier d'éventuels effets secondaires."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The professional explained that these supplements might make him slightly sleepy at first.",
+      "phonetic": "/ðə prəˈfɛʃənl ɪksˈpleɪnd ðæt ðiːz ˈsʌplɪmɛnts maɪt meɪk hɪm ˈslaɪtli ˈsliːpi æt fɜːst/",
+      "text_native": "Le professionnel a expliqué que ces compléments pourraient le rendre légèrement somnolent au début."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Reassured by the helpful advice, Mark decided to purchase the product immediately.",
+      "phonetic": "/ˌriːəˈʃʊəd baɪ ðə ˈhɛlpfʊl ədˈvaɪs, mɑːk dɪˈsaɪdɪd tuː ˈpɜːtʃəs ðə ˈprɒdʌkt ɪˈmiːdɪətli/",
+      "text_native": "Rassuré par ces précieux conseils, Mark a décidé d'acheter le produit immédiatement."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The total price came to fifteen euros and fifty cents.",
+      "phonetic": "/ðə ˈtəʊtl praɪs keɪm tuː ˈfɪftiːn ˈjʊərəʊz ænd ˈfɪfti sɛnts/",
+      "text_native": "Le prix total s'est élevé à quinze euros et cinquante centimes."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He took his payment card out of his pocket and tapped it on the machine.",
+      "phonetic": "/hiː tʊk hɪz ˈpeɪmənt kɑːd aʊt ɒv hɪz ˈpɒkɪt ænd tæpt ɪt ɒn ðə məˈʃiːn/",
+      "text_native": "Il a sorti sa carte bancaire de sa poche et l'a approchée du terminal de paiement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The transaction was approved quickly without requiring his secret PIN code.",
+      "phonetic": "/ðə trænˈzækʃən wɒz əˈpruːvd ˈkwɪkli wɪˈaʊt rɪˈkwaɪərɪŋ hɪz ˈsiːkrɪt pɪn kəʊd/",
+      "text_native": "La transaction a été validée rapidement sans nécessiter la saisie de son code secret."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The polite assistant placed the medicine box into a small paper bag.",
+      "phonetic": "/ðə pəˈlaɪt əˈsɪstənt pleɪst ðə ˈmɛdsɪn bɒks ˈɪntuː ə smɔːl ˈpeɪpə bæɡ/",
+      "text_native": "L'assistant poli a glissé la boîte de médicaments dans un petit sac en papier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Mark accepted the printed receipt and folded it carefully before putting it away.",
+      "phonetic": "/mɑːk əkˈsɛptɪd ðə ˈprɪntɪd rɪˈsiːt ænd ˈfəʊldɪd ɪt ˈkɛəfʊli bɪˈfɔːr ˈpʊtɪŋ ɪt əˈweɪ/",
+      "text_native": "Mark a pris le ticket de caisse et l'a plié soigneusement avant de le ranger."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Thanking the staff for their excellent service, he wished them a good afternoon.",
+      "phonetic": "/ˈθæŋkɪŋ ðə stɑːf fɔː ðeər ˈɛksələnt ˈsɜːvɪs, hiː wɪʃt ðɛm ə ɡʊd ˈɑːftənuːn/",
+      "text_native": "Remerciant le personnel pour leur excellent service, il leur a souhaité un bon après-midi."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Stepping back outside into the bustling street, he felt a sudden sense of relief.",
+      "phonetic": "/ˈstɛpɪŋ bæk ˌaʊtˈsaɪd ˈɪntuː ðə ˈbʌslɪŋ striːt, hiː fɛlt ə ˈsʌdn sɛns ɒv rɪˈliːf/",
+      "text_native": "En ressortant dans la rue animée, il a ressenti un soudain sentiment de soulagement."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He knew that improving his health would require a gradual change in his daily habits.",
+      "phonetic": "/hiː nuː ðæt ɪmˈpruːvɪŋ hɪz hɛlθ wʊd rɪˈkwaɪə ə ˈɡrædjʊəl tʃeɪndʒ ɪn hɪz ˈdeɪli ˈhæbɪts/",
+      "text_native": "Il savait que l'amélioration de sa santé nécessiterait un changement progressif de ses habitudes quotidiennes."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Returning home that evening, he drank a large glass of water and prepared a balanced meal.",
+      "phonetic": "/rɪˈtɜːnɪŋ həʊm ðæt ˈiːvnɪŋ, hiː dræŋk ə lɑːʤ ɡlɑːs ɒv ˈwɔːtər ænd prɪˈpeəd ə ˈbælənst miːl/",
+      "text_native": "De retour chez lui ce soir-là, il a bu un grand verre d'eau et a préparé un repas équilibré."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He placed the magnesium tablets on his kitchen counter so he would not forget them.",
+      "phonetic": "/hiː pleɪst ðə mæɡˈniːziəm ˈtæblɪts ɒn hɪz ˈkɪtʃɪn ˈkaʊntə səʊ hiː wʊd nɒt fəˈɡɛt ðɛm/",
+      "text_native": "Il a posé les comprimés de magnésium sur le plan de travail de sa cuisine pour ne pas les oublier."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "By committing to a better sleep routine, he hoped his recovery would start very soon.",
+      "phonetic": "/baɪ kəˈmɪtɪŋ tuː ə ˈbɛtə sliːp ruːˈtiːn, hiː həʊpt hɪz rɪˈkʌvəri wʊd stɑːt ˈvɛri suːn/",
+      "text_native": "En s'engageant à adopter une meilleure routine de sommeil, il espérait que sa récupération commencerait très bientôt."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Goodbye to constant exhaustion, he thought, as he turned off the lights for the night.",
+      "phonetic": "/ɡʊdˈbaɪ tuː ˈkɒnstənt ɪɡˈzɔːstʃən, hiː θɔːt, æz hiː tɜːnd ɒf ðə laɪts fɔː ðə naɪt/",
+      "text_native": "Adieu la fatigue constante, pensa-t-il en éteignant les lumières pour la nuit."
+    }
+  ]
+}

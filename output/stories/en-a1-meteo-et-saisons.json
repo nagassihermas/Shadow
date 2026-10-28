@@ -1,0 +1,217 @@
+{
+  "title": "My Favorite Month",
+  "new_vocabulary": [
+    "month",
+    "january",
+    "outside",
+    "wear",
+    "jacket",
+    "scarf",
+    "gloves",
+    "white",
+    "landscape",
+    "morning",
+    "open",
+    "door",
+    "look",
+    "sky",
+    "grey",
+    "cloud",
+    "drop",
+    "water",
+    "ground",
+    "walk",
+    "park",
+    "tree",
+    "brown",
+    "leave",
+    "bird",
+    "fly",
+    "home",
+    "evening",
+    "sleep",
+    "bed"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "January is a cold winter month.",
+      "phonetic": "/ˈdʒænjuəri ɪz ə koʊld ˈwɪntər mʌnθ/",
+      "Français": "Janvier est un mois d'hiver froid."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Today the weather is snowy.",
+      "phonetic": "/təˈdeɪ ðə ˈwɛðər ɪz ˈsnoʊi/",
+      "Français": "Aujourd'hui, il neige."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I look outside the window.",
+      "phonetic": "/aɪ lʊk ˈaʊtˌsaɪd ðə ˈwɪndoʊ/",
+      "Français": "Je regarde par la fenêtre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The landscape is completely white.",
+      "phonetic": "/ðə ˈlændˌskeɪp ɪz kəmˈpliːtli waɪt/",
+      "Français": "Le paysage est complètement blanc."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "It is a very cold morning.",
+      "phonetic": "/ɪt ɪz ə ˈvɛri koʊld ˈmɔrnɪŋ/",
+      "Français": "C'est un matin très froid."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I need to wear warm clothes.",
+      "phonetic": "/aɪ niːd tu wɛr wɔrm kloʊðz/",
+      "Français": "J'ai besoin de porter des vêtements chauds."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I put on my heavy jacket.",
+      "phonetic": "/aɪ pʊt ɑn maɪ ˈhɛvi ˈdʒækɪt/",
+      "Français": "Je mets ma veste épaisse."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I take my red scarf.",
+      "phonetic": "/aɪ teɪk maɪ rɛd skɑrf/",
+      "Français": "Je prends mon écharpe rouge."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I wear thick gloves on my hands.",
+      "phonetic": "/aɪ wɛr θɪk glʌvz ɑn maɪ hændz/",
+      "Français": "Je mets des gants épais sur mes mains."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I open the front door.",
+      "phonetic": "/aɪ ˈoʊpən ðə frʌnt dɔr/",
+      "Français": "J'ouvre la porte d'entrée."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I step outside into the snow.",
+      "phonetic": "/aɪ stɛp ˈaʊtˌsaɪd ˈɪntuː ðə snoʊ/",
+      "Français": "Je sors dans la neige."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The sky is full of grey clouds.",
+      "phonetic": "/ðə skaɪ ɪz fʊl ʌv greɪ klaʊdz/",
+      "Français": "Le ciel est plein de nuages gris."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Suddenly, a small rain drop falls.",
+      "phonetic": "/ˈsʌdənli, ə smɔl reɪn drɑp fɔlz/",
+      "Français": "Soudain, une petite goutte de pluie tombe."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The weather changes from snowy to rainy.",
+      "phonetic": "/ðə ˈwɛðər ˈtʃeɪndʒɪz frʌm ˈsnoʊi tuː ˈreɪni/",
+      "Français": "Le temps passe de neigeux à pluvieux."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Water is now on the ground.",
+      "phonetic": "/ˈwɔtər ɪz naʊ ɑn ðə graʊnd/",
+      "Français": "Il y a maintenant de l'eau sur le sol."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I walk slowly to the local park.",
+      "phonetic": "/aɪ wɔk ˈsloʊli tuː ðə ˈloʊkəl pɑrk/",
+      "Français": "Je marche lentement vers le parc du quartier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The trees have no green leaves.",
+      "phonetic": "/ðə triːz hæv noʊ griːn liːvz/",
+      "Français": "Les arbres n'ont pas de feuilles vertes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Their branches are bare and brown.",
+      "phonetic": "/ðɛr ˈbræntʃɪz ɑr bɛr ænd braʊn/",
+      "Français": "Leurs branches sont nues et brunes."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "No birds fly in the cold air.",
+      "phonetic": "/noʊ bɜrdz flaɪ ɪn ðə koʊld ɛr/",
+      "Français": "Aucun oiseau ne vole dans l'air froid."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "It is windy near the big lake.",
+      "phonetic": "/ɪt ɪz ˈwɪndi nɪr ðə bɪg leɪk/",
+      "Français": "Il y a du vent près du grand lac."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "My face feels very cold.",
+      "phonetic": "/maɪ feɪs fiːlz ˈvɛri koʊld/",
+      "Français": "Mon visage est saisi par le froid."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I decide to go back home.",
+      "phonetic": "/aɪ dɪˈsaɪd tuː goʊ bæk hoʊm/",
+      "Français": "Je décide de rentrer à la maison."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tomorrow the season will still be winter.",
+      "phonetic": "/təˈmɑroʊ ðə ˈsizən wɪl stɪl bi ˈwɪntər/",
+      "Français": "Demain, ce sera toujours l'hiver."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The afternoon brings a sunny break.",
+      "phonetic": "/ði ˈæftərˌnun brɪŋz ə ˈsʌni breɪk/",
+      "Français": "L'après-midi apporte une éclaircie ensoleillée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Golden light shines on the snow.",
+      "phonetic": "/ˈgoʊldən laɪt ʃaɪnz ɑn ðə snoʊ/",
+      "Français": "Une lumière dorée brille sur la neige."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Soon the evening arrives quickly.",
+      "phonetic": "/sun ði ˈivnɪŋ əˈraɪvz ˈkwɪkli/",
+      "Français": "Bientôt, la soirée arrive rapidement."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The temperature drops very low again.",
+      "phonetic": "/ðə ˈtɛmpərətʃər drɑps ˈvɛri loʊ əˈgɛn/",
+      "Français": "La température baisse de nouveau beaucoup."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I drink a hot cup of tea inside.",
+      "phonetic": "/aɪ drɪŋk ə hɑt kʌp ʌv ti ɪnˈsaɪd/",
+      "Français": "Je bois une tasse de thé chaud à l'intérieur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "My day ends quietly at home.",
+      "phonetic": "/maɪ deɪ ɛndz ˈkwaɪətli æt hoʊm/",
+      "Français": "Ma journée se termine tranquillement à la maison."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now I go to sleep in my bed.",
+      "phonetic": "/naʊ aɪ goʊ tuː sliːp ɪn maɪ bɛd/",
+      "Français": "Maintenant, je vais dormir dans mon lit."
+    }
+  ]
+}

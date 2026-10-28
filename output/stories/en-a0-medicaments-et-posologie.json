@@ -1,0 +1,186 @@
+{
+  "title": "Tom takes medicine",
+  "new_vocabulary": ["medicine", "pill", "water", "bottle", "doctor", "day", "night", "morning", "spoon", "time"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom is sick.",
+      "phonetic": "/tɒm ɪz sɪk/",
+      "text_native": "Tom est malade."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom is in bed.",
+      "phonetic": "/tɒm ɪz ɪn bɛd/",
+      "text_native": "Tom est au lit."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Tom has a doctor.",
+      "phonetic": "/tɒm hæz ə ˈdɒktə/",
+      "text_native": "Tom a un médecin."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The doctor has medicine.",
+      "phonetic": "/ðə ˈdɒktə hæz ˈmɛdsɪn/",
+      "text_native": "Le médecin a des médicaments."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Tom has a bottle.",
+      "phonetic": "/tɒm hæz ə ˈbɒtəl/",
+      "text_native": "Tom a un flacon."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The bottle is red.",
+      "phonetic": "/ðə ˈbɒtəl ɪz rɛd/",
+      "text_native": "Le flacon est rouge."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom looks at the bottle.",
+      "phonetic": "/tɒm lʊks æt ðə ˈbɒtəl/",
+      "text_native": "Tom regarde le flacon."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The medicine is a pill.",
+      "phonetic": "/ðə ˈmɛdsɪn ɪz ə pɪl/",
+      "text_native": "Le médicament est un comprimé."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom opens the bottle.",
+      "phonetic": "/tɒm ˈəʊpənz ðə ˈbɒtəl/",
+      "text_native": "Tom ouvre le flacon."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Tom takes one pill.",
+      "phonetic": "/tɒm teɪks wʌn pɪl/",
+      "text_native": "Tom prend un comprimé."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom has water.",
+      "phonetic": "/tɒm hæz ˈwɔːtə/",
+      "text_native": "Tom a de l'eau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The water is in a cup.",
+      "phonetic": "/ðə ˈwɔːtə ɪz ɪn ə kʌp/",
+      "text_native": "L'eau est dans une tasse."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom drinks water.",
+      "phonetic": "/tɒm drɪŋks ˈwɔːtə/",
+      "text_native": "Tom boit de l'eau."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Tom takes the medicine with water.",
+      "phonetic": "/tɒm teɪks ðə ˈmɛdsɪn wɪð ˈwɔːtə/",
+      "text_native": "Tom prend le médicament avec de l'eau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːnɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Tom takes one pill in the morning.",
+      "phonetic": "/tɒm teɪks wʌn pɪl ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Tom prend un comprimé le matin."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "It is afternoon.",
+      "phonetic": "/ɪt ɪz ˌɑːftəˈnuːn/",
+      "text_native": "C'est l'après-midi."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Tom does not take a pill now.",
+      "phonetic": "/tɒm dʌz nɒt teɪk ə pɪl naʊ/",
+      "text_native": "Tom ne prend pas de comprimé maintenant."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "It is night.",
+      "phonetic": "/ɪt ɪz naɪt/",
+      "text_native": "C'est la nuit."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Tom takes one pill at night.",
+      "phonetic": "/tɒm teɪks wʌn pɪl æt naɪt/",
+      "text_native": "Tom prend un comprimé le soir."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Two pills a day.",
+      "phonetic": "/tuː pɪlz ə deɪ/",
+      "text_native": "Deux comprimés par jour."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom reads the time.",
+      "phonetic": "/tɒm riːdz ðə taɪm/",
+      "text_native": "Tom regarde l'heure."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom has a spoon.",
+      "phonetic": "/tɒm hæz ə spuːn/",
+      "text_native": "Tom a une cuillère."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The spoon is small.",
+      "phonetic": "/ðə spuːn ɪz smɔːl/",
+      "text_native": "La cuillère est petite."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom does not use the spoon today.",
+      "phonetic": "/tɒm dʌz nɒt juːz ðə spuːn təˈdeɪ/",
+      "text_native": "Tom n'utilise pas la cuillère aujourd'hui."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom closes the bottle.",
+      "phonetic": "/tɒm ˈkləʊzɪz ðə ˈbɒtəl/",
+      "text_native": "Tom ferme le flacon."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Tom puts the bottle on the table.",
+      "phonetic": "/tɒm pʊts ðə ˈbɒtəl ɒn ðə ˈteɪbəl/",
+      "text_native": "Tom pose le flacon sur la table."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom rests in bed.",
+      "phonetic": "/tɒm rɛsts ɪn bɛd/",
+      "text_native": "Tom se repose au lit."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom feels good.",
+      "phonetic": "/tɒm fiːlz gʊd/",
+      "text_native": "Tom se sent bien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Tom is happy.",
+      "phonetic": "/tɒm ɪz ˈhæpi/",
+      "text_native": "Tom est heureux."
+    }
+  ]
+}

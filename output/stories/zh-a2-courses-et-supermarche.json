@@ -1,0 +1,212 @@
+{
+  "title": "周末去超市买菜",
+  "new_vocabulary": [
+    "周末",
+    "时候",
+    "妈妈",
+    "告诉",
+    "需要",
+    "晚饭",
+    "做",
+    "鱼",
+    "鸡",
+    "蛋",
+    "西红柿",
+    "土豆",
+    "斤",
+    "挑选",
+    "新鲜",
+    "袋",
+    "米",
+    "结账",
+    "排队",
+    "现金",
+    "刷卡",
+    "手机",
+    "支付",
+    "拎",
+    "高兴"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是周末，天气很好。",
+      "phonetic": "Jīntiān shì zhōumò, tiānqì hěn hǎo.",
+      "text_native": "C'est le week-end aujourd'hui, il fait très beau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "下午的时候，我去了大超市。",
+      "phonetic": "Xiàwǔ de shíhòu, wǒ qùle dà chāoshì.",
+      "text_native": "Dans l'après-midi, je suis allé au grand supermarché."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "妈妈早上告诉我需要买很多东西。",
+      "phonetic": "Māma zǎoshang gàosù wǒ xūyào mǎi hěnduō dōngxī.",
+      "text_native": "Maman m'a dit ce matin que j'avais besoin d'acheter beaucoup de choses."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我们晚上要在家里做晚饭。",
+      "phonetic": "Wǒmen wǎnshàng yào zài jiālǐ zuò wǎnfàn.",
+      "text_native": "Nous allons cuisiner le dîner à la maison ce soir."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我走进商店，拿了一辆推车。",
+      "phonetic": "Wǒ zǒu jìn shāngdiàn, nále yī liàng tuīchē.",
+      "text_native": "Je suis entré dans le magasin et j'ai pris un chariot."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "首先，我走到蔬菜区。",
+      "phonetic": "Shǒuxiān, wǒ zǒu dào shūcài qū.",
+      "text_native": "D'abord, je suis allé au rayon des légumes."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "这里的蔬菜非常多。",
+      "phonetic": "Zhèlǐ de shūcài fēicháng duō.",
+      "text_native": "Il y a énormément de légumes ici."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我挑选了几个红色的西红柿。",
+      "phonetic": "Wǒ tiāoxuǎne le jǐ gè hóngsè de xīhóngshì.",
+      "text_native": "J'ai sélectionné quelques tomates rouges."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我还买了两斤黄色的土豆。",
+      "phonetic": "Wǒ hái mǎile liǎng jīn huángsè de tǔdòu.",
+      "text_native": "J'ai aussi acheté deux livres de pommes de terre jaunes."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "这些蔬菜看起来都很新鲜。",
+      "phonetic": "Zhèxiē shūcài kàn qǐlái dōu hěn xīnxiān.",
+      "text_native": "Ces légumes ont l'air tous très frais."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "接着，我去了冷藏柜旁边。",
+      "phonetic": "Jiēzhe, wǒ qùle lěngcáng guì pángbiān.",
+      "text_native": "Ensuite, je suis allé près des armoires réfrigérées."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我拿了两盒白色的牛奶。",
+      "phonetic": "Wǒ nále liǎng hé báisè de niúnǎi.",
+      "text_native": "J'ai pris deux briques de lait."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "旁边还有新鲜的鸡蛋。",
+      "phonetic": "Pángbiān hái yǒu xīnxiān de jīdàn.",
+      "text_native": "Il y a aussi des œufs frais à côté."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我也放了一盒鸡蛋在推车里。",
+      "phonetic": "Wǒ yě fàngle yī hé jīdàn zài tuīchē lǐ.",
+      "text_native": "J'ai également mis une boîte d'œufs dans le chariot."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "肉类区有很好的牛肉和鱼。",
+      "phonetic": "Ròulèi qū yǒu hěn hǎo de niúròu hé yú.",
+      "text_native": "Le rayon de viande propose du très bon bœuf et du poisson."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "妈妈喜欢吃鱼，所以我拿了一条鱼。",
+      "phonetic": "Māma xǐhuān chī yú, suǒyǐ wǒ nále yītiáo yú.",
+      "text_native": "Maman aime manger du poisson, alors j'en ai pris un."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "主食方面，我需要买一袋米。",
+      "phonetic": "Zhǔshí fāngmiàn, wǒ xūyào mǎi yī dài mǐ.",
+      "text_native": "Côté féculents, j'ai besoin d'acheter un sac de riz."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我还拿了几个甜的苹果和香蕉。",
+      "phonetic": "Wǒ hái nále jǐ gè tián de píngguǒ hé xiāngjiāo.",
+      "text_native": "J'ai aussi pris quelques pommes sucrées et des bananes."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "推车里已经有很多东西了。",
+      "phonetic": "Tuīchē lǐ yǐjīng yǒu hěnduō dōngxīle.",
+      "text_native": "Il y a déjà beaucoup de choses dans le chariot."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我看了一下，需要买的都买好了。",
+      "phonetic": "Wǒ kànle yīxià, xūyào mǎi de dōu mǎi hǎole.",
+      "text_native": "J'ai jeté un coup d'œil, tout ce qu'il fallait acheter est bien pris."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "现在我推着车去收银台结账。",
+      "phonetic": "Xiànzài wǒ tuīzhe chē qù shōuyíntái jiézhàng.",
+      "text_native": "Maintenant, je pousse le chariot vers la caisse pour régler mes achats."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "前面有几个人在排队。",
+      "phonetic": "Qiánmiàn yǒu jǐ gè rén zài páiduì.",
+      "text_native": "Il y a quelques personnes qui font la queue devant moi."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "不一会儿，轮到我了。",
+      "phonetic": "Bù yīhuǐ'er, lún dào wǒle.",
+      "text_native": "Peu de temps après, c'est mon tour."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "收银员帮我扫码算钱。",
+      "phonetic": "Shōuyínyuán bāng wǒ sǎo mǎ suàn qián.",
+      "text_native": "La caissière m'aide à scanner les articles."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "一共是一百二十元。",
+      "phonetic": "Yīgòng shì yībǎi èrshí yuán.",
+      "text_native": "Cela fait cent vingt yuans au total."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我没有用现金，而是用手机支付。",
+      "phonetic": "Wǒ méiyǒu yòng xiànjīn, ér shì yòng shǒujī zhīfù.",
+      "text_native": "Je n'ai pas payé en espèces, mais avec mon téléphone portable."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "收银员对我笑了一下。",
+      "phonetic": "Shōuyínyuán duì wǒ xiàole yīxià.",
+      "text_native": "La caissière m'a souri."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我把东西放进大袋子里，说谢谢。",
+      "phonetic": "Wǒ bǎ dōngxī fàng jìn dà dàizi lǐ, shuō xièxiè.",
+      "text_native": "J'ai mis mes affaires dans un grand sac et j'ai dit merci."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我拎着东西高高兴兴地回家了。",
+      "phonetic": "Wǒ līnzhě dōngxī gāogāoxìngxìng de huíjiāle.",
+      "text_native": "J'ai porté mes courses et je suis rentré chez moi le cœur joyeux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "今天去超市买菜真顺利。",
+      "phonetic": "Jīntiān qù chāoshì mǎi cài zhēn shùnlì.",
+      "text_native": "Aller faire les courses au supermarché aujourd'hui s'est vraiment bien passé."
+    }
+  ]
+}

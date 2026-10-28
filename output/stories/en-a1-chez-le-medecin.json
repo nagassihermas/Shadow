@@ -1,0 +1,217 @@
+{
+  "title": "At the Doctor",
+  "new_vocabulary": [
+    "morning",
+    "bad",
+    "stomach",
+    "pain",
+    "walk",
+    "door",
+    "open",
+    "enter",
+    "room",
+    "hello",
+    "sit",
+    "chair",
+    "please",
+    "look",
+    "patient",
+    "ask",
+    "problem",
+    "throat",
+    "hurt",
+    "cough",
+    "open",
+    "mouth",
+    "say",
+    "ah",
+    "write",
+    "paper",
+    "prescription",
+    "take",
+    "rest",
+    "day"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is a bad morning.",
+      "phonetic": "/ɪt ɪz ə bæd ˈmɔːrnɪŋ/",
+      "text_native": "C'est un mauvais matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom is very sick.",
+      "phonetic": "/tɒm ɪz ˈvɛri sɪk/",
+      "text_native": "Tom est très malade."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He has a headache.",
+      "phonetic": "/hiː hæz ə ˈhɛd.eɪk/",
+      "text_native": "Il a mal à la tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He has a fever too.",
+      "phonetic": "/hiː hæz ə ˈfiːvər tuː/",
+      "text_native": "Il a de la fièvre aussi."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "His stomach hurts.",
+      "phonetic": "/hɪz ˈstʌmək hɜːrts/",
+      "text_native": "Son estomac lui fait mal."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Tom walks to the doctor.",
+      "phonetic": "/tɒm wɔːks tuː ðə ˈdɒktər/",
+      "text_native": "Tom marche jusqu'au cabinet du médecin."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He sees the white door.",
+      "phonetic": "/hiː siːz ðə waɪt dɔːr/",
+      "text_native": "Il voit la porte blanche."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The door is open.",
+      "phonetic": "/ðə dɔːr ɪz ˈoʊpən/",
+      "text_native": "La porte est ouverte."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom enters the room.",
+      "phonetic": "/tɒm ˈɛntərz ðə ruːm/",
+      "text_native": "Tom entre dans la pièce."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He says hello.",
+      "phonetic": "/hiː sɛz həˈloʊ/",
+      "text_native": "Il dit bonjour."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The doctor is ready.",
+      "phonetic": "/ðə ˈdɒktər ɪz ˈrɛdi/",
+      "text_native": "Le médecin est prêt."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He is a good doctor.",
+      "phonetic": "/hiː ɪz ə gʊd ˈdɒktər/",
+      "text_native": "C'est un bon médecin."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom sits on a chair.",
+      "phonetic": "/tɒm sɪts ɒn ə tʃɛər/",
+      "text_native": "Tom s'assoit sur une chaise."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He looks at the patient.",
+      "phonetic": "/hiː lʊks æt ðə ˈpeɪʃənt/",
+      "text_native": "Il regarde le patient."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He asks about the problem.",
+      "phonetic": "/hiː ɑːsks əˈbaʊt ðə ˈprɒbləm/",
+      "text_native": "Il demande quel est le problème."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Tom speaks to the doctor.",
+      "phonetic": "/tɒm spiːks tuː ðə ˈdɒktər/",
+      "text_native": "Tom parle au médecin."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "My head hurts.",
+      "phonetic": "/maɪ hɛd hɜːrts/",
+      "text_native": "Ma tête me fait mal."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "My throat hurts too.",
+      "phonetic": "/maɪ θroʊt hɜːrts tuː/",
+      "text_native": "Ma gorge me fait mal aussi."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I have a bad cough.",
+      "phonetic": "/aɪ hæv ə bæd kɒf/",
+      "text_native": "J'ai une mauvaise toux."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The doctor listens well.",
+      "phonetic": "/ðə ˈdɒktər ˈlɪsənz wɛl/",
+      "text_native": "Le médecin écoute attentivement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Please open your mouth.",
+      "phonetic": "/pliːz ˈoʊpən jʊər maʊθ/",
+      "text_native": "Veuillez ouvrir la bouche."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom says ah.",
+      "phonetic": "/tɒm sɛz ɑː/",
+      "text_native": "Tom dit ah."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The doctor writes on paper.",
+      "phonetic": "/ðə ˈdɒktər raɪts ɒn ˈpeɪpər/",
+      "text_native": "Le médecin écrit sur du papier."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "It is a prescription.",
+      "phonetic": "/ɪt ɪz ə prɪˈskrɪpʃən/",
+      "text_native": "C'est une ordonnance."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom needs medicine.",
+      "phonetic": "/tɒm niːdz ˈmɛdɪsɪn/",
+      "text_native": "Tom a besoin de médicaments."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He takes the paper.",
+      "phonetic": "/hiː teɪks ðə ˈpeɪpər/",
+      "text_native": "Il prend le papier."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He goes to the pharmacy.",
+      "phonetic": "/hiː goʊz tuː ðə ˈfɑːrməsi/",
+      "text_native": "Il va à la pharmacie."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He buys the medicine.",
+      "phonetic": "/hiː baɪz ðə ˈmɛdɪsɪn/",
+      "text_native": "Il achète le médicament."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom takes a rest.",
+      "phonetic": "/tɒm teɪks ə rɛst/",
+      "text_native": "Tom se repose."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He is well in two days.",
+      "phonetic": "/hiː ɪz wɛl ɪn tuː deɪz/",
+      "text_native": "Il va bien en deux jours."
+    }
+  ]
+}

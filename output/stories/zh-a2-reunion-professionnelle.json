@@ -1,0 +1,227 @@
+{
+  "title": "市场部月度会议",
+  "new_vocabulary": [
+    "市场部",
+    "月度",
+    "迟到",
+    "堵车",
+    "抱歉",
+    "没关系",
+    "开始",
+    "首先",
+    "介绍",
+    "新",
+    "同事",
+    "名字",
+    "叫",
+    "高兴",
+    "认识",
+    "其次",
+    "销售",
+    "情况",
+    "去年",
+    "增长",
+    "百分之十",
+    "但是",
+    "今年",
+    "目标",
+    "更高",
+    "然后",
+    "讨论",
+    "具体",
+    "方案",
+    "计划",
+    "下周",
+    "提交",
+    "报告",
+    "下午",
+    "两点",
+    "半",
+    "别",
+    "忘",
+    "带",
+    "资料"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天上午十点，市场部的人在办公室开会。",
+      "phonetic": "Jīntiān shàngwǔ shí diǎn, shìchǎngbù de rén zài bàngōngshì kāihuì.",
+      "text_native": "Ce matin à dix heures, les membres du département marketing tiennent une réunion au bureau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "桌子上有电脑、纸和笔。",
+      "phonetic": "Zhuōzi shàng yǒu diànnǎo, zhǐ hé bǐ.",
+      "text_native": "Il y a des ordinateurs, du papier et des stylos sur la table."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "大家已经坐在椅子上了。",
+      "phonetic": "Dàjiā yǐjīng zuò zài yǐzi shàng le.",
+      "text_native": "Tout le monde est déjà assis sur les chaises."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "可是，王经理有点迟到。",
+      "phonetic": "Kěshì, Wáng jīnglǐ yǒudiǎn chídào.",
+      "text_native": "Cependant, le manager Wang est un peu en retard."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "因为路上堵车，他来晚了十分钟。",
+      "phonetic": "Yīnwèi lùshang dǔchē, tā lái wǎn le shí fēnzhōng.",
+      "text_native": "À cause des embouteillages sur la route, il est arrivé avec dix minutes de retard."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "王经理走进房间说：\"对不起，我迟到了。\"",
+      "phonetic": "Wáng jīnglǐ zǒu jìn fángjiān shuō: \"Duìbuqǐ, wǒ chídào le.\"",
+      "text_native": "Le manager Wang entre dans la pièce et dit : \"Je suis désolé, je suis en retard.\""
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "大家回答：\"没关系，请坐吧。\"",
+      "phonetic": "Dàjiā huídá: \"Méi guānxi, qǐng zuò ba.\"",
+      "text_native": "Tout le monde répond : \"Ce n'est pas grave, asseyez-vous s'il vous plaît.\""
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "现在会议正式开始。",
+      "phonetic": "Xiànzài huìyì zhèngshì kāishǐ.",
+      "text_native": "Maintenant, la réunion commence officiellement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "王经理说：\"首先，我介绍一下新同事。\"",
+      "phonetic": "Wáng jīnglǐ shuō: \"Shǒuxiān, wǒ jièshào yīxià xīn tóngshì.\"",
+      "text_native": "Le manager Wang dit : \"Tout d'abord, je vous présente un nouveau collègue.\""
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "这个新同事的名字叫张明。",
+      "phonetic": "Zhège xīn tóngshì de míngzi jiào Zhāng Míng.",
+      "text_native": "Ce nouveau collègue s'appelle Zhang Ming."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "张明站起来对大家说：\"很高兴认识你们。\"",
+      "phonetic": "Zhāng Míng zhàn qǐlái duì dàjiā shuō: \"Hěn gāoxìng rènshi nǐmen.\"",
+      "text_native": "Zhang Ming se lève et dit à tout le monde : \"Enchanté de faire votre connaissance.\""
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "大家看着他鼓掌。",
+      "phonetic": "Dàjiā kànzhe tā gǔzhǎng.",
+      "text_native": "Tout le monde le regarde et applaudit."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "其次，我们看一看销售情况的文件。",
+      "phonetic": "Qícì, wǒmen kàn yī kàn xiāoshòu qíngkuàng de wénjiàn.",
+      "text_native": "Deuxièmement, regardons le document sur la situation des ventes."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "文件上说去年公司的销售增长了百分之十。",
+      "phonetic": "Wénjiàn shàng shuō qùnián gōngsī de xiāoshòu zēngzhǎng le bǎifēnzhīshí.",
+      "text_native": "Le document indique que les ventes de l'entreprise ont augmenté de 10% l'année dernière."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "听了这个好消息，经理笑了一下。",
+      "phonetic": "Tīngle zhège hǎo xiāoxi, jīnglǐ xiào le yīxià.",
+      "text_native": "En entendant cette bonne nouvelle, le manager a souri."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "但是，今年的工作目标更高。",
+      "phonetic": "Dànshì, jīnnián de gōngzuò mùbiāo gèng gāo.",
+      "text_native": "Cependant, l'objectif de travail de cette année est encore plus élevé."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我们需要解决几个新问题。",
+      "phonetic": "Wǒmen xūyào jiějué jǐ gè xīn wèntí.",
+      "text_native": "Nous devons résoudre plusieurs nouveaux problèmes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "然后，大家开始讨论具体的方案。",
+      "phonetic": "Ránhòu, dàjiā kāishǐ tǎolùn jùtǐ de fāng'àn.",
+      "text_native": "Ensuite, tout le monde commence à discuter du plan concret."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "张明回答了经理提出的问题。",
+      "phonetic": "Zhāng Míng huídá le jīnglǐ tíchū de wèntí.",
+      "text_native": "Zhang Ming a répondu aux questions posées par le manager."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "王经理觉得他的计划很对。",
+      "phonetic": "Wáng jīnglǐ juéde tā de jìhuà hěn duì.",
+      "text_native": "Le manager Wang trouve que son plan est tout à fait pertinent."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "大家认真听张明说话，并记在纸上。",
+      "phonetic": "Dàjiā rènzhēn tīng Zhāng Míng shuōhuà, bìng jì zài zhǐ shàng.",
+      "text_native": "Tout le monde écoute attentivement Zhang Ming parler et prend des notes sur le papier."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "时间过得很快，半个小时过去了。",
+      "phonetic": "Shíjiān guò de hěn kuài, bàn gè xiǎoshí guòqù le.",
+      "text_native": "Le temps passe vite, une demi-heure s'est écoulée."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "会议马上就要结束了。",
+      "phonetic": "Huìyì mǎshàng jiù yào jiéshù le.",
+      "text_native": "La réunion est sur le point de se terminer."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "王经理说下周一我们要提交报告。",
+      "phonetic": "Wáng jīnglǐ shuō xià zhōuyī wǒmen yào tíjiāo bàogào.",
+      "text_native": "Le manager Wang dit que nous devons soumettre le rapport lundi prochain."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "下午两点半还有一个工作项目。",
+      "phonetic": "Xiàwǔ liǎng diǎn bàn hái yǒu yīgè gōngzuò xiàngmù.",
+      "text_native": "Il y a un autre projet de travail à deux heures et demie de l'après-midi."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "他对大家说：\"别忘了带好资料。\"",
+      "phonetic": "Tā duì dàjiā shuō: \"Bié wàng le dài hǎo zīliào.\"",
+      "text_native": "Il leur dit : \"N'oubliez pas d'apporter vos documents.\""
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "最后，经理谢谢大家的辛苦工作。",
+      "phonetic": "Zuìhòu, jīnglǐ xièxie dàjiā de xīnkǔ gōngzuò.",
+      "text_native": "Enfin, le manager remercie tout le monde pour leur dur travail."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "大家笑着说再见。",
+      "phonetic": "Dàjiā xiàozhe shuō zàijiàn.",
+      "text_native": "Tout le monde se dit au revoir en souriant."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "人们关上电脑，离开办公室。",
+      "phonetic": "Rénmen guān shàng diànnǎo, líkāi bàngōngshì.",
+      "text_native": "Les employés éteignent leurs ordinateurs et quittent le bureau."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "今天的会议圆满成功。",
+      "phonetic": "Jīntiān de huìyì yuánmǎn chénggōng.",
+      "text_native": "La réunion d'aujourd'hui a été un succès total."
+    }
+  ]
+}

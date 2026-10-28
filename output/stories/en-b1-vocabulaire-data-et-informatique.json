@@ -1,0 +1,186 @@
+{
+  "title": "A Big Presentation",
+  "new_vocabulary": ["digital", "analysis", "chart", "trend", "dashboard", "metric", "storage", "cloud", "server", "access", "permission", "user", "account", "profile", "password", "security", "firewall", "download", "upload", "transfer", "device", "hardware", "storage", "memory", "processor", "performance", "speed", "test", "result", "meeting"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrived early at the office because he had an important digital presentation today.",
+      "phonetic": "/tɒm əˈraɪvd ˈɜːli ət ði ˈɒfɪs bɪˈkɒz hi hæd ən ɪmˈpɔːtənt ˈdɪdʒɪtəl ˌprɛzɛnˈteɪʃən təˈdeɪ/",
+      "text_native": "Tom est arrivé tôt au bureau parce qu'il avait une présentation numérique importante aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He sat at his desk and opened his laptop to check the latest data analysis.",
+      "phonetic": "/hi sæt ət hɪz dɛsk ənd ˈəʊpənd hɪz ˈlæptɒp tu tʃɛk ðə ˈleɪtɪst ˈdeɪtə əˈnæləsɪs/",
+      "text_native": "Il s'est assis à son bureau et a ouvert son ordinateur portable pour vérifier la dernière analyse de données."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The company manager wanted a clear chart showing the sales trend for this month.",
+      "phonetic": "/ðə ˈkʌmpəni ˈmænɪdʒə ˈwɒntɪd ə klɪə tʃɑːt ˈʃəʊɪŋ ðə seɪlz trɛnd fɔː ðɪs mʌnθ/",
+      "text_native": "Le directeur de l'entreprise voulait un graphique clair montrant la tendance des ventes pour ce mois-ci."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom needed to create a visual dashboard with every important business metric.",
+      "phonetic": "/tɒm ˈniːdɪd tu kriˈeɪt ə ˈvɪʒuəl ˈdæʃbɔːd wɪð ˈɛvri ɪmˈpɔːtənt ˈbɪznɪs ˈmɛtrɪk/",
+      "text_native": "Tom devait créer un tableau de bord visuel avec chaque indicateur commercial important."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He opened a large spreadsheet file to sort all the rows and columns properly.",
+      "phonetic": "/hi ˈəʊpənd ə lɑːdʒ ˈsprɛdˌʃiːt faɪl tu sɔːt ɔːl ðə rəʊz ənd ˈkɒləmz ˈprɒpəli/",
+      "text_native": "Il a ouvert un grand fichier tableur pour trier correctement toutes les lignes et colonnes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Suddenly, a warning message appeared on his screen about a storage problem.",
+      "phonetic": "/ˈsʌdənli, ə ˈwɔːnɪŋ ˈmɛsɪdʒ əˈpɪəd ɒn hɪz skriːn əˈbaʊt ə ˈstɔːrɪdʒ ˈprɒbləm/",
+      "text_native": "Soudain, un message d'avertissement est apparu sur son écran concernant un problème de stockage."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "His local hard drive was almost full, so he decided to use the cloud instead.",
+      "phonetic": "/hɪz ˈləʊkəl hɑːd draɪv wɒz ˈɔːlməʊst fʊl, səʊ hi dɪˈsaɪdɪd tu juːz ðə klaʊd ɪnˈstɛd/",
+      "text_native": "Son disque dur local était presque plein, alors il a décidé d'utiliser le cloud à la place."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He connected his browser to the company remote server using a secure network.",
+      "phonetic": "/hi kəˈnɛktɪd hɪz ˈbraʊzə tu ðə ˈkʌmpəni rɪˈməʊt ˈsɜːvə ˈjuːzɪŋ ə sɪˈkjʊə ˈnɛtwɜːk/",
+      "text_native": "Il a connecté son navigateur au serveur distant de l'entreprise en utilisant un réseau sécurisé."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "To access the main folder, he had to type his username and secret password.",
+      "phonetic": "/tu ˈæksɛs ðə meɪn ˈfəʊldə, hi hæd tu taɪp hɪz ˈjuːzəneɪm ənd ˈsiːkrɪt ˈpɑːswɜːd/",
+      "text_native": "Pour accéder au dossier principal, il a dû taper son nom d'utilisateur et son mot de passe secret."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The security system required a special permission because of the confidential files inside.",
+      "phonetic": "/ðə sɪˈkjʊrɪti ˈsɪstəm rɪˈkwaɪəd ə ˈspɛʃəl pəˈmɪʃən bɪˈkɒz ɒv ðə ˌkɒnfɪˈdɛnʃəl faɪlz ɪnˈsaɪd/",
+      "text_native": "Le système de sécurité exigeait une autorisation spéciale en raison des fichiers confidentiels à l'intérieur."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "After logging into his account profile, he could finally download the missing documents.",
+      "phonetic": "/ˈɑːftə ˈlɒgɪŋ ˈɪntu hɪz əˈkaʊnt ˈprəʊfaɪl, hi kʊd ˈfaɪnəli ˈdaʊnˌləʊd ðə ˈmɪsɪŋ ˈdɒkjʊmɪnts/",
+      "text_native": "Après s'être connecté à son profil de compte, il a enfin pu télécharger les documents manquants."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He wanted to upload the updated backup to prevent any future system error.",
+      "phonetic": "/hi ˈwɒntɪd tu ˈʌpˌləʊd ði ˈʌpˌdeɪtɪd ˈbækʌp tu prɪˈvɛnt ˈɛni ˈfjuːtʃə ˈsɪstəm ˈɛrə/",
+      "text_native": "Il voulait téléverser la sauvegarde mise à jour pour éviter toute future erreur système."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "A strong firewall protected the hardware against dangerous viruses from the internet.",
+      "phonetic": "/ə strɒŋ ˈfaɪəwɔːl prəˈtɛktɪd ðə ˈhɑːdwɛə əˈgɛnst ˈdeɪndʒərəs ˈvaɪrəsɪz frɒm ði ˈɪntəˌnɛt/",
+      "text_native": "Un pare-feu puissant protégeait le matériel contre les virus dangereux provenant d'Internet."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Tom copied every important cell from the spreadsheet and pasted it into a new document.",
+      "phonetic": "/tɒm ˈkɒpɪd ˈɛvri ɪmˈpɔːtənt sɛl frɒm ðə ˈsprɛdˌʃiːt ənd ˈpeɪstɪd ɪt ˈɪntu ə njuː ˈdɒkjʊmənt/",
+      "text_native": "Tom a copié chaque cellule importante du tableur et l'a collée dans un nouveau document."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He quickly checked the computer memory and processor performance to avoid freezing.",
+      "phonetic": "/hi ˈkwɪkli tʃɛkt ðə kəmˈpjuːtə ˈmɛməri ənd ˈprəʊsɛsə pəˈfɔːməns tu əˈvɔɪd ˈfriːzɪŋ/",
+      "text_native": "Il a rapidement vérifié la mémoire de l'ordinateur et les performances du processeur pour éviter tout blocage."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The device speed was quite good, allowing a very fast file transfer.",
+      "phonetic": "/ðə dɪˈvaɪs spiːd wɒz kwaɪt gʊd, əˈlaʊɪŋ ə ˈvɛri fɑːst faɪl ˈtrænsfɜː/",
+      "text_native": "La vitesse de l'appareil était plutôt bonne, permettant un transfert de fichiers très rapide."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Before the meeting started, he decided to run a quick diagnostic test.",
+      "phonetic": "/bɪˈfɔː ðə ˈmiːtɪŋ ˈstɑːtɪd, hi dɪˈsaɪdɪd tu rʌn ə kwɪk ˌdaɪəgˈnɒstɪk tɛst/",
+      "text_native": "Avant le début de la réunion, il a décidé d'exécuter un test de diagnostic rapide."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The test result showed that everything was safe and properly configured.",
+      "phonetic": "/ðə tɛst rɪˈzʌlt ʃəʊd ðæt ˈɛvrɪθɪŋ wɒz seɪf ənd ˈprɒpəli kənˈfɪgəd/",
+      "text_native": "Le résultat du test a montré que tout était sûr et correctement configuré."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He printed three paper copies of the report for his boss and colleagues.",
+      "phonetic": "/hi ˈprɪntɪd θriː ˈpeɪpə ˈkɒpiz ɒv ðə rɪˈpɔːt fɔː hɪz bɒs ənd ˈkɒliːgz/",
+      "text_native": "Il a imprimé trois copies papier du rapport pour son patron et ses collègues."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Then, he sent a confirmation email with all the attachments included.",
+      "phonetic": "/ðɛn, hi sɛnt ə ˌkɒnfəˈmeɪʃən ˈiːmeɪl wɪð ɔːl ði əˈtætʃmɪnts ɪnˈkluːdɪd/",
+      "text_native": "Ensuite, il a envoyé un e-mail de confirmation avec toutes les pièces jointes."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "His colleague Anna asked him to share the main link on the office messenger.",
+      "phonetic": "/hɪz ˈkɒliːg ˈænə ɑːskt hɪm tu ʃeə ðə meɪn lɪŋk ɒn ði ˈɒfɪs ˈmɛsɪndʒə/",
+      "text_native": "Sa collègue Anna lui a demandé de partager le lien principal sur la messagerie du bureau."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom clicked on the web browser icon and searched for the correct page.",
+      "phonetic": "/tɒm klɪkt ɒn ðə wɛb ˈbraʊzə ˈaɪkɒn ənd sɜːʧt fɔː ðə kəˈrɛkt peɪdʒ/",
+      "text_native": "Tom a cliqué sur l'icône du navigateur web et a cherché la bonne page."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He typed the address into the search bar and pressed enter on his keyboard.",
+      "phonetic": "/hi taɪpt ði əˈdrɛs ˈɪntu ðə sɜːʧ bɑː ənd prɛst ˈɛntə ɒn hɪz ˈkiːbɔːd/",
+      "text_native": "Il a tapé l'adresse dans la barre de recherche et a appuyé sur entrée de son clavier."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "A clear picture of the new software interface appeared on his large screen.",
+      "phonetic": "/ə klɪə ˈpɪktʃə ɒv ðə njuː ˈsɒftwɛə ˈɪntəfeɪs əˈpɪəd ɒn hɪz lɑːdʒ skriːn/",
+      "text_native": "Une image claire de la nouvelle interface logicielle est apparue sur son grand écran."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He used his mouse to select the best option for the upcoming presentation.",
+      "phonetic": "/hi juːzd hɪz maʊs tu sɪˈlɛkt ðə bɛst ˈɒpʃən fɔː ði ˈʌpkʌmɪŋ ˌprɛzɛnˈteɪʃən/",
+      "text_native": "Il a utilisé sa souris pour sélectionner la meilleure option pour la présentation à venir."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Everything looked completely ready for the big meeting in the conference room.",
+      "phonetic": "/ˈɛvrɪθɪŋ lʊkt kəmˈpliːtli ˈrɛdi fɔː ðə bɪg ˈmiːtɪŋ ɪn ðə ˈkɒnfərəns ruːm/",
+      "text_native": "Tout semblait complètement prêt pour la grande réunion dans la salle de conférence."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Tom closed unnecessary windows and saved his open files just to be safe.",
+      "phonetic": "/tɒm kləʊzd ʌnˈsɛsəsəri ˈwɪndəʊz ənd seɪvd hɪz ˈəʊpən faɪlz dʒʌst tu bi seɪf/",
+      "text_native": "Tom a fermé les fenêtres inutiles et a enregistré ses fichiers ouverts par sécurité."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He unplugged the charging cable from the wall and put the laptop in his bag.",
+      "phonetic": "/hi ʌnˈplʌgd ðə ˈtʃɑːdʒɪŋ ˈkeɪbəl frɒm ðə wɔːl ənd pʊt ðə ˈlæptɒp ɪn hɪz bæg/",
+      "text_native": "Il a débranché le câble de charge du mur et a mis l'ordinateur portable dans son sac."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He walked down the long corridor with a strong feeling of confidence.",
+      "phonetic": "/hi wɔːkt daʊn ðə lɒŋ ˈkɒrɪdɔː wɪð ə strɒŋ ˈfiːlɪŋ ɒv ˈkɒnfɪdəns/",
+      "text_native": "Il a descendu le long couloir avec un fort sentiment de confiance."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His modern data presentation was finally prepared for everyone to see.",
+      "phonetic": "/hɪz ˈmɒdən ˈdeɪtə ˌprɛzɛnˈteɪʃən wɒz ˈfaɪnəli prɪˈpɛəd fɔː ˈɛvrɪwʌn tu siː/",
+      "text_native": "Sa présentation de données moderne était enfin prête à être vue par tout le monde."
+    }
+  ]
+}

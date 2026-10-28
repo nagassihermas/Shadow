@@ -1,0 +1,186 @@
+{
+  "title": "A Long Recovery",
+  "new_vocabulary": ["patient", "doctor", "nurse", "hospital", "pain", "injury", "accident", "recovery", "treatment", "medicine", "pill", "temperature", "fever", "cough", "throat", "stomachache", "headache", "bandage", "cast", "crutches", "wheelchair", "exercise", "strength", "energy", "progress", "improvement", "wellness", "diet", "vitamin", "healing"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The patient wakes up in a quiet hospital room after a bad accident.",
+      "phonetic": "ðə ˈpeɪʃənt weɪks ʌp ɪn ə ˈkwaɪət ˈhɒspɪtəl ruːm ˈɑːftər ə bæd ˈæksɪdənt.",
+      "text_native": "Le patient se réveille dans une chambre d'hôpital calme après un grave accident."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He opens his eyes slowly and looks around the white walls.",
+      "phonetic": "hi ˈəʊpənz hɪz aɪz ˈsləʊli ænd lʊks əˈraʊnd ðə waɪt wɔːlz.",
+      "text_native": "Il ouvre lentement les yeux et regarde autour de lui les murs blancs."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "A friendly nurse enters the room with a pleasant smile.",
+      "phonetic": "ə ˈfrendli nɜːs ˈentəz ðə ruːm wɪð ə ˈplezənt smaɪl.",
+      "text_native": "Une infirmière sympathique entre dans la pièce avec un sourire agréable."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "She checks his temperature and asks how he feels today.",
+      "phonetic": "ʃi tʃeks hɪz ˈtemprətʃər ænd ɑːsks haʊ hi fiːlz təˈdeɪ.",
+      "text_native": "Elle prend sa température et lui demande comment il se sent aujourd'hui."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The man explains that he has a terrible headache and slight pain.",
+      "phonetic": "ðə mæn ɪkˈspleɪnz ðæt hi hæz ə ˈterəbl ˈhedeɪk ænd slaɪt peɪn.",
+      "text_native": "L'homme explique qu'il a un terrible mal de tête et une légère douleur."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "His right leg is in a heavy plaster cast because of a broken bone.",
+      "phonetic": "hɪz raɪt leɡ ɪz ɪn ə ˈhevi ˈplɑːstə kɑːst bɪˈkɒz ɒv ə ˈbrəʊkən bəʊn.",
+      "text_native": "Sa jambe droite est dans un plâtre lourd à cause d'un os cassé."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "She gives him a small glass of water and a white pill.",
+      "phonetic": "ʃi ɡɪvz hɪm ə smɔːl ɡlɑːs ɒv ˈwɔːtər ænd ə waɪt pɪl.",
+      "text_native": "Elle lui donne un petit verre d'eau et une pilule blanche."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He swallows the medicine carefully to reduce the physical discomfort.",
+      "phonetic": "hi ˈswɒləʊz ðə ˈmedsn ˈkeəfʊli tu rɪˈdjuːs ðə ˈfɪzɪkl dɪsˈkʌmfət.",
+      "text_native": "Il avale le médicament avec précaution pour réduire l'inconfort physique."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "After a short rest, the doctor arrives for the morning visit.",
+      "phonetic": "ˈɑːftər ə ʃɔːt rest, ðə ˈdɒktər əˈraɪvz fɔː ðə ˈmɔːnɪŋ ˈvɪzɪt.",
+      "text_native": "Après un court repos, le médecin arrive pour la visite du matin."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The doctor examines his chest, heart, and lungs with a stethoscope.",
+      "phonetic": "ðə ˈdɒktər ɪɡˈzæmɪnz hɪz tʃest, hɑːt, ænd lʌŋz wɪð ə ˈsteθəskəʊp.",
+      "text_native": "Le médecin examine sa poitrine, son cœur et ses poumons avec un stéthoscope."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He takes a deep breath while the professional listens carefully.",
+      "phonetic": "hi teɪks ə diːp breθ waɪl ðə prəˈfeʃənl ˈlɪsnz ˈkeəfʊli.",
+      "text_native": "Il prend une grande inspiration pendant que le professionnel écoute attentivement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Everything looks stable, but the recovery process will take time.",
+      "phonetic": "ˈevriθɪŋ lʊks ˈsteɪbl, bʌt ðə rɪˈkʌvəri ˈprəʊses wɪl teɪk taɪm.",
+      "text_native": "Tout semble stable, mais le processus de guérison prendra du temps."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The patient needs a proper diet rich in vitamins to regain strength.",
+      "phonetic": "ðə ˈpeɪʃənt niːdz ə ˈprɒpə ˈdaɪət rɪtʃ ɪn ˈvɪtəmɪnz tu rɪˈɡeɪn streŋθ.",
+      "text_native": "Le patient a besoin d'un régime adapté riche en vitamines pour reprendre des forces."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Later that afternoon, a physical therapist comes to help him move.",
+      "phonetic": "ˈleɪtə ðæt ˈɑːftənuːn, ə ˈfɪzɪkl ˈθerəpɪst kʌmz tu help hɪm muːv.",
+      "text_native": "Plus tard dans l'après-midi, un physiothérapeute vient l'aider à bouger."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "They practice gentle stretches for his upper body, arms, and back.",
+      "phonetic": "ðeɪ ˈpræktɪs ˈdʒentl ˈstretʃɪz fɔː hɪz ˈʌpə ˈbɒdi, ɑːmz, ænd bæk.",
+      "text_native": "Ils pratiquent des étirements doux pour le haut de son corps, ses bras et son dos."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "His muscles feel a bit stiff because he spent days in bed.",
+      "phonetic": "hɪz ˈmʌslz fiːl ə bɪt stɪf bɪˈkɒz hi spent deɪz ɪn bed.",
+      "text_native": "Ses muscles sont un peu raides parce qu'il a passé des jours au lit."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "With assistance, he slowly sits up on the edge of the mattress.",
+      "phonetic": "wɪð əˈsɪstəns, hi ˈsləʊli sɪts ʌp ɒn ði edʒ ɒv ðə ˈmætrɪs.",
+      "text_native": "Avec de l'aide, il s'assoit lentement sur le bord du matelas."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He stands on his good foot while holding a pair of crutches.",
+      "phonetic": "hi stændz ɒn hɪz ɡʊd fʊt waɪl ˈhəʊldɪŋ ə peər ɒv ˈkrʌtʃɪz.",
+      "text_native": "Il se tient sur son bon pied tout en tenant une paire de béquilles."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "His skin is pale, but a little color returns to his face.",
+      "phonetic": "hɪz skɪn ɪz peɪl, bʌt ə ˈlɪtl ˈkʌlər rɪˈtɜːnz tu hɪz feɪs.",
+      "text_native": "Sa peau est pâle, mais un peu de couleur revient sur son visage."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Taking the first steps forward requires immense concentration and effort.",
+      "phonetic": "ˈteɪkɪŋ ðə fɜːst steps ˈfɔːwəd rɪˈkwaɪəz ɪˈmens ˌkɒnsnˈtreɪʃən ænd ˈefət.",
+      "text_native": "Faire les premiers pas en avant demande une concentration et un effort immenses."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "His brain sends signals quickly to coordinate every single movement.",
+      "phonetic": "hɪz breɪn sendz ˈsɪɡnəlz ˈkwɪkli tu kəʊˈɔːdɪnet ˈevri ˈsɪŋgl ˈmuːvmənt.",
+      "text_native": "Son cerveau envoie rapidement des signaux pour coordonner chaque mouvement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He walks carefully down the hallway toward the sunny window.",
+      "phonetic": "hi wɔːks ˈkeəfʊli daʊn ðə ˈhɔːlweɪ təˈwɔːd ðə ˈsʌni ˈwɪndəʊ.",
+      "text_native": "Il marche prudemment dans le couloir vers la fenêtre ensoleillée."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Fresh air comes from outside, bringing new energy to his body.",
+      "phonetic": "freʃ eə kʌmz frɒm ˈaʊtsaɪd, ˈbrɪŋɪŋ njuː ˈenədʒi tu hɪz ˈbɒdi.",
+      "text_native": "L'air frais vient de l'extérieur, apportant une nouvelle énergie à son corps."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "After a few minutes of training, he feels genuinely proud.",
+      "phonetic": "ˈɑːftər ə fjuː ˈmɪnɪts ɒv ˈtreɪnɪŋ, hi fiːlz ˈdʒenjuɪnli praʊd.",
+      "text_native": "Après quelques minutes d'entraînement, il se sent sincèrement fier."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The therapist smiles and praises his constant daily improvement.",
+      "phonetic": "ðə ˈθerəpɪst smaɪlz ænd ˈpreɪzɪz hɪz ˈkɒnstənt ˈdeɪli ɪmˈpruːvmənt.",
+      "text_native": "Le thérapeute sourit et loue son amélioration quotidienne constante."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "They return to the room so he can rest his tired limbs.",
+      "phonetic": "ðeɪ rɪˈtɜːn tu ðə ruːm səʊ hi kən rest hɪz ˈtaɪəd lɪmz.",
+      "text_native": "Ils retournent dans la chambre pour qu'il puisse reposer ses membres fatigués."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He drinks another cup of juice to maintain good hydration.",
+      "phonetic": "hi drɪŋks əˈnʌðə kʌp ɒv dʒuːs tu meɪnˈteɪn ɡʊd haɪˈdreɪʃən.",
+      "text_native": "Il boit une autre tasse de jus pour maintenir une bonne hydratation."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Good health requires patience, proper medical care, and good sleep.",
+      "phonetic": "ɡʊd helθ rɪˈkwaɪəz ˈpeɪʃns, ˈprɒpə ˈmedɪkl keər, ænd ɡʊd sliːp.",
+      "text_native": "Une bonne santé demande de la patience, des soins médicaux adaptés et un bon sommeil."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tomorrow will bring another opportunity to build back his full wellness.",
+      "phonetic": "təˈmɒrəʊ wɪl brɪŋ əˈnʌðər ˌɒpəˈtjuːnɪti tu bɪld bæk hɪz fʊl ˈwelnəs.",
+      "text_native": "Demain apportera une autre opportunité de reconstruire son bien-être total."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He closes his eyes calmly, ready to heal during the night.",
+      "phonetic": "hi ˈkləʊzɪz hɪz aɪz ˈkɑːmli, ˈredi tu hiːl ˈdjʊərɪŋ ðə naɪt.",
+      "text_native": "Il ferme les yeux calmement, prêt à guérir pendant la nuit."
+    }
+  ]
+}

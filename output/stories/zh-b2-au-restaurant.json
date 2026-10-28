@@ -1,0 +1,217 @@
+{
+  "title": "午餐的意外波折",
+  "new_vocabulary": [
+    "糟糕",
+    "堵车",
+    "迟到",
+    "抱歉",
+    "原谅",
+    "入座",
+    "翻阅",
+    "犹豫",
+    "口味",
+    "清淡",
+    "忌口",
+    "过敏",
+    "海鲜",
+    "主食",
+    "面条",
+    "饺子",
+    "催促",
+    "耐心",
+    "上菜",
+    "趁热",
+    "分享",
+    "赞赏",
+    "打包",
+    "剩饭",
+    "浪费",
+    "环保",
+    "结账",
+    "AA制",
+    "找零",
+    "体验"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天中午我和同事约定在公司附近的餐厅聚餐。",
+      "text_native": "Aujourd'hui, à midi, mon collègue et moi avions rendez-vous pour déjeuner dans un restaurant près du bureau.",
+      "phonetic": "Jītiān zhōngwǔ wǒ hé tóngshì yuēdìng zài gōngsī fùjìn de cāntīng jùcān."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "可是出门的时候突然遇到严重的堵车。",
+      "text_native": "Cependant, en partant, j'ai soudainement rencontré de gros embouteillages.",
+      "phonetic": "Kěshì chūmén de shíhòu tūrán yùdào yánzhòng de dǔchē."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "结果我在路上耽误了二十分钟。",
+      "text_native": "Par conséquent, j'ai perdu vingt minutes sur la route.",
+      "phonetic": "Jiéguǒ wǒ zài lùshang dānwùle èrshí fēnzhōng."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "因为迟到了我很不好意思。",
+      "text_native": "Comme j'étais en retard, je me sentais très gêné.",
+      "phonetic": "Yīnwèi chídàole wǒ hěn bù hǎoyìsi."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "一见面我就连声向他道歉。",
+      "text_native": "Dès qu'on s'est vus, je lui ai présenté mes excuses à plusieurs reprises.",
+      "phonetic": "Yī jiànmiàn wǒ jiù liánshēng xiàng tā dàoqiàn."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "同事很大度地表示没有关系。",
+      "text_native": "Mon collègue a très gentiment dit que ce n'était pas grave.",
+      "phonetic": "Tóngshì hěn dàdù de biǎoshì méiyǒu guānxi."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我们跟着服务员顺利入座。",
+      "text_native": "Nous avons suivi le serveur et nous sommes installés sans encombre.",
+      "phonetic": "Wǒmen gēnzhe fúwùyuán shùnlì rùzuò."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "坐下后我们仔细翻阅手里的菜单。",
+      "text_native": "Une fois assis, nous avons feuilleté attentivement le menu.",
+      "phonetic": "Zuò xià hòu wǒmen zǐxì fānyuè shǒu lǐ de càidān."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "面对众多的选择我感到有些犹豫。",
+      "text_native": "Face à ce grand choix, je me sentais un peu hésitant.",
+      "phonetic": "Miànduì zhòngduō de xuǎnzé wǒ gǎndào yǒuxiē yóuyù."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "同事问我今天想吃什么口味的菜。",
+      "text_native": "Mon collègue m'a demandé quel type de saveur je voulais manger aujourd'hui.",
+      "phonetic": "Tóngshì wèn wǒ jītiān xiǎng chī shénme kǒuwèi de cài."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "最近我的肠胃不太舒服需要吃得清淡一点。",
+      "text_native": "Ces derniers temps, mon estomac ne va pas très bien, je dois manger quelque chose de plus léger.",
+      "phonetic": "Zuìjìn wǒ de chángwèi bù tài shūfu xūyào chī de qīngdàn yīdiǎn."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我告诉他自己对海鲜有严重的过敏反应。",
+      "text_native": "Je lui ai dit que j'avais une allergie grave aux fruits de mer.",
+      "phonetic": "Wǒ gàosù tā zìjǐ duì hǎixiān yǒu yánzhòng de guòmǐn fǎnyīng."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "因此我们决定避开所有带虾蟹的菜肴。",
+      "text_native": "Par conséquent, nous avons décidé d'éviter tous les plats contenant des crevettes ou du crabe.",
+      "phonetic": "Yīncǐ wǒmen juédìng bìkāi suǒyǒu dài xiā xiè de càiyáo."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "最后我们点了一份清蒸鱼和两碗汤面。",
+      "text_native": "Finalement, nous avons commandé un poisson cuit à la vapeur et deux bols de nouilles en soupe.",
+      "phonetic": "Zuìhòu wǒmen diǎnléile yī fèn qīngzhēng yú hé liǎng wǎn tāngmiàn."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "因为正值中午用餐高峰所以顾客非常多。",
+      "text_native": "Comme c'était l'heure de pointe du déjeuner, il y avait énormément de clients.",
+      "phonetic": "Yīnwèi zhèngzhí zhōngwǔ yòngcān gāofēng suǒyǐ gùkè fēicháng duō."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "厨房准备食物的速度稍微慢了一些。",
+      "text_native": "La cuisine mettait un peu de temps à préparer les plats.",
+      "phonetic": "Chúfáng zhǔnbèi shíwù de sùdù shāowēi mànle yīxiē."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我们一边喝着热茶一边耐心等待。",
+      "text_native": "Nous avons bu du thé chaud tout en attendant patiemment.",
+      "phonetic": "Wǒmen yībiān hēzhe rè chá yībiān nàixīn děngdài."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "服务员终于把香气扑鼻的菜端了上来。",
+      "text_native": "Le serveur a enfin apporté les plats aux arômes alléchants.",
+      "phonetic": "Fúwùyuán zhōngyú bǎ xiāngqì pūbí de cài duānle shànglái."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我们互相提醒要趁热赶快享用。",
+      "text_native": "Nous nous sommes rappelé mutuellement d'en profiter rapidement pendant que c'était chaud.",
+      "phonetic": "Wǒmen hùxiāng tíxǐng yào chèn rè gǎnkuài xiǎngyòng."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "面条的口感非常筋道汤头也很鲜美。",
+      "text_native": "La texture des nouilles était bien ferme et le bouillon était également très savoureux.",
+      "phonetic": "Miàntiáo de kǒugǎn fēicháng jīndào tāngtóu yě hěn xiānměi."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我们一边品尝美食一边交流近况。",
+      "text_native": "Nous avons dégusté de bons plats tout en discutant de nos actualités.",
+      "phonetic": "Wǒmen yībiān pǐncháng měishí yībiān jiāoliú jìnkuàng."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "大家对这次的午餐体验都赞赏有加。",
+      "text_native": "Nous avons tous beaucoup apprécié cette expérience de déjeuner.",
+      "phonetic": "Dàjiā duì zhè cì de wǔcān tǐyàn dōu zànshǎng yǒujiā."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "因为量比较大盘子里还剩下一点面。",
+      "text_native": "Comme les portions étaient assez grandes, il restait un peu de nouilles dans l'assiette.",
+      "phonetic": "Yīnwèi liàng bǐjiào dà pánzi lǐ hái shèngxià yīdiǎn miàn."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "为了响应环保我们决定把剩菜打包。",
+      "text_native": "Pour faire un geste pour l'environnement, nous avons décidé de prendre les restes à emporter.",
+      "phonetic": "Wèile xiǎngyīng huánbǎo wǒmen juédìng bǎ shèngcài dǎbāo."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "吃饱喝足之后我主动去前台结账。",
+      "text_native": "Une fois le repas terminé, j'ai pris l'initiative d'aller régler l'addition au comptoir.",
+      "phonetic": "Chī bǎo hē zú zhīhòu wǒ zhǔdòng qù qiántái jiézhàng."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "今天的消费总额是一百八十元。",
+      "text_native": "Le montant total de l'addition d'aujourd'hui était de cent quatre-vingts yuans.",
+      "phonetic": "Jītiān de xiāofèi zǒngé shì yibǎi bāshí yuán."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我们商量好这次午餐采用AA制付款。",
+      "text_native": "Nous avions convenu de partager les frais de ce déjeuner (système AA).",
+      "phonetic": "Wǒmen shāngliang hǎo zhè cì wǔcān cǎiyòng AA zhì fùkuǎn."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "收银员熟练地找给我们各自的零钱。",
+      "text_native": "La caissière nous a rendu habilement notre monnaie respective.",
+      "phonetic": "Shōuyínyuán shúliàn de zhǎo gěi wǒmen gèzì de língqián."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "走出餐厅时外面已经开始起风了。",
+      "text_native": "En sortant du restaurant, il commençait déjà à y avoir du vent dehors.",
+      "phonetic": "Zǒuchū cāntīng shí wàimiàn yǐjīng kāishǐ qǐ fēngle."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我们踩着轻快的步伐返回公司上班。",
+      "text_native": "Nous sommes retournés au bureau d'un pas léger pour reprendre le travail.",
+      "phonetic": "Wǒmen cǎizhe qīngkuài de bùfá fǎnhuí gōngsī shàngbān."
+    }
+  ]
+}

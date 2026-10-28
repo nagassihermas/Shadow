@@ -1,0 +1,188 @@
+{
+  "title": "周末的午饭",
+  "new_vocabulary": [
+    "爷爷", "奶奶", "叔叔", "婶婶", "弟弟", "姐姐", "做饭", "厨房", "帮忙", "洗", "菜", "肉", "鱼", "桌子", "盘子", "筷子", "勺子", "饿", "渴", "果汁", "大家", "请", "坐", "尝", "好吃", "饱", "高兴", "聊天", "休息"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是周末。",
+      "phonetic": "Jīntiān shì zhōumò.",
+      "text_native": "Aujourd'hui, c'est le week-end."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我们全家一起去爷爷奶奶家。",
+      "phonetic": "Wǒmen quánjiā yìqǐ qù yéye nǎinai jiā.",
+      "text_native": "Toute notre famille va ensemble chez grand-père et grand-mère."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "叔叔和婶婶也来了。",
+      "phonetic": "Shūshu hé shěnshen yě lái le.",
+      "text_native": "L'oncle et la tante sont aussi venus."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "弟弟和姐姐在客厅玩游戏。",
+      "phonetic": "Dìdi hé jiějie zài kètīng wán yóuxì.",
+      "text_native": "Le petit frère et la grande sœur jouent à des jeux dans le salon."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "妈妈和婶婶在厨房做饭。",
+      "phonetic": "Māma hé shěnshen zài chúfáng zuò fàn.",
+      "text_native": "La maman et la tante cuisinent dans la cuisine."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "爸爸和叔叔帮忙洗菜。",
+      "phonetic": "Bàba hé shūshu bāngmáng xǐ cài.",
+      "text_native": "Le papa et l'oncle aident à laver les légumes."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "爷爷在看报纸。",
+      "phonetic": "Yéye zài kàn bàozhǐ.",
+      "text_native": "Le grand-père lit le journal."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "奶奶在喝茶。",
+      "phonetic": "Nǎinai zài hē chá.",
+      "text_native": "La grand-mère boit du thé."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "厨房里有很多新鲜的菜和肉。",
+      "phonetic": "Chúfáng lǐ yǒu hěn duō xīnxiān de cài hé ròu.",
+      "text_native": "Il y a beaucoup de légumes et de viande frais dans la cuisine."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "今天还有一条大鱼。",
+      "phonetic": "Jīntiān hái yǒu yì tiáo dà yú.",
+      "text_native": "Aujourd'hui, il y a aussi un gros poisson."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "大家聊得很开心。",
+      "phonetic": "Dàjiā liáo de hěn kāixīn.",
+      "text_native": "Tout le monde discute joyeusement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "大家都觉得很饿。",
+      "phonetic": "Dàjiā dōu juéde hěn è.",
+      "text_native": "Tout le monde a faim."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我也觉得有点渴。",
+      "phonetic": "Wǒ yě juéde yǒudiǎn kě.",
+      "text_native": "J'ai aussi un peu soif."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "姐姐给我一杯果汁。",
+      "phonetic": "Jiějie gěi wǒ yì bēi guǒzhī.",
+      "text_native": "La grande sœur me donne un verre de jus de fruits."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "果汁非常甜。",
+      "phonetic": "Guǒzhī fēicháng tián.",
+      "text_native": "Le jus de fruits est très sucré."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "午饭做好了。",
+      "phonetic": "Wǔfàn zuò hǎo le.",
+      "text_native": "Le déjeuner est prêt."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我们把桌子整理干净。",
+      "phonetic": "Wǒmen bǎ zhuōzi zhěnglǐ gānjìng.",
+      "text_native": "Nous rangeons et nettoyons la table."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "盘子和筷子放在桌上。",
+      "phonetic": "Pánzi hé kuàizi fàng zài zhuō shàng.",
+      "text_native": "Les assiettes et les baguettes sont posées sur la table."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "爷爷请大家坐。",
+      "phonetic": "Yéye qǐng dàjiā zuò.",
+      "text_native": "Grand-père invite tout le monde à s'asseoir."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "妈妈笑着说吃饭吧。",
+      "phonetic": "Māma xiào zhe shuō chī fàn ba.",
+      "text_native": "Maman dit en souriant : « À table ! »"
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "大家开始吃菜。",
+      "phonetic": "Dàjiā kāishǐ chī cài.",
+      "text_native": "Tout le monde commence à manger."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "鱼真的很好吃。",
+      "phonetic": "Yú zhēn de hěn hǎochī.",
+      "text_native": "Le poisson est vraiment délicieux."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "爸爸尝了一块肉。",
+      "phonetic": "Bàba cháng le yí kuài ròu.",
+      "text_native": "Papa a goûté un morceau de viande."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "大家都吃得很饱。",
+      "phonetic": "Dàjiā dōu chī de hěn bǎo.",
+      "text_native": "Tout le monde a bien mangé et est repu."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "吃饭的时候我们很高兴。",
+      "phonetic": "Chī fàn de shíhou wǒmen hěn gāoxìng.",
+      "text_native": "Pendant le repas, nous sommes très heureux."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "饭后叔叔喝了一杯茶。",
+      "phonetic": "Fàn hòu shūshu hē le yì bēi chá.",
+      "text_native": "Après le repas, l'oncle a bu une tasse de thé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我和姐姐一起洗盘子。",
+      "phonetic": "Wǒ hé jiějie yìqǐ xǐ pánzi.",
+      "text_native": "La grande sœur et moi lavons les assiettes ensemble."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "爷爷奶奶下午在家里休息。",
+      "phonetic": "Yéye nǎinai xiàwǔ zài jiālǐ xiūxí.",
+      "text_native": "Grand-père et grand-mère se reposent à la maison l'après-midi."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "傍晚我们开心地回家。",
+      "phonetic": "Bàngwǎn wǒmen kāixīn de huí jiā.",
+      "text_native": "Le soir tombant, nous rentrons chez nous joyeusement."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "今天真是完美的一天。",
+      "phonetic": "Jīntiān zhēn shì wánměi de yì tiān.",
+      "text_native": "Aujourd'hui a vraiment été une journée parfaite."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "common": {
+    "interfaceLanguage": "Interface language",
+    "back": "Back"
+  },
+  "nav": {
+    "home": "Home",
+    "blocks": "Blocks",
+    "practice": "Practice",
+    "stats": "Stats"
+  },
+  "auth": {
+    "emailLabel": "Email address",
+    "sendMagicLink": "Send magic link",
+    "sending": "Sending…",
+    "magicLinkSent": "Link sent — check your inbox.",
+    "error": "Failed to send. Try again."
+  },
+  "TODO_blocks_page": "__NEEDS_SOURCE__",
+  "TODO_practice_page": "__NEEDS_SOURCE__",
+  "TODO_stats_page": "__NEEDS_SOURCE__",
+  "TODO_shadowing_page": "__NEEDS_SOURCE__",
+  "TODO_recall_page": "__NEEDS_SOURCE__"
+}

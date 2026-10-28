@@ -1,0 +1,217 @@
+{
+  "title": "周末的小病",
+  "new_vocabulary": [
+    "周末",
+    "计划",
+    "打算",
+    "户外",
+    "活动",
+    "突然",
+    "阴天",
+    "刮风",
+    "着凉",
+    "喷嚏",
+    "鼻塞",
+    "浑身",
+    "无力",
+    "量体温",
+    "发高烧",
+    "严重",
+    "预约",
+    "诊所",
+    "挂号",
+    "排队",
+    "轮到",
+    "检查",
+    "听诊器",
+    "胸口",
+    "呼吸",
+    "诊断",
+    "病毒性",
+    "开药方",
+    "药剂师",
+    "康复"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这个周末我原本有很多计划。",
+      "phonetic": "Zhège zhōumò wǒ yuánběn yǒu hěnduō jìhuà.",
+      "text_native": "J'avais initialement beaucoup de projets pour ce week-end."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我打算去户外参加朋友的活动。",
+      "phonetic": "Wǒ dǎsuàn qù hùwài cānjiā péngyǒu de huódòng.",
+      "text_native": "Je prévoyais d'aller participer à une activité en plein air avec des amis."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "可是天气突然变了，开始刮风和下雨。",
+      "phonetic": "Kěshì tiānqì tūrán biàn le, kāishǐ guā fēng hé xià yǔ.",
+      "text_native": "Mais le temps a soudainement changé, le vent et la pluie ont commencé."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "因为穿得太少，我一不小心就着凉了。",
+      "phonetic": "Yīnwèi chuān de tài shǎo, wǒ yībùxiǎoxīn jiù zháoliáng le.",
+      "text_native": "Comme j'étais trop légèrement habillé, j'ai attrapé froid sans faire attention."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "下午的时候，我开始连续打喷嚏。",
+      "phonetic": "Xiàwǔ de shíhòu, wǒ kāishǐ liánxù dǎ pēntì.",
+      "text_native": "Dans l'après-midi, j'ai commencé à éternuer continuellement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "不久之后，我的鼻子也完全塞住了。",
+      "phonetic": "Bùjiǔ zhīhòu, wǒ de bízi yě wánquán sāizhù le.",
+      "text_native": "Peu de temps après, mon nez s'est aussi complètement bouché."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "到了晚上，我觉得浑身无力。",
+      "phonetic": "Dào le wǎnshàng, wǒ juéde húnshēn wúlì.",
+      "text_native": "Le soir venu, je me sentais sans force dans tout le corps."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我拿出温度计来量体温。",
+      "phonetic": "Wǒ ná chū wēndùjì lái liáng tǐwēn.",
+      "text_native": "J'ai sorti le thermomètre pour mesurer ma température."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "结果发现自己不仅发烧了，而且有点高烧。",
+      "phonetic": "Jiéguǒ fāxiàn zìjǐ bùjǐn fāshāo le, érqiě yǒudiǎn gāoshāo.",
+      "text_native": "Le résultat a montré que non seulement j'avais de la fièvre, mais aussi un peu de forte fièvre."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "头很痛，喉咙也很疼，连咽口水都困难。",
+      "phonetic": "Tóu hěn tòng, hóulóng yě hěn téng, lián yàn kǒushuǐ dōu kùnnan.",
+      "text_native": "J'avais très mal à la tête et à la gorge, c'était même difficile d'avaler ma salive."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我知道这次感冒可能有点严重。",
+      "phonetic": "Wǒ zhīdào zhè cì gǎnmào kěnéng yǒudiǎn yánzhòng.",
+      "text_native": "Je savais que ce rhume était peut-être un peu sérieux."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "为了安全起见，我决定第二天去附近的诊所。",
+      "phonetic": "Wèile ānquán qǐjiàn, wǒ juédìng dì èr tiān qù fùjìn de zhěnsuǒ.",
+      "text_native": "Par mesure de sécurité, j'ai décidé d'aller au cabinet médical voisin le lendemain."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "第二天早上，我在线上预约了看医生。",
+      "phonetic": "Dì èr tiān zǎoshang, wǒ zài xiànshàng yùyuē le kàn yīshēng.",
+      "text_native": "Le lendemain matin, j'ai pris un rendez-vous en ligne pour voir un médecin."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "到了诊所以后，我先去前台挂号。",
+      "phonetic": "Dào le zhěnsuǒ yǐhòu, wǒ xiān qù qiántái guàhào.",
+      "text_native": "Une fois arrivé au cabinet, je suis d'abord allé à la réception pour m'inscrire."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "大厅里有很多人在排队等候。",
+      "phonetic": "Dàtīng lǐ yǒu hěnduō rén zài páiduì děnghòu.",
+      "text_native": "Il y avait beaucoup de gens qui faisaient la queue dans le hall pour attendre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "大约等了半个小时，终于轮到我了。",
+      "phonetic": "Dàyuē děng le bàn gè xiǎoshí, zhōngyú lúndào wǒ le.",
+      "text_native": "J'ai attendu environ une demi-heure, et c'était enfin mon tour."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "医生亲切地问我有什么不舒服的症状。",
+      "phonetic": "Yīshēng qīnqiè de wèn wǒ yǒu shénme bù shūfu de zhèngzhuàng.",
+      "text_native": "Le médecin m'a demandé gentiment quels symptômes inconfortables j'avais."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我告诉他我流鼻涕、咳嗽而且身体发烧。",
+      "phonetic": "Wǒ gàosù tā wǒ liú bítì, késòu érqiě shēntǐ fāshāo.",
+      "text_native": "Je lui ai dit que j'avais le nez qui courait, de la toux et de la fièvre."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "医生拿出了听诊器帮我做检查。",
+      "phonetic": "Yīshēng ná chū le tīngzhěnqì bāng wǒ zuò jiǎnchá.",
+      "text_native": "Le médecin a sorti un stéthoscope pour m'examiner."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他让我解开外套，然后听听我的胸口。",
+      "phonetic": "Tā ràng wǒ jiě kāi wàitào, ránhòu tīngting wǒ de xiōngkǒu.",
+      "text_native": "Il m'a demandé d'ouvrir mon manteau, puis d'ausculter ma poitrine."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他让我深呼吸，然后咳嗽两声。",
+      "phonetic": "Tā ràng wǒ shēn hūxī, ránhòu késòu liǎng shēng.",
+      "text_native": "Il m'a demandé de prendre une grande inspiration, puis de tousser deux fois."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "检查完以后，医生做出了诊断。",
+      "phonetic": "Jiǎnchá wán yǐhòu, yīshēng zuò chū le zhěnduàn.",
+      "text_native": "Après l'examen, le médecin a posé un diagnostic."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "他说这不是普通的感冒，而是轻微的病毒性感冒。",
+      "phonetic": "Tā shuō zhè bú shì pǔtōng de gǎnmào, ér shì qīngwēi de bìngdúxìng gǎnmào.",
+      "text_native": "Il a dit que ce n'était pas un rhume ordinaire, mais un léger rhume viral."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "医生在电脑上写好了药方。",
+      "phonetic": "Yīshēng zài diànnǎo shàng xiě hǎo le yàofāng.",
+      "text_native": "Le médecin a rédigé l'ordonnance sur l'ordinateur."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我拿着药方去药剂师那里拿药。",
+      "phonetic": "Wǒ ná zhe yàofāng qù yàojìshī nàlǐ ná yào.",
+      "text_native": "J'ai pris l'ordonnance et suis allé chercher les médicaments chez le pharmacien."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "回到家后，我喝了一杯温水，吃了一片药。",
+      "phonetic": "Huí dào jiā hòu, wǒ hē le yì bēi wēn shuǐ, chī le yí piàn yào.",
+      "text_native": "De retour à la maison, j'ai bu une tasse d'eau tiède et pris un comprimé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "妈妈在厨房里煮了一些热粥，里面放了一点盐。",
+      "phonetic": "Māma zài chúfáng lǐ zhǔ le yìxiē rè zhōu, lǐmiàn fàng le yìdiǎn yán.",
+      "text_native": "Maman a préparé du porridge chaud dans la cuisine avec un peu de sel dedans."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "虽然胃口不好，但我还是勉强吃了几口。",
+      "phonetic": "Suīrán wèikǒu bù hǎo, dàn wǒ háishì miǎnqiǎng chī le jǐ kǒu.",
+      "text_native": "Bien que je n'aie pas d'appétit, j'ai quand même mangé quelques cuillères à contrecoeur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "盖上毯子躺在床上，我在房间里好好休息了一整天。",
+      "phonetic": "Gài shàng tǎnzi tǎng zài chuáng shàng, wǒ zài fángjiān lǐ hǎohǎo xiūxí le yì zhěng tiān.",
+      "text_native": "Couvert d'une couverture et allongé sur le lit, je me suis bien reposé dans ma chambre toute une journée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "希望明天早上醒来的时候，我已经完全康复了。",
+      "phonetic": "Xīwàng míngtiān zǎoshang xǐng lái de shíhòu, wǒ yǐjīng wánquán kāngfù le.",
+      "text_native": "J'espère que lorsque je me réveillerai demain matin, je serai complètement rétabli."
+    }
+  ]
+}

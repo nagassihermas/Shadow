@@ -1,0 +1,199 @@
+{
+  "title": "看医生",
+  "new_vocabulary": [
+    "感冒",
+    "流鼻涕",
+    "喉咙",
+    "量",
+    "体温",
+    "度",
+    "高",
+    "护士",
+    "请",
+    "进",
+    "张开",
+    "嘴巴",
+    "感冒药",
+    "一天",
+    "次",
+    "粒",
+    "多",
+    "温水",
+    "付",
+    "药费",
+    "希望",
+    "身体",
+    "健康",
+    "快",
+    "康复",
+    "出门",
+    "戴",
+    "口罩",
+    "保重",
+    "慢"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我今天感冒了。",
+      "phonetic": "Wǒ jīntiān gǎnmào le.",
+      "text_native": "Je suis enrhumé aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "早上我流鼻涕。",
+      "phonetic": "Zǎoshang wǒ liú bítì.",
+      "text_native": "Ce matin, j'ai le nez qui coule."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我的喉咙也很疼。",
+      "phonetic": "Wǒ de hóulóng yě hěn téng.",
+      "text_native": "J'ai aussi très mal à la gorge."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "所以我去了医院。",
+      "phonetic": "Suǒyǐ wǒ qù le yīyuàn.",
+      "text_native": "C'est pourquoi je suis allé à l'hôpital."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我在大楼外面排队。",
+      "phonetic": "Wǒ zài dàlóu wàimiàn páiduì.",
+      "text_native": "Je fais la queue à l'extérieur du bâtiment."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "护士叫我的号。",
+      "phonetic": "Hùshi jiào wǒ de hào.",
+      "text_native": "L'infirmière appelle mon numéro."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "请进这个房间。",
+      "phonetic": "Qǐng jìn zhège fángjiān.",
+      "text_native": "Veuillez entrer dans cette pièce."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我坐在椅子上。",
+      "phonetic": "Wǒ zuò zài yǐzi shàng.",
+      "text_native": "Je m'assois sur la chaise."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "医生问我哪里不舒服。",
+      "phonetic": "Yīshēng wèn wǒ nǎlǐ bù shūfu.",
+      "text_native": "Le médecin me demande ce qui ne va pas."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我回答头和喉咙疼。",
+      "phonetic": "Wǒ huídá tóu hé hóulóng téng.",
+      "text_native": "Je réponds que j'ai mal à la tête et à la gorge."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "护士帮我量体温。",
+      "phonetic": "Hùshi bāng wǒ liáng tǐwēn.",
+      "text_native": "L'infirmière m'aide à prendre ma température."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "体温有一点高。",
+      "phonetic": "Tǐwēn yǒu yīdiǎn gāo.",
+      "text_native": "La température est un peu élevée."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "医生听我的心跳。",
+      "phonetic": "Yīshēng tīng wǒ de xīntiào.",
+      "text_native": "Le médecin écoute mes battements de cœur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "请张开你的嘴巴。",
+      "phonetic": "Qǐng zhāngkāi nǐ de zuǐba.",
+      "text_native": "Veuillez ouvrir la bouche."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "医生看我的喉咙。",
+      "phonetic": "Yīshēng kàn wǒ de hóulóng.",
+      "text_native": "Le médecin regarde ma gorge."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "医生说我发烧了。",
+      "phonetic": "Yīshēng shuō wǒ fāshāo le.",
+      "text_native": "Le médecin dit que j'ai de la fièvre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "医生给我开好了药方。",
+      "phonetic": "Yīshēng gěi wǒ kāi hǎo le yàofāng.",
+      "text_native": "Le médecin m'a fait une ordonnance."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我要去付药费。",
+      "phonetic": "Wǒ yào qù fù yàofèi.",
+      "text_native": "Je dois aller payer les médicaments."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我拿了感冒药。",
+      "phonetic": "Wǒ ná le gǎnmào yào.",
+      "text_native": "J'ai récupéré mes médicaments contre le rhume."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "药一天吃三次。",
+      "phonetic": "Yào yītiān chī sān cì.",
+      "text_native": "Le médicament se prend trois fois par jour."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "一次吃两粒。",
+      "phonetic": "Yī cì chī liǎng lì.",
+      "text_native": "Prendre deux pilules à chaque fois."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "多喝温水。",
+      "phonetic": "Duō hē wēnshuǐ.",
+      "text_native": "Buvez beaucoup d'eau tiède."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "在家好好休息几天。",
+      "phonetic": "Zài jiā hǎohǎo xiūxī jǐ tiān.",
+      "text_native": "Reposez-vous bien à la maison pendant quelques jours."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "祝你早日康复。",
+      "phonetic": "Zhù nǐ zǎorì kāngfù.",
+      "text_native": "Je vous souhaite un prompt rétablissement."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "出门记得戴口罩。",
+      "phonetic": "Chūmén jìde dài kǒuzhào.",
+      "text_native": "N'oubliez pas de porter un masque en sortant."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "谢谢医生，再见。",
+      "phonetic": "Xièxie yīshēng, zàijiàn.",
+      "text_native": "Merci docteur, au revoir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "回家以后我要好好睡觉。",
+      "phonetic": "Huí jiā yǐhòu wǒ yào hǎohǎo shuìjiào.",
+      "text_native": "Je vais bien dormir après être rentré à la maison."
+    }
+  ]
+}

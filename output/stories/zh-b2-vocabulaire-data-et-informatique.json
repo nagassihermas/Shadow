@@ -1,0 +1,190 @@
+{
+  "title": "数据分析与系统升级",
+  "new_vocabulary": [
+    "分析", "算法", "预测", "图表", "报告", "导出", "表格", "筛选", "字段", "数据库",
+    "服务器", "云端", "安全", "密码", "权限", "登录", "账号", "验证", "加密", "传输",
+    "效率", "优化", "清理", "缓存", "运行", "崩溃", "恢复", "测试", "发布", "项目"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早上，经理交给我一个关于市场趋势的数据分析任务。",
+      "phonetic": "Jīntiān zǎoshang, jīnglǐ jiāo gěi wǒ yīgè guānyú shìchǎng qūshì de shùjù fēnxī rènwù.",
+      "text_native": "Ce matin, le manager m'a confié une tâche d'analyse de données concernant les tendances du marché."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我先打开公司的内部数据库，准备提取最近三个月的销售记录。",
+      "phonetic": "Wǒ xiān dǎkāi gōngsī de nèibù shùjùkù, zhǔnbèi tíqǔ zuìjìn sān gè yuè de xiāoshòu jìlù.",
+      "text_native": "J'ai d'abord ouvert la base de données interne de l'entreprise pour préparer l'extraction des registres de ventes des trois derniers mois."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "为了保护商业机密，系统要求我输入管理员账号和复杂密码。",
+      "phonetic": "Wèile bǎohù shāngyè jīmì, xìtǒng yàoqiú wǒ shūrù guǎnlǐyuán zhànghào hé fùzá mìmǎ.",
+      "text_native": "Afin de protéger les secrets commerciaux, le système m'a demandé de saisir un compte administrateur et un mot de passe complexe."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "通过双重验证之后，我成功登录了远程服务器。",
+      "phonetic": "Tōngguò shuāngchóng yànzhèng zhīhòu, wǒ chénggōng dēnglùle yuǎnchéng fúwùqì.",
+      "text_native": "Après une double authentification, je me suis connecté avec succès au serveur distant."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "由于网络传输速度有点慢，我等待了几分钟才加载出所有的字段。",
+      "phonetic": "Yóuyú wǎngluò chuánshū sùdù yǒudiǎn màn, wǒ děngdàile jǐ fēnzhōng cái jiǎzài chū suǒyǒu de zìduàn.",
+      "text_native": "En raison de la vitesse de transmission du réseau un peu lente, j'ai attendu quelques minutes pour charger tous les champs."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我使用高级筛选功能，迅速排除了无效的客户信息。",
+      "phonetic": "Wǒ shǐyòng gāojí shǎixuǎn gōngnéng, xùnsù páichúle wúxiào de kèhù xìnxī.",
+      "text_native": "J'ai utilisé la fonction de filtrage avancé pour éliminer rapidement les informations clients non valides."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "接着，我在表格里建立了一个新的数学模型。",
+      "phonetic": "Jiēzhe, wǒ zài biǎogé lǐ jiànlìle yīgè xīn de shùxué móxíng.",
+      "text_native": "Ensuite, j'ai créé un nouveau modèle mathématique dans le tableur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这个算法能帮我们准确预测下个季度的消费偏好。",
+      "phonetic": "Zhège suànfǎ néng bāng wǒmen zhǔnquè yùcè xià gè jìdù de xiāofèi piānhào.",
+      "text_native": "Cet algorithme peut nous aider à prédire avec précision les préférences de consommation du trimestre prochain."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "为了提高运行效率，我还顺便清理了电脑里的无用缓存。",
+      "phonetic": "Wèile tígāo yùnxíng xiàolǜ, wǒ hái shùnbiàn qīnglǐle diànnǎo lǐ de wúyòng huǎncún.",
+      "text_native": "Pour améliorer l'efficacité d'exécution, j'ai également profité de l'occasion pour nettoyer le cache inutile dans l'ordinateur."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "突然，屏幕闪烁了一下，软件毫无预兆地崩溃了。",
+      "phonetic": "Tūrán, píngmù shǎnshuòle yīxià, ruǎnjiàn háowú yùzhào de bēngkuìle.",
+      "text_native": "Soudain, l'écran a clignoté et le logiciel a planté sans aucun avertissement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "幸好我有定期备份的习惯，没有丢失太多重要的进展。",
+      "phonetic": "Xìnghǎo wǒ yǒu dìngqí bèifèn de xíguàn, méiyǒu diūshī tài duō zhòngyào de jìnzhǎn.",
+      "text_native": "Heureusement, j'ai l'habitude de faire des sauvegardes régulières, je n'ai pas perdu trop de progrès importants."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我重新启动应用程序，并从云端恢复了刚才编辑的内容。",
+      "phonetic": "Wǒ chóngxīn qǐdòng yìngyòng chéngxù, bìng cóng yúnduān huīfùle gāngcái biānjì de nèiróng.",
+      "text_native": "J'ai redémarré l'application et récupéré le contenu que je venais d'éditer depuis le cloud."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "为了安全起见，我马上把目前的成果手动保存到了本地硬盘。",
+      "phonetic": "Wèile ānquán qǐjiàn, wǒ mǎshàng bǎ mùqián de chéngguǒ shǒudòng bǎocún dàole běndì yìngpán.",
+      "text_native": "Par mesure de sécurité, j'ai immédiatement enregistré manuellement les résultats actuels sur le disque dur local."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "经过一系列的代码测试，这个程序终于可以稳定运行了。",
+      "phonetic": "Jīngguò yī xìliè de dàimǎ cèshì, zhège chéngxù zhōngyú kěyǐ wěndìng yùnxíngle.",
+      "text_native": "Après une série de tests de code, ce programme peut enfin fonctionner de manière stable."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我把密密麻麻的数据转换成了直观的图表和柱状图。",
+      "phonetic": "Wǒ bǎ mìmímámá de shùjù zhuǎnhuàn chéngle zhíguān de túbiǎo hé zhùzhuàngtú.",
+      "text_native": "J'ai converti les données denses en graphiques et diagrammes à barres intuitifs."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这些视觉化的元素能让高层管理者一眼看出核心问题。",
+      "phonetic": "Zhèxiē shìjué huà de yuánsù néng ràng gāocéng guǎnlǐzhě yīyǎn kàn chū héxīn wèntí.",
+      "text_native": "Ces éléments visuels permettent aux cadres supérieurs de voir le problème central d'un coup d'œil."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我将分析结果导出为PDF格式的详细报告。",
+      "phonetic": "Wǒ jiāng fēnxī jiéguǒ dǎochū wéi PDF géshì de xiángxì bàogào.",
+      "text_native": "J'ai exporté les résultats de l'analyse sous forme de rapport détaillé au format PDF."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "同事走过来问我：“这个项目的最新进展怎么样了？”",
+      "phonetic": "Tóngshì zǒu guòlái wèn wǒ: “Zhège xiàngmù de zuìxīn jìnzhǎn zěnmeyàngle?”",
+      "text_native": "Un collègue s'est approché et m'a demandé : « Comment se passe la dernière avancée de ce projet ? »"
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我微笑着回答他：“所有的数据优化工作已经全部完成了。”",
+      "phonetic": "Wǒ wēixiàozhe huídá tā: “Suǒyǒu de shùjù yōuhuà gōngzuò yǐjīng quánbù wánchéngle.”",
+      "text_native": "J'ai répondu avec un sourire : « Tout le travail d'optimisation des données est déjà complètement terminé. »"
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他看了看屏幕上的图表，赞许地点了点头。",
+      "phonetic": "Tā kànle kàn píngmù shàng de túbiǎo, zànxǔ de diǎnle diǎntóu.",
+      "text_native": "Il a regardé les graphiques à l'écran et a hoché la tête avec approbation."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "为了让整个团队都能访问，我把文件上传到了共享文件夹。",
+      "phonetic": "Wèile ràng zhěnggè tuánduì dōu néng fǎngwèn, wǒ bǎ wénjiàn shàngchuán dàole gòngxiǎng wénjiànjiā.",
+      "text_native": "Afin que toute l'équipe puisse y accéder, j'ai téléchargé le fichier dans le dossier partagé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我给经理发送了一封带附件的正式邮件。",
+      "phonetic": "Wǒ gěi jīnglǐ fāsòngle yī fēng dài fùjiàn de zhèngshì yóujiàn.",
+      "text_native": "J'ai envoyé un e-mail officiel avec pièce jointe au manager."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "邮件里强调了这次数据加密和访问权限的重要调整。",
+      "phonetic": "Yóujiàn lǐ qiángdiàole zhè cì shùjù jiāmì hé fǎngwèn quánxiàn de zhòngyào tiáozhěng.",
+      "text_native": "L'e-mail soulignait l'ajustement important du chiffrement des données et des autorisations d'accès cette fois-ci."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "不一会儿，经理就回复说对这份报告非常满意。",
+      "phonetic": "Bù yīhuǐ'er, jīnglǐ jiù huífù shuō duì zhè fèn bàogào fēicháng mǎnyì.",
+      "text_native": "Peu de temps après, le manager a répondu qu'il était très satisfait de ce rapport."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "下午，我们需要和技术部门开会讨论系统的下一步升级。",
+      "phonetic": "Xiàwǔ, wǒmen xūyào hé jìshù bùmén kāihuì tǎolùn xìtǒng de xià yibù shēngjí.",
+      "text_native": "Cet après-midi, nous devons avoir une réunion avec le département technique pour discuter de la prochaine mise à niveau du système."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "在会议室里，大家认真研究了新的网络安全协议。",
+      "phonetic": "Zài huìyìshì lǐ, dàjiā rènzhēn yánjiūle xīn de wǎngluò ānquán xiéyì.",
+      "text_native": "Dans la salle de réunion, tout le monde a étudié sérieusement le nouveau protocole de sécurité réseau."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "技术总监提出了一些很有建设性的优化建议。",
+      "phonetic": "Jìshù zǒngjiān tíchūle yīxiē hěn yǒu jiànshè xìng de yōuhuà jiànyì.",
+      "text_native": "Le directeur technique a proposé des suggestions d'optimisation très constructives."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "回到座位后，我立刻根据讨论结果修改了部分代码。",
+      "phonetic": "Huí dào zuòwèi hòu, wǒ lìkè gēnjù tǎolùn jiéguǒ xiūgǎile bùfèn dàimǎ.",
+      "text_native": "De retour à ma place, j'ai immédiatement modifié une partie du code selon les résultats de la discussion."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "傍晚下班前，我们顺利发布了该软件的测试版本。",
+      "phonetic": "Bàngwǎn xiàbān qián, wǒmen shùnlì fābùle gāi ruǎnjiàn de cèshì bǎnběn.",
+      "text_native": "Avant de quitter le travail le soir, nous avons publié avec succès la version de test de ce logiciel."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "看到各项指标都正常，我关掉电脑，满意地离开了办公室。",
+      "phonetic": "Kàn dào gè xiàng zhǐbiāo dōu zhèngcháng, wǒ guān diào diànnǎo, mǎnyì de líkāile bàngōngshì.",
+      "text_native": "Voyant que tous les indicateurs étaient normaux, j'ai éteint l'ordinateur et quitté le bureau avec satisfaction."
+    }
+  ]
+}

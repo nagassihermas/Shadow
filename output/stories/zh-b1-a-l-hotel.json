@@ -1,0 +1,217 @@
+{
+  "title": "在酒店的周末",
+  "new_vocabulary": [
+    "周末",
+    "打算",
+    "度假",
+    "前台",
+    "服务员",
+    "登记",
+    "身份证",
+    "押金",
+    "现金",
+    "刷卡",
+    "发票",
+    "收据",
+    "楼层",
+    "走廊",
+    "尽头",
+    "窗户",
+    "风景",
+    "公园",
+    "晴天",
+    "微风",
+    "整理",
+    "衣柜",
+    "挂",
+    "鞋子",
+    "脱",
+    "拖鞋",
+    "换",
+    "烧水",
+    "壶",
+    "联系"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这个周末我打算去市中心度假。",
+      "phonetic": "Zhè gè zhōu mò wǒ dǎ suàn qù shì zhōng xīn dù jià.",
+      "text_native": "Ce week-end, j'ai l'intention d'aller passer des vacances au centre-ville."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我提前预订了一间双人间。",
+      "phonetic": "Wǒ tí qián yù dìng le yì jiān shuāng rén jiān.",
+      "text_native": "J'ai réservé une chambre double à l'avance."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "下午两点我到了酒店大堂。",
+      "phonetic": "Xià wǔ liǎng diǎn wǒ dào le jiǔ diàn dà táng.",
+      "text_native": "À quatorze heures, je suis arrivé dans le hall de l'hôtel."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "前台的服务员非常热情地跟我打招呼。",
+      "phonetic": "Qián tái de fú wù yuán fēi cháng rè qíng de gēn wǒ dǎ zhāo hu.",
+      "text_native": "L'employé de la réception m'a salué très chaleureusement."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我告诉他我有预订。",
+      "phonetic": "Wǒ gào sù tā wǒ yǒu yù dìng.",
+      "text_native": "Je lui ai dit que j'avais une réservation."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他请我出示护照和身份证进行登记。",
+      "phonetic": "Tā qǐng wǒ chū shì hù zhào hé shēn fèn zhèng jìn xíng dēng jì.",
+      "text_native": "Il m'a demandé de présenter mon passeport et ma carte d'identité pour l'enregistrement."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我把证件和信用卡交给了他。",
+      "phonetic": "Wǒ bǎ zhèng jiàn hé xìn yòng kǎ jiāo gěi le tā.",
+      "text_native": "Je lui ai remis mes documents et ma carte de crédit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "办理入住需要先付一些押金。",
+      "phonetic": "Bàn lǐ rù zhù xū yào xiān fù yì xiē yā jīn.",
+      "text_native": "L'enregistrement nécessite d'abord le versement d'une caution."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我选择用刷卡的方式付钱。",
+      "phonetic": "Wǒ xuǎn zé yòng shuā kǎ de fāng shì fù qián.",
+      "text_native": "J'ai choisi de payer par carte."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "服务员问我需不需要打印发票。",
+      "phonetic": "Fú wù yuán wèn wǒ xū bù xū yào dǎ yìn fā piào.",
+      "text_native": "Le réceptionniste m'a demandé si j'avais besoin d'une facture."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我不需要发票，只要了一张收据。",
+      "phonetic": "Wǒ bù xū yào fā piào, zhǐ yào le yì zhāng shōu jù.",
+      "text_native": "Je n'avais pas besoin de facture, j'ai seulement demandé un reçu."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他微笑着把房卡递给我并说了谢谢。",
+      "phonetic": "Tā wēi xiào zhe bǎ fáng kǎ dì gěi wǒ bìng shuō le xiè xie.",
+      "text_native": "Il m'a souri en me tendant la carte de la chambre et m'a remercié."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我的房间在五楼的走廊尽头。",
+      "phonetic": "Wǒ de fáng jiān zài wǔ lóu de zǒu láng jìn tóu.",
+      "text_native": "Ma chambre se trouve au bout du couloir, au cinquième étage."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我坐电梯很快就上去了。",
+      "phonetic": "Wǒ zuò diàn tī hěn kuài jiù shàng qù le.",
+      "text_native": "J'ai pris l'ascenseur et y suis monté rapidement."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我用房卡轻轻刷了一下门就开了。",
+      "phonetic": "Wǒ yòng fáng kǎ qīng qīng shuā le yí xià mén jiù kāi le.",
+      "text_native": "J'ai passé doucement la carte sur la serrure et la porte s'est ouverte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "房间里面非常宽敞而且很干净。",
+      "phonetic": "Fáng jiān lǐ miàn fēi cháng kuān chǎng érqiě hěn gān jìng.",
+      "text_native": "L'intérieur de la chambre est très spacieux et propre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "靠窗户的地方有一张大桌子和一把椅子。",
+      "phonetic": "Kào chuāng hù de dì fang yǒu yì zhāng dà zhuō zi hé yì bǎ yǐ zi.",
+      "text_native": "Près de la fenêtre, il y a une grande table et une chaise."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "从窗户看出去，可以看到外面的公园风景。",
+      "phonetic": "Cóng chuāng hù kàn chū qù, kě yǐ kàn dào wài miàn de gōng yuán fēng jǐng.",
+      "text_native": "En regardant par la fenêtre, on peut admirer la vue sur le parc à l'extérieur."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "今天是个晴天，阳光照在床铺上很舒服。",
+      "phonetic": "Jīn tiān shì gè qíng tiān, yáng guāng zhào zài chuáng pù shàng hěn shū fu.",
+      "text_native": "Aujourd'hui, c'est une journée ensoleillée, la lumière du soleil qui éclaire le lit est très agréable."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我先把沉重的行李箱放在桌子旁边。",
+      "phonetic": "Wǒ xiān bǎ chén zhòng de xíng lǐ xiāng fàng zài zhuō zi páng biān.",
+      "text_native": "J'ai d'abord posé ma lourde valise à côté de la table."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "然后我打开衣柜把外套挂进去。",
+      "phonetic": "Rán hòu wǒ dǎ kāi yī guì bǎ wài tào guà jìn qù.",
+      "text_native": "Ensuite, j'ai ouvert l'armoire pour y suspendre mon manteau."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我脱下了皮鞋，换上了酒店准备的拖鞋。",
+      "phonetic": "Wǒ tuō xià le pí xié, huàn shàng le jiǔ diàn zhǔn bèi de tuō xié.",
+      "text_native": "J'ai enlevé mes chaussures en cuir et mis les pantoufles fournies par l'hôtel."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "因为坐车有点累，我想先喝一杯热茶休息一会儿。",
+      "phonetic": "Yīn wèi zuò chē yǒu diǎn lèi, wǒ xiǎng xiān hē yì bēi rè chá xiū xi yí huìr.",
+      "text_native": "Comme le trajet m'a un peu fatigué, je veux d'abord boire une tasse de thé chaud pour me reposer un moment."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我拿起桌子上的电热水壶开始烧水。",
+      "phonetic": "Wǒ ná qǐ zhuō zi shàng de diàn rè shuǐ hú kāi shǐ shāo shuǐ.",
+      "text_native": "J'ai pris la bouilloire électrique sur la table pour faire bouillir de l'eau."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "水很快就烧开了，我倒了一杯水。",
+      "phonetic": "Shuǐ hěn kuài jiù shāo kāi le, wǒ dào le yì bēi shuǐ.",
+      "text_native": "L'eau a bouilli rapidement et j'en ai versé une tasse."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "喝完茶之后，我打开电视看了一会儿新闻。",
+      "phonetic": "Hē wán chá zhī hòu, wǒ dǎ kāi diàn shì kàn le yí huìr xīn wén.",
+      "text_native": "Après avoir fini mon thé, j'ai allumé la télévision pour regarder un peu les informations."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "房间里的空调温度正合适，既不冷也不热。",
+      "phonetic": "Fáng jiān lǐ de kōng tiáo wēn dù zhèng hé shì, jì bù lěng yě bú rè.",
+      "text_native": "La température de la climatisation dans la chambre est parfaite, ni trop froide ni trop chaude."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "傍晚的时候，我打算去洗个热水澡。",
+      "phonetic": "Bàng wǎn de shí hou, wǒ dǎ suàn qù xǐ gè rè shuǐ zǎo.",
+      "text_native": "En soirée, j'ai l'intention d'aller prendre une douche chaude."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "浴室里面很干净，毛巾和肥皂都放在架子上。",
+      "phonetic": "Yù shì lǐ miàn hěn gān jìng, máo jīn hé féi zào dōu fàng zài jià zi shàng.",
+      "text_native": "La salle de bain est très propre, les serviettes et le savon sont posés sur l'étagère."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "洗完澡躺在舒服的大床上，我准备好好睡个觉。",
+      "phonetic": "Xǐ wán zǎo tǎng zài shū fu de dà chuáng shàng, wǒ zhǔn bèi hǎo hǎo shuì gè jiào.",
+      "text_native": "Après ma douche, allongé sur le grand lit confortable, je me préparais à passer une excellente nuit."
+    }
+  ]
+}

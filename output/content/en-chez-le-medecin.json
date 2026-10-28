@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Hi, I'd like to book an appointment with the doctor, please.",
+    "phonetic": "/haɪ aɪd laɪk tuː bʊk ən əˈpɔɪntmənt wɪð ðə ˈdɒktə pliːz/",
+    "text_native": "Bonjour, j'aimerais prendre rendez-vous avec le médecin s'il vous plaît.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Is there any availability this morning for an urgent check-up?",
+    "phonetic": "/ɪz ðeər ˈeni əˌveɪləˈbɪləti ðɪs ˈmɔːnɪŋ fɔːr ən ˈɜːdʒənt ˈtʃek ʌp/",
+    "text_native": "Est-ce qu'il y a de la place ce matin pour une visite urgente ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I've been feeling under the weather since the day before yesterday.",
+    "phonetic": "/aɪv biːn ˈfiːlɪŋ ˈʌndə ðə ˈweðə sɪns ðə deɪ bɪˈfɔː ˈjesteɹdeɪ/",
+    "text_native": "Je ne me sens pas très bien depuis avant-hier.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "My throat really hurts every time I try to swallow food.",
+    "phonetic": "/maɪ θrəʊt ˈriːəli hɜːts ˈevri taɪm aɪ traɪ tuː ˈswɒləu fuːd/",
+    "text_native": "J'ai très mal à la gorge dès que j'essaie d'avaler quelque chose.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I woke up this morning with a pounding headache and chills.",
+    "phonetic": "/aɪ wəʊk ʌp ðɪs ˈmɔːnɪŋ wɪð ə ˈpaʊndɪŋ ˈhedeɪk ənd tʃɪlz/",
+    "text_native": "Je me suis réveillé ce matin avec un mal de tête carabiné et des frissons.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Could you please tell me what my body temperature is right now?",
+    "phonetic": "/kʊd juː pliːz tel miː wɒt maɪ ˈbɒdi ˈtemprətʃə ɪz raɪt naʊ/",
+    "text_native": "Pourriez-vous me dire quelle est ma température corporelle en ce moment ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Ibuprofen doesn't seem to help much with this persistent backache.",
+    "phonetic": "/ˌaɪbjuːˈprəʊfen ˈdʌznt siːm tuː help mʌtʃ wɪð ðɪs pəˈsɪstənt ˈbækeɪk/",
+    "text_native": "L'ibuprofène n'a pas l'air de faire grand-effet sur ce mal de dos persistant.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "My stomach has been acting up ever since I ate at that diner.",
+    "phonetic": "/maɪ ˈstʌmək həz biːn ˈæktɪŋ ʌp ˈevə sɪns aɪ eɪt ət ðæt ˈdaɪnə/",
+    "text_native": "J'ai l'estomac en vrac depuis que j'ai mangé dans ce petit resto.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I feel quite dizzy whenever I stand up too quickly from my chair.",
+    "phonetic": "/aɪ fiːl kwaɪt ˈdɪzi wenˈevə aɪ stænd ʌp tuː ˈkwɪkli frɒm maɪ tʃeə/",
+    "text_native": "J'ai pas mal vertige dès que je me lève un peu trop vite de ma chaise.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Do you mind taking off your jacket so I can listen to your lungs?",
+    "phonetic": "/duː juː maɪnd ˈteɪkɪŋ ɒf jɔː ˈdʒækɪt səʊ aɪ kən ˈlɪsn tuː jɔː lʌŋz/",
+    "text_native": "Ça vous dérange d'enlever votre veste pour que j'écoute vos poumons ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Does it feel tender when I press down on this side of your ribs?",
+    "phonetic": "/dʌz ɪt fiːl ˈtendə wen aɪ pres daʊn ɒn ðɪs saɪd əv jɔː rɪbz/",
+    "text_native": "Est-ce que c'est sensible quand j'appuie de ce côté-là sur vos côtes ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I think I might have caught whatever bug has been going around.",
+    "phonetic": "/aɪ θɪŋk aɪ maɪt həv kɔːt wɒtˈevə bʌɡ həz biːn ˈɡəʊɪŋ əˈraʊnd/",
+    "text_native": "Je crois que j'ai attrapé le virus qui circule en ce moment.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Could this sudden rash on my forearm be an allergic reaction?",
+    "phonetic": "/kʊd ðɪs ˈsʌdn ræʃ ɒn maɪ ˈfɔːrɑːm biː ən əˈlɜːdʒɪk riˈækʃn/",
+    "text_native": "Est-ce que cette éruption soudaine sur mon avant-bras pourrait être une allergie ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I haven't been sleeping properly lately because of a nagging cough.",
+    "phonetic": "/aɪ ˈhævnt biːn ˈsliːpɪŋ ˈprɒpəli ˈleɪtli bɪˈkɒz əv ə ˈnæɡɪŋ kɒf/",
+    "text_native": "Je ne dors pas bien ces derniers temps à cause d'une toux persistante.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "You should probably stay home and rest for the next couple of days.",
+    "phonetic": "/juː ʃʊd ˈprɒbəbli steɪ həʊm ənd rest fɔːr ðə nekst ˈkʌpl əv deɪz/",
+    "text_native": "Vous devriez sans doute rester chez vous et vous reposer pendant deux ou trois jours.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "I'm going to write you a prescription for some anti-inflammatory pills.",
+    "phonetic": "/aɪm ˈɡəʊɪŋ tuː raɪt juː ə prɪˈskrɪpʃn fɔːr sʌm ˌæntiɪnˈflæmətəri pɪlz/",
+    "text_native": "Je vais vous faire une ordonnance pour des comprimés anti-inflammatoires.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Take one tablet three times a day with a full glass of water.",
+    "phonetic": "/teɪk wʌn ˈtæblət θriː taɪmz ə deɪ wɪð ə fʊl ɡlɑːs əv ˈwɔːtə/",
+    "text_native": "Prenez un comprimé trois fois par jour avec un grand verre d'eau.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "If your symptoms don't clear up by Friday, come back and see me.",
+    "phonetic": "/ɪf jɔː ˈsɪmptəmz dəʊnt klɪər ʌp baɪ ˈfraɪdeɪ kʌm bæk ənd siː miː/",
+    "text_native": "Si vos symptômes ne disparaissent pas d'ici vendredi, revenez me voir.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Here is a sick note to excuse your absence from work until Monday.",
+    "phonetic": "/hɪər ɪz ə sɪk nəʊt tuː ɪkˈskjuːz jɔːr ˈæbsns frɒm wɜːk ənˈtɪl ˈmʌndeɪ/",
+    "text_native": "Voici un arrêt de travail pour justifier votre absence jusqu'lundi.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  },
+  {
+    "text_target": "Drink plenty of warm fluids and make sure you avoid heavy meals.",
+    "phonetic": "/drɪŋk ˈplenti əv wɔːm ˈfluːɪdz ənd meɪk ʃʊə juː əˈvɔɪd ˈhevi miːlz/",
+    "text_native": "Buvez beaucoup de boissons chaudes et veillez à éviter les repas trop lourds.",
+    "language": "EN",
+    "category": "santé",
+    "level": "B1"
+  }
+]

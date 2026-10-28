@@ -1,0 +1,205 @@
+{
+  "title": "在药店买药",
+  "new_vocabulary": [
+    "在",
+    "买",
+    "头疼",
+    "感冒",
+    "发烧",
+    "咳嗽",
+    "需要",
+    "什么",
+    "感冒药",
+    "头疼药",
+    "咳嗽药",
+    "多少",
+    "块",
+    "给",
+    "谢",
+    "再见",
+    "好",
+    "今天",
+    "身体",
+    "不舒服",
+    "听",
+    "懂",
+    "明白",
+    "吃",
+    "一天",
+    "三次",
+    "粒",
+    "温水",
+    "休息",
+    "回家"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我身体不舒服。",
+      "phonetic": "Jīntiān wǒ shēntǐ bù shūfu.",
+      "text_native": "Aujourd'hui, je ne me sens pas bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有头疼和感冒。",
+      "phonetic": "Wǒ yǒu tóuténg hé gǎnmào.",
+      "text_native": "J'ai mal à la tête et j'ai un rhume."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我也发烧了。",
+      "phonetic": "Wǒ yě fāshāo le.",
+      "text_native": "J'ai aussi de la fièvre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我有一点咳嗽。",
+      "phonetic": "Wǒ yǒu yīdiǎn késòu.",
+      "text_native": "Je tousse un petit peu."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我需要去药店。",
+      "phonetic": "Wǒ xūyào qù yàodiàn.",
+      "text_native": "J'ai besoin d'aller à la pharmacie."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我走出家门。",
+      "phonetic": "Wǒ zǒu chū jiāmén.",
+      "text_native": "Je sors de chez moi."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "药店在前面。",
+      "phonetic": "Yàodiàn zài qiánmiàn.",
+      "text_native": "La pharmacie est juste devant."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我走进药店。",
+      "phonetic": "Wǒ zǒu jìn yàodiàn.",
+      "text_native": "J'entre dans la pharmacie."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "药剂师看着我。",
+      "phonetic": "Yàojìshī kànzhe wǒ.",
+      "text_native": "Le pharmacien me regarde."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "药剂师问我需要什么。",
+      "phonetic": "Yàojìshī wèn wǒ xūyào shénme.",
+      "text_native": "Le pharmacien me demande ce dont j'ai besoin."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我对药剂师说话。",
+      "phonetic": "Wǒ duì yàojìshī shuōhuà.",
+      "text_native": "Je parle au pharmacien."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我买感冒药。",
+      "phonetic": "Wǒ mǎi gǎnmàoyào.",
+      "text_native": "J'achète des médicaments pour le rhume."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我也买头疼药。",
+      "phonetic": "Wǒ yě mǎi tóuténgyào.",
+      "text_native": "J'achète aussi des médicaments pour les maux de tête."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我还买咳嗽药。",
+      "phonetic": "Wǒ hái mǎi késòuyào.",
+      "text_native": "J'achète également des médicaments pour la toux."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "药剂师拿药给我。",
+      "phonetic": "Yàojìshī ná yào gěi wǒ.",
+      "text_native": "Le pharmacien me donne les médicaments."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "药剂师告诉我怎么吃药。",
+      "phonetic": "Yàojìshī gàosù wǒ zěnme chī yào.",
+      "text_native": "Le pharmacien m'explique comment prendre les médicaments."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我听懂了。",
+      "phonetic": "Wǒ tīngdǒng le.",
+      "text_native": "J'ai compris."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "一天吃三次。",
+      "phonetic": "Yītiān chī sān cì.",
+      "text_native": "À prendre trois fois par jour."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "一次吃两粒。",
+      "phonetic": "Yī cì chī liǎng lì.",
+      "text_native": "Deux gélules à chaque fois."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "要用温水吃药。",
+      "phonetic": "Yào yòng wēnshuǐ chī yào.",
+      "text_native": "Il faut prendre les médicaments avec de l'eau tiède."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "药多少钱？",
+      "phonetic": "Yào duōshǎo qián?",
+      "text_native": "Combien coûtent les médicaments ?"
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "药剂师说五十块。",
+      "phonetic": "Yàojìshī shuō wǔshí kuài.",
+      "text_native": "Le pharmacien dit 50 yuans."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我给药剂师钱。",
+      "phonetic": "Wǒ gěi yàojìshī qián.",
+      "text_native": "Je donne l'argent au pharmacien."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我对药剂师说谢谢。",
+      "phonetic": "Wǒ duì yàojìshī shuō xièxie.",
+      "text_native": "Je dis merci au pharmacien."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "药剂师对我说再见。",
+      "phonetic": "Yàojìshī duì wǒ shuō zàijiàn.",
+      "text_native": "Le pharmacien me dit au revoir."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我拿着药回家。",
+      "phonetic": "Wǒ názhe yào huí jiā.",
+      "text_native": "Je rentre chez moi avec les médicaments."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我喝水吃药。",
+      "phonetic": "Wǒ hē shuǐ chī yào.",
+      "text_native": "Je bois de l'eau et je prends mes médicaments."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "然后我好好休息。",
+      "phonetic": "Ránhòu wǒ hǎohǎo xiūxí.",
+      "text_native": "Ensuite, je me repose bien."
+    }
+  ]
+}

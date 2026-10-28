@@ -1,0 +1,217 @@
+{
+  "title": "寻找咖啡馆",
+  "new_vocabulary": [
+    "咖啡馆",
+    "找",
+    "想",
+    "喝",
+    "咖啡",
+    "天气",
+    "热",
+    "累",
+    "旁边",
+    "商场",
+    "走路",
+    "分钟",
+    "十字路口",
+    "红绿灯",
+    "往",
+    "转",
+    "过",
+    "桥",
+    "看到",
+    "标志",
+    "白色",
+    "建筑",
+    "里面",
+    "服务员",
+    "点",
+    "杯",
+    "冷",
+    "坐",
+    "开心",
+    "晚"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天天气非常热。",
+      "phonetic": "jīntiān tiānqì fēicháng rè.",
+      "text_native": "Il fait très chaud aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我走得很累。",
+      "phonetic": "wǒ zǒu de hěn lèi.",
+      "text_native": "Je suis très fatigué d'avoir marché."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我想喝一杯咖啡。",
+      "phonetic": "wǒ xiǎng hē yì bēi kāfēi.",
+      "text_native": "Je veux boire une tasse de café."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "可是我不知道附近有没有咖啡馆。",
+      "phonetic": "kěshì wǒ bù zhīdào fùjìn yǒu méiyǒu kāfēiguǎn.",
+      "text_native": "Mais je ne sais pas s'il y a un café près d'ici."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我拿出手机看地图。",
+      "phonetic": "wǒ ná chū shǒujī kàn dìtú.",
+      "text_native": "Je sors mon téléphone pour regarder la carte."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "地图说附近有一家。",
+      "phonetic": "dìtú shuō fùjìn yǒu yì jiā.",
+      "text_native": "La carte indique qu'il y en a un tout près."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "但是我已经找了十分钟。",
+      "phonetic": "dànshì wǒ yǐjīng zhǎo le shí fēnzhōng.",
+      "text_native": "Mais je cherche déjà depuis dix minutes."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我还是没有看到它。",
+      "phonetic": "wǒ háishì méiyǒu kàndào tā.",
+      "text_native": "Je ne le vois toujours pas."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我决定问路边的一个人。",
+      "phonetic": "wǒ juédìng wèn lùbiān de yí gè rén.",
+      "text_native": "Je décide de demander à un passant au bord de la route."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "请问，附近有咖啡馆吗？",
+      "phonetic": "qǐngwèn, fùjìn yǒu kāfēiguǎn ma?",
+      "text_native": "Excusez-moi, y a-t-il un café près d'ici ?"
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "先生看着我微笑。",
+      "phonetic": "xiānshēng kànzhe wǒ wéixiào.",
+      "text_native": "Le monsieur me regarde en souriant."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他说咖啡馆离这里不远。",
+      "phonetic": "tā shuō kāfēiguǎn lí zhèlǐ bù yuǎn.",
+      "text_native": "Il dit que le café n'est pas loin d'ici."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "它在一个大商场旁边。",
+      "phonetic": "tā zài yí gè dà shāngchǎng pángbiān.",
+      "text_native": "Il est à côté d'un grand centre commercial."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "你一直走，不要拐弯。",
+      "phonetic": "nǐ yìzhí zǒu, bú yào guǎiwān.",
+      "text_native": "Vous allez tout droit sans tourner."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "你走到前面的十字路口。",
+      "phonetic": "nǐ zǒu dào qiánmiàn de shízì lùkǒu.",
+      "text_native": "Vous marchez jusqu'au carrefour devant vous."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "你在红绿灯那里往右拐。",
+      "phonetic": "nǐ zài hónglǜdēng nàlǐ wǎng yòu guǎi.",
+      "text_native": "Vous tournez à droite au feu tricolore."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "然后过一座小桥。",
+      "phonetic": "ránhòu guò yí zuò xiǎo qiáo.",
+      "text_native": "Ensuite, vous traversez un petit pont."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "咖啡馆就在左边。",
+      "phonetic": "kāfēiguǎn jiù zài zuǒbiān.",
+      "text_native": "Le café est juste sur la gauche."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "你会看到一个很大的白色标志。",
+      "phonetic": "nǐ huì kàndào yí gè hěn dà de báisè biāozhì.",
+      "text_native": "Vous verrez un très grand panneau blanc."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我认真听他说话。",
+      "phonetic": "wǒ rènzhēn tīng tā shuōhuà.",
+      "text_native": "J'écoute attentivement ce qu'il dit."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我对他说谢谢。",
+      "phonetic": "wǒ duì tā shuō xièxie.",
+      "text_native": "Je le remercie."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他客气地回答不用谢。",
+      "phonetic": "tā kèqi de huídá búyòng xiè.",
+      "text_native": "Il répond poliment « De rien »."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我按照他说的话走。",
+      "phonetic": "wǒ ànzhào tā shuō de huà zǒu.",
+      "text_native": "Je marche en suivant ses instructions."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "几分钟以后，我找到了那个地方。",
+      "phonetic": "jǐ fēnzhōng yǐhòu, wǒ zhǎodào le nà gè dìfang.",
+      "text_native": "Quelques minutes plus tard, j'ai trouvé l'endroit."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我走进咖啡馆里面。",
+      "phonetic": "wǒ zǒu jìn kāfēiguǎn lǐmiàn.",
+      "text_native": "Je rentre à l'intérieur du café."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "服务员给我一张菜单。",
+      "phonetic": "fúwùyuán gěi wǒ yì zhāng càidān.",
+      "text_native": "Le serveur me donne un menu."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我点了一杯冰咖啡。",
+      "phonetic": "wǒ diǎn le yì bēi bīng kāfēi.",
+      "text_native": "J'ai commandé un café glacé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我坐在窗户旁边休息。",
+      "phonetic": "wǒ zuò zài chuānghù pángbiān xiūxí.",
+      "text_native": "Je m'assieds près de la fenêtre pour me reposer."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我觉得非常开心。",
+      "phonetic": "wǒ juéde fēicháng kāixīn.",
+      "text_native": "Je me sens très heureux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "喝完咖啡以后，我准备回家。",
+      "phonetic": "hē wán kāfēi yǐhòu, wǒ zhǔnbèi huí jiā.",
+      "text_native": "Après avoir fini mon café, je me prépare à rentrer à la maison."
+    }
+  ]
+}

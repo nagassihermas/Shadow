@@ -1,0 +1,197 @@
+{
+  "title": "问路",
+  "new_vocabulary": [
+    "你好",
+    "谢谢",
+    "再见",
+    "人",
+    "家",
+    "门",
+    "车",
+    "路",
+    "书",
+    "水"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "你好。",
+      "phonetic": "Nǐ hǎo.",
+      "text_native": "Bonjour."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我是人。",
+      "phonetic": "Wǒ shì rén.",
+      "text_native": "Je suis une personne."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我在路上。",
+      "phonetic": "Wǒ zài lù shàng.",
+      "text_native": "Je suis sur la route."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "路很大。",
+      "phonetic": "Lù hěn dà.",
+      "text_native": "La route est grande."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我看路。",
+      "phonetic": "Wǒ kàn lù.",
+      "text_native": "Je regarde la route."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我有书。",
+      "phonetic": "Wǒ yǒu shū.",
+      "text_native": "J'ai un livre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "书很小。",
+      "phonetic": "Shū hěn xiǎo.",
+      "text_native": "Le livre est petit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我要水。",
+      "phonetic": "Wǒ yào shuǐ.",
+      "text_native": "Je veux de l'eau."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "水不多。",
+      "phonetic": "Shuǐ bù duō.",
+      "text_native": "Il n'y a pas beaucoup d'eau."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我看车。",
+      "phonetic": "Wǒ kàn chē.",
+      "text_native": "Je regarde la voiture."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "车很快。",
+      "phonetic": "Chē hěn kuài.",
+      "text_native": "La voiture est rapide."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "车去哪？",
+      "phonetic": "Chē qù nǎ?",
+      "text_native": "Où va la voiture ?"
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "车去家。",
+      "phonetic": "Chē qù jiā.",
+      "text_native": "La voiture va à la maison."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "家很大。",
+      "phonetic": "Jiā hěn dà.",
+      "text_native": "La maison est grande."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "家有门。",
+      "phonetic": "Jiā yǒu mén.",
+      "text_native": "La maison a une porte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "门很高。",
+      "phonetic": "Mén hěn gāo.",
+      "text_native": "La porte est haute."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我在门前。",
+      "phonetic": "Wǒ zài mén qián.",
+      "text_native": "Je suis devant la porte."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我走路。",
+      "phonetic": "Wǒ zǒu lù.",
+      "text_native": "Je marche."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "路很长。",
+      "phonetic": "Lù hěn cháng.",
+      "text_native": "La route est longue."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我看人。",
+      "phonetic": "Wǒ kàn rén.",
+      "text_native": "Je regarde les gens."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "人很多。",
+      "phonetic": "Rén hěn duō.",
+      "text_native": "Il y a beaucoup de monde."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我问路。",
+      "phonetic": "Wǒ wèn lù.",
+      "text_native": "Je demande mon chemin."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "人说话。",
+      "phonetic": "Rén shuō huà.",
+      "text_native": "La personne parle."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我听人。",
+      "phonetic": "Wǒ tīng rén.",
+      "text_native": "J'écoute la personne."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "路在这。",
+      "phonetic": "Lù zài zhè.",
+      "text_native": "Le chemin est ici."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "家在这。",
+      "phonetic": "Jiā zài zhè.",
+      "text_native": "La maison est ici."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我到了。",
+      "phonetic": "Wǒ dào le.",
+      "text_native": "Je suis arrivé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "谢谢你。",
+      "phonetic": "Xièxie nǐ.",
+      "text_native": "Merci à toi."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "再见吧。",
+      "phonetic": "Zài jiàn ba.",
+      "text_native": "Au revoir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "再见。",
+      "phonetic": "Zài jiàn.",
+      "text_native": "Au revoir."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "A Bad Cold",
+  "new_vocabulary": [
+    "schedule",
+    "appointment",
+    "receptionist",
+    "greet",
+    "explain",
+    "symptom",
+    "weak",
+    "yesterday",
+    "night",
+    "sleep",
+    "hard",
+    "start",
+    "nose",
+    "run",
+    "sneeze",
+    "often",
+    "body",
+    "ache",
+    "serious",
+    "virus",
+    "general",
+    "schedule",
+    "drink",
+    "water",
+    "hot",
+    "tea",
+    "soup",
+    "soon",
+    "better",
+    "office"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom woke up early because he felt very sick.",
+      "phonetic": "/tɒm woʊk ʌp ˈɜːrli bɪˈkʌz hi felt ˈvɛri sɪk/",
+      "text_native": "Tom s'est réveillé tôt parce qu'il se sentait très malade."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He had a bad headache and a high fever.",
+      "phonetic": "/hi hæd ə bæd ˈhɛdˌeɪk ænd ə haɪ ˈfiːvər/",
+      "text_native": "Il avait un affreux mal de tête et une forte fièvre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He decided to schedule an appointment with his doctor.",
+      "phonetic": "/hi dɪˈsaɪdɪd tuː ˈʃɛdjuːl ən əˈpɔɪntmənt wɪð hɪz ˈdɑːktər/",
+      "text_native": "Il a décidé de prendre rendez-vous avec son médecin."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He walked to the medical office in the morning.",
+      "phonetic": "/hi wɔːkt tuː ðə ˈmɛdɪkəl ˈɔːfɪs ɪn ðə ˈmɔːrnɪŋ/",
+      "text_native": "Il a marché jusqu'au cabinet médical dans la matinée."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He pushed the door and entered the warm room.",
+      "phonetic": "/hi pʊʃt ðə dɔːr ænd ˈɛntərd ðə wɔːrm ruːm/",
+      "text_native": "Il a poussé la porte et est entré dans la pièce chauffée."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The friendly receptionist greeted him with a smile.",
+      "phonetic": "/ðə ˈfrɛndli rɪˈsɛpʃənɪst ˈɡriːtɪd hɪm wɪð ə smaɪl/",
+      "text_native": "La réceptionniste sympathique l'a accueilli avec le sourire."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom sat on a comfortable chair to wait.",
+      "phonetic": "/tɒm sæt ɒn ə ˈkʌmfərtəbəl tʃɛr tuː weɪt/",
+      "text_native": "Tom s'est assis sur une chaise confortable pour attendre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "After a few minutes, the nurse called his name.",
+      "phonetic": "/ˈæftər ə fjuː ˈmɪnɪts, ðə nɜːrs kɔːld hɪz neɪm/",
+      "text_native": "Après quelques minutes, l'infirmière a prononcé son nom."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He followed her down the quiet hallway.",
+      "phonetic": "/hi ˈfɑːloʊd hɜːr daʊn ðə ˈkwaɪət ˈhɔːlweɪ/",
+      "text_native": "Il l'a suivie dans le couloir calme."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "She measured his weight and his height.",
+      "phonetic": "/ʃi ˈmɛʒərd hɪz weɪt ænd hɪz haɪt/",
+      "text_native": "Elle a mesuré son poids et sa taille."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Then, she checked his temperature carefully.",
+      "phonetic": "/ðɛn, ʃi tʃɛkt hɪz ˈtɛmprətʃər ˈkɛrfəli/",
+      "text_native": "Ensuite, elle a vérifié sa température avec attention."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The doctor opened the door and welcomed him.",
+      "phonetic": "/ðə ˈdɑːktər ˈoʊpənd ðə dɔːr ænd ˈwɛlkəmd hɪm/",
+      "text_native": "Le médecin a ouvert la porte et l'a accueilli."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Hello Tom, please sit down and tell me your problem.",
+      "phonetic": "/həˈloʊ tɒm, pliːz sɪt daʊn ænd tɛl miː jʊər ˈprɑːbləm/",
+      "text_native": "Bonjour Tom, veuillez vous asseoir et me dire ce qui ne va pas."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Tom looked tired and began to explain his symptoms.",
+      "phonetic": "/tɒm lʊkt ˈtaɪərd ænd bɪˈɡæn tuː ɪkˈspleɪn hɪz ˈsɪmptəmz/",
+      "text_native": "Tom avait l'air fatigué et a commencé à expliquer ses symptômes."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I felt very weak last night.",
+      "phonetic": "/aɪ felt ˈvɛri wiːk læst naɪt/",
+      "text_native": "Je me suis senti très faible la nuit dernière."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Sleeping was very hard because of my cough.",
+      "phonetic": "/ˈsliːpɪŋ wɒz ˈvɛri hɑːrd bɪˈkʌz ʌv maɪ kɔːf/",
+      "text_native": "Dormir a été très difficile à cause de ma toux."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "My nose started running and I sneezed often.",
+      "phonetic": "/maɪ noʊz ˈstɑːrtɪd ˈrʌnɪŋ ænd aɪ sniːzt ˈɔːfən/",
+      "text_native": "Mon nez a commencé à couler et j'ai souvent éternué."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "My whole body aches and my throat hurts too.",
+      "phonetic": "/maɪ hoʊl ˈbɑːdi eɪks ænd maɪ θroʊt hɜːrts tuː/",
+      "text_native": "J'ai des courbatures dans tout le corps et j'ai mal à la gorge aussi."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The doctor listened to his chest with a stethoscope.",
+      "phonetic": "/ðə ˈdɑːktər ˈlɪsənd tuː hɪz tʃɛst wɪð ə ˈstɛθəˌskoʊp/",
+      "text_native": "Le médecin a ausculté sa poitrine avec un stéthoscope."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Take a deep breath and relax.",
+      "phonetic": "/teɪk ə diːp brɛθ ænd rɪˈlæks/",
+      "text_native": "Prenez une grande inspiration et détendez-vous."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He checked his blood pressure very calmly.",
+      "phonetic": "/hi tʃɛkt hɪz blʌd ˈprɛʃər ˈvɛri ˈkɑːmli/",
+      "text_native": "Il a vérifié sa tension artérielle très calmement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "It is not a serious infection.",
+      "phonetic": "/ɪt ɪz nɒt ə ˈsɪriəs ɪnˈfɛkʃən/",
+      "text_native": "Ce n'est pas une infection grave."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "You just have a bad winter virus.",
+      "phonetic": "/juː dʒʌst hæv ə bæd ˈwɪntər ˈvaɪrəs/",
+      "text_native": "Vous avez simplement un mauvais virus hivernal."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The doctor wrote a prescription on a small piece of paper.",
+      "phonetic": "/ðə ˈdɑːktər roʊt ə prɪˈskrɪpʃən ɒn ə smɔːl piːs ʌv ˈpeɪpər/",
+      "text_native": "Le médecin a rédigé une ordonnance sur un petit morceau de papier."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "You need to take this medicine three times a day.",
+      "phonetic": "/juː niːd tuː teɪk ðɪs ˈmɛdɪsn θriː taɪmz ə deɪ/",
+      "text_native": "Vous devez prendre ce médicament trois fois par jour."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Drink a lot of water, hot tea, and warm soup.",
+      "phonetic": "/drɪŋk ə lɒt ʌv ˈwɔːtər, hɑːt tiː, ænd wɔːrm suːp/",
+      "text_native": "Buvez beaucoup d'eau, du thé chaud et de la soupe chaude."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Get plenty of rest for a few days.",
+      "phonetic": "/ɡɛt ˈplɛnti ʌv rɛst fɔːr ə fjuː deɪz/",
+      "text_native": "Reposez-vous bien pendant quelques jours."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom paid the consultation fee with his credit card.",
+      "phonetic": "/tɒm peɪd ðə ˌkɑːnsəlˈteɪʃən fiː wɪð hɪz ˈkrɛdɪt kɑːrd/",
+      "text_native": "Tom a payé les frais de consultation avec sa carte bancaire."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He walked to the local pharmacy to buy the medicine.",
+      "phonetic": "/hi wɔːkt tuː ðə ˈloʊkəl ˈfɑːrməsi tuː baɪ ðə ˈmɛdɪsn/",
+      "text_native": "Il a marché jusqu'à la pharmacie du coin pour acheter les médicaments."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He went back home, knowing he would recover soon.",
+      "phonetic": "/hi wɛnt bæk hoʊm, ˈnoʊɪŋ hi wʊd rɪˈkʌvər suːn/",
+      "text_native": "Il est rentré chez lui, sachant qu'il guérirait bientôt."
+    }
+  ]
+}

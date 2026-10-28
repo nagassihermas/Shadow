@@ -1,0 +1,192 @@
+{
+  "title": "A comfortable weekend at the hotel",
+  "new_vocabulary": [
+    "comfortable", "suite", "balcony", "view", "sea", "luggage", "porter",
+    "elevator", "corridor", "towel", "shower", "bathroom", "breakfast",
+    "buffet", "restaurant", "menu", "waiter", "coffee", "juice", "fresh",
+    "bread", "cheese", "butter", "pool", "water", "swim", "relax",
+    "sunbed", "staff", "helpful"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrived at the grand hotel after a long taxi ride.",
+      "phonetic": "/tɒm əˈraɪvd ət ðə ɡrænd həʊˈtɛl ˈɑːftər ə lɒŋ ˈtæksi raɪd/",
+      "text_native": "Tom est arrivé au grand hôtel après un long trajet en taxi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He walked inside and waited in a short queue.",
+      "phonetic": "/hi wɔːkt ɪnˈsaɪd ənd ˈweɪtɪd ɪn ə ʃɔːt kjuː/",
+      "text_native": "Il est entré et a attendu dans une courte file d'attente."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The receptionist smiled and greeted him politely.",
+      "phonetic": "/ðə rɪˈsɛpʃənɪst smaɪld ənd ˈɡriːtɪd hɪm pəˈlaɪtli/",
+      "text_native": "La réceptionniste a souri et l'a salué poliment."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom showed his passport and confirmed his online reservation.",
+      "phonetic": "/tɒm ʃəʊd ɪz ˈpɑːspɔːt ənd kənˈfɜːmd ɪz ˈɒnlaɪn ˌrɛzəˈveɪʃən/",
+      "text_native": "Tom a montré son passeport et a confirmé sa réservation en ligne."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He signed the form with a small plastic pen.",
+      "phonetic": "/hi saɪnd ðə fɔːm wɪð ə smɔːl ˈplæstɪk pɛn/",
+      "text_native": "Il a signé le formulaire avec un petit stylo en plastique."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Then he paid the bill using his credit card.",
+      "phonetic": "/ðɛn hi peɪd ðə bɪl ˈjuːzɪŋ ɪz ˈkrɛdɪt kɑːd/",
+      "text_native": "Ensuite, il a payé l'addition en utilisant sa carte de crédit."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The helpful staff member gave him a shiny key card.",
+      "phonetic": "/ðə ˈhɛlpfʊl stɑːf ˈmɛmbə ɡeɪv hɪm ə ˈʃaɪni kiː kɑːd/",
+      "text_native": "Le membre du personnel serviable lui a remis une carte-clé brillante."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom took his heavy luggage and walked to the lift.",
+      "phonetic": "/tɒm tʊk ɪz ˈhɛvi ˈlʌɡɪdʒ ənd wɔːkt tuː ðə lɪft/",
+      "text_native": "Tom a pris ses lourds bagages et s'est dirigé vers l'ascenseur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "A friendly porter offered to carry his bags.",
+      "phonetic": "/ə ˈfrɛndli ˈpɔːtər ˈɒfəd tuː ˈkæri ɪz bæɡz/",
+      "text_native": "Un porteur sympathique a proposé de porter ses sacs."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "They rode the elevator up to the fourth floor.",
+      "phonetic": "/ðeɪ rəʊd ðə ˈɛlɪvətər ʌp tuː ðə fɔːθ flɔː/",
+      "text_native": "Ils ont pris l'ascenseur jusqu'au quatrième étage."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "They walked down a quiet corridor to room number forty-two.",
+      "phonetic": "/ðeɪ wɔːkt daʊn ə ˈkwaɪət ˈkɒrɪdɔː tuː ruːm ˈnʌmbə ˈfɔːti-tuː/",
+      "text_native": "Ils ont arpenté un couloir calme jusqu'à la chambre numéro quarante-deux."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Tom opened the door and stepped inside a comfortable suite.",
+      "phonetic": "/tɒm ˈəʊpənd ðə dɔːr ənd stɛpt ɪnˈsaɪd ə ˈkʌmfətəbl swiːt/",
+      "text_native": "Tom a ouvert la porte et est entré dans une suite confortable."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The room had a large bed and a nice balcony.",
+      "phonetic": "/ðə ruːm hæd ə lɑːdʒ bɛd ənd ə naɪs ˈbælkəni/",
+      "text_native": "La chambre disposait d'un grand lit et d'un joli balcon."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He opened the glass door and looked at the blue sea view.",
+      "phonetic": "/hi ˈəʊpənd ðə ɡlɑːs dɔːr ənd lʊkt ət ðə bluː siː vjuː/",
+      "text_native": "Il a ouvert la porte vitrée et a contemplé la vue sur la mer bleue."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "After the journey, he felt very tired.",
+      "phonetic": "/ˈɑːftər ðə ˈdʒɜːni, hi fɛlt ˈvɛri ˈtaɪəd/",
+      "text_native": "Après le voyage, il se sentait très fatigué."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He took a hot shower in the modern bathroom.",
+      "phonetic": "/hi tʊk ə hɒt ˈʃaʊər ɪn ðə ˈmɒdən ˈbɑːθruːm/",
+      "text_native": "Il a pris une douche chaude dans la salle de bains moderne."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Clean white towels were waiting on the shelf.",
+      "phonetic": "/kliːn waɪt ˈtaʊəlz wɜː ˈweɪtɪŋ ɒn ðə ʃɛlf/",
+      "text_native": "Des serviettes blanches et propres l'attendaient sur l'étagère."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He slept deeply for several hours on the soft mattress.",
+      "phonetic": "/hi slɛpt ˈdiːpli fɔː ˈsɛvrəl ˈaʊəz ɒn ðə sɒft ˈmætrɪs/",
+      "text_native": "Il a dormi profondément pendant plusieurs heures sur le matelas moelleux."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The next morning, the bright sun woke him up early.",
+      "phonetic": "/ðə nɛkst ˈmɔːnɪŋ, ðə braɪt sʌn wəʊk hɪm ʌp ˈɜːli/",
+      "text_native": "Le lendemain matin, le soleil éclatant l'a réveillé tôt."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He wanted to enjoy a good breakfast downstairs.",
+      "phonetic": "/hi ˈwɒntɪd tuː ɪnˈdʒɔɪ ə ɡʊd ˈbrɛkfəst ˌdaʊnˈstɛəz/",
+      "text_native": "Il voulait profiter d'un bon petit-déjeuner au rez-de-chaussée."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The hotel restaurant offered a large morning buffet.",
+      "phonetic": "/ðə həʊˈtɛl ˈrɛstrɒnt ˈɒfəd ə lɑːdʒ ˈmɔːnɪŋ ˈbʊfeɪ/",
+      "text_native": "Le restaurant de l'hôtel proposait un grand buffet pour le petit-déjeuner."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "A polite waiter handed him the daily food menu.",
+      "phonetic": "/ə pəˈlaɪt ˈweɪtə ˈhændɪd hɪm ðə ˈdeɪli fuːd ˈmɛnjuː/",
+      "text_native": "Un serveur poli lui a tendu la carte du jour."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom ordered hot coffee and a glass of fresh orange juice.",
+      "phonetic": "/tɒm ˈɔːdɪd hɒt ˈkɒfi ənd ə ɡlɑːs əv frɛʃ ˈɒrɪndʒ dʒuːs/",
+      "text_native": "Tom a commandé du café chaud et un verre de jus d'orange frais."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He ate crispy bread with butter and tasty cheese.",
+      "phonetic": "/hi eɪt ˈkrɪspi brɛd wɪð ˈbʌtər ənd ˈteɪsti tʃiːz/",
+      "text_native": "Il a mangé du pain croustillant avec du beurre et du fromage savoureux."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "After eating, he walked outside into the warm garden.",
+      "phonetic": "/ˈɑːftər ˈiːtɪŋ, hi wɔːkt ˈaʊtsaɪd ˈɪntuː ðə wɔːm ˈɡɑːdn/",
+      "text_native": "Après avoir mangé, il est sorti dans le jardin baigné de chaleur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "There was a big outdoor pool with clear blue water.",
+      "phonetic": "/ðɛə wʌz ə bɪɡ ˈaʊtdɔː puːl wɪð klɪə bluː ˈwɔːtə/",
+      "text_native": "Il y avait une grande piscine extérieure avec de l'eau bleue limpide."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Many guests were swimming and having fun.",
+      "phonetic": "/ˈmɛni ɡɛsts wɜː ˈswɪmɪŋ ənd ˈhævɪŋ fʌn/",
+      "text_native": "De nombreux clients nageaient et s'amusaient."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom decided to relax on a comfortable sunbed.",
+      "phonetic": "/tɒm dɪˈsaɪdɪd tuː rɪˈlæks ɒn ə ˈkʌmfətəbl ˈsʌnbɛd/",
+      "text_native": "Tom a décidé de se détendre sur un transat confortable."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He read his favourite book for the entire afternoon.",
+      "phonetic": "/hi rɛd ɪz ˈfeɪvərɪt bʊk fɔː ðə ɪnˈtaɪər ˈɑːftənuːn/",
+      "text_native": "Il a lu son livre préféré pendant tout l'après-midi."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "This weekend stay was truly relaxing and pleasant.",
+      "phonetic": "/ðɪs ˈwiːkɛnd steɪ wʌz ˈtruːli rɪˈlæksɪŋ ənd ˈplɛzənt/",
+      "text_native": "Ce séjour de week-end a été vraiment relaxant et agréable."
+    }
+  ]
+}

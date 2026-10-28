@@ -1,0 +1,186 @@
+{
+  "title": "A Busy Morning",
+  "new_vocabulary": ["hotel", "hospital", "museum", "park", "tourist", "police", "officer", "near", "far", "next", "behind", "building", "door", "walk", "stop", "ask", "help", "find", "lost", "city", "town", "bus", "time", "day", "good", "morning", "please", "here", "there", "you"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Good morning.",
+      "phonetic": "ɡʊd ˈmɔːrnɪŋ.",
+      "text_native": "Bonjour."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I am a tourist in this city.",
+      "phonetic": "aɪ æm ə ˈtʊrɪst ɪn ðɪs ˈsɪti.",
+      "text_native": "Je suis un touriste dans cette ville."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My hotel is very far.",
+      "phonetic": "maɪ hoʊˈtɛl ɪz ˈvɛri fɑːr.",
+      "text_native": "Mon hôtel est très loin."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I am lost in the street.",
+      "phonetic": "aɪ æm lɔst ɪn ðə striːt.",
+      "text_native": "Je suis perdu dans la rue."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Excuse me, where is the station?",
+      "phonetic": "ɪkˈskjuːz mi, wɛr ɪz ðə ˈsteɪʃən?",
+      "text_native": "Excusez-moi, où est la gare ?"
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I look at my map.",
+      "phonetic": "aɪ lʊk æt maɪ mæp.",
+      "text_native": "Je regarde ma carte."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "A police officer is near.",
+      "phonetic": "ə pəˈliːs ˈɔfɪsər ɪz nɪr.",
+      "text_native": "Un agent de police est près d'ici."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I walk to him.",
+      "phonetic": "aɪ wɔk tu hɪm.",
+      "text_native": "Je marche vers lui."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Please help me.",
+      "phonetic": "pliːz hɛlp mi.",
+      "text_native": "S'il vous plaît, aidez-moi."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The officer is very kind.",
+      "phonetic": "ði ˈɔfɪsər ɪz ˈvɛri kaɪnd.",
+      "text_native": "L'agent est très aimable."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He listens to me.",
+      "phonetic": "hi ˈlɪsənz tu mi.",
+      "text_native": "Il m'écoute."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The museum is next to the hospital.",
+      "phonetic": "ðə mjuˈziəm ɪz nɛkst tu ðə ˈhɑspɪtəl.",
+      "text_native": "Le musée est à côté de l'hôpital."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "You walk straight.",
+      "phonetic": "ju wɔk streɪt.",
+      "text_native": "Vous marchez tout droit."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Then you turn left.",
+      "phonetic": "ðɛn ju tɜrn lɛft.",
+      "text_native": "Ensuite, vous tournez à gauche."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "A big building is there.",
+      "phonetic": "ə bɪɡ ˈbɪldɪŋ ɪz ðɛr.",
+      "text_native": "Un grand bâtiment se trouve là."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The park is behind it.",
+      "phonetic": "ðə pɑrk ɪz bɪˈhaɪnd ɪt.",
+      "text_native": "Le parc est derrière."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "You turn right at the corner.",
+      "phonetic": "ju tɜrn raɪt æt ðə ˈkɔrnər.",
+      "text_native": "Vous tournez à droite au coin."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The bus station is near.",
+      "phonetic": "ðə bʌs ˈsteɪʃən ɪz nɪr.",
+      "text_native": "La gare routière est proche."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I stop and listen.",
+      "phonetic": "aɪ stɑp ænd ˈlɪsən.",
+      "text_native": "Je m'arrête et j'écoute."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I understand the way.",
+      "phonetic": "aɪ ˌʌndərˈstænd ðə weɪ.",
+      "text_native": "Je comprends le chemin."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Thank you very much.",
+      "phonetic": "θæŋk ju ˈvɛri mʌtʃ.",
+      "text_native": "Merci beaucoup."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Have a good day.",
+      "phonetic": "hæv ə ɡʊd deɪ.",
+      "text_native": "Passez une bonne journée."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I walk again.",
+      "phonetic": "aɪ wɔk əˈɡɛn.",
+      "text_native": "Je me remets en marche."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I see a green door.",
+      "phonetic": "aɪ si ə ɡriːn dɔr.",
+      "text_native": "Je vois une porte verte."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The town is very nice.",
+      "phonetic": "ðə taʊn ɪz ˈvɛri naɪs.",
+      "text_native": "La ville est très agréable."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "My hotel is here.",
+      "phonetic": "maɪ hoʊˈtɛl ɪz hɪr.",
+      "text_native": "Mon hôtel est ici."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I find the correct place.",
+      "phonetic": "aɪ faɪnd ðə kəˈrɛkt pleɪs.",
+      "text_native": "Je trouve le bon endroit."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Time to go inside.",
+      "phonetic": "taɪm tu ɡoʊ ɪnˈsaɪd.",
+      "text_native": "Il est temps d'entrer."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Asking for help is easy.",
+      "phonetic": "ˈæskɪŋ fɔr hɛlp ɪz ˈiːzi.",
+      "text_native": "Demander de l'aide est facile."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I am very happy now.",
+      "phonetic": "aɪ æm ˈvɛri ˈhæpi naʊ.",
+      "text_native": "Je suis très heureux maintenant."
+    }
+  ]
+}

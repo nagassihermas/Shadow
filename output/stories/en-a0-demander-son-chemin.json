@@ -1,0 +1,198 @@
+{
+  "title": "Where is the station?",
+  "new_vocabulary": [
+    "excuse me",
+    "station",
+    "where",
+    "lost",
+    "map",
+    "street",
+    "turn",
+    "left",
+    "right",
+    "straight",
+    "thank you"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Hello.",
+      "phonetic": "/həˈloʊ/",
+      "text_native": "Bonjour."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Excuse me.",
+      "phonetic": "/ɪkˈskjuːz miː/",
+      "text_native": "Excusez-moi."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I am lost.",
+      "phonetic": "/aɪ æm lɔːst/",
+      "text_native": "Je suis perdu."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I need the station.",
+      "phonetic": "/aɪ niːd ðə ˈsteɪʃən/",
+      "text_native": "J'ai besoin d'aller à la gare."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Where is the station?",
+      "phonetic": "/wɛər ɪz ðə ˈsteɪʃən/",
+      "text_native": "Où est la gare ?"
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A man looks at me.",
+      "phonetic": "/ə mæn lʊks æt miː/",
+      "text_native": "Un homme me regarde."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He smiles.",
+      "phonetic": "/hiː smaɪlz/",
+      "text_native": "Il sourit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He speaks English.",
+      "phonetic": "/hiː spiːks ˈɪŋglɪʃ/",
+      "text_native": "Il parle anglais."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He says hello.",
+      "phonetic": "/hiː sɛz həˈloʊ/",
+      "text_native": "Il dit bonjour."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I have a map.",
+      "phonetic": "/aɪ hæv ə mæp/",
+      "text_native": "J'ai un plan."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I show the map.",
+      "phonetic": "/aɪ ʃoʊ ðə mæp/",
+      "text_native": "Je montre le plan."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The man looks.",
+      "phonetic": "/ðə mæn lʊks/",
+      "text_native": "L'homme regarde."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He points.",
+      "phonetic": "/hiː pɔɪnts/",
+      "text_native": "Il désigne du doigt."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He speaks.",
+      "phonetic": "/hiː spiːks/",
+      "text_native": "Il parle."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Go straight.",
+      "phonetic": "/goʊ streɪt/",
+      "text_native": "Allez tout droit."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "This is the street.",
+      "phonetic": "/ðɪs ɪz ðə striːt/",
+      "text_native": "C'est cette rue."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Walk one block.",
+      "phonetic": "/wɔːk wʌn blɒk/",
+      "text_native": "Marchez pendant un pâté de maisons."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Then stop.",
+      "phonetic": "/ðɛn stɒp/",
+      "text_native": "Ensuite, arrêtez-vous."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Turn left.",
+      "phonetic": "/tɜːrn lɛft/",
+      "text_native": "Tournez à gauche."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "There is a bank.",
+      "phonetic": "/ðɛər ɪz ə bæŋk/",
+      "text_native": "Il y a une banque."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Turn right.",
+      "phonetic": "/tɜːrn raɪt/",
+      "text_native": "Tournez à droite."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The station is near.",
+      "phonetic": "/ðə ˈsteɪʃən ɪz nɪər/",
+      "text_native": "La gare est tout près."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I listen.",
+      "phonetic": "/aɪ ˈlɪsən/",
+      "text_native": "J'écoute."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I understand.",
+      "phonetic": "/aɪ ˌʌndərˈstænd/",
+      "text_native": "Je comprends."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk juː/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He says goodbye.",
+      "phonetic": "/hiː sɛz gʊdˈbaɪ/",
+      "text_native": "Il dit au revoir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I walk straight.",
+      "phonetic": "/aɪ wɔːk streɪt/",
+      "text_native": "Je marche tout droit."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I turn left.",
+      "phonetic": "/aɪ tɜːrn lɛft/",
+      "text_native": "Je tourne à gauche."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I see the station.",
+      "phonetic": "/aɪ siː ðə ˈsteɪʃən/",
+      "text_native": "Je vois la gare."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I am happy.",
+      "phonetic": "/aɪ æm ˈhæpi/",
+      "text_native": "Je suis content."
+    }
+  ]
+}

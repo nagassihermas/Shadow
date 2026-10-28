@@ -1,0 +1,192 @@
+{
+  "title": "我的电脑",
+  "new_vocabulary": [
+    "电脑",
+    "数据",
+    "文件",
+    "工作",
+    "看"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是电脑。",
+      "phonetic": "Zhè shì diànnǎo.",
+      "text_native": "C'est un ordinateur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "电脑很大。",
+      "phonetic": "Diànnǎo hěn dà.",
+      "text_native": "L'ordinateur est grand."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我有电脑。",
+      "phonetic": "Wǒ yǒu diànnǎo.",
+      "text_native": "J'ai un ordinateur."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "电脑开机。",
+      "phonetic": "Diànnǎo kāi jī.",
+      "text_native": "L'ordinateur s'allume."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "屏幕很亮。",
+      "phonetic": "Píngmù hěn liàng.",
+      "text_native": "L'écran est lumineux."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "这是鼠标。",
+      "phonetic": "Zhè shì shǔbiāo.",
+      "text_native": "C'est une souris."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "鼠标很小。",
+      "phonetic": "Shǔbiāo hěn xiǎo.",
+      "text_native": "La souris est petite."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我用鼠标。",
+      "phonetic": "Wǒ yòng shǔbiāo.",
+      "text_native": "J'utilise la souris."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "这是键盘。",
+      "phonetic": "Zhè shì jiànpán.",
+      "text_native": "C'est un clavier."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "键盘很好。",
+      "phonetic": "Jiànpán hěn hǎo.",
+      "text_native": "Le clavier est bien."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我用键盘。",
+      "phonetic": "Wǒ yòng jiànpán.",
+      "text_native": "J'utilise le clavier."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我看屏幕。",
+      "phonetic": "Wǒ kàn píngmù.",
+      "text_native": "Je regarde l'écran."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "这里有数据。",
+      "phonetic": "Zhè lǐ yǒu shùjù.",
+      "text_native": "Il y a des données ici."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "数据很多。",
+      "phonetic": "Shùjù hěn duō.",
+      "text_native": "Il y a beaucoup de données."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我看数据。",
+      "phonetic": "Wǒ kàn shùjù.",
+      "text_native": "Je regarde les données."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这是文件。",
+      "phonetic": "Zhè shì wénjiàn.",
+      "text_native": "C'est un fichier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "文件很大。",
+      "phonetic": "Wénjiàn hěn dà.",
+      "text_native": "Le fichier est grand."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我开文件。",
+      "phonetic": "Wǒ kāi wénjiàn.",
+      "text_native": "J'ouvre le fichier."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "里面有字。",
+      "phonetic": "Lǐmiàn yǒu zì.",
+      "text_native": "Il y a du texte dedans."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "字是黑色。",
+      "phonetic": "Zì shì hēisè.",
+      "text_native": "Le texte est noir."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我写文字。",
+      "phonetic": "Wǒ xiě wénzì.",
+      "text_native": "J'écris du texte."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "电脑保存。",
+      "phonetic": "Diànnǎo bǎocún.",
+      "text_native": "L'ordinateur sauvegarde."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我有工作。",
+      "phonetic": "Wǒ yǒu gōngzuò.",
+      "text_native": "J'ai du travail."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "工作很忙。",
+      "phonetic": "Gōngzuò hěn máng.",
+      "text_native": "Le travail est chargé."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我做工作。",
+      "phonetic": "Wǒ zuò gōngzuò.",
+      "text_native": "Je fais le travail."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "数据安全。",
+      "phonetic": "Shùjù ānquán.",
+      "text_native": "Les données sont en sécurité."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "电脑很好。",
+      "phonetic": "Diànnǎo hěn hǎo.",
+      "text_native": "L'ordinateur est bien."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我关电脑。",
+      "phonetic": "Wǒ guān diànnǎo.",
+      "text_native": "J'éteins l'ordinateur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "电脑关机。",
+      "phonetic": "Diànnǎo guān jī.",
+      "text_native": "L'ordinateur s'éteint."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "工作结束。",
+      "phonetic": "Gōngzuò jiéshù.",
+      "text_native": "Le travail est terminé."
+    }
+  ]
+}

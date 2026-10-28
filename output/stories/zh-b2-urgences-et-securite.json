@@ -1,0 +1,191 @@
+{
+  "title": "社区应急演练与突发状况",
+  "new_vocabulary": [
+    "社区", "居民", "听到", "警报声", "发现", "浓烟", "窗户", "判断", "严重", "拨打",
+    "号码", "接线员", "提供", "准确", "地址", "保持", "镇定", "离开", "大楼", "通知",
+    "邻居", "老年人", "协助", "搀扶", "帮助", "到达", "现场", "迅速", "控制", "居民们",
+    "演练", "方案", "制定", "物业", "负责", "组织", "疏散", "路线", "演习", "状况"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "为了提高社区居民的应急意识，物业管理处决定在本周五举办一次消防疏散演练。",
+      "phonetic": "wèile tígāo shèqū jūmín de yìngjí yìshí, wùyè guǎnlǐchù juédìng zài běn zhōuwǔ jǔbàn yīcì xiāofáng shūsàn yǎnliàn.",
+      "text_native": "Afin d'améliorer la conscience d'urgence des résidents de la communauté, la société de gestion immobilière a décidé d'organiser un exercice d'évacuation incendie ce vendredi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "管理人员提前几天制定了详细的方案，并且张贴了通知。",
+      "phonetic": "guǎnlǐ rényuán tíqián jǐ tiān zhìdìng le xiángxì de fāngàn, bìngqiě zhāngtiē le tōngzhī.",
+      "text_native": "Le personnel de gestion a élaboré un plan détaillé plusieurs jours à l'avance et a affiché des avis."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "演练的主要目的是让大家熟悉逃生路线，以便在真实的危险发生时能够冷静应对。",
+      "phonetic": "yǎnliàn de zhǔyào mùdì shì ràng dàjiā shúxī táoshēng lùxiàn, yǐbiàn zài zhēnshí de wēixiǎn fāshēng shí nénggòu lěngjìng yìngduì.",
+      "text_native": "L'objectif principal de l'exercice est de familiariser tout le monde avec les itinéraires d'évacuation, afin de pouvoir réagir calmement en cas de réel danger."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "早上九点整，刺耳的警报声突然在小区上空响起。",
+      "phonetic": "zǎoshang jiǔ diǎn zhěng, cì'ěr de jǐngbàoshēng tūrán zài xiǎoqū shàngkōng xiǎngqǐ.",
+      "text_native": "À neuf heures pile du matin, une sirène stridente a soudainement retenti au-dessus de la zone résidentielle."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "听到声音后，在家休息的李先生立刻警觉起来。",
+      "phonetic": "tīngdào shēngyīn hòu, zài jiā xiūxī de lǐ xiānshēng lìkè jǐngjué qǐlái.",
+      "text_native": "En entendant le son, M. Li, qui se reposait chez lui, est immédiatement devenu vigilant."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他走到窗户边向外观察，发现三号楼的方向冒出了滚滚浓烟。",
+      "phonetic": "tā zǒu dào chuānghù biān xiàng wài guānchá, fāxiàn sān hào lóu de fāngxiàng mào chū le gǔngǔn nóngyān.",
+      "text_native": "Il s'est approché de la fenêtre pour observer l'extérieur et a découvert qu'une épaisse fumée s'échappait de la direction du bâtiment numéro trois."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "虽然这只是一次演习，但他还是严格按照平时的培训要求执行。",
+      "phonetic": "suīrán zhè zhǐ shì yīcì yǎnxí, dàn tā háishì yángé ànzhào píngshí de péixùn yāoqiú zhíxíng.",
+      "text_native": "Bien qu'il ne s'agisse que d'un exercice, il a néanmoins appliqué strictement les exigences de formation habituelles."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "他迅速拿起一块湿毛巾捂住口鼻，准备按照规定路线离开房间。",
+      "phonetic": "tā xùnsù ná qǐ yīkuài shī máojīn wǔ zhù kǒubí, zhǔnbèi ànzhào guīdìng lùxiàn líkāi fángjiān.",
+      "text_native": "Il a rapidement pris une serviette humide pour se couvrir la bouche et le nez, prêt à quitter la pièce selon l'itinéraire prescrit."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "在走廊里，他遇到了几位同样在疏散的邻居。",
+      "phonetic": "zài zǒuláng lǐ, tā yùdào le jǐ wèi tóngyàng zài shūsàn de línjū.",
+      "text_native": "Dans le couloir, il a rencontré plusieurs voisins qui étaient également en train d'évacuer."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "大家没有慌乱，而是互相提醒，井然有序地朝安全出口走去。",
+      "phonetic": "dàjiā méiyǒu huāngluàn, érshì hùxiāng tíxǐng, jǐngrán yǒuxù de cháo ānquán chūkǒu zǒu qù.",
+      "text_native": "Tout le monde n'a pas paniqué, mais s'est rappelé mutuellement et s'est dirigé de manière ordonnée vers la sortie de secours."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "考虑到楼里住着不少老年人，李先生主动敲开了一位独居老人的房门。",
+      "phonetic": "kǎolǜ dào lóu lǐ zhù zhe bùshǎo lǎoniánrén, lǐ xiānshēng zhǔdòng qiāo kāi le yīwèi dújū lǎorén de fángmén.",
+      "text_native": "Considérant qu'il y avait pas mal de personnes âgées vivant dans le bâtiment, M. Li a pris l'initiative de frapper à la porte d'une personne âgée vivant seule."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "张奶奶年纪大了，行动不太方便，显得有些不知所措。",
+      "phonetic": "zhāng nǎinai niánjì dà le, xíngdòng bù tài fāngbiàn, xiǎn de yǒuxiē bùzhīsuǒcuò.",
+      "text_native": "Grand-mère Zhang est âgée, ses mouvements ne sont pas très commodes, et elle semblait un peu désemparée."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "李先生见状立刻走上前去，温和地安慰她不要害怕。",
+      "phonetic": "lǐ xiānshēng jiànzhuàng lìkè zǒu shàng qián qù, wēnhé de ānwèi tā bùyào hàipà.",
+      "text_native": "Voyant cela, M. Li s'est immédiatement avancé et l'a consolée doucement pour qu'elle n'ait pas peur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他一边协助奶奶穿好外套，一边小心翼翼地搀扶着她下楼。",
+      "phonetic": "tā yībiān xiézhù nǎinai chuān hǎo wàitào, yībiān xiǎoxīnyìyì de chānfú zhe tā xià lóu.",
+      "text_native": "Tout en aidant grand-mère à enfiler son manteau, il l'a soutenue avec précaution pour descendre."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "一路上，社区的志愿者也在各个路口引导大家。",
+      "phonetic": "yī lù shàng, shèqū de zhìyuànzhě yě zài gègè lùkǒu yǐndǎo dàjiā.",
+      "text_native": "Tout au long du chemin, les bénévoles de la communauté guidaient également tout le monde à chaque intersection."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "短短几分钟内，大楼里的所有居民都安全到达了小区的空旷广场。",
+      "phonetic": "duǎnduǎn jǐ fēnzhōng nèi, dàlóu lǐ de suǒyǒu jūmín dōu ānquán dàodá le xiǎoqū de kōngkuàng guǎngchǎng.",
+      "text_native": "En l'espace de quelques minutes seulement, tous les habitants du bâtiment sont arrivés sains et saufs sur la place dégagée de la communauté."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "负责组织这次演练的社区经理站在人群前面，开始清点人数。",
+      "phonetic": "fùzé zǔzhī zhè cì yǎnliàn de shèqū jīnglǐ zhàn zài rénqún qiánmiàn, kāishǐ qīngdiǎn rénshù.",
+      "text_native": "Le responsable communautaire chargé d'organiser cet exercice se tenait devant la foule et a commencé à compter les têtes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "确认所有人都已经撤离之后，他露出了满意的微笑。",
+      "phonetic": "quèrèn suǒyǒu rén dōu yǐjīng chèlí zhīhòu, tā lù chū le mǎnyì de wēixiào.",
+      "text_native": "Après avoir confirmé que tout le monde avait évacué, il a affiché un sourire satisfait."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "然而，就在演练快要结束时，真实的紧急状况却突然发生了。",
+      "phonetic": "rán'ér, jiù zài yǎnliàn kuài yào jiéshù shí, zhēnshí de jǐnjí zhuàngkuàng què tūrán fāshēng le.",
+      "text_native": "Cependant, juste au moment où l'exercice allait se terminer, une véritable situation d'urgence s'est soudainement produite."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "一位居民跑过来大喊，说小区西侧的一家餐厅真的起火了。",
+      "phonetic": "yīwèi jūmín pǎo guòlái dà hǎn, shuō xiǎoqū xīcè de yījiā cāntīng zhēn de qǐhuǒ le.",
+      "text_native": "Un résident a couru en criant fort, disant qu'un restaurant du côté ouest de la communauté avait réellement pris feu."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "听到这个消息，现场的气氛顿时变得紧张起来。",
+      "phonetic": "tīngdào zhège xiāoxī, xiǎngchǎng de qìfēn dùnshí biàn dé jǐnzhāng qǐlái.",
+      "text_native": "En entendant cette nouvelle, l'atmosphère sur les lieux est soudainement devenue tendue."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "物业经理立刻拿出手机，果断拨打了一一九火警电话。",
+      "phonetic": "wùyè jīnglǐ lìkè ná chū shǒujī, guǒduàn bōdǎ le yīyījiǔ huǒjǐng diànhuà.",
+      "text_native": "Le gestionnaire immobilier a immédiatement sorti son téléphone et a composé avec décision le numéro d'urgence incendie 119."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "接线员的声音很沉着，要求他准确提供着火的具体地址。",
+      "phonetic": "jiēxiàn yuán de shēngyīn hěn chénzhuó, yāoqiú tā zhǔnquè tígōng zhǒuhuǒ de jùtǐ dìzhǐ.",
+      "text_native": "La voix de l'opérateur était très calme, lui demandant de fournir précisément l'adresse spécifique de l'incendie."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "经理一边观察周围环境，一边清晰地回答了对方的问题。",
+      "phonetic": "jīnglǐ yībiān guānchá zhōuwéi huánjìng, yībiān qīngxī de huídá le duìfāng de wèntí.",
+      "text_native": "Tout en observant l'environnement environnant, le manager a répondu clairement aux questions de l'autre partie."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "在等待消防车到来的同时，几名有经验的员工拿起了灭火器。",
+      "phonetic": "zài děngdài xiāofángchē dàolái de tóngshí, jǐ míng yǒu jīngyàn de yuángōng ná qǐ le mièhuǒqì.",
+      "text_native": "En attendant l'arrivée des camions de pompiers, plusieurs employés expérimentés ont pris des extincteurs."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "他们根据平时学到的安全知识，小心翼翼地控制着火势蔓延。",
+      "phonetic": "tāmen gēnjù píngshí xué dào de ānquán zhīshì, xiǎoxīnyìyì de kòngzhì zhe huǒshì mànyán.",
+      "text_native": "S'appuyant sur les connaissances de sécurité acquises habituellement, ils ont contrôlé avec précaution la propagation du feu."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "几分钟后，几辆红色的消防车呼啸着驶入了现场。",
+      "phonetic": "jǐ fēnzhōng hòu, jǐ liàng hóngsè de xiāofángchē hūxiào zhe shǐ rù le xiǎngchǎng.",
+      "text_native": "Quelques minutes plus tard, plusieurs camions de pompiers rouges sont arrivés en trombe sur les lieux en klaxonnant."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "消防员迅速展开水带，不到十分钟就彻底扑灭了大火。",
+      "phonetic": "xiāofángyuán xùnsù zhǎnkāi shuǐdài, bù dào shífēnzhōng jiù chèdǐ pūmiè le dàhuǒ.",
+      "text_native": "Les pompiers ont rapidement déployé les lances à incendie et ont complètement éteint le grand feu en moins de dix minutes."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "幸运的是，由于发现及时且处理得当，这次事故没有造成人员受伤。",
+      "phonetic": "xìngyùn de shì, yóuyú fāxiàn jíshí qiě chǔlǐ dédàng, zhè cì shìgù méiyǒu zàochéng rényuán shòushāng.",
+      "text_native": "Heureusement, grâce à une découverte opportune et à une gestion appropriée, cet accident n'a causé aucune blessure de personnel."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "大家通过这次实际经历深刻体会到了安全防范的重要性。",
+      "phonetic": "dàjiā tōngguò zhè cì shíjì jīnglì shēnkè tǐhuì dào le ānquán fángfàn de zhòngyào xìng.",
+      "text_native": "Grâce à cette expérience réelle, tout le monde a profondément pris conscience de l'importance de la prévention en matière de sécurité."
+    }
+  ]
+}

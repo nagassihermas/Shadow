@@ -1,0 +1,217 @@
+{
+  "title": "The Afternoon Schedule",
+  "new_vocabulary": [
+    "afternoon",
+    "schedule",
+    "arrive",
+    "early",
+    "desk",
+    "folder",
+    "notes",
+    "notebook",
+    "manager",
+    "department",
+    "colleagues",
+    "greet",
+    "smile",
+    "sit",
+    "open",
+    "review",
+    "document",
+    "print",
+    "hand",
+    "pass",
+    "discuss",
+    "point",
+    "number",
+    "chart",
+    "increase",
+    "result",
+    "success",
+    "future",
+    "finish",
+    "leave"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The afternoon schedule is very busy for the office staff.",
+      "phonetic": "/ði ˈɑːftənuːn ˈʃɛduːl ɪz ˈvɛri ˈbɪzi fɔː ði ˈɒfɪs stɑːf/",
+      "text_native": "L'emploi du temps de l'après-midi est très chargé pour le personnel du bureau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Mark arrives early to prepare the large meeting room.",
+      "phonetic": "/mɑːk əˈraɪvz ˈɜːli tuː prɪˈpɛə ðə lɑːʤ ˈmiːtɪŋ ruːm/",
+      "text_native": "Mark arrive en avance pour préparer la grande salle de réunion."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He walks to his desk and puts his heavy folder down.",
+      "phonetic": "/hi wɔːks tuː hɪz dɛsk ænd pʊts hɪz ˈhɛvi ˈfəʊldə daʊn/",
+      "text_native": "Il marche jusqu'à son bureau et pose son dossier lourd."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "A blue notebook and some clean paper rest on the wooden table.",
+      "phonetic": "/ə bluː ˈnəʊtbʊk ænd sʌm kliːn ˈpeɪpə rɛst ɒn ðə ˈwʊdn ˈteɪbl/",
+      "text_native": "Un carnet bleu et du papier propre reposent sur la table en bois."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He places a black pen beside every single chair.",
+      "phonetic": "/hi ˈpleɪsɪz ə blæk pɛn bɪˈsaɪd ˈɛvri ˈsɪŋgl ʧɛə/",
+      "text_native": "Il place un stylo noir à côté de chaque chaise."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The clock on the wall shows two o'clock.",
+      "phonetic": "/ðə klɒk ɒn ðə wɔːl ʃəʊz tuː əˈklɒk/",
+      "text_native": "L'horloge sur le mur indique deux heures."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Other members of the department slowly enter the room.",
+      "phonetic": "/ˈʌðə ˈmɛmbəz ɒv ðə dɪˈpɑːtmənt ˈsləʊli ˈɛntə ðə ruːm/",
+      "text_native": "D'autres membres du service entrent lentement dans la pièce."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Friendly colleagues greet each other with a warm smile.",
+      "phonetic": "/ˈfrɛndli ˈkɒliːgz griːt iːʧ ˈʌðə wɪð ə wɔːm smaɪl/",
+      "text_native": "Des collègues sympathiques se saluent avec un sourire chaleureux."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The strict manager closes the heavy wooden door.",
+      "phonetic": "/ðə strɪkt ˈmænɪʤə ˈkləʊzɪz ðə ˈhɛvi ˈwʊdn dɔː/",
+      "text_native": "Le manager strict ferme la lourde porte en bois."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Everyone finds a seat around the central furniture.",
+      "phonetic": "/ˈɛvrɪwʌn faɪndz ə siːt əˈraʊnd ðə ˈsɛntrəl ˈfɜːnɪʧə/",
+      "text_native": "Tout le monde trouve une place autour du mobilier central."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Mark opens his laptop computer to display the presentation.",
+      "phonetic": "/mɑːk ˈəʊpənz hɪz ˈlæptɒp kəmˈpjuːtə tuː dɪˈspleɪ ðə ˌprɛzɛnˈteɪʃən/",
+      "text_native": "Mark ouvre son ordinateur portable pour afficher la présentation."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Soft light comes through the tall glass window.",
+      "phonetic": "/sɒft laɪt kʌmz θruː ðə tɔːl glɑːs ˈwɪndəʊ/",
+      "text_native": "Une lumière douce entre par la grande fenêtre en verre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "They need to review an important commercial document.",
+      "phonetic": "/ðeɪ niːd tuː rɪˈvjuː ən ɪmˈpɔːtənt kəˈmɜːʃəl ˈdɒkjʊmənt/",
+      "text_native": "Ils doivent examiner un document commercial important."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The printer on the floor produced twenty paper copies.",
+      "phonetic": "/ðə ˈprɪntə ɒn ðə flɔː prəˈdjuːst ˈtwɛnti ˈpeɪpə ˈkɒpiːz/",
+      "text_native": "L'imprimante sur le sol a produit vingt copies papier."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Mark hands one report to the person on his right.",
+      "phonetic": "/mɑːk hændz wʌn rɪˈpɔːt tuː ðə ˈpɜːsn ɒn hɪz raɪt/",
+      "text_native": "Mark remet un rapport à la personne sur sa droite."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "That person passes the remaining sheets to the next colleague.",
+      "phonetic": "/ðæt ˈpɜːsn ˈpɑːsɪz ðə rɪˈmeɪnɪŋ ʃiːts tuː ðə nɛkst ˈkɒliːg/",
+      "text_native": "Cette personne passe les feuilles restantes au collègue suivant."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The group begins to discuss the current business goal.",
+      "phonetic": "/ðə gruːp bɪˈgɪnz tuː dɪˈskʌs ðə ˈkʌrənt ˈbɪznɪs gəʊl/",
+      "text_native": "Le groupe commence à discuter de l'objectif commercial actuel."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "A smart employee points out a difficult problem.",
+      "phonetic": "/ə smɑːt ˈɪmplɔɪiː pɔɪnts aʊt ə ˈdɪfɪkəlt ˈprɒbləm/",
+      "text_native": "Un employé intelligent souligne un problème difficile."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Everyone listens carefully while the speaker explains the steps.",
+      "phonetic": "/ˈɛvrɪwʌn ˈlɪsnz ˈkeəfʊli waɪl ðə ˈspiːkə ɪksˈpleɪnz ðə stɛps/",
+      "text_native": "Tout le monde écoute attentivement pendant que l'intervenant explique les étapes."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Numbers and statistics appear on the large visual chart.",
+      "phonetic": "/ˈnʌmbəz ænd stəˈtɪstɪks əˈpɪə ɒn ðə lɑːʤ ˈvɪzjʊəl ʧɑːt/",
+      "text_native": "Des chiffres et des statistiques apparaissent sur le grand tableau visuel."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The team hopes for a clear increase in sales.",
+      "phonetic": "/ðə tiːm həʊps fɔː ə klɪə ˈɪnkriːs ɪn seɪlz/",
+      "text_native": "L'équipe espère une nette augmentation des ventes."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Someone asks a smart question about the financial plan.",
+      "phonetic": "/ˈsʌmwʌn ɑːsks ə smɑːt ˈkwɛsʧən əˈbaʊt ðə fɪˈnænʃəl plæn/",
+      "text_native": "Quelqu'un pose une question intelligente concernant le plan financier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The boss provides a logical solution after brief thought.",
+      "phonetic": "/ðə bɒs prəˈvaɪdz ə ˈlɒʤɪkəl səˈluːʃən ˈɑːftə briːf θɔːt/",
+      "text_native": "Le patron apporte une solution logique après une brève réflexion."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "All members agree with the new strategic idea.",
+      "phonetic": "/ɔːl ˈmɛmbəz əˈgriː wɪð ðə njuː strəˈtiːʤɪk aɪˈdɪə/",
+      "text_native": "Tous les membres sont d'accord avec la nouvelle idée stratégique."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "They write important notes inside their personal notebooks.",
+      "phonetic": "/ðeɪ raɪt ɪmˈpɔːtənt nəʊts ˈɪnsaɪd ðeɪə ˈpɜːsənl ˈnəʊtbʊks/",
+      "text_native": "Ils écrivent des notes importantes dans leurs carnets personnels."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The successful discussion produces a strong final strategy.",
+      "phonetic": "/ðə səkˈsɛsfʊl dɪˈskʌʃən ˈprɒdjuːsɪz ə strɒŋ ˈfaɪnl ˈstrætɪʤi/",
+      "text_native": "La discussion fructueuse produit une stratégie finale solide."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "They prepare for a better future in the company.",
+      "phonetic": "/ðeɪ prɪˈpɛə fɔː ə ˈbɛtə ˈfjuːʧə ɪn ðə ˈkʌmpəni/",
+      "text_native": "Ils se préparent à un avenir meilleur dans l'entreprise."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The productive meeting finally stops at four o'clock.",
+      "phonetic": "/ðə prəˈdʌktɪv ˈmiːtɪŋ ˈfaɪnəli stɒps æt fɔː əˈklɒk/",
+      "text_native": "La réunion productive s'arrête enfin à quatre heures."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Colleagues pack their personal belongings and shut their computers.",
+      "phonetic": "/ˈkɒliːgz pæk ðeɪə ˈpɜːsənl bɪˈlɒŋɪz ænd ʃʌt ðeɪə kəmˈpjuːtəz/",
+      "text_native": "Les collègues rangent leurs affaires personnelles et éteignent leurs ordinateurs."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Everyone leaves the quiet room with a ready mindset.",
+      "phonetic": "/ˈɛvrɪwʌn liːvz ðə ˈkwaɪət ruːm wɪð ə ˈrɛdi ˈmaɪndˌsɛt/",
+      "text_native": "Tout le monde quitte la pièce calme avec un esprit prêt."
+    }
+  ]
+}

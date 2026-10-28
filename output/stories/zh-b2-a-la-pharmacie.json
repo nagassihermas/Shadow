@@ -1,0 +1,233 @@
+{
+  "title": "社区药店的午后",
+  "new_vocabulary": [
+    "社区",
+    "午后",
+    "值班",
+    "药师",
+    "出示",
+    "身份证明",
+    "登记",
+    "电子",
+    "处方签",
+    "核对",
+    "库存",
+    "批号",
+    "有效期",
+    "仔细",
+    "仔细阅读",
+    "注意事项",
+    "忌口",
+    "辛辣",
+    "刺激",
+    "食品",
+    "遵医嘱",
+    "按时",
+    "服药",
+    "疗程",
+    "尚未",
+    "结束",
+    "切勿",
+    "擅自",
+    "停药",
+    "若",
+    "出现",
+    "异常",
+    "反应",
+    "立即",
+    "咨询",
+    "保健品",
+    "维生素",
+    "增强",
+    "免疫力",
+    "结账",
+    "小票",
+    "妥善",
+    "保存",
+    "顾客",
+    "满意",
+    "离开"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这个安静的午后，我走进了家附近的社区药店。",
+      "phonetic": "Zhè gè ānjìng de wǔhòu, wǒ zǒu jìn le jiā fùjìn de shèqū yàodiàn.",
+      "text_native": "En ce paisible après-midi, je suis entré dans la pharmacie du quartier près de chez moi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "值班的药师微笑着迎上前询问我的需求。",
+      "phonetic": "Zhíbān de yàoshī wēixiào zhe yíng shàng qián xúnwèn wǒ de xūqiú.",
+      "text_native": "Le pharmacien de garde s'est avancé en souriant pour me demander ce dont j'avais besoin."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我从包里拿出了医生开具的电子处方签。",
+      "phonetic": "Wǒ cóng bāo lǐ ná chū le yīshēng kāijù de diànzǐ chǔfāngqiān.",
+      "text_native": "J'ai sorti de mon sac l'ordonnance électronique prescrite par le médecin."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "药师接过手机认真核对上面的药品信息。",
+      "phonetic": "Yàoshī jiē guò shǒujī rènzhēn héduì shàngmiàn de yàopǐn xìnxī.",
+      "text_native": "Le pharmacien a pris le téléphone pour vérifier attentivement les informations sur les médicaments."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "因为涉及特殊药物，她请我出示了身份证明进行登记。",
+      "phonetic": "Yīnwèi shèjí tèshū yàowù, tā qǐng wǒ chūshì le shēnfèn zhèngmíng jìnxíng dēngjì.",
+      "text_native": "Comme il s'agissait d'un médicament spécial, elle m'a demandé de présenter une pièce d'identité pour l'enregistrement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "核对无误后，她转身去后面的货架上取药。",
+      "phonetic": "Héduì wúwù hòu, tā zhuǎnshēn qù hòumiàn de huòjià shàng qǔ yào.",
+      "text_native": "Après vérification sans erreur, elle s'est retournée pour aller chercher les médicaments sur les étagères à l'arrière."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "她仔细检查了药品的批号和有效期。",
+      "phonetic": "Tā zǐxì jiǎnchá le yàopǐn de pīhào hé yǒuxiàoqī.",
+      "text_native": "Elle a vérifié soigneusement le numéro de lot et la date de péremption des médicaments."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这些药品的库存目前还算充足。",
+      "phonetic": "Zhè xiē yàopǐn de kúcún mùqián hái suàn chōngzú.",
+      "text_native": "Le stock de ces médicaments est pour l'instant considéré comme suffisant."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "她一边配药，一边提醒我要仔细阅读说明书。",
+      "phonetic": "Tā yībiān pèiyào, yībiān tíxǐng wǒ yào zǐxì yuèdú shuōmíngshū.",
+      "text_native": "Tout en préparant les médicaments, elle m'a rappelé de lire attentivement la notice."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "服药期间有很多需要注意的事项。",
+      "phonetic": "Fúyào qījiān yǒu hěn duō xūyào zhùyì de shìxiàng.",
+      "text_native": "Il y a beaucoup de points importants à surveiller pendant la période de prise des médicaments."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "例如在治疗期间应该严格避免食用辛辣刺激的食品。",
+      "phonetic": "Lìrú zài zhìliáo qījiān yīnggāi yángé bìmiǎn shíyòng xīnlà cìjī de shípǐn.",
+      "text_native": "Par exemple, il faut éviter strictement de consommer des aliments épicés et irritants pendant le traitement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "一定要严格遵医嘱按时按量服药。",
+      "phonetic": "Yīdìng yào yángé zūn yīzhǔ ànshí ànliàng fúyào.",
+      "text_native": "Il est impératif de suivre strictement les conseils du médecin en prenant les médicaments à l'heure et aux doses prescrites."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "即使症状有所减轻，完整的疗程也尚未结束。",
+      "phonetic": "Jíshǐ zhèngzhuàng yǒu suǒ jiǎnqīng, wánzhěng de liáochéng yě shàngwèi jiéshù.",
+      "text_native": "Même si les symptômes se sont un peu atténués, le traitement complet n'est pas encore terminé."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "切勿因为感觉好转而擅自停药。",
+      "phonetic": "Qièwù yīnwèi gǎnjué hǎozhuǎn ér shànzì tíngyào.",
+      "text_native": "Il ne faut en aucun cas arrêter le traitement de sa propre initiative sous prétexte qu'on se sent mieux."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "若在服药过程中出现任何异常反应，必须立即向医生咨询。",
+      "phonetic": "Ruò zài fúyào guòchéng zhōng chūxiàn rènhé yìcháng fǎnyīng, bìxū lìjí xiàng yīshēng zīxún.",
+      "text_native": "Si une réaction anormale quelconque apparaît pendant la prise du traitement, il faut immédiatement consulter un médecin."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "除了这些处方药，她还向我推荐了一些增强免疫力的维生素。",
+      "phonetic": "Chúle zhè xiē chǔfāngyào, tā hái xiàng wǒ tuījiàn le yìxiē zēngqiáng miǎnyìlì de wéishēngsù.",
+      "text_native": "En plus de ces médicaments sur ordonnance, elle m'a également conseillé quelques vitamines pour renforcer l'immunité."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "最近换季容易感冒，多补充营养对身体有好处。",
+      "phonetic": "Zuìjìn huànjì róngyì gǎnmào, duō bǔchōng yíngyǎng duì shēntǐ yǒu hǎochù.",
+      "text_native": "Aux changements de saison, on attrape facilement froid, et faire le plein de nutriments est bénéfique pour le corps."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我考虑了一下，决定顺便买一瓶日常保健品。",
+      "phonetic": "Wǒ kǎolǜ le yíxià, juédìng shùnbiàn mǎi yì píng rìcháng bǎojiànpǐn.",
+      "text_native": "J'y ai réfléchi un moment et j'ai décidé d'acheter par la même occasion un flacon de complément alimentaire quotidien."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "随后，我在收银台前使用社保卡进行了刷卡结账。",
+      "phonetic": "Suíhòu, wǒ zài shōuyíntái qián shǐyòng shèbǎokǎ jìnxíng le shuākǎ jiézhàng.",
+      "text_native": "Ensuite, j'ai effectué le paiement par carte en utilisant ma carte d'assurance maladie devant la caisse."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "营业员快速地打印出了一张详细的小票。",
+      "phonetic": "Yíngyèyuán kuàisù de dǎyìn chū le yì zhāng xiángxì de xiǎopiào.",
+      "text_native": "L'employée a rapidement imprimé un ticket détaillé."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我接过找零和购物小票，仔细核对了金额。",
+      "phonetic": "Wǒ jiē guò zhǎolíng hé gòuwù xiǎopiào, zǐxì héduì le jīn'é.",
+      "text_native": "J'ai pris la monnaie et le ticket de caisse, puis j'ai vérifié soigneusement le montant."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "为了报销方便，我需要妥善保存这张纸质收据。",
+      "phonetic": "Wèile bàoxiāo fāngbiàn, wǒ xūyào tuǒshàn bǎocún zhè zhāng zhǐzhì shōujù.",
+      "text_native": "Pour faciliter le remboursement, je dois conserver soigneusement ce reçu papier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "在药店里，我还顺便量了一下体温和血压。",
+      "phonetic": "Zài yàodiàn lǐ, wǒ hái shùnbiàn liáng le yí xià tǐwēn hé xuèyā.",
+      "text_native": "Dans la pharmacie, j'ai également profité pour mesurer ma température et ma tension artérielle."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "体温计显示一切正常，血压也没有太大波动。",
+      "phonetic": "Tǐwēnjì xiǎnshì yíqiè zhèngcháng, xuèyā yě méiyǒu tài dà bōdòng.",
+      "text_native": "Le thermomètre a montré que tout était normal, et la tension n'a pas connu de grandes fluctuations."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "近期流感病毒传染性很强，出门在外还是要戴好口罩。",
+      "phonetic": "Jìnqī liúgǎn bìngdú chuánránxìng hěn qiáng, chūmén zài wài háishì yào dài hǎo kǒuzhào.",
+      "text_native": "Le virus de la grippe est très contagieux ces derniers temps, il faut donc bien porter un masque lorsqu'on sort."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "药师微笑着把装好药的袋子递给我。",
+      "phonetic": "Yàoshī wēixiào zhe bǎ zhuāng hǎo yào de dàizi dì gěi wǒ.",
+      "text_native": "Le pharmacien m'a tendu en souriant le sac contenant les médicaments préparés."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "她祝愿我能早日康复，并提醒我多喝温开水。",
+      "phonetic": "Tā zhùyuàn wǒ néng zǎorì kāngfù, bìng tíxǐng wǒ duō hē wēn kāishuǐ.",
+      "text_native": "Elle m'a souhaité un prompt rétablissement et m'a rappelé de boire beaucoup d'eau tiède."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我向她连声道谢，对她的专业建议感到十分满意。",
+      "phonetic": "Wǒ xiàng tā liánshēng dào xiè, duì tā de zhuānyè jiànyì gǎndào shífēn mǎnyì.",
+      "text_native": "Je l'ai remerciée à plusieurs reprises et me suis montré très satisfait de ses conseils professionnels."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我拿着药满意地离开了这间温馨的药店。",
+      "phonetic": "Wǒ ná zhe yào mǎnyì de líkāi le zhè jiān wēnxīn de yàodiàn.",
+      "text_native": "J'ai quitté cette pharmacie chaleureuse, satisfait, avec mes médicaments en main."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "外面下着小雨，空气清新，我慢慢走着回了家。",
+      "phonetic": "Wàimiàn xià zhe xiǎoyǔ, kōngqì qīngxīn, wǒ mànmàn zǒu zhe huí le jiā.",
+      "text_native": "Il pleuvait légèrement dehors, l'air était frais, et je suis rentré tranquillement chez moi à pied."
+    }
+  ]
+}

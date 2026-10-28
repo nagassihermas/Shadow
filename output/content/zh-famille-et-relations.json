@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我父母都住在上海。",
+    "phonetic": "wǒ fùmǔ dōu zhù zài Shànghǎi.",
+    "text_native": "Mes parents habitent tous les deux à Shanghai.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我有两个哥哥和一个妹妹。",
+    "phonetic": "wǒ yǒu liǎng gè gēge hé yī gè mèimei.",
+    "text_native": "J'ai deux grands frères et une petite sœur.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "这是我女朋友的照片。",
+    "phonetic": "zhè shì wǒ nǚpéngyou de zhàopiàn.",
+    "text_native": "Voici une photo de ma copine.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我周末常常去看爷爷奶奶。",
+    "phonetic": "wǒ zhōumò chángcháng qù kàn yéye nǎinai.",
+    "text_native": "Le week-end, je vais souvent rendre visite à mes grands-parents.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "他长得很像他爸爸。",
+    "phonetic": "tā zhǎng de hěn xiàng tā bàba.",
+    "text_native": "Il ressemble beaucoup à son père.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "你结婚了吗？",
+    "phonetic": "nǐ jiéhūn le ma?",
+    "text_native": "Tu es marié ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我跟室友的关系挺好的。",
+    "phonetic": "wǒ gēn shìyǒu de guānxi tǐng hǎo de.",
+    "text_native": "Je m'entends plutôt bien avec mon colocataire.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我弟弟今年上高中了。",
+    "phonetic": "wǒ dìdi jīnnián shàng gāozhōng le.",
+    "text_native": "Mon petit frère est entré au lycée cette année.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "今天晚上我要跟家人一起吃饭。",
+    "phonetic": "jīntiān wǎnshang wǒ yào gēn jiārén yīqǐ chīfàn.",
+    "text_native": "Ce soir, je mange avec ma famille.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "她有一个特别照顾她的老板。",
+    "phonetic": "tā yǒu yī gè tèbié zhàogù tā de lǎobǎn.",
+    "text_native": "Elle a un patron qui prend vraiment soin d'elle.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我和几个老朋友约好周末见面。",
+    "phonetic": "wǒ hé jǐ gè lǎo péngyou yuē hǎo zhōumò jiànmiàn.",
+    "text_native": "Je me suis arrangé pour voir de vieux amis ce week-end.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我姐姐的孩子非常活泼。",
+    "phonetic": "wǒ jiějie de háizi fēicháng huópō.",
+    "text_native": "L'enfant de ma grande sœur est super dynamique.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "虽然我们不常常见面，但是经常发消息。",
+    "phonetic": "suīrán wǒmen bù chángcháng jiànmiàn, dànshì jīngcháng fā xiāoxi.",
+    "text_native": "Même si on ne se voit pas souvent, on s'écrit tout le temps.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "遇到困难的时候，同事们帮了我不少。",
+    "phonetic": "yùdào kùnnán de shíhòu, tóngshìmen bāng le wǒ bù shǎo.",
+    "text_native": "Quand j'ai eu des difficultés, mes collègues m'ont bien aidé.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "他这个人性格很好，跟谁都聊得来。",
+    "phonetic": "tā zhè gè rén xìnggé hěn hǎo, gēn shéi dōu liáo de lái.",
+    "text_native": "Il a un super caractère, il s'entend avec tout le monde.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我表哥下个月要举行婚礼。",
+    "phonetic": "wǒ biǎogē xià gè yuè yào jǔxíng hūnlǐ.",
+    "text_native": "Mon cousin se marie le mois prochain.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "多亏有邻居帮忙，我才顺利搬了家。",
+    "phonetic": "duōkuī yǒu línjū bāngmáng, wǒ cái shùnlì bān le jiā.",
+    "text_native": "Heureusement que le voisin m'a donné un coup de main pour le déménagement.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "不管发生什么事，我太太总是支持我。",
+    "phonetic": "bùguǎn fāshēng shénme shì, wǒ tàitai zǒngshì zhīchí wǒ.",
+    "text_native": "Quoi qu'il arrive, ma femme me soutient toujours.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "有时候跟父母沟通需要一点耐心。",
+    "phonetic": "yǒushíhòu gēn fùmǔ gōutōng xūyào yīdiǎn nàixīn.",
+    "text_native": "Parfois, il faut un peu de patience pour communiquer avec ses parents.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我们平时工作都很忙，所以特别珍惜聚在一起的时光。",
+    "phonetic": "wǒmen píngshí gōngzuò dōu hěn máng, suǒyǐ tèbié zhēnxī jù zài yīqǐ de shíguāng.",
+    "text_native": "On est tous pris par le travail au quotidien, alors on profite vraiment des moments qu'on passe ensemble.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "It is hot today.",
+    "phonetic": "/ɪt ɪz hɒt təˈdeɪ/",
+    "text_native": "Il fait chaud aujourd'hui.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The sun is shining.",
+    "phonetic": "/ðə sʌn ɪz ˈʃaɪnɪŋ/",
+    "text_native": "Le soleil brille.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "It is raining outside.",
+    "phonetic": "/ɪt ɪz ˈreɪnɪŋ ˈaʊtsaɪd/",
+    "text_native": "Il pleut dehors.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I need my umbrella.",
+    "phonetic": "/aɪ niːd maɪ ʌmˈbrelə/",
+    "text_native": "J'ai besoin de mon parapluie.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Look at those grey clouds.",
+    "phonetic": "/lʊk æt ðoʊz ɡreɪ klaʊdz/",
+    "text_native": "Regarde ces nuages gris.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "It is very cold this morning.",
+    "phonetic": "/ɪt ɪz ˈvɛri koʊld ðɪs ˈmɔːrnɪŋ/",
+    "text_native": "Il fait très froid ce matin.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Do you like snow?",
+    "phonetic": "/duː juː laɪk snoʊ/",
+    "text_native": "Tuimes la neige ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Wear your warm jacket.",
+    "phonetic": "/wɛər jʊər wɔːrm ˈdʒækɪt/",
+    "text_native": " Mets ta veste chaude.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The wind is blowing hard.",
+    "phonetic": "/ðə wɪnd ɪz ˈbloʊɪŋ hɑːrd/",
+    "text_native": "Le vent souffle fort.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "What is the weather like?",
+    "phonetic": "/wʌt ɪz ðə ˈwɛðər laɪk/",
+    "text_native": "Quel temps fait-il ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "My favorite season is summer.",
+    "phonetic": "/maɪ ˈfeɪvərɪt ˈsiːzn ɪz ˈsʌmər/",
+    "text_native": "Ma saison préférée, c'est l'été.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "We go to the beach when it is sunny.",
+    "phonetic": "/wiː ɡoʊ tuː ðə biːtʃ wɛn ɪt ɪz ˈsʌni/",
+    "text_native": "On va à la plage quand il fait beau.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Leaves fall down in autumn.",
+    "phonetic": "/liːvz fɔːl daʊn ɪn ˈɔːtəm/",
+    "text_native": "Les feuilles tombent en automne.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Flowers bloom everywhere in spring.",
+    "phonetic": "/ˈflaʊərz bluːm ˈɛvriwɛər ɪn sprɪŋ/",
+    "text_native": "Les fleurs éclosent partout au printemps.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "It is foggy on the road today.",
+    "phonetic": "/ɪt ɪz ˈfɒɡi ɒn ðə roʊd təˈdeɪ/",
+    "text_native": "Il y a du brouillard sur la route aujourd'hui.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I prefer dry weather to wet weather.",
+    "phonetic": "/aɪ prɪˈfɜːr draɪ ˈwɛðər tuː wɛt ˈwɛðər/",
+    "text_native": "Je préfère le temps sec au temps pluvieux.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Did you see that lightning flash?",
+    "phonetic": "/dɪd juː siː ðæt ˈlaɪtnɪŋ flæʃ/",
+    "text_native": "Tu as vu cet éclair ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "We can build a snowman when it snows.",
+    "phonetic": "/wiː kæn bɪld ə ˈsnoʊmæn wɛn ɪt snoʊz/",
+    "text_native": "On pourra faire un bonhomme de neige s'il neige.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The temperature drops fast at night.",
+    "phonetic": "/ðə ˈtɛmprətʃər drɒps fæst æt naɪt/",
+    "text_native": "Les températures chutent vite le soir.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Let us check the forecast for tomorrow.",
+    "phonetic": "/lɛt ʌs tʃɛk ðə ˈfɔːrkæst fɔːr təˈmɒroʊ/",
+    "text_native": "On regarde la météo pour demain ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

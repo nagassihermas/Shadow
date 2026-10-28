@@ -1,0 +1,186 @@
+{
+  "title": "The Email",
+  "new_vocabulary": ["email", "computer", "desk", "work", "boss", "send", "message", "reply"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom is at work.",
+      "phonetic": "/tɒm ɪz æt wɜːk/",
+      "text_native": "Tom est au travail."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He is at his desk.",
+      "phonetic": "/hiː ɪz æt hɪz dɛsk/",
+      "text_native": "Il est à son bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He has a computer.",
+      "phonetic": "/hiː hæz ə kəmˈpjuːtə/",
+      "text_native": "Il a un ordinateur."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The computer is on.",
+      "phonetic": "/ðə kəmˈpjuːtə ɪz ɒn/",
+      "text_native": "L'ordinateur est allumé."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Tom looks at the screen.",
+      "phonetic": "/tɒm lʊks æt ðə skriːn/",
+      "text_native": "Tom regarde l'écran."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He opens his email.",
+      "phonetic": "/hiː ˈəʊpənz hɪz ˈiːmeɪl/",
+      "text_native": "Il ouvre sa boîte mail."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He sees a new message.",
+      "phonetic": "/hiː siːz ə njuː ˈmɛsɪdʒ/",
+      "text_native": "Il voit un nouveau message."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The email is from his boss.",
+      "phonetic": "/ði ˈiːmeɪl ɪz frɒm hɪz bɒs/",
+      "text_native": "L'e-mail vient de son patron."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom reads the email.",
+      "phonetic": "/tɒm riːdz ði ˈiːmeɪl/",
+      "text_native": "Tom lit l'e-mail."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The boss asks a question.",
+      "phonetic": "/ðə bɒs ɑːsks ə ˈkwɛstʃən/",
+      "text_native": "Le patron pose une question."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom understands the question.",
+      "phonetic": "/tɒm ˌʌndəˈstændz ðə ˈkwɛstʃən/",
+      "text_native": "Tom comprend la question."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He clicks on reply.",
+      "phonetic": "/hiː klɪks ɒn rɪˈplaɪ/",
+      "text_native": "Il clique sur répondre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He puts his hands on the keyboard.",
+      "phonetic": "/hiː pʊts hɪz hændz ɒn ðə ˈkiːbɔːd/",
+      "text_native": "Il pose ses mains sur le clavier."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He writes a word.",
+      "phonetic": "/hiː raɪts ə wɜːd/",
+      "text_native": "Il écrit un mot."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He writes a second word.",
+      "phonetic": "/hiː raɪts ə ˈsɛkənd wɜːd/",
+      "text_native": "Il écrit un deuxième mot."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The message is short.",
+      "phonetic": "/ðə ˈmɛsɪdʒ ɪz ʃɔːt/",
+      "text_native": "Le message est court."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom checks his text.",
+      "phonetic": "/tɒm tʃɛks hɪz tɛkst/",
+      "text_native": "Tom relit son texte."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The text is good.",
+      "phonetic": "/ðə tɛkst ɪz gʊd/",
+      "text_native": "Le texte est bon."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He finds the send button.",
+      "phonetic": "/hiː faɪndz ðə sɛnd ˈbʌtn/",
+      "text_native": "Il trouve le bouton d'envoi."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He clicks on send.",
+      "phonetic": "/hiː klɪks ɒn sɛnd/",
+      "text_native": "Il clique sur envoyer."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The email goes away.",
+      "phonetic": "/ði ˈiːmeɪl gəʊz əˈweɪ/",
+      "text_native": "L'e-mail est envoyé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom smiles.",
+      "phonetic": "/tɒm smaɪlz/",
+      "text_native": "Tom sourit."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "His job is done.",
+      "phonetic": "/hɪz dʒɒb ɪz dʌn/",
+      "text_native": "Son travail est fait."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He closes his email.",
+      "phonetic": "/hiː ˈkləʊzɪz hɪz ˈiːmeɪl/",
+      "text_native": "Il ferme sa boîte mail."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He drinks some water.",
+      "phonetic": "/hiː drɪŋks sʌm ˈwɔːtə/",
+      "text_native": "Il boit un peu d'eau."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He looks out the window.",
+      "phonetic": "/hiː lʊks aʊt ðə ˈwɪndəʊ/",
+      "text_native": "Il regarde par la fenêtre."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The weather is nice.",
+      "phonetic": "/ðə ˈwɛðər ɪz naɪs/",
+      "text_native": "Il fait beau."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom feels happy.",
+      "phonetic": "/tɒm fiːlz ˈhæpi/",
+      "text_native": "Tom se sent heureux."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He waits for a new task.",
+      "phonetic": "/hiː weɪts fɔːr ə njuː tɑːsk/",
+      "text_native": "Il attend une nouvelle tâche."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His work day continues.",
+      "phonetic": "/hɪz wɜːk deɪ kənˈtɪnjuːz/",
+      "text_native": "Sa journée de travail continue."
+    }
+  ]
+}

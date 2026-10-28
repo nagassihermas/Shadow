@@ -1,0 +1,195 @@
+{
+  "title": "A Bad Day",
+  "new_vocabulary": [
+    "headache",
+    "stomach ache",
+    "cold",
+    "fever",
+    "tired",
+    "medicine",
+    "doctor",
+    "bed"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "He wakes up in the morning.",
+      "phonetic": "/hi weɪks ʌp ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Il se réveille le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom is in his bed.",
+      "phonetic": "/tɒm ɪz ɪn hɪz bɛd/",
+      "text_native": "Tom est dans son lit."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He feels very bad.",
+      "phonetic": "/hi fiːlz ˈvɛri bæd/",
+      "text_native": "Il se sent très mal."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He has a big headache.",
+      "phonetic": "/hi hæz ə bɪg ˈhɛdeɪk/",
+      "text_native": "Il a un gros mal de tête."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "His head hurts a lot.",
+      "phonetic": "/hɪz hɛd hɜːts ə lɒt/",
+      "text_native": "Sa tête lui fait très mal."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He touches his forehead.",
+      "phonetic": "/hi ˈtʌtʃɪz hɪz ˈfɔːhɪd/",
+      "text_native": "Il touche son front."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "His body is very hot.",
+      "phonetic": "/hɪz ˈbɒdi ɪz ˈvɛri hɒt/",
+      "text_native": "Son corps est très chaud."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He has a fever.",
+      "phonetic": "/hi hæz ə ˈfiːvə/",
+      "text_native": "Il a de la fièvre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom coughs quietly.",
+      "phonetic": "/tɒm kɒfs ˈkwaɪətli/",
+      "text_native": "Tom tousse doucement."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "His throat is dry.",
+      "phonetic": "/hɪz θroʊt ɪz draɪ/",
+      "text_native": "Sa gorge est sèche."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He has a bad cold.",
+      "phonetic": "/hi hæz ə bæd koʊld/",
+      "text_native": "Il a un mauvais rhume."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "His nose is running.",
+      "phonetic": "/hɪz noʊz ɪz ˈrʌnɪŋ/",
+      "text_native": "Son nez coule."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He tries to stand up.",
+      "phonetic": "/hi traɪz tu stænd ʌp/",
+      "text_native": "Il essaie de se lever."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "His legs are weak.",
+      "phonetic": "/hɪz lɛgz ɑː wiːk/",
+      "text_native": "Ses jambes sont faibles."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "His stomach hurts too.",
+      "phonetic": "/hɪz ˈstʌmək hɜːts tuː/",
+      "text_native": "Son estomac lui fait mal aussi."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He has a stomach ache.",
+      "phonetic": "/hi hæz ə ˈstʌmək eɪk/",
+      "text_native": "Il a mal au ventre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom is very tired.",
+      "phonetic": "/tɒm ɪz ˈvɛri ˈtaɪəd/",
+      "text_native": "Tom est très fatigué."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He goes back to bed.",
+      "phonetic": "/hi goʊz bæk tu bɛd/",
+      "text_native": "Il retourne se coucher."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He pulls up the blanket.",
+      "phonetic": "/hi pʊlz ʌp ðə ˈblæŋkɪt/",
+      "text_native": "Il remonte sa couverture."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "His mother comes in.",
+      "phonetic": "/hɪz ˈmʌðə kʌmz ɪn/",
+      "text_native": "Sa mère entre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "She looks at him.",
+      "phonetic": "/ʃi lʊks æt hɪm/",
+      "text_native": "Elle le regarde."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "She sees he is sick.",
+      "phonetic": "/ʃi siːz hi ɪz sɪk/",
+      "text_native": "Elle voit qu'il est malade."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "She touches his face.",
+      "phonetic": "/ʃi ˈtʌtʃɪz hɪz feɪs/",
+      "text_native": "Elle touche son visage."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "She goes to the kitchen.",
+      "phonetic": "/ʃi goʊz tu ðə ˈkɪtʃɪn/",
+      "text_native": "Elle va à la cuisine."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "She brings some water.",
+      "phonetic": "/ʃi brɪŋz sʌm ˈwɔːtə/",
+      "text_native": "Elle apporte de l'eau."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom drinks the water.",
+      "phonetic": "/tɒm drɪŋks ðə ˈwɔːtə/",
+      "text_native": "Tom boit de l'eau."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "She gives him medicine.",
+      "phonetic": "/ʃi gɪvz hɪm ˈmɛdɪsɪn/",
+      "text_native": "Elle lui donne des médicaments."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom swallows the pill.",
+      "phonetic": "/tɒm ˈswɒloʊz ðə pɪl/",
+      "text_native": "Tom avale le comprimé."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He closes his eyes.",
+      "phonetic": "/hi ˈkloʊzɪz hɪz aɪz/",
+      "text_native": "Il ferme les yeux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He sleeps all day.",
+      "phonetic": "/hi sliːps ɔːl deɪ/",
+      "text_native": "Il dort toute la journée."
+    }
+  ]
+}

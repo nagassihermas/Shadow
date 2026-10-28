@@ -1,0 +1,217 @@
+{
+  "title": "A Weekend at the Grand Hotel",
+  "new_vocabulary": [
+    "weekend",
+    "grand",
+    "arrive",
+    "taxi",
+    "stop",
+    "street",
+    "walk",
+    "inside",
+    "wait",
+    "queue",
+    "turn",
+    "speak",
+    "english",
+    "book",
+    "online",
+    "check",
+    "details",
+    "pay",
+    "credit",
+    "machine",
+    "insert",
+    "pin",
+    "code",
+    "take",
+    "packet",
+    "find",
+    "hallway",
+    "open",
+    "tired",
+    "sleep"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom and Sarah arrive at the grand hotel for the weekend.",
+      "phonetic": "tɒm ænd ˈsærə əˈraɪv æt ðə ɡrænd həʊˈtɛl fɔː ðə ˈwiːkˌɛnd.",
+      "text_native": "Tom et Sarah arrivent au grand hôtel pour le week-end."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "A yellow taxi stops in front of the building.",
+      "phonetic": "ə ˈjɛləʊ ˈtæksi stɒps ɪn frʌnt ɒv ðə ˈbɪldɪŋ.",
+      "text_native": "Un taxi jaune s'arrête devant le bâtiment."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "They step out onto the busy street with their baggage.",
+      "phonetic": "ðeɪ stɛp aʊt ˈɒntuː ðə ˈbɪzi striːt wɪð ðeər ˈbæɡɪdʒ.",
+      "text_native": "Ils descendent dans la rue animée avec leurs bagages."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The heavy suitcases are hard to pull.",
+      "phonetic": "ðə ˈhɛvi ˈsuːtˌkeɪsɪz ɑː hɑːd tuː pʊl.",
+      "text_native": "Ces valises lourdes sont difficiles à tirer."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "They walk through the automatic glass doors inside.",
+      "phonetic": "ðeɪ wɔːk θruː ði ˌɔːtəˈmætɪk ɡlɑːs dɔːz ˈɪnˈsaɪd.",
+      "text_native": "Ils franchissent les portes vitrées automatiques pour entrer."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The reception area is bright and very quiet.",
+      "phonetic": "ðə rɪˈsɛpʃən ˈeərɪə ɪz braɪt ænd ˈvɛri ˈkwaɪət.",
+      "text_native": "L'espace d'accueil est lumineux et très calme."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "There is a small queue at the counter.",
+      "phonetic": "ðeər ɪz ə smɔːl kjuː æt ðə ˈkaʊntə.",
+      "text_native": "Il y a une petite file d'attente au comptoir."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "They wait for their turn patiently.",
+      "phonetic": "ðeɪ weɪt fɔː ðeər tɜːn ˈpeɪʃəntli.",
+      "text_native": "Ils attendent leur tour patiemment."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "A friendly receptionist smiles at them.",
+      "phonetic": "ə ˈfrɛndli rɪˈsɛpʃənɪst smaɪlz æt ðɛm.",
+      "text_native": "Un réceptionniste sympathique leur sourit."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Good evening, sir and madam, says the young man.",
+      "phonetic": "ɡʊd ˈiːvnɪŋ, sɜː ænd ˈmædəm, sɛz ðə jʌŋ mæn.",
+      "text_native": "« Bonsoir, monsieur et madame », dit le jeune homme."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom speaks in English and explains the reservation.",
+      "phonetic": "tɒm spiːks ɪn ˈɪŋɡlɪʃ ænd ɪkˈspleɪnz ðə ˌrɛzəˈveɪʃən.",
+      "text_native": "Tom parle en anglais et explique la réservation."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He booked a double room online last week.",
+      "phonetic": "hiː bʊkt ə ˈdʌbl ruːm ˈɒnˌlaɪn lɑːst wiːk.",
+      "text_native": "Il a réservé une chambre double en ligne la semaine dernière."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The receptionist checks the computer screen carefully.",
+      "phonetic": "ðə rɪˈsɛpʃənɪst tʃɛks ðə kəmˈpjuːtə skriːn ˈkeəfʊli.",
+      "text_native": "Le réceptionniste examine attentivement l'écran de l'ordinateur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He looks at all the details on the monitor.",
+      "phonetic": "hiː lʊks æt ɔːl ðə ˈdiːteɪlz ɒn ðə ˈmɒnɪtə.",
+      "text_native": "Il regarde tous les détails affichés."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Tom gives his passport to prove his identity.",
+      "phonetic": "tɒm ɡɪvz ɪz ˈpɑːspɔːt tuː pruːv ɪz aɪˈdɛntɪti.",
+      "text_native": "Tom donne son passeport pour prouver son identité."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Sarah fills out a registration form with a black pen.",
+      "phonetic": "ˈsærə fɪlz aʊt ə ˌrɛdʒɪˈstreɪʃən fɔːm wɪð ə blæk pɛn.",
+      "text_native": "Sarah remplit une fiche d'inscription avec un stylo noir."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Please sign your name and surname here, says the worker.",
+      "phonetic": "pliːz saɪn jɔː neɪm ænd ˈsɜːneɪm hɪə, sɛz ðə ˈwɜːkə.",
+      "text_native": "« Veuillez signer ici », dit l'employé."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She writes her signature quickly on the paper.",
+      "phonetic": "ʃiː raɪts hɜː ˈsɪɡnətʃə ˈkwɪkli ɒn ðə ˈpeɪpə.",
+      "text_native": "Elle appose rapidement sa signature sur le papier."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Now, it is time to pay for the night.",
+      "phonetic": "naʊ, ɪt ɪz taɪm tuː peɪ fɔː ðə naɪt.",
+      "text_native": "Il est maintenant temps de régler la nuitée."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Tom takes his credit card out of his wallet.",
+      "phonetic": "tɒm teɪks ɪz ˈkrɛdɪt kɑːd aʊt ɒv ɪz ˈwɒlɪt.",
+      "text_native": "Tom sort sa carte de crédit de son portefeuille."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He inserts the card into the payment machine.",
+      "phonetic": "hiː ɪnˈsɜːts ðə kɑːd ˈɪntuː ðə ˈpeɪmənt məˈʃiːn.",
+      "text_native": "Il insère la carte dans le terminal de paiement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He types his secret pin code with a small button.",
+      "phonetic": "hiː taɪps ɪz ˈsiːkrɪt pɪn kəʊd wɪð ə smɔːl ˈbʌtn.",
+      "text_native": "Il tape son code secret sur le petit clavier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The printer makes a noise and prints a receipt.",
+      "phonetic": "ðə ˈprɪntə meɪks ə nɔɪz ænd prɪnts ə rɪˈsiːt.",
+      "text_native": "L'imprimante émet un bruit et sort un reçu."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Welcome to our hotel, says the receptionist with a smile.",
+      "phonetic": "ˈwɛlkəm tuː ˈaʊə həʊˈtɛl, sɛz ðə rɪˈsɛpʃənɪst wɪð ə smaɪl.",
+      "text_native": "« Bienvenue dans notre hôtel », dit le réceptionniste avec un sourire."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He hands them a plastic card in a paper packet.",
+      "phonetic": "hiː hændz ðɛm ə ˈplæstɪk kɑːd ɪn ə ˈpeɪpə ˈpækɪt.",
+      "text_native": "Il leur remet une carte magnétique glissée dans une pochette en papier."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Your room number is twelve on the second floor.",
+      "phonetic": "jɔː ruːm ˈʌmbə ɪz twɛlv ɒn ðə ˈsɛkənd flɔː.",
+      "text_native": "Votre chambre est la numéro douze, au deuxième étage."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "They take the lift up and find the correct hallway.",
+      "phonetic": "ðeɪ teɪk ðə lɪft ʌp ænd faɪnd ðə kəˈrɛkt ˈhɔːlweɪ.",
+      "text_native": "Ils prennent l'ascenseur et trouvent le bon couloir."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom opens the wooden door with the smart card.",
+      "phonetic": "tɒm ˈəʊpənz ðə ˈwʊdn dɔː wɪð ðə smɑːt kɑːd.",
+      "text_native": "Tom ouvre la porte en bois grâce à la carte à puce."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The big bed looks very comfortable after a long journey.",
+      "phonetic": "ðə bɪɡ bɛd lʊks ˈvɛri ˈkʌmfətəbl ˈɑːftər ə lɒŋ ˈdʒɜːni.",
+      "text_native": "Le grand lit a l'air très confortable après ce long voyage."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "They are very tired and ready to sleep all night.",
+      "phonetic": "ðeɪ ɑː ˈvɛri ˈtaɪəd ænd ˈrɛdi tuː sliːp ɔːl naɪt.",
+      "text_native": "Ils sont très fatigués et prêts à dormir toute la nuit."
+    }
+  ]
+}

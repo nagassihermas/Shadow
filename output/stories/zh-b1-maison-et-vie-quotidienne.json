@@ -1,0 +1,191 @@
+{
+  "title": "搬新家的一天",
+  "new_vocabulary": [
+    "搬家", "小区", "环境", "安静", "钥匙", "开门", "宽敞", "明亮", "厨房", "冰箱",
+    "超市", "新鲜", "蔬菜", "做饭", "香", "筷子", "碗", "饱", "休息", "习惯",
+    "邻居", "热情", "帮助", "熟悉", "附近", "药店", "医院", "银行", "邮局", "生活",
+    "便利", "愉快"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是我搬进新家的第一天，我起得很早。",
+      "phonetic": "Jīntiān shì wǒ bān jìn xīn jiā de dì yī tiān, wǒ qǐ de hěn zǎo.",
+      "text_native": "Aujourd'hui, c'est mon premier jour dans ma nouvelle maison, je me suis levé très tôt."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我先去刷牙洗脸，然后喝了一杯热咖啡。",
+      "phonetic": "Wǒ xiān qù shuā yá xǐ liǎn, ránhòu hē le yī bēi rè kāfēi.",
+      "text_native": "Je suis d'abord allé me brosser les dents et me laver le visage, puis j'ai bu une tasse de café chaud."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "这个小区环境非常优美，而且特别安静。",
+      "phonetic": "Zhège xiǎoqū huánjìng fēicháng yōuměi, érqiě tèbié ānjìng.",
+      "text_native": "L'environnement de cette résidence est très beau et particulièrement calme."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我拿着钥匙，走到门口，高兴地打开了门。",
+      "phonetic": "Wǒ názhe yàoshi, zǒu dào ménkǒu, gāoxìng de dǎkāi le mén.",
+      "text_native": "Je tiens la clé, je marche jusqu'à la porte et j'ouvre la porte joyeusement."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "房间比我以前的住处更加宽敞和明亮。",
+      "phonetic": "Fángjiān bǐ wǒ yǐqián de zhùchù gèngjiā kuānchǎng hé míngliàng.",
+      "text_native": "La pièce est beaucoup plus spacieuse et lumineuse que mon ancien logement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "客厅里放着一张舒适的沙发。",
+      "phonetic": "Kètīng lǐ fàngzhe yī zhāng shūshì de shāfā.",
+      "text_native": "Dans le salon, il y a un canapé confortable."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "厨房里有一个很大的冰箱。",
+      "phonetic": "Chúfáng lǐ yǒu yīgè hěn dà de bīngxiāng.",
+      "text_native": "Dans la cuisine, il y a un très grand réfrigérateur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "为了准备午饭，我决定去附近的超市买菜。",
+      "phonetic": "Wèile zhǔnbèi wǔfàn, wǒ juédìng qù fùjìn de chāoshì mǎi cài.",
+      "text_native": "Pour préparer le déjeuner, j'ai décidé d'aller faire des courses au supermarché voisin."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "超市里的蔬菜和水果都很新鲜。",
+      "phonetic": "Chāoshì lǐ de shūcài hé shuǐguǒ dōu hěn xīnxiān.",
+      "text_native": "Les légumes et les fruits du supermarché sont tous très frais."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我买了一些西红柿、鸡蛋和牛肉。",
+      "phonetic": "Wǒ mǎi le yīxiē xīhóngshì, jīdàn hé niúròu.",
+      "text_native": "J'ai acheté des tomates, des œufs et du bœuf."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "回到家里，我开始认真地做饭。",
+      "phonetic": "Huí dào jiālǐ, wǒ kāishǐ rènzhēn de zuò fàn.",
+      "text_native": "De retour à la maison, je commence à cuisiner sérieusement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "厨房里飘出了很好闻的香味。",
+      "phonetic": "Chúfáng lǐ piāo chū le hěn hǎowén de xiāngwèi.",
+      "text_native": "Une très bonne odeur s'échappe de la cuisine."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我用筷子尝了尝自己做的菜，味道真不错。",
+      "phonetic": "Wǒ yòng kuàizi cháng le cháng zìjǐ zuò de cài, wèidào zhēn búcuò.",
+      "text_native": "J'ai goûté mon plat avec des baguettes, le goût est vraiment pas mal."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "吃完饭后，我把碗和盘子洗得干干净净。",
+      "phonetic": "Chī wán fàn hòu, wǒ bǎ wǎn hé pánzi xǐ de gān gān jìng jìng.",
+      "text_native": "Après avoir fini de manger, j'ai lavé les bols et les assiettes bien propres."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "下午，太阳很好，我在阳台上晒了一些衣服。",
+      "phonetic": "Xiàwǔ, tàiyáng hěn hǎo, wǒ zài yángtái shàng shài le yīxiē yīfu.",
+      "text_native": "Cet après-midi, il fait très beau, j'ai étendu du linge sur le balcon."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这时候，门铃响了，原来是新邻居来打招呼。",
+      "phonetic": "Zhè shíhòu, ménlíng xiǎng le, yuánlái shì xīn línjū lái dǎ zhāohu.",
+      "text_native": "À ce moment-là, la sonnette a retenti, c'était en fait le nouveau voisin qui venait dire bonjour."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "邻居非常热情，还送给我一些水果。",
+      "phonetic": "Línjū fēicháng rèqíng, hái sòng gěi wǒ yīxiē shuǐguǒ.",
+      "text_native": "Le voisin est très chaleureux et m'a même offert des fruits."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我们在客厅的沙发上坐着聊天。",
+      "phonetic": "Wǒmen zài kètīng de shāfā shàng zuòzhe liáotiān.",
+      "text_native": "Nous sommes assis sur le canapé du salon à discuter."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他告诉我附近有什么好玩的地方。",
+      "phonetic": "Tā gàosù wǒ fùjìn yǒu shénme hǎowán de dìfāng.",
+      "text_native": "Il m'a dit quels endroits sympas il y a dans les environs."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "比如药店、医院、银行和邮局都在附近。",
+      "phonetic": "Bǐrú yàodiàn, yīyuàn, yínháng hé yóujú dōu zài fùjìn.",
+      "text_native": "Par exemple, la pharmacie, l'hôpital, la banque et le bureau de poste sont tous à proximité."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "这里的日常生活真的很便利。",
+      "phonetic": "Zhèlǐ de rìcháng shēnghuó zhēn de hěn biànlì.",
+      "text_native": "La vie quotidienne ici est vraiment très pratique."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "送走邻居后，我开始打扫房间卫生。",
+      "phonetic": "Sòng zǒu línjū hòu, wǒ kāishǐ dǎsǎo fángjiān wèishēng.",
+      "text_native": "Après avoir raccompagné le voisin, j'ai commencé à faire le ménage dans l'appartement."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "虽然有点累，但我感到非常充实。",
+      "phonetic": "Suīrán yǒudiǎn lèi, dàn wǒ gǎndào fēicháng chōngshí.",
+      "text_native": "Même si je suis un peu fatigué, je me sens très épanoui."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "傍晚的时候，我和朋友一起去公园散步。",
+      "phonetic": "Bàngwǎn de shíhòu, wǒ hé péngyǒu yīqǐ qù gōngyuán sànbù.",
+      "text_native": "Vers le soir, je suis allé me promener au parc avec un ami."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "公园里有很多老人和孩子在玩耍。",
+      "phonetic": "Gōngyuán lǐ yǒu hěnduō lǎorén hé háizi zài wánshuǎ.",
+      "text_native": "Il y a beaucoup de personnes âgées et d'enfants qui jouent dans le parc."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "晚饭后，我泡了一壶香茶，坐在桌前看报纸。",
+      "phonetic": "Wǎnfàn hòu, wǒ pào le yī hú xiāng chá, zuò zài zhuō qián kàn bàozhǐ.",
+      "text_native": "Après le dîner, j'ai préparé une théière de thé parfumé et je me suis assis devant la table pour lire le journal."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "偶尔看一会儿电视，放松一下心情。",
+      "phonetic": "ǒu'ěr kàn yīhuǐ'ér diànshì, fàngsōng yīxià xīnqíng.",
+      "text_native": "Je regarde la télévision de temps en temps pour me détendre l'esprit."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我觉得自己很快就能习惯这里的生活。",
+      "phonetic": "Wǒ juédé zìjǐ hěn kuài jiù néng xíguàn zhèlǐ de shēnghuó.",
+      "text_native": "Je pense que je vais vite m'habituer à la vie ici."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "夜深了，房间里一片安静。",
+      "phonetic": "Yè shēn le, fángjiān lǐ yīpiàn ānjìng.",
+      "text_native": "La nuit est avancée, la pièce est d'un calme absolu."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我关上灯，高高兴兴地上床睡觉了。",
+      "phonetic": "Wǒ guān shàng dēng, gāo gāo xìng xìng de shàng chuáng shuìjiào le.",
+      "text_native": "J'ai éteint la lumière et je suis allé me coucher joyeusement."
+    }
+  ]
+}

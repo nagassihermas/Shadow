@@ -1,0 +1,217 @@
+{
+  "title": "A Bad Cold",
+  "new_vocabulary": [
+    "cough",
+    "throat",
+    "pain",
+    "cold",
+    "winter",
+    "snow",
+    "outside",
+    "inside",
+    "warm",
+    "cup",
+    "tea",
+    "honey",
+    "lemon",
+    "liquid",
+    "syrup",
+    "measure",
+    "cap",
+    "adult",
+    "severe",
+    "weak",
+    "tired",
+    "heavy",
+    "eyes",
+    "breathe",
+    "easy",
+    "soon",
+    "better",
+    "careful",
+    "follow",
+    "rule"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The winter cold brings a lot of snow outside.",
+      "phonetic": "ðə wɪntər koʊld brɪŋz ə lɑt əv snoʊ aʊtsaɪd.",
+      "text_native": "Le froid de l'hiver apporte beaucoup de neige dehors."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "David stays inside his warm house.",
+      "phonetic": "ˈdeɪvɪd steɪz ɪnˈsaɪd hɪz wɔrm haʊs.",
+      "text_native": "David reste à l'intérieur de sa maison bien chauffée."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Suddenly, he feels a bad pain in his throat.",
+      "phonetic": "ˈsʌdənli, hi filz ə bæd peɪn ɪn hɪz θroʊt.",
+      "text_native": "Soudain, il ressent une vive douleur dans la gorge."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He starts to cough and has a mild fever.",
+      "phonetic": "hi stɑrts tu kɑf ənd hæz ə maɪld ˈfivər.",
+      "text_native": "Il commence à tousser et a une légère fièvre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "His head hurts and his eyes feel very heavy.",
+      "phonetic": "hɪz hɛd hɜrts ənd hɪz aɪz fil ˈvɛri ˈhɛvi.",
+      "text_native": "Il a mal à la tête et ses yeux lui semblent très lourds."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He is very tired and needs to sit on the sofa.",
+      "phonetic": "hi ɪz ˈvɛri ˈtaɪərd ənd nidz tu sɪt ɑn ðə ˈsoʊfə.",
+      "text_native": "Il est très fatigué et a besoin de s'asseoir sur le canapé."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "His wife brings a warm cup of tea to the living room.",
+      "phonetic": "hɪz waɪf brɪŋz ə wɔrm kʌp əv ti tu ðə ˈlɪvɪŋ rum.",
+      "text_native": "Sa femme apporte une tasse de thé chaud au salon."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "She adds some honey and lemon to the liquid.",
+      "phonetic": "ʃi ædz sʌm ˈhʌni ənd ˈlɛmən tu ðə ˈlɪkwɪd.",
+      "text_native": "Elle ajoute un peu de miel et de citron au breuvage."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "David drinks the hot tea slowly from the glass.",
+      "phonetic": "ˈdeɪvɪd drɪŋks ðə hɑt ti ˈsloʊli frʌm ðə glæs.",
+      "text_native": "David boit lentement son thé chaud dans le verre."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "After that, he checks his temperature with a digital thermometer.",
+      "phonetic": "ˈæftər ðæt, hi tʃɛks hɪz ˈtɛmpərətʃər wɪð ə ˈdɪdʒɪtəl θərˈmɑmətər.",
+      "text_native": "Après cela, il prend sa température avec un thermomètre numérique."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The thermometer shows that he is quite sick.",
+      "phonetic": "ðə θərˈmɑmətər ʃoʊz ðæt hi ɪz kwaɪt sɪk.",
+      "text_native": "Le thermomètre indique qu'il est assez malade."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He walks to the kitchen counter to find some medicine.",
+      "phonetic": "hi wɔks tu ðə ˈkɪtʃən ˈkaʊntər tu faɪnd sʌm ˈmɛdəsən.",
+      "text_native": "Il se dirige vers le comptoir de la cuisine pour trouver des médicaments."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He finds a box of cough syrup in the cupboard.",
+      "phonetic": "hi faɪndz ə bɑks əv kɑf ˈsɪrəp ɪn ðə ˈkʌbərd.",
+      "text_native": "Il trouve une boîte de sirop contre la toux dans le placard."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He opens the package and takes out the plastic bottle.",
+      "phonetic": "hi ˈoʊpənz ðə ˈpækɪdʒ ənd teɪks aʊt ðə ˈplæstɪk ˈbɑtəl.",
+      "text_native": "Il ouvre l'emballage et sort la bouteille en plastique."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He reads the instructions on the paper label carefully.",
+      "phonetic": "hi ridz ðə ɪnˈstrʌkʃənz ɑn ðə ˈpeɪpər ˈleɪbəl ˈkɛrfəli.",
+      "text_native": "Il lit attentivement les instructions sur l'étiquette en papier."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He wants to follow every rule for his safe recovery.",
+      "phonetic": "hi wɑnts tu ˈfɑloʊ ˈɛvəri rul fɔr hɪz seɪf rɪˈkʌvəri.",
+      "text_native": "Il veut suivre toutes les consignes pour guérir en toute sécurité."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The label explains the exact dose for an adult.",
+      "phonetic": "ðə ˈleɪbəl ɪkˈspleɪnz ði ɪgˈzækt doʊs fɔr ən əˈdʌlt.",
+      "text_native": "L'étiquette indique la dose exacte pour un adulte."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He needs to measure the liquid in a small cap.",
+      "phonetic": "hi nidz tu ˈmɛʒər ðə ˈlɪkwɪd ɪn ə smɔl kæp.",
+      "text_native": "Il doit mesurer le liquide dans un petit bouchon."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He pours the sweet syrup into the small plastic cap.",
+      "phonetic": "hi pɔrz ðə swit ˈsɪrəp ˈɪntu ðə smɔl ˈplæstɪk kæp.",
+      "text_native": "Il verse le sirop sucré dans le petit bouchon en plastique."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The correct dose is one small spoon every eight hours.",
+      "phonetic": "ðə kəˈrɛkt doʊs ɪz wʌn smɔl spun ˈɛvəri eɪt ˈaʊərz.",
+      "text_native": "La bonne dose est d'une petite cuillère toutes les huit heures."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "David swallows the medicine quickly with some fresh water.",
+      "phonetic": "ˈdeɪvɪd ˈswɑloʊz ðə ˈmɛdəsən ˈkwɪkli wɪð sʌm frɛʃ ˈwɔtər.",
+      "text_native": "David avale rapidement le médicament avec un peu d'eau fraîche."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He puts the bottle back inside the small box.",
+      "phonetic": "hi pʊts ðə ˈbɑtəl bæk ɪnˈsaɪd ðə smɔl bɑks.",
+      "text_native": "Il remet la bouteille dans la petite boîte."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "His stomach feels a bit sensitive after the food he ate.",
+      "phonetic": "hɪz ˈstʌmək filz ə bɪt ˈsɛnsətɪv ˈæftər ðə fud hi eɪt.",
+      "text_native": "Son estomac est un peu sensible après ce qu'il a mangé."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He decides to go back to his comfortable bed.",
+      "phonetic": "hi dɪˈsaɪdz tu goʊ bæk tu hɪz ˈkʌmfərtəbəl bɛd.",
+      "text_native": "Il décide de retourner dans son lit confortable."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "His wife puts a warm blanket over his weak body.",
+      "phonetic": "hɪz waɪf pʊts ə wɔrm ˈblæŋkət ˈoʊvər hɪz wik ˈbɑdi.",
+      "text_native": "Sa femme le recouvre d'une couverture chaude pour réchauffer son corps affaibli."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He closes his eyes and tries to get some sleep.",
+      "phonetic": "hi ˈkloʊzɪz hɪz aɪz ənd traɪz tu gɛt sʌm slip.",
+      "text_native": "Il ferme les yeux et essaie de trouver le sommeil."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The night passes slowly while he takes good rest.",
+      "phonetic": "ðə naɪt ˈpæsəz ˈsloʊli waɪl hi teɪks gʊd rɛst.",
+      "text_native": "La nuit passe lentement alors qu'il se repose profondément."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tomorrow morning, he will phone the doctor if he feels worse.",
+      "phonetic": "təˈmɑroʊ ˈmɔrnɪŋ, hi wɪl foʊn ðə ˈdɑktər ɪf hi filz wɜrs.",
+      "text_native": "Demain matin, il appellera le médecin s'il se sent plus mal."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Right now, breathing becomes a little more easy for him.",
+      "phonetic": "raɪt naʊ, ˈbriðɪŋ bɪˈkʌmz ə ˈlɪtəl mɔr ˈizi fɔr hɪm.",
+      "text_native": "Pour l'instant, il lui est un peu plus facile de respirer."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He hopes to feel much better by the next day.",
+      "phonetic": "hi hoʊps tu fil mʌtʃ ˈbɛtər baɪ ðə nɛkst deɪ.",
+      "text_native": "Il espère se sentir beaucoup mieux dès le lendemain."
+    }
+  ]
+}

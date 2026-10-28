@@ -1,0 +1,185 @@
+{
+  "title": "小明的安全问题",
+  "new_vocabulary": [
+    "安全", "办公室", "工作", "下午", "突然", "外面", "发生", "火灾", "同事", "大家",
+    "走", "楼梯", "跑", "出口", "安全门", "前面", "后面", "消防员", "车", "穿",
+    "红色", "衣服", "拿", "灭火器", "进入", "楼", "里面", "分钟", "以后", "火", "灭",
+    "经理", "告诉", "员工", "每次", "练习", "重要", "现在", "可以", "安心"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天下午，小明在办公室工作。",
+      "phonetic": "Jīntiān xiàwǔ, Xiǎo Míng zài bàngōngshì gōngzuò.",
+      "text_native": "Cet après-midi, Xiaoming travaille au bureau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "突然，他听到外面有一些声音。",
+      "phonetic": "Tūrán, tā tīngdào wàimiàn yǒu yīxiē shēngyīn.",
+      "text_native": "Soudain, il entend des bruits à l'extérieur."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "发生火灾了。",
+      "phonetic": "Fāshēng huǒzāile.",
+      "text_native": "Il y a un incendie."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "同事们都很害怕。",
+      "phonetic": "Tóngshìmen dōu hěn hàipà.",
+      "text_native": "Les collègues ont tous très peur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "大家快走！",
+      "phonetic": "Dàjiā kuài zǒu!",
+      "text_native": "Tout le monde, partez vite !"
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "小明对大家说。",
+      "phonetic": "Xiǎo Míng duì dàjiā shuō.",
+      "text_native": "Dit Xiaoming à tout le monde."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "别跑，请走楼梯。",
+      "phonetic": "Bié pǎo, qǐng zǒu lóutī.",
+      "text_native": "Ne courez pas, veuillez emprunter les escaliers."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "他们找到一个出口。",
+      "phonetic": "Tāmen zhǎodào yīgè chūkǒu.",
+      "text_native": "Ils trouvent une sortie."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "前面有安全门。",
+      "phonetic": "Qiánmiàn yǒu ānquánmén.",
+      "text_native": "Il y a une porte de secours devant."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "大家快点儿出去。",
+      "phonetic": "Dàjiā kuài diǎnr chūqù.",
+      "text_native": "Tout le monde sort rapidement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "消防员马上开车来。",
+      "phonetic": "Xiāofángyuán mǎshàng kāichē lái.",
+      "text_native": "Les pompiers arrivent immédiatement en voiture."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "消防员穿着红色衣服。",
+      "phonetic": "Xiāofángyuán chuānzhe hóngsè yīfu.",
+      "text_native": "Les pompiers portent des vêtements rouges."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他们手里拿着灭火器。",
+      "phonetic": "Tāmen shǒu lǐ názhe mièhuǒqì.",
+      "text_native": "Ils tiennent des extincteurs dans leurs mains."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他们快速进入楼里面。",
+      "phonetic": "Tāmen kuàisù jìnrù lóu lǐmiàn.",
+      "text_native": "Ils entrent rapidement à l'intérieur du bâtiment."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "小明在外面看他们。",
+      "phonetic": "Xiǎo Míng zài wàimiàn kàn tāmen.",
+      "text_native": "Xiaoming les regarde de l'extérieur."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "十分钟以后，火灭了。",
+      "phonetic": "Shí fēnzhōng yǐhòu, huǒ mièile.",
+      "text_native": "Dix minutes plus tard, le feu est éteint."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "没有人受伤。",
+      "phonetic": "Méiyǒu rén shòushāng.",
+      "text_native": "Personne n'est blessé."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "经理看着大家。",
+      "phonetic": "Jīnglǐ kànzhe dàjiā.",
+      "text_native": "Le directeur regarde tout le monde."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他告诉所有员工。",
+      "phonetic": "Tā gàosù suǒyǒu yuángōng.",
+      "text_native": "Il dit à tous les employés :"
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "安全真的很重要。",
+      "phonetic": "Ānquán zhēn de hěn zhòngyào.",
+      "text_native": "« La sécurité est vraiment très importante."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "每次我们都要练习。",
+      "phonetic": "Měicì wǒmen dōu yào liànxí.",
+      "text_native": "Nous devons nous y entrainer à chaque fois."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "今天大家做得很好。",
+      "phonetic": "Jīntiān dàjiā zuò de hěn hǎo.",
+      "text_native": "Aujourd'hui, tout le monde a très bien réagi. »"
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "小明回办公室拿包。",
+      "phonetic": "Xiǎo Míng huí bàngōngshì ná bāo.",
+      "text_native": "Xiaoming retourne au bureau pour prendre son sac."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "妈妈打电话给他。",
+      "phonetic": "Māma dǎ diànhuà gěi tā.",
+      "text_native": "Sa mère l'appelle au téléphone."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "喂，你没事吧？",
+      "phonetic": "Wèi, nǐ méishì ba?",
+      "text_native": "« Allô, ça va ?"
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "妈妈听到消息很担心。",
+      "phonetic": "Māma tīngdào xiāoxī hěn dānxīn.",
+      "text_native": "Ayant entendu la nouvelle, maman est très inquiète. »"
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "小明回答她。",
+      "phonetic": "Xiǎo Míng huídá tā.",
+      "text_native": "Xiaoming lui répond :"
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "别怕，现在很安全。",
+      "phonetic": "Bié pà, xiànzài hěn ānquán.",
+      "text_native": "« N'aie pas peur, c'est tout à fait sûr maintenant."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我马上坐车回家。",
+      "phonetic": "Wǒ mǎshàng zuòchē huí jiā.",
+      "text_native": "Je rentre immédiatement à la maison en voiture. »"
+    }
+  ]
+}

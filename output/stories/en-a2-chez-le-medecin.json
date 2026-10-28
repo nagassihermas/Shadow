@@ -1,0 +1,217 @@
+{
+  "title": "At the Doctor's Office",
+  "new_vocabulary": [
+    "arrive",
+    "receptionist",
+    "wait",
+    "minute",
+    "call",
+    "name",
+    "follow",
+    "nurse",
+    "weight",
+    "height",
+    "measure",
+    "temperature",
+    "check",
+    "blood pressure",
+    "feel",
+    "tired",
+    "listen",
+    "chest",
+    "lungs",
+    "breath",
+    "deep",
+    "problem",
+    "infection",
+    "antibiotics",
+    "syrup",
+    "times",
+    "recover",
+    "pay",
+    "card",
+    "leave"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrived at the clinic in the morning.",
+      "phonetic": "/tɒm əˈraɪvd æt ðə ˈklɪnɪk ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Tom est arrivé à la clinique le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He walked to the reception desk.",
+      "phonetic": "/hiː wɔːkt tuː ðə rɪˈsepʃən desk/",
+      "text_native": "Il s'est dirigé vers le bureau d'accueil."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The receptionist smiled at him.",
+      "phonetic": "/ðə rɪˈsepʃənɪst smaɪld æt hɪm/",
+      "text_native": "La réceptionniste lui a souri."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom said hello and sat on a chair.",
+      "phonetic": "/tɒm sed həˈləʊ ænd sæt ɒn ə tʃeə/",
+      "text_native": "Tom a dit bonjour et s'est assis sur une chaise."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He waited for ten minutes.",
+      "phonetic": "/hiː ˈweɪtɪd fɔː ten ˈmɪnɪts/",
+      "text_native": "Il a attendu pendant dix minutes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A friendly nurse called his name.",
+      "phonetic": "/ə ˈfrendli nɜːs kɔːld hɪz neɪm/",
+      "text_native": "Une infirmière sympathique a appelé son nom."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom stood up and followed her.",
+      "phonetic": "/tɒm stʊd ʌp ænd ˈfɒləʊd hɜː/",
+      "text_native": "Tom s'est levé et l'a suivie."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "They entered a small medical room.",
+      "phonetic": "/ðeɪ ˈentəd ə smɔːl ˈmedɪkəl ruːm/",
+      "text_native": "Ils sont entrés dans un petit cabinet médical."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The nurse measured his weight and height.",
+      "phonetic": "/ðə nɜːs ˈmeʒəd hɪz weɪt ænd haɪt/",
+      "text_native": "L'infirmière a mesuré son poids et sa taille."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "She also checked his temperature.",
+      "phonetic": "/ʃiː ˈɔːlsəʊ tʃekt hɪz ˈtemprətʃə/",
+      "text_native": "Elle a également pris sa température."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He had a bad fever.",
+      "phonetic": "/hiː hæd ə bæd ˈfiːvə/",
+      "text_native": "Il avait une forte fièvre."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Then the doctor opened the door.",
+      "phonetic": "/ðen ðə ˈdɒktə ˈəʊpənd ðə dɔː/",
+      "text_native": "Ensuite, le médecin a ouvert la porte."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The doctor asked about his problem.",
+      "phonetic": "/ðə ˈdɒktə ɑːskt əˈbaʊt hɪz ˈprɒbləm/",
+      "text_native": "Le médecin l'a interrogé sur son problème."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Tom explained that he felt very tired.",
+      "phonetic": "/tɒm ɪkˈspleɪnd ðæt hiː felt ˈveri ˈtaɪəd/",
+      "text_native": "Tom a expliqué qu'il se sentait très fatigué."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He also had a headache and a stomach ache.",
+      "phonetic": "/hiː ˈɔːlsəʊ hæd ə ˈhedeɪk ænd ə ˈstʌmək eɪk/",
+      "text_native": "Il avait aussi mal à la tête et au ventre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The doctor looked at his throat.",
+      "phonetic": "/ðə ˈdɒktə lʊkt æt hɪz θrəʊt/",
+      "text_native": "Le médecin a examiné sa gorge."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom opened his mouth and said ah.",
+      "phonetic": "/tɒm ˈəʊpənd hɪz maʊθ ænd sed ɑː/",
+      "text_native": "Tom a ouvert la bouche et a dit « aah »."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The doctor listened to his chest.",
+      "phonetic": "/ðə ˈdɒktə ˈlɪsənd tuː hɪz tʃest/",
+      "text_native": "Le médecin a ausculté sa poitrine."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He asked Tom to take a deep breath.",
+      "phonetic": "/hiː ɑːskt tɒm tuː teɪk ə diːp breθ/",
+      "text_native": "Il a demandé à Tom de prendre une grande inspiration."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The doctor smiled and made a diagnosis.",
+      "phonetic": "/ðə ˈdɒktə smaɪld ænd meɪd ə ˈdaɪəɡnəʊsɪs/",
+      "text_native": "Le médecin a souri et a posé un diagnostic."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He said it was a simple throat infection.",
+      "phonetic": "/hiː sed ɪt wɒz ə ˈsɪmpəl θrəʊt ɪnˈfekʃən/",
+      "text_native": "Il a dit que c'était une simple infection de la gorge."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The doctor wrote a prescription.",
+      "phonetic": "/ðə ˈdɒktə rəʊt ə prɪˈskrɪpʃən/",
+      "text_native": "Le médecin a rédigé une ordonnance."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom needed to take special medicine.",
+      "phonetic": "/tɒm ˈniːdɪd tuː teɪk ˈspeʃəl ˈmedsɪn/",
+      "text_native": "Tom avait besoin de prendre un médicament spécifique."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He had to take medicine three times a day.",
+      "phonetic": "/hiː hæd tuː teɪk ˈmedsɪn θriː taɪmz ə deɪ/",
+      "text_native": "Il devait prendre son médicament trois fois par jour."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The doctor told him to take a rest.",
+      "phonetic": "/ðə ˈdɒktə təʊld hɪm tuː teɪk ə rest/",
+      "text_native": "Le médecin lui a conseillé de se reposer."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom thanked the doctor for his help.",
+      "phonetic": "/tɒm θæŋkt ðə ˈdɒktə fɔː hɪz help/",
+      "text_native": "Tom a remercié le médecin pour son aide."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He walked to the local pharmacy.",
+      "phonetic": "/hiː wɔːkt tuː ðə ˈləʊkəl ˈfɑːməsi/",
+      "text_native": "Il est allé à pied jusqu'à la pharmacie du coin."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He gave the paper to the pharmacist.",
+      "phonetic": "/hiː ɡeɪv ðə ˈpeɪpə tuː ðə ˈfɑːməsɪst/",
+      "text_native": "Il a remis l'ordonnance au pharmacien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom paid with his card.",
+      "phonetic": "/tɒm peɪd wɪð hɪz kɑːd/",
+      "text_native": "Tom a payé avec sa carte bancaire."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Then he left and went back home to recover.",
+      "phonetic": "/ðen hiː left ænd went bæk həʊm tuː rɪˈkʌvə/",
+      "text_native": "Ensuite, il est parti et est rentré chez lui pour se reposer."
+    }
+  ]
+}

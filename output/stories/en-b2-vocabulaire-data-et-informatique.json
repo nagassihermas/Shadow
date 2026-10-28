@@ -1,0 +1,217 @@
+{
+  "title": "The Data Migration Project",
+  "new_vocabulary": [
+    "migration",
+    "legacy",
+    "database",
+    "query",
+    "dataset",
+    "pipeline",
+    "script",
+    "automation",
+    "schedule",
+    "scheduler",
+    "routine",
+    "execute",
+    "testing",
+    "staging",
+    "environment",
+    "production",
+    "deployment",
+    "rollback",
+    "monitor",
+    "logging",
+    "exception",
+    "debugging",
+    "optimize",
+    "latency",
+    "bandwidth",
+    "throughput",
+    "scalability",
+    "workload",
+    "governance",
+    "compliance"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Last Monday, Arthur received a challenging assignment regarding a major data migration.",
+      "phonetic": "/lɑːst ˈmʌndeɪ, ˈɑːθə rɪˈsiːvd ə ˈʧælɪnʤɪŋ əˈsaɪnmənt rɪˈgɑːdɪŋ ə ˈmeɪʤə ˈdeɪtə maɪˈgreɪʃən/",
+      "text_native": "Lundi dernier, Arthur a reçu une mission difficile concernant une migration de données majeure."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The company needed to move all its records from an old legacy system to a modern cloud database.",
+      "phonetic": "/ðə ˈkʌmpəni ˈniːdɪd tuː muːv ɔːl ɪts ˈrɛkɔːdz frɒm ən əʊld ˈlɛgəsi ˈsɪstɪm tuː ə ˈmɒdən klaʊd ˈdeɪtəbeɪs/",
+      "text_native": "L'entreprise devait transférer tous ses registres d'un ancien système obsolète vers une base de données cloud moderne."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Before starting the task, he opened his laptop and connected to the secure company network via VPN.",
+      "phonetic": "/bɪˈfɔː ˈstɑːtɪŋ ðə tɑːsk, hiː ˈəʊpənd hɪz ˈlæptɒp ænd kəˈnɛktɪd tuː ðə sɪˈkjʊə ˈkʌmpəni ˈnɛtwɜːk ˈvaɪə ˌviːpiːˈɛn/",
+      "text_native": "Avant de commencer la tâche, il a ouvert son ordinateur portable et s'est connecté au réseau sécurisé de l'entreprise via un VPN."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He reviewed the existing dataset to understand the structure and identify potential formatting issues.",
+      "phonetic": "/hiː rɪˈvjuːd ði egˈzɪstɪŋ ˈdeɪtəˌsɛt tuː ˌʌndəˈstænd ðə ˈstrʌktʃər ænd aɪˈdɛntɪfaɪ pəʊˈtɛnʃəl ˈfɔːmætɪŋ ˈɪʃuːz/",
+      "text_native": "Il a examiné le jeu de données existant pour comprendre la structure et identifier les problèmes de formatage potentiels."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Arthur wrote a custom SQL query to extract the necessary information from the primary tables.",
+      "phonetic": "/ˈɑːθə rəʊt ə ˈkʌstəm ˈɛsˌkjuːˈɛl ˈkwɪəri tuː ɪksˈtrækt ðə ˈnɛsəsəri ˌɪnfəˈmeɪʃən frɒm ðə ˈpraɪməri ˈteɪbəlz/",
+      "text_native": "Arthur a écrit une requête SQL personnalisée pour extraire les informations nécessaires des tables principales."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He saved this query into a text file and stored it safely inside his project folder.",
+      "phonetic": "/hiː seɪvd ðɪs ˈkwɪəri ˈɪntuː ə tɛkst faɪl ænd stɔːd ɪt ˈseɪfli ˈɪnsaɪd hɪz ˈprɒʤɛkt ˈfəʊldə/",
+      "text_native": "Il a enregistré cette requête dans un fichier texte et l'a stockée en toute sécurité dans son dossier de projet."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Next, he designed a comprehensive data pipeline to automate the daily transfer process.",
+      "phonetic": "/nɛkst, hiː dɪˈzaɪnd ə ˌkɒmprɪˈhɛnsɪv ˈdeɪtə ˈpaɪplaɪn tuː ˈɔːtəmeɪt ðə ˈdeɪli ˈtrænsfə ˈprəʊsɛs/",
+      "text_native": "Ensuite, il a conçu un pipeline de données complet pour automatiser le processus de transfert quotidien."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He drafted a Python script to validate every single row and column during the extraction.",
+      "phonetic": "/hiː ˈdrɑːftɪd ə ˈpaɪθɒn skrɪpt tuː ˈvælɪdeɪt ˈɛvri ˈsɪŋgl rəʊ ænd ˈkɒləm ˈdjʊərɪŋ ði ɪksˈtrækʃən/",
+      "text_native": "Il a rédigé un script Python pour valider chaque ligne et chaque colonne lors de l'extraction."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The script included a specific exception handler to catch any unexpected error message instantly.",
+      "phonetic": "/ðə skrɪpt ɪnˈkluːdɪd ə spɪˈsɪfɪk ɪkˈsɛpʃən ˈhændlə tuː kætʃ ˈɛni ˌʌnɪkˈspɛktɪd ˈɛrə ˈmɛsɪʤ ˈɪnstəntli/",
+      "text_native": "Le script comprenait un gestionnaire d'exceptions spécifique pour intercepter instantanément tout message d'erreur inattendu."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Before running the routine in production, he needed to set up a separate staging environment.",
+      "phonetic": "/bɪˈfɔː ˈrʌnɪŋ ðə ruːˈtiːn ɪn prəˈdʌkʃən, hiː ˈniːdɪd tuː sɛt ʌp ə ˈsɛprɪt ˈsteɪʤɪŋ ɪnˈvaɪənmənt/",
+      "text_native": "Avant d'exécuter la routine en production, il devait configurer un environnement de staging séparé."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He configured a task scheduler to execute the migration routine automatically every night at midnight.",
+      "phonetic": "/hiː kənˈfɪgəd ə tɑːsk ˈʃɛduːlə tuː ˈɛksɪkjuːt ðə maɪˈgreɪʃən ruːˈtiːn ˌɔːtəˈmætɪkli ˈɛvri naɪt æt ˈmɪdnaɪt/",
+      "text_native": "Il a configuré un planificateur de tâches pour exécuter la routine de migration automatiquement chaque nuit à minuit."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "During the preliminary testing phase, performance metrics showed an unexpected latency issue.",
+      "phonetic": "/ˈdjʊərɪŋ ðə prɪˈlɪmɪnəri ˈtɛstɪŋ feɪz, pəˈfɔːməns ˈmɛtrɪks ʃəʊd ən ˌʌnɪkˈspɛktɪd ˈleɪtəsi ˈɪʃuː/",
+      "text_native": "Pendant la phase de test préliminaire, les indicateurs de performance ont révélé un problème de latence inattendu."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The network bandwidth was too low, limiting the overall data throughput between servers.",
+      "phonetic": "/ðə ˈnɛtwɜːk ˈbændwɪdθ wɒz tuː ləʊ, ˈlɪmɪtɪŋ ði ˈəʊvərɔːl ˈdeɪtə ˈθruːpʊt bɪˈtwiːn ˈsɜːvəz/",
+      "text_native": "La largeur de bande du réseau était trop faible, ce qui limitait le débit global des données entre les serveurs."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Arthur checked the hardware memory and processor usage to see if the machine was struggling.",
+      "phonetic": "/ˈɑːθə tʃɛkt ðə ˈhɑːdweə ˈmɛməri ænd ˈprəʊsɛsə ˈjuːsɪdʒ tuː siː ɪf ðə məˈʃiːn wɒz ˈstrʌglɪŋ/",
+      "text_native": "Arthur a vérifié la mémoire matérielle et l'utilisation du processeur pour voir si la machine peinait."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He spent hours debugging the code and optimizing every single query for better speed.",
+      "phonetic": "/hiː spɛnt ˈaʊəz diːˈbʌgɪŋ ðə kəʊd ænd ˈɒptɪmaɪzɪŋ ˈɛvri ˈsɪŋgl ˈkwɪəri fɔː ˈbɛtə spiːd/",
+      "text_native": "Il a passé des heures à déboguer le code et à optimiser chaque requête pour obtenir une meilleure vitesse."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "After fixing the bugs, he checked the system logs on his large screen to confirm stability.",
+      "phonetic": "/ˈɑːftə ˈfɪksɪŋ ðə bʌgz, hiː tʃɛkt ðə ˈsɪstɪm lɒgz ɒn hɪz lɑːʤ skriːn tuː kənˈfɜːm stəˈbɪlɪti/",
+      "text_native": "Après avoir corrigé les bugs, il a vérifié les journaux système sur son grand écran pour confirmer la stabilité."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "His colleague dropped by his desk to ask about the project timeline and scalability.",
+      "phonetic": "/hɪz ˈkɒliːg drɒpt baɪ hɪz dɛsk tuː ɑːsk əˈbaʊt ðə ˈprɒʤɛkt ˈtaɪmˌlaɪn ænd ˌskeɪləˈbɪlɪti/",
+      "text_native": "Son collègue est passé à son bureau pour lui demander des informations sur le calendrier du projet et l'évolutivité."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Arthur reassured him that the architecture could handle heavy workloads without failing.",
+      "phonetic": "/ˈɑːθə ˌriːəˈʃʊəd hɪm ðæt ði ˈɑːkɪtɛktʃə kʊd ˈhændl ˈhɛvi ˈwɜːkləʊdz wɪˈaʊt ˈfeɪlɪŋ/",
+      "text_native": "Arthur l'a rassuré en lui disant que l'architecture pouvait supporter de lourdes charges de travail sans défaillir."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "They scheduled a brief meeting with the boss to present the final analysis dashboard.",
+      "phonetic": "/ðeɪ ˈʃɛduːld ə briːf ˈmiːtɪŋ wɪð ðə bɒs tuː prɪˈzɛnt ðə ˈfaɪnl əˈnælɪsɪs ˈdæʃˌbɔːd/",
+      "text_native": "Ils ont planifié une brève réunion avec le patron pour présenter le tableau de bord d'analyse final."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "During the presentation, Arthur used a clear chart to illustrate the performance improvement trend.",
+      "phonetic": "/ˈdjʊərɪŋ ðə ˌprɛzɛnˈteɪʃən, ˈɑːθə juːzd ə klɪə tʃɑːt tuː ˈɪlustreɪt ðə pəˈfɔːməns ɪmˈpruːvmənt trɛnd/",
+      "text_native": "Pendant la présentation, Arthur a utilisé un graphique clair pour illustrer la tendance d'amélioration des performances."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The management team was very pleased with the results and granted full deployment permission.",
+      "phonetic": "/ðə ˈmænɪʤmənt tiːm wɒz ˈvɛri pliːzd wɪð ðə rɪˈzʌlts ænd ˈgrɑːntɪd fʊl dɪˈplɔɪmənt pəˈmɪʃən/",
+      "text_native": "L'équipe de direction a été très satisfaite des résultats et a accordé l'autorisation de déploiement complet."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Before initiating the live deployment, Arthur made sure to perform a complete system backup.",
+      "phonetic": "/bɪˈfɔː ɪˈnɪʃieɪtɪŋ ðə lɪv dɪˈplɔɪmənt, ˈɑːθə meɪd ʃʊə tuː pəˈfɔːm ə kəmˈpliːt ˈsɪstɪm ˈbækʌp/",
+      "text_native": "Avant d'initier le déploiement en direct, Arthur a veillé à effectuer une sauvegarde complète du système."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He checked the digital security settings and verified that the active firewall was working properly.",
+      "phonetic": "/hiː tʃɛkt ðə ˈdɪʤɪtəl sɪˈkjʊəti ˈsɛtɪŋz ænd ˈvɛrɪfaɪd ðæt ðə ˈæktɪv ˈfaɪəwɔːl wɒz ˈwɜːkɪŋ ˈprɒpəli/",
+      "text_native": "Il a vérifié les paramètres de sécurité numérique et s'est assuré que le pare-feu actif fonctionnait correctement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He also reviewed data governance policies to ensure strict compliance with internal rules.",
+      "phonetic": "/hiː ˈɔːlsəʊ rɪˈvjuːd ˈdeɪtə ˈgʌvənəns ˈpɒlɪsiz tuː ɪnˈʃʊə strɪkt kəmˈplaɪəns wɪð ɪnˈtɜːnəl ruːlz/",
+      "text_native": "Il a également examiné les politiques de gouvernance des données pour garantir une stricte conformité avec les règles internes."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The deployment started smoothly late in the afternoon without any noticeable hardware error.",
+      "phonetic": "/ðə dɪˈplɔɪmənt ˈstɑːtɪd ˈsmuːðli leɪt ɪn ði ˈɑːftənuːn wɪˈaʊt ˈɛni ˈnəʊtɪsəbl ˈhɑːdweə ˈɛrə/",
+      "text_native": "Le déploiement a débuté sans encombre en fin d'après-midi, sans aucune erreur matérielle notable."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Arthur monitored the live dashboard closely to track the migration progress in real-time.",
+      "phonetic": "/ˈɑːθə ˈmɒnɪtəd ðə lɪv ˈdæʃˌbɔːd ˈkləʊsli tuː træk ðə maɪˈgreɪʃən ˈprəʊgrəs ɪn ˈriːəltaɪm/",
+      "text_native": "Arthur a surveillé de près le tableau de bord en direct pour suivre la progression de la migration en temps réel."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Every single file and user profile transferred successfully into the new cloud storage account.",
+      "phonetic": "/ˈɛvri ˈsɪŋgl faɪl ænd ˈjuːzə ˈprəʊfaɪl ˈtrænsfɜːd səkˈsɛsfʊli ˈɪntuː ðə njuː klaʊd ˈstɔːrɪʤ əˈkaʊnt/",
+      "text_native": "Chaque fichier et profil utilisateur a été transféré avec succès dans le nouveau compte de stockage cloud."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Thanks to careful planning, he did not need to trigger a sudden system rollback.",
+      "phonetic": "/θæŋks tuː ˈkɛəfʊl ˈplænɪŋ, hiː dɪd nɒt niːd tuː ˈtrɪgə ə ˈsʌdn ˈsɪstɪm ˈrəʊlˌbæk/",
+      "text_native": "Grâce à une planification minutieuse, il n'a pas eu besoin de déclencher un retour en arrière soudain du système."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He sent a confirmation email to his colleagues with a detailed update report attached.",
+      "phonetic": "/hiː sɛnt ə ˌkɒnfəˈmeɪʃən ˈiːmeɪl tuː hɪz ˈkɒliːgz wɪð ə ˈdiːteɪld ˈʌpdeɪt rɪˈpɔːt əˈtætʃt/",
+      "text_native": "Il a envoyé un e-mail de confirmation à ses collègues avec un rapport de mise à jour détaillé en pièce jointe."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Satisfied with the flawless performance, he shut down his computer and left the office.",
+      "phonetic": "/ˈsætɪsfaɪd wɪð ðə ˈflɔːlɪs pəˈfɔːməns, hiː ʃʌt daʊn hɪz kəmˈpjuːtə ænd lɛft ði ˈɒfɪs/",
+      "text_native": "Satisfait de la performance impeccable, il a éteint son ordinateur et a quitté le bureau."
+    }
+  ]
+}

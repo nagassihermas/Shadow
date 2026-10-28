@@ -1,0 +1,218 @@
+{
+  "title": "处理紧急电子邮件",
+  "new_vocabulary": [
+    "收件箱",
+    "主题",
+    "草稿",
+    "收件人",
+    "抄送",
+    "密送",
+    "正文",
+    "措辞",
+    "语气",
+    "专业",
+    "格式",
+    "段落",
+    "重点",
+    "简洁",
+    "明了",
+    "核对",
+    "发送键",
+    "撤回",
+    "已读",
+    "回执",
+    "存档",
+    "分类",
+    "标签",
+    "垃圾邮件",
+    "拦截",
+    "订阅",
+    "退订",
+    "密码",
+    "账户",
+    "登录"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我早上来到办公室，第一件事就是打开电脑登录工作账户。",
+      "phonetic": "Wǒ zǎoshang láidào bàngōngshì, dì yī jiàn shì jiù shì dǎkǎi diànnǎo dēnglù gōngzuò zhànghù.",
+      "text_native": "Je suis arrivé au bureau ce matin, et ma première tâche a été d'allumer l'ordinateur pour me connecter à mon compte professionnel."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "输入密码之后，我迅速进入了邮箱的收件箱。",
+      "phonetic": "Shūrù mìmǎ zhīhòu, wǒ xùnsù jìnrù le yóuxiāng de shōujiànxiāng.",
+      "phonetic_tone": "Shūrù mìmǎ zhīhòu, wǒ xùnsù jìnrù le yóuxiāng de shōujiànxiāng.",
+      "text_native": "Après avoir saisi mon mot de passe, je me suis rendu rapidement dans la boîte de réception de ma messagerie."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "屏幕上显示有很多未读信件，其中有一封来自市场部主管。",
+      "phonetic": "Píngmù shàng xiǎnshì yǒu hěnduō wèidú xìnjiàn, qízhōng yǒuyī fēng láizì shìchǎng bù zhǔguǎn.",
+      "text_native": "L'écran a affiché de nombreux messages non lus, dont un provenant du responsable du département marketing."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "这封邮件的主题非常醒目，标注着关于下半年预算的紧急通知。",
+      "phonetic": "Zhè fēng yóuxiāng de zhǔtí fēicháng xǐngmù, biāozhù zhe guānyú xiàbànnián yùsuàn de jǐnjí tōngzhī.",
+      "text_native": "L'objet de cet e-mail était très visible, indiquant un avis urgent concernant le budget du second semestre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我点开邮件仔细阅读正文，发现里面提到了几个关键的财务数据问题。",
+      "phonetic": "Wǒ diǎn kāi yóuxiāng zìxì yuèdú zhèngwén, fāxiàn lǐmiàn tí dào le jǐ gè guānjiàn de cáiwù shùjù wèntí.",
+      "text_native": "J'ai ouvert l'e-mail pour lire attentivement le corps du message et j'ai constaté qu'il soulevait plusieurs questions clés relatives aux données financières."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "为了不耽误进度，我决定马上写一封回复信给主管。",
+      "phonetic": "Wèile bù dānwù jìndù, wǒ juédìng mǎshàng xiě yī fēng huífù xìn gěi zhǔguǎn.",
+      "text_native": "Afin de ne pas retarder l'avancement des travaux, j'ai décidé de rédiger immédiatement une réponse au responsable."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我点击新建草稿，在收件人栏里准确填写了主管的邮箱地址。",
+      "phonetic": "Wǒ diǎnjī xīnjiàn cǎogǎo, zài shōujiànrén lán lǐ zhǔnquè tiánxiě le zhǔguǎn de yóuxiāng dìzhǐ.",
+      "text_native": "J'ai cliqué sur nouveau brouillon et renseigné avec précision l'adresse e-mail du responsable dans le champ du destinataire."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "同时，我还把项目经理加入了抄送行列，以便大家同步信息。",
+      "phonetic": "Tóngshí, wǒ hái bǎ xiàngmù jīnglǐ jiārù le chāosòng hángliè, yǐbiàn dàjiā tóngbù xìnxī.",
+      "text_native": "En même temps, j'ai également mis le chef de projet en copie (cc) afin que tout le monde dispose des mêmes informations."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "在正文的写作过程中，我特别注意了措辞和语气的专业性。",
+      "phonetic": "Zài zhèngwén de xiězuò guòchéng zhōng, wǒ tèbié zhùyì le cuòcí hé yǔqì de zhuānyè xìng.",
+      "text_native": "Pendant la rédaction du message, j'ai particulièrement veillé au professionnalisme des termes employés et du ton."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "为了让对方一目了然，我把内容分成了三个清晰的段落。",
+      "phonetic": "Wèile ràng duìfāng yīmùliǎorán, wǒ bǎ nèiróng fēn chéng le sān gè qīngxī de duànluò.",
+      "text_native": "Afin de lui permettre de comprendre la situation au premier coup d'œil, j'ai structuré le contenu en trois paragraphes clairs."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "第一段简要确认收到了通知，第二段分析了数据产生差异的原因。",
+      "phonetic": "Dì yī duàn jiǎnyào quèrèn shōudào le tōngzhī, dì èr duàn fēnxī le shùjù chǎnshēng chāyì de yuányīn.",
+      "text_native": "Le premier paragraphe confirme brièvement la réception de l'avis, et le deuxième analyse les raisons des écarts de données."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "第三段则提出了切实可行的修改建议，语言保持简洁明了。",
+      "phonetic": "Dì sān duàn zé tí chū le qièshí kěxíng de xiūgǎi jiànyì, yǔyán bǎochí jiǎnjié míngliǎo.",
+      "text_native": "Le troisième paragraphe formule des propositions de modification concrètes et réalisables, en veillant à ce que le langage reste concis et clair."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "写完文字之后，我没有忘记添加相关的财务报表作为附件。",
+      "phonetic": "Xiě wán wénzì zhīhòu, wǒ méiyǒu wàngjì tiānjiā xiāngguān de cáiwù bàobiǎo zuòwéi fùjiàn.",
+      "text_native": "Après avoir rédigé le texte, je n'ai pas oublié de joindre les rapports financiers correspondants."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "在点击发送键之前，我又重新核对了一遍所有的细节。",
+      "phonetic": "Zài diǎnjī fāsòng jiàn zhīqián, wǒ yòu chóngxīn héduì le yībiàn suǒyǒu de xìjié.",
+      "text_native": "Avant de cliquer sur le bouton d'envoi, j'ai vérifié une nouvelle fois l'ensemble des détails."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我检查了拼写错误、附件大小以及收件人地址是否完全正确。",
+      "phonetic": "Wǒ jiǎnchá le pīnxiě cuòwù, fùjiàn dàxiǎo yǐjí shōujiànrén dìzhǐ shìfǒu wánquán zhèngquè.",
+      "text_native": "J'ai vérifié s'il y avait des fautes d'orthographe, contrôlé la taille des pièces jointes et m'assuré que l'adresse du destinataire était parfaitement exacte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "确认无误后，我勾选了需要回执的选项，然后点击了发送。",
+      "phonetic": "Quèrèn wúwù hòu, wǒ gōuxuǎn le xūyào huízhí de xuǎnxiàng, ránhòu diǎnjī le fāsòng.",
+      "text_native": "Après m'être assuré de l'absence d'erreurs, j'ai coché l'option demandant un accusé de réception, puis j'ai cliqué sur envoyer."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "发送成功后，这封邮件自动被保存到了已发送的文件夹中。",
+      "phonetic": "Fāsòng chénggōng hòu, zhè fēng yóuxiāng zìdòng bèi bǎocún dào le yǐ fāsòng de wénjiànjiā zhōng.",
+      "text_native": "Une fois l'e-mail bien envoyé, il a été automatiquement sauvegardé dans le dossier des messages envoyés."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "不到两分钟，我就收到了系统提示对方已经成功接收的通知。",
+      "phonetic": "Bù dào liǎng fēnzhōng, wǒ jiù shōudào le xìtǒng tíshì duìfāng yǐjīng chénggōng jiēshōu de tōngzhī.",
+      "text_native": "En moins de deux minutes, j'ai reçu une notification du système m'indiquant que le destinataire avait bien reçu le message."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "接着，我开始清理收件箱里其他不需要留存的广告邮件。",
+      "phonetic": "Jiēzhe, wǒ kāishǐ qīnglǐ shōujiànxiāng lǐ qítā bù xūyào liúcún de guǎnggào yóuxiāng.",
+      "text_native": "Ensuite, j'ai commencé à faire du tri dans ma boîte de réception en supprimant les autres e-mails publicitaires inutiles."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "对于一些促销信息，我直接点击了退订按钮以防再收到打扰。",
+      "phonetic": "Duìyú yīxiē cùxiāo xìnxī, wǒ zhíjiē diǎnjī le tuìdìng ànniǔ yǐ fáng zài shōudào dǎrǎo.",
+      "text_native": "Pour certaines newsletters promotionnelles, j'ai cliqué directement sur le bouton de désabonnement afin de ne plus être importuné."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "有些带有可疑链接的垃圾邮件，被系统自动拦截并放进了垃圾箱。",
+      "phonetic": "Yǒuxiē dài yǒu kěyí liànjiē de lājī yóuxiàn, bèi xìtǒng zìdòng lánjié bìng fàng jìn le lājīxiāng.",
+      "text_native": "Certains courriers indésirables contenant des liens suspects ont été automatiquement bloqués par le système et placés dans le dossier spam."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "为了保持邮箱整洁，我给不同类别的信件都加上了相应的标签。",
+      "phonetic": "Wèile bǎochí yóuxiāng zhěngjié, wǒ gěi bùtóng lèibié de xìnjiàn dōu jiā shàng le xiāngyīng de biāoqiān.",
+      "text_native": "Afin de garder ma boîte mail bien organisée, j'ai attribué des étiquettes adaptées aux différentes catégories de courriers."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "处理完这些琐事后，我把重要的工作信件进行了归档处理。",
+      "phonetic": "Chǔlǐ wán zhèxiē suǒshì hòu, wǒ bǎ zhòngyào de gōngzuò xìnjiàn jìnxíng le guīdàng chǔlǐ.",
+      "text_native": "Une fois ces petites tâches administratives réglées, j'ai procédé à l'archivage des e-mails professionnels importants."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "中午的时候，市场部主管给我发来了满意的答复。",
+      "phonetic": "Zhōngwǔ de shíhòu, shìchǎng bù zhǔguǎn gěi wǒ fā lái le mǎnyì de dáfù.",
+      "text_native": "Vers midi, le responsable du département marketing m'a envoyé une réponse très positive."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "他在邮件里称赞我的建议非常专业，并且同意了修改方案。",
+      "phonetic": "Tā zài yóuxiāng lǐ chēngzàn wǒ de jiànyì fēicháng zhuānyè, bìngqiě tóngyì le xiūgǎi fāng'àn.",
+      "text_native": "Dans son message, il a salué la pertinence et le professionnalisme de mes suggestions, et a validé le plan de modification."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "看到这个好结果，我心里感到十分轻松和踏实。",
+      "phonetic": "Kàn dào zhège hǎo jiéguǒ, wǒ xīnlǐ gǎndào shífēn qīngsōng hé tàshí.",
+      "text_native": "À la lecture de ce retour favorable, j'ai éprouvé un grand soulagement et un sentiment de sérénité."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "通过这次高效的邮件沟通，我们顺利解决了项目的燃眉之急。",
+      "phonetic": "Tōngguò zhè cì gāoxiào de yóuxiāng gōutōng, wǒmen shùnlì jiějué le xiàngmù de ránméizhījí.",
+      "text_native": "Grâce à cet échange efficace par e-mail, nous avons pu résoudre rapidement l'urgence qui pénalisait le projet."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "下午还有几个会议要开，我需要提前准备好相关的资料。",
+      "phonetic": "Xiàwǔ hái yǒu jǐ gè huìyì yào kāi, wǒ xūyào tíqián zhǔnbèi hǎo xiāngguān de zīliào.",
+      "text_native": "J'avais encore plusieurs réunions prévues dans l'après-midi, et il me fallait préparer les documents nécessaires à l'avance."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "临下班前，我再次习惯性地刷新了一下收件箱确保没有漏掉新消息。",
+      "phonetic": "Lín xiàbān qián, wǒ zàicì xíguàn xìng de shuāxīn le yīxià shōujiànxiāng quèbǎo méiyǒu lòudiào xīn xiāoxī.",
+      "text_native": "Juste avant de quitter le bureau, j'ai actualisé une dernière fois ma boîte de réception par habitude, pour m'assurer de ne rater aucun nouveau message."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "关上电脑的那一刻，我满意地结束了今天忙碌而充实的工作。",
+      "phonetic": "Guān shàng diànnǎo de nà yī kè, wǒ mǎnyì de jiéshù le jīntiān mánglù ér chōngshí de gōngzuò.",
+      "text_native": "Au moment de fermer mon ordinateur, j'ai achevé avec satisfaction cette journée de travail à la fois bien remplie et enrichissante."
+    }
+  ]
+}

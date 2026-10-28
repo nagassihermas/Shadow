@@ -1,0 +1,197 @@
+{
+  "title": "我的家",
+  "new_vocabulary": [
+    "家",
+    "爸爸",
+    "妈妈",
+    "哥哥",
+    "妹妹",
+    "猫",
+    "狗",
+    "水",
+    "茶",
+    "饭"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是我家。",
+      "phonetic": "Zhè shì wǒ jiā.",
+      "text_native": "C'est ma maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有家。",
+      "phonetic": "Wǒ yǒu jiā.",
+      "text_native": "J'ai une maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "家很大。",
+      "phonetic": "Jiā hěn dà.",
+      "text_native": "La maison est grande."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "爸爸在。",
+      "phonetic": "Bàba zài.",
+      "text_native": "Papa est là."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "妈妈在。",
+      "phonetic": "Māma zài.",
+      "text_native": "Maman est là."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "哥哥在。",
+      "phonetic": "Gēge zài.",
+      "text_native": "Le grand frère est là."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "妹妹在。",
+      "phonetic": "Mèimei zài.",
+      "text_native": "La petite sœur est là."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我有爸爸。",
+      "phonetic": "Wǒ yǒu bàba.",
+      "text_native": "J'ai un papa."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我有妈妈。",
+      "phonetic": "Wǒ yǒu māma.",
+      "text_native": "J'ai une maman."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我有哥哥。",
+      "phonetic": "Wǒ yǒu gēge.",
+      "text_native": "J'ai un grand frère."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我有妹妹。",
+      "phonetic": "Wǒ yǒu mèimei.",
+      "text_native": "J'ai une petite sœur."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "爸爸喝水。",
+      "phonetic": "Bàba hē shuǐ.",
+      "text_native": "Papa boit de l'eau."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "妈妈喝茶。",
+      "phonetic": "Māma hē chá.",
+      "text_native": "Maman boit du thé."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "哥哥吃饭。",
+      "phonetic": "Gēge chī fàn.",
+      "text_native": "Le grand frère mange."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "妹妹吃饭。",
+      "phonetic": "Mèimei chī fàn.",
+      "text_native": "La petite sœur mange."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我有猫。",
+      "phonetic": "Wǒ yǒu māo.",
+      "text_native": "J'ai un chat."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我有狗。",
+      "phonetic": "Wǒ yǒu gǒu.",
+      "text_native": "J'ai un chien."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "猫是我的。",
+      "phonetic": "Māo shì wǒ de.",
+      "text_native": "Le chat est à moi."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "狗是我的。",
+      "phonetic": "Gǒu shì wǒ de.",
+      "text_native": "Le chien est à moi."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "猫喝水。",
+      "phonetic": "Māo hē shuǐ.",
+      "text_native": "Le chat boit de l'eau."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "狗喝水。",
+      "phonetic": "Gǒu hē shuǐ.",
+      "text_native": "Le chien boit de l'eau."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "爸爸喝茶。",
+      "phonetic": "Bàba hē chá.",
+      "text_native": "Papa boit du thé."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "妈妈喝水。",
+      "phonetic": "Māma hē shuǐ.",
+      "text_native": "Maman boit de l'eau."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "哥哥喝水。",
+      "phonetic": "Gēge hē shuǐ.",
+      "text_native": "Le grand frère boit de l'eau."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "妹妹喝水。",
+      "phonetic": "Mèimei hē shuǐ.",
+      "text_native": "La petite sœur boit de l'eau."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "家很好。",
+      "phonetic": "Jiā hěn hǎo.",
+      "text_native": "La maison est très bien."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "大家都好。",
+      "phonetic": "Dàjiā dōu hǎo.",
+      "text_native": "Tout le monde va bien."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我爱爸爸。",
+      "phonetic": "Wǒ ài bàba.",
+      "text_native": "J'aime papa."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我爱妈妈。",
+      "phonetic": "Wǒ ài māma.",
+      "text_native": "J'aime maman."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我爱我家。",
+      "phonetic": "Wǒ ài wǒ jiā.",
+      "text_native": "J'aime ma maison."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "title": "小明的交通选择",
+  "new_vocabulary": [
+    "堵车",
+    "司机",
+    "乘客",
+    "迟误",
+    "错过",
+    "航班",
+    "机场",
+    "行李",
+    "护照",
+    "安检",
+    "登机口",
+    "准时",
+    "出租车",
+    "预约",
+    "软件",
+    "目的地",
+    "费用",
+    "现金",
+    "导航",
+    "严重",
+    "高峰期",
+    "平时",
+    "大约",
+    "节省",
+    "赶快",
+    "顺利",
+    "旅程",
+    "愉快",
+    "放松"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天小明有一个重要的会议。",
+      "phonetic": "jīn tiān xiǎo míng yǒu yí gè zhòng yào de huì yì.",
+      "text_native": "Aujourd'hui, Xiao Ming a une réunion importante."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他早上很早起床准备离开家。",
+      "phonetic": "tā zǎo shàng hěn zǎo qǐ chuáng zhǔn bèi lí kāi jiā.",
+      "text_native": "Il s'est levé très tôt le matin pour se préparer à quitter la maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "天气很好，但是他觉得骑自行车太慢。",
+      "phonetic": "tiān qì hěn hǎo, dàn shì tā jué de qí zì xíng chē tài màn.",
+      "text_native": "Le temps est beau, mais il pense que faire du vélo est trop lent."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "坐地铁很方便，可是今天人太多。",
+      "phonetic": "zuò dì tiě hěn fāng biàn, kě shì jīn tiān rén tài duō.",
+      "text_native": "Prendre le métro est pratique, mais aujourd'hui il y a trop de monde."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "最后他决定用手机软件预约一个出租车。",
+      "phonetic": "zuì hòu tā jué dìng yòng shǒu jī ruǎn jiàn yù yuē yí gè chū zū chē.",
+      "text_native": "Finalement, il décide de réserver un taxi via une application mobile."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "司机师傅很快就到了楼下。",
+      "phonetic": "sī jī shī fu hěn kuài jiù dào le lóu xià.",
+      "text_native": "Le chauffeur est arrivé très vite en bas de l'immeuble."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "小明上车后告诉司机目的地。",
+      "phonetic": "xiǎo míng shàng chē hòu gào sù sī jī mù dì dì.",
+      "text_native": "Après être monté dans la voiture, Xiao Ming indique sa destination au chauffeur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "路上车辆非常多，交通情况有点严重。",
+      "phonetic": "lù shàng chē liàng fēi cháng duō, jiāo tōng qíng kuàng yǒu diǎn yán zhòng.",
+      "text_native": "Il y a énormément de véhicules sur la route et la circulation est un peu difficile."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "今天是早高峰期，到处都在堵车。",
+      "phonetic": "jīn tiān shì zǎo gāo fēng qī, dào chù dōu zài dǔ chē.",
+      "text_native": "C'est l'heure de pointe du matin, il y a des embouteillages partout."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "汽车开得很慢，司机看着导航换了一条路线。",
+      "phonetic": "qì chē kāi de hěn màn, sī jī kàn zhe dǎo háng huàn le yì tiáo lù xiàn.",
+      "text_native": "La voiture avance très lentement, le chauffeur regarde le GPS et change d'itinéraire."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "这条路线比平时好一些。",
+      "phonetic": "zhè tiáo lù xiàn bǐ píng shí hǎo yì xiē.",
+      "text_native": "Cet itinéraire est un peu mieux que d'habitude."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他在车里看着手机打发时间。",
+      "phonetic": "tā zài chē lǐ kàn zhe shǒu jī dǎ fā shí jiān.",
+      "text_native": "Il regarde son téléphone portable dans la voiture pour passer le temps."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "小明有点担心会迟到。",
+      "phonetic": "xiǎo míng yǒu diǎn dān xīn huì chí dào.",
+      "text_native": "Xiao Ming s'inquiète un peu d'arriver en retard."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他希望不要错过重要的会议。",
+      "phonetic": "tā xī wàng bú yào cuò guò zhòng yào de huì yì.",
+      "text_native": "Il espère ne pas rater la réunion importante."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "大约过了一个小时，他们终于到了公司附近。",
+      "phonetic": "dà yuē guò le yí gè xiǎo shí, tā men zhōng yú dào le gōng sī fù jìn.",
+      "text_native": "Environ une heure plus tard, ils sont enfin arrivés près de l'entreprise."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这次出行的费用可以通过手机刷卡支付。",
+      "phonetic": "zhè cì chū xíng de fèi yòng kě yǐ tōng guò shǒu jī shuā kǎ zhī fù.",
+      "text_native": "Le coût de ce trajet peut être payé par carte via le téléphone."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "小明下车前对司机说了一声谢谢。",
+      "phonetic": "xiǎo míng xià chē qián duì sī jī shuō le yì shēng xiè xie.",
+      "text_native": "Xiao Ming a dit merci au chauffeur avant de descendre de voiture."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "他快步走到大楼门口。",
+      "phonetic": "tā kuài bù zǒu dào dà lóu mén kǒu.",
+      "text_native": "Il a marché d'un pas rapide jusqu'à l'entrée de l'immeuble."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "幸运的是，他并没有迟到。",
+      "phonetic": "xìng yùn de shì, tā bìng méi yǒu chí dào.",
+      "text_native": "Heureusement, il n'est pas arrivé en retard."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "会议很顺利，老板很高兴。",
+      "phonetic": "huì yì hěn shùn lì, lǎo bǎn hěn gāo xìng.",
+      "text_native": "La réunion s'est bien déroulée et le patron était content."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "工作结束以后，他还要去机场。",
+      "phonetic": "gōng zuò jié shù yǐ hòu, tā hái yào qù jī chǎng.",
+      "text_native": "Une fois le travail terminé, il doit encore aller à l'aéroport."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他明天有一个出差计划。",
+      "phonetic": "tā míng tiān yǒu yí gè chū chāi jì huà.",
+      "text_native": "Il a un projet de voyage d'affaires demain."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "下午他回家准备行李和护照。",
+      "phonetic": "xià wǔ tā huí jiā zhǔn bèi xíng lǐ hé hù zhào.",
+      "text_native": "Dans l'après-midi, il est rentré chez lui pour préparer ses bagages et son passeport."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "这次他打算坐地铁去机场，因为这样能节省时间。",
+      "phonetic": "zhè cì tā dǎ suàn zuò dì tiě qù jī chǎng, yīn wèi zhè yàng néng jiě shěng shí jiān.",
+      "text_native": "Cette fois, il a l'intention de prendre le métro pour l'aéroport, car cela permet de gagner du temps."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "地铁站里人很多，但是换乘路线很清楚。",
+      "phonetic": "dì tiě zhàn lǐ rén hěn duō, dàn shì huàn chéng lù xiàn hěn qīng chu.",
+      "text_native": "Il y a beaucoup de monde dans la station de métro, mais les correspondances sont très claires."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "他顺利地找到了正确的方向。",
+      "phonetic": "tā shùn lì de zhǎo dào le zhèng què de fāng xiàng.",
+      "text_native": "Il a trouvé la bonne direction sans problème."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "列车开得很快，不到半小时就到了。",
+      "phonetic": "liè chē kāi de hěn kuài, bú dào bàn xiǎo shí jiù dào le.",
+      "text_native": "Le train roulait très vite et est arrivé en moins d'une demi-heure."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "进站安检以后，他找到了自己的登机口。",
+      "phonetic": "jìn zhàn ān jiǎn yǐ hòu, tā zhǎo dào le zì jǐ de dēng jī kǒu.",
+      "text_native": "Après le contrôle de sécurité à la station, il a trouvé sa porte d'embarquement."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "航班很准时，没有发生任何迟误。",
+      "phonetic": "háng bān hěn zhǔn shí, méi yǒu fā shēng rèn hé chí wù.",
+      "text_native": "Le vol était ponctuel et il n'y a eu aucun retard."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "他坐在座位上，高高兴兴地等待旅程开始。",
+      "phonetic": "tā zuò zài zuò wèi shàng, gāo gāo xìng xìng de děng dài lǚ chéng kāi shǐ.",
+      "text_native": "Il s'est assis à sa place et attend le début du voyage avec joie."
+    }
+  ]
+}

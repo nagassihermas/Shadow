@@ -1,0 +1,217 @@
+{
+  "title": "A Bad Day",
+  "new_vocabulary": [
+    "morning",
+    "wake up",
+    "feel",
+    "bad",
+    "throat",
+    "pain",
+    "cough",
+    "water",
+    "drink",
+    "glass",
+    "kitchen",
+    "walk",
+    "slowly",
+    "sit",
+    "chair",
+    "table",
+    "eat",
+    "nothing",
+    "appetite",
+    "body",
+    "weak",
+    "temperature",
+    "high",
+    "thermometer",
+    "look",
+    "phone",
+    "call",
+    "work",
+    "say",
+    "today"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Monday morning.",
+      "phonetic": "/ɪt ɪz ˈmʌndeɪ ˈmɔːrnɪŋ/",
+      "text_native": "C'est lundi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom wakes up early.",
+      "phonetic": "/tɒm weɪks ʌp ˈɜːrli/",
+      "text_native": "Tom se réveille tôt."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He does not feel good.",
+      "phonetic": "/hi dʌz nɒt fiːl ɡʊd/",
+      "text_native": "Il ne se sent pas bien."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He has a headache.",
+      "phonetic": "/hi hæz ə ˈhɛd.eɪk/",
+      "text_native": "Il a mal à la tête."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "His throat hurts.",
+      "phonetic": "/hɪz θroʊt hɜːrts/",
+      "text_native": "Il a mal à la gorge."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He has a bad cold.",
+      "phonetic": "/hi hæz ə bæd koʊld/",
+      "text_native": "Il a un gros rhume."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He also has a fever.",
+      "phonetic": "/hi ˈɔːlsoʊ hæz ə ˈfiːvər/",
+      "text_native": "Il a aussi de la fièvre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom feels very tired.",
+      "phonetic": "/tɒm fiːlz ˈvɛri ˈtaɪərd/",
+      "text_native": "Tom se sent très fatigué."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He starts to cough.",
+      "phonetic": "/hi stɑːrts tu kɔːf/",
+      "text_native": "Il commence à tousser."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He walks to the kitchen.",
+      "phonetic": "/hi wɔːks tu ðə ˈkɪtʃən/",
+      "text_native": "Il marche vers la cuisine."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He walks very slowly.",
+      "phonetic": "/hi wɔːks ˈvɛri ˈsloʊli/",
+      "text_native": "Il marche très lentement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He wants some water.",
+      "phonetic": "/hi wɒnts sʌm ˈwɔːtər/",
+      "text_native": "Il veut un peu d'eau."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He drinks a big glass.",
+      "phonetic": "/hi drɪŋks ə bɪɡ ɡlæs/",
+      "text_native": "Il en boit un grand verre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He sits on a chair.",
+      "phonetic": "/hi sɪts ɒn ə tʃɛər/",
+      "text_native": "Il s'assoit sur une chaise."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He looks at the table.",
+      "phonetic": "/hi lʊks æt ðə ˈteɪbəl/",
+      "text_native": "Il regarde la table."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He wants to eat bread.",
+      "phonetic": "/hi wɒnts tu iːt brɛd/",
+      "text_native": "Il veut manger du pain."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He eats nothing today.",
+      "phonetic": "/hi iːts ˈnʌθɪŋ təˈdeɪ/",
+      "text_native": "Il ne mange rien aujourd'hui."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He has no appetite.",
+      "phonetic": "/hi hæz noʊ ˈæpɪtaɪt/",
+      "text_native": "Il n'a pas d'appétit."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "His body is very weak.",
+      "phonetic": "/hɪz ˈbɑːdi ɪz ˈvɛri wiːk/",
+      "text_native": "Son corps est très faible."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "His temperature is high.",
+      "phonetic": "/hɪz ˈtɛmprətʃər ɪz haɪ/",
+      "text_native": "Sa température est élevée."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He checks the thermometer.",
+      "phonetic": "/hi tʃɛks ðə θərˈmɑːmətər/",
+      "text_native": "Il vérifie le thermomètre."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom looks for medicine.",
+      "phonetic": "/tɒm lʊks fɔːr ˈmɛdɪsɪn/",
+      "text_native": "Tom cherche des médicaments."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He takes some pills.",
+      "phonetic": "/hi teɪks sʌm pɪlz/",
+      "text_native": "Il prend des cachets."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He takes his phone.",
+      "phonetic": "/hi teɪks hɪz foʊn/",
+      "text_native": "Il prend son téléphone."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He calls his boss now.",
+      "phonetic": "/hi kɔːlz hɪz bɔːs naʊ/",
+      "text_native": "Il appelle son patron."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He calls the doctor too.",
+      "phonetic": "/hi kɔːlz ðə ˈdɑːktər tuː/",
+      "text_native": "Il appelle aussi le médecin."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He says he cannot work.",
+      "phonetic": "/hi sɛz hi ˈkænɒt wɜːrk/",
+      "text_native": "Il dit qu'il ne peut pas travailler."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He goes back to bed.",
+      "phonetic": "/hi ɡoʊz bæk tu bɛd/",
+      "text_native": "Il retourne se coucher."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He closes his eyes.",
+      "phonetic": "/hi ˈkloʊzɪz hɪz aɪz/",
+      "text_native": "Il ferme les yeux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He rests all day long.",
+      "phonetic": "/hi rɛsts ɔːl deɪ lɔːŋ/",
+      "text_native": "Il se repose toute la journée."
+    }
+  ]
+}

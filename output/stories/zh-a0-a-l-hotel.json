@@ -1,0 +1,126 @@
+{
+  "title": "在酒店",
+  "new_vocabulary": ["酒店", "房间", "钥匙", "床", "桌子", "椅子", "门", "灯", "水", "杯子"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我是客人。",
+      "phonetic": "Wǒ shì kèrén.",
+      "text_native": "Je suis un client."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我去酒店。",
+      "phonetic": "Wǒ qù jiǔdiàn.",
+      "text_native": "Je vais à l'hôtel."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我看前台。",
+      "phonetic": "Wǒ kàn qiántái.",
+      "text_native": "Je vois la réception."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我要房间。",
+      "phonetic": "Wǒ yào fángjiān.",
+      "text_native": "Je veux une chambre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我有钥匙。",
+      "phonetic": "Wǒ yǒu yàoshi.",
+      "text_native": "J'ai la clé."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "房间很大。",
+      "phonetic": "Fángjiān hěn dà.",
+      "text_native": "La chambre est grande."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "门是开的。",
+      "phonetic": "Mén shì kāi de.",
+      "text_native": "La porte est ouverte."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我走进去。",
+      "phonetic": "Wǒ zǒu jìn qù.",
+      "text_native": "J'entre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "这里有床。",
+      "phonetic": "Zhè lǐ yǒu chuáng.",
+      "text_native": "Il y a un lit ici."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "床很软。",
+      "phonetic": "Chuáng hěn ruǎn.",
+      "text_native": "Le lit est mou."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我看桌子。",
+      "phonetic": "Wǒ kàn zhuōzi.",
+      "text_native": "Je vois une table."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "桌上有灯。",
+      "phonetic": "Zhuō shàng yǒu dēng.",
+      "text_native": "Il y a une lampe sur la table."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "灯很亮。",
+      "phonetic": "Dēng hěn liàng.",
+      "text_native": "La lampe éclaire bien."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "这里有椅子。",
+      "phonetic": "Zhè lǐ yǒu yǐzi.",
+      "text_native": "Il y a une chaise ici."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我坐椅子。",
+      "phonetic": "Wǒ zuò yǐzi.",
+      "text_native": "Je m'assieds sur la chaise."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我有杯子。",
+      "phonetic": "Wǒ yǒu bēizi.",
+      "text_native": "J'ai un verre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "水很冷。",
+      "phonetic": "Shuǐ hěn lěng.",
+      "text_native": "L'eau est froide."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我休息。",
+      "phonetic": "Wǒ xiūxí.",
+      "text_native": "Je me repose."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我很累。",
+      "phonetic": "Wǒ hěn lèi.",
+      "text_native": "Je suis fatigué."
+    }
+  ]
+}

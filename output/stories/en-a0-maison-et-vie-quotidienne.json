@@ -1,0 +1,207 @@
+{
+  "title": "My New Day",
+  "new_vocabulary": [
+    "house",
+    "door",
+    "open",
+    "room",
+    "bed",
+    "get up",
+    "kitchen",
+    "table",
+    "chair",
+    "milk",
+    "cup",
+    "water",
+    "wash",
+    "face",
+    "clock",
+    "time",
+    "work",
+    "bag",
+    "phone",
+    "key"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "This is my house.",
+      "phonetic": "/ðɪs ɪz maɪ haʊs/",
+      "text_native": "C'est ma maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The door is open.",
+      "phonetic": "/ðə dɔːr ɪz ˈoʊ.pən/",
+      "text_native": "La porte est ouverte."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I am in my room.",
+      "phonetic": "/aɪ æm ɪn maɪ ruːm/",
+      "text_native": "Je suis dans ma chambre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The bed is big.",
+      "phonetic": "/ðə bɛd ɪz bɪɡ/",
+      "text_native": "Le lit est grand."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I get up now.",
+      "phonetic": "/aɪ ɡɛt ʌp naʊ/",
+      "text_native": "Je me lève maintenant."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I walk to the bathroom.",
+      "phonetic": "/aɪ wɔːk tuː ðə ˈbæθ.ruːm/",
+      "text_native": "Je marche vers la salle de bains."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I wash my face.",
+      "phonetic": "/aɪ wɒʃ maɪ feɪs/",
+      "text_native": "Je me lave le visage."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I look at the clock.",
+      "phonetic": "/aɪ lʊk æt ðə klɒk/",
+      "text_native": "Je regarde l'horloge."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːr.nɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I go to the kitchen.",
+      "phonetic": "/aɪ ɡoʊ tuː ðə ˈkɪtʃ.ən/",
+      "text_native": "Je vais à la cuisine."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The table is white.",
+      "phonetic": "/ðə ˈteɪ.bəl ɪz waɪt/",
+      "text_native": "La table est blanche."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I sit on a chair.",
+      "phonetic": "/aɪ sɪt ɒn ə tʃɛər/",
+      "text_native": "Je m'assois sur une chaise."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I want some food.",
+      "phonetic": "/aɪ wɒnt sʌm fuːd/",
+      "text_native": "Je veux un peu de nourriture."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I have a cup.",
+      "phonetic": "/aɪ hæv ə kʌp/",
+      "text_native": "J'ai une tasse."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I pour some milk.",
+      "phonetic": "/aɪ pɔːr sʌm mɪlk/",
+      "text_native": "Je verse un peu de lait."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I drink cold water.",
+      "phonetic": "/aɪ drɪŋk koʊld ˈwɔː.tər/",
+      "text_native": "Je bois de l'eau froide."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The bread is good.",
+      "phonetic": "/ðə brɛd ɪz ɡʊd/",
+      "text_native": "Le pain est bon."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I eat breakfast.",
+      "phonetic": "/aɪ iːt ˈbrɛk.fəst/",
+      "text_native": "Je prends le petit-déjeuner."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I clean the table.",
+      "phonetic": "/aɪ kliːn ðə ˈteɪ.bəl/",
+      "text_native": "Je nettoie la table."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I put my plate down.",
+      "phonetic": "/aɪ pʊt maɪ pleɪt daʊn/",
+      "text_native": "Je pose mon assiette."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I walk back to my room.",
+      "phonetic": "/aɪ wɔːk bæk tuː maɪ ruːm/",
+      "text_native": "Je retourne dans ma chambre."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I put on my clothes.",
+      "phonetic": "/aɪ pʊt ɒn maɪ kloʊðz/",
+      "text_native": "Je mets mes vêtements."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I grab my blue bag.",
+      "phonetic": "/aɪ ɡræb maɪ bluː bæɡ/",
+      "text_native": "Je prends mon sac bleu."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "My phone is inside.",
+      "phonetic": "/maɪ foʊn ɪz ɪnˈsaɪd/",
+      "text_native": "Mon téléphone est à l'intérieur."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I look for my keys.",
+      "phonetic": "/aɪ lʊk fɔːr maɪ kiːz/",
+      "text_native": "Je cherche mes clés."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Here is the key.",
+      "phonetic": "/hɪər ɪz ðə kiː/",
+      "text_native": "Voici la clé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I lock the front door.",
+      "phonetic": "/aɪ lɒk ðə frʌnt dɔːr/",
+      "text_native": "Je ferme la porte d'entrée à clé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I leave my house.",
+      "phonetic": "/aɪ liːv maɪ haʊs/",
+      "text_native": "Je quitte ma maison."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I walk to work.",
+      "phonetic": "/aɪ wɔːk tuː wɜːrk/",
+      "text_native": "Je vais au travail à pied."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "My day starts now.",
+      "phonetic": "/maɪ deɪ stɑːrts naʊ/",
+      "text_native": "Ma journée commence maintenant."
+    }
+  ]
+}

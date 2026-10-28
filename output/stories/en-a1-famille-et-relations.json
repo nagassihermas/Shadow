@@ -1,0 +1,186 @@
+{
+  "title": "My Family Weekend",
+  "new_vocabulary": ["weekend", "parents", "grandfather", "grandmother", "uncle", "aunt", "cousin", "son", "daughter", "child", "children", "baby", "man", "woman", "boy", "girl", "friend", "people", "name", "age", "year", "job", "work", "office", "doctor", "teacher", "cook", "eat", "drink", "talk", "laugh", "happy", "nice", "kind", "good", "bad", "old", "young", "tall", "short"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Hello, my name is Tom.",
+      "phonetic": "/həˈloʊ maɪ neɪm ɪz tɑm/",
+      "text_native": "Bonjour, je m'appelle Tom."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I live in a nice house.",
+      "phonetic": "/aɪ lɪv ɪn ə naɪs haʊs/",
+      "text_native": "J'habite dans une jolie maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My house is big.",
+      "phonetic": "/maɪ haʊs ɪz bɪɡ/",
+      "text_native": "Ma maison est grande."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I love my family.",
+      "phonetic": "/aɪ lʌv maɪ ˈfæməli/",
+      "text_native": "J'aime ma famille."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "My father and mother work hard.",
+      "phonetic": "/maɪ ˈfɑðər ænd ˈmʌðər wɜrk hɑrd/",
+      "text_native": "Mon père et ma mère travaillent dur."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "My father is a doctor.",
+      "phonetic": "/maɪ ˈfɑðər ɪz ə ˈdɑktər/",
+      "text_native": "Mon père est médecin."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "My mother is a teacher.",
+      "phonetic": "/maɪ ˈmʌðər ɪz ə ˈtiːtʃər/",
+      "text_native": "Ma mère est professeur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I have one brother and one sister.",
+      "phonetic": "/aɪ hæv wʌn ˈbrʌðər ænd wʌn ˈsɪstər/",
+      "text_native": "J'ai un frère et une sœur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "My brother is tall.",
+      "phonetic": "/maɪ ˈbrʌðər ɪz tɔl/",
+      "text_native": "Mon frère est grand."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "My sister is young.",
+      "phonetic": "/maɪ ˈsɪstər ɪz jʌŋ/",
+      "text_native": "Ma sœur est jeune."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Today is the weekend.",
+      "phonetic": "/təˈdeɪ ɪz ðə ˈwiːkˌɛnd/",
+      "text_native": "Aujourd'hui c'est le week-end."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Many people come to my house.",
+      "phonetic": "/ˈmɛni ˈpipəl kʌm tu maɪ haʊs/",
+      "text_native": "Beaucoup de gens viennent chez moi."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "My grandfather and grandmother are here.",
+      "phonetic": "/maɪ ˈɡrændˌfɑðər ænd ˈɡrændˌmʌðər ɑr hɪr/",
+      "text_native": "Mon grand-père et ma grand-mère sont là."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "They are old and very kind.",
+      "phonetic": "/ðeɪ ɑr oʊld ænd ˈvɛri kaɪnd/",
+      "text_native": "Ils sont âgés et très gentils."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "My uncle and aunt visit us too.",
+      "phonetic": "/maɪ ˈʌŋkəl ænd ænt ˈvɪzɪt ʌs tuː/",
+      "text_native": "Mon oncle et ma tante nous rendent visite aussi."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "My cousin is a nice boy.",
+      "phonetic": "/maɪ ˈkʌzən ɪz ə naɪs bɔɪ/",
+      "text_native": "Mon cousin est un gentils garçon."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "We play together in the garden.",
+      "phonetic": "/wi pleɪ təˈɡɛðər ɪn ðə ˈɡɑrdən/",
+      "text_native": "Nous jouons ensemble dans le jardin."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "A little baby is sleeping inside.",
+      "phonetic": "/ə ˈlɪtəl ˈbeɪbi ɪz ˈsliːpɪŋ ɪnˈsaɪd/",
+      "text_native": "Un petit bébé dort à l'intérieur."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The children laugh and run.",
+      "phonetic": "/ðə ˈtʃɪldrən læf ænd rʌn/",
+      "text_native": "Les enfants rient et courent."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "My mother cooks good food.",
+      "phonetic": "/maɪ ˈmʌðər kʊks ɡʊd fuːd/",
+      "text_native": "Ma mère cuisine de bons plats."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "We eat at a big table.",
+      "phonetic": "/wi iːt æt ə bɪɡ ˈteɪbəl/",
+      "text_native": "Nous mangeons à une grande table."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "We drink water and juice.",
+      "phonetic": "/wi drɪŋk ˈwɔtər ænd dʒuːs/",
+      "text_native": "Nous buvons de l'eau et du jus."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The adults talk about their jobs.",
+      "phonetic": "/ði əˈdʌlts tɔk əˈbaʊt ðɛr dʒɑbz/",
+      "text_native": "Les adultes parlent de leur travail."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Everyone is very happy.",
+      "phonetic": "/ˈɛvriˌwʌn ɪz ˈvɛri ˈhæpi/",
+      "text_native": "Tout le monde est très heureux."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "My friend comes to see me later.",
+      "phonetic": "/maɪ frɛnd kʌmz tu siː mi ˈleɪtər/",
+      "text_native": "Mon ami vient me voir plus tard."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "We are good friends.",
+      "phonetic": "/wi ɑr ɡʊd frɛndz/",
+      "text_native": "Nous sommes de bons amis."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The sun shines on the big house.",
+      "phonetic": "/ðə sʌn ʃaɪnz ɑn ðə bɪɡ haʊs/",
+      "text_native": "Le soleil brille sur la grande maison."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Evening comes slowly now.",
+      "phonetic": "/ˈivnɪŋ kʌmz ˈsloʊli naʊ/",
+      "text_native": "Le soir arrive lentement maintenant."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Family time is special.",
+      "phonetic": "/ˈfæməli taɪm ɪz ˈspɛʃəl/",
+      "text_native": "Les moments en famille sont précieux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I smile before I go to sleep.",
+      "phonetic": "/aɪ smaɪl bɪˈfɔr aɪ ɡoʊ tu sliːp/",
+      "text_native": "Je souris avant de m'endormir."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "A Difficult Request",
+  "new_vocabulary": [
+    "manager",
+    "colleague",
+    "department",
+    "meeting",
+    "schedule",
+    "tomorrow",
+    "forgot",
+    "attachment",
+    "format",
+    "update",
+    "report",
+    "review",
+    "suggest",
+    "change",
+    "version",
+    "include",
+    "details",
+    "section",
+    "policy",
+    "follow",
+    "guidelines",
+    "discuss",
+    "opinion",
+    "forward",
+    "history",
+    "receive",
+    "manage",
+    "organize",
+    "plan",
+    "successful"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The morning started with a new email from the department manager.",
+      "phonetic": "ðə ˈmɔːnɪŋ ˈstɑːtɪd wɪð ə nuː ˈiːmeɪl frɒm ðə dɪˈpɑːtmənt ˈmænɪʤə",
+      "text_native": "La matinée a commencé avec un nouvel e-mail du responsable de département."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Mark sat at his desk and opened his inbox to read it carefully.",
+      "phonetic": "mɑːk sæt æt hɪz dɛsk ænd ˈəʊpənd hɪz ˈɪnbɒks tuː riːd ɪt ˈkeəfʊli",
+      "text_native": "Mark s'est assis à son bureau et a ouvert sa boîte de réception pour le lire attentivement."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "His colleague sent a message about the important project.",
+      "phonetic": "hɪz ˈkɒliːg sɛnt ə ˈmɛsɪʤ əˈbaʊt ði ɪmˈpɔːtənt ˈprɒʤɛkt",
+      "text_native": "Son collègue a envoyé un message concernant cet important projet."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The manager wanted an update before the afternoon meeting.",
+      "phonetic": "ðə ˈmænɪʤə ˈwɒntɪd ən ˈʌpdeɪt bɪˈfɔː ði ˈɑːftənuːn ˈmiːtɪŋ",
+      "text_native": "Le responsable voulait un point de situation avant la réunion de l'après-midi."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Mark looked at the screen and realized he forgot a crucial detail.",
+      "phonetic": "mɑːk lʊkt æt ðə skriːn ænd ˈriːəlaɪzd hiː fəˈgɒt ə ˈkruːʃəl ˈdiːteɪl",
+      "text_native": "Mark a regardé l'écran et a réalisé qu'il avait oublié un détail crucial."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He needed to attach the latest report to a new reply.",
+      "phonetic": "hiː ˈniːdɪd tuː əˈtæʧ ðə ˈleɪtɪst rɪˈpɔːt tuː ə nuː rɪˈplaɪ",
+      "text_native": "Il devait joindre le dernier rapport à une nouvelle réponse."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The previous document format was not correct for the client.",
+      "phonetic": "ðə ˈpriːviəs ˈdɒkjʊmənt ˈfɔːmæt wɒz nɒt kəˈrɛkt fɔː ðə ˈklaɪənt",
+      "text_native": "Le format du document précédent n'était pas adapté pour le client."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He wrote a polite explanation and asked for a brief extension.",
+      "phonetic": "hiː rəʊt ə pəˈlaɪt ˌɛkspləˈneɪʃən ænd ɑːskt fɔː ə briːf ɪkˈstɛnʃən",
+      "text_native": "Il a rédigé une explication courtoise et a demandé un bref délai supplémentaire."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Before clicking send, he checked every section of the text.",
+      "phonetic": "bɪˈfɔː ˈklɪkɪŋ sɛnd, hiː ʧɛkt ˈɛvri ˈsɛkʃən ɒv ðə tɛkst",
+      "text_native": "Avant de cliquer sur envoyer, il a vérifié chaque section du texte."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "His boss replied quickly to suggest a small change in version.",
+      "phonetic": "hɪz bɒs rɪˈplaɪd ˈkwɪkli tuː səˈʤɛst ə smɔːl ʧeɪnʤ ɪn ˈvɜːʃən",
+      "text_native": "Son patron a répondu rapidement pour suggérer une légère modification de version."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Mark agreed with the suggestion and updated the file immediately.",
+      "phonetic": "mɑːk əˈgriːd wɪð ðə səˈʤɛstʃən ænd ˈʌpdeɪtɪd ðə faɪl ɪˈmiːdiətli",
+      "text_native": "Mark a accepté la suggestion et a mis à jour le fichier immédiatement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He included all necessary details in the final paragraph.",
+      "phonetic": "hiː ɪnˈkluːdɪd ɔːl ˈnɛsɪsəri ˈdiːteɪlz ɪn ðə ˈfaɪnəl ˈpærəgrɑːf",
+      "text_native": "Il a inclus tous les détails nécessaires dans le paragraphe final."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The company policy required strict adherence to professional guidelines.",
+      "phonetic": "ðə ˈkʌmpəni ˈpɒlɪsi rɪˈkwaɪəd strɪkt ədˈhɪərəns tuː prəˈfɛʃənl ˈgaɪdlaɪnz",
+      "text_native": "La politique de l'entreprise exigeait un respect strict des directives professionnelles."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He took a short break to drink some coffee and clear his mind.",
+      "phonetic": "hiː tʊk ə ʃɔːt breɪk tuː drɪŋk sʌm ˈkɒfi ænd klɪə hɪz maɪnd",
+      "text_native": "Il a pris une courte pause pour boire un café et se vider l'esprit."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Upon returning to his desk, he found another message in his inbox.",
+      "phonetic": "əˈpɒn rɪˈtɜːnɪŋ tuː hɪz dɛsk, hiː faʊnd əˈnʌðə ˈmɛsɪʤ ɪn hɪz ˈɪnbɒks",
+      "text_native": "À son retour à son bureau, il a trouvé un autre message dans sa boîte de réception."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "This time, the question came directly from an international partner.",
+      "phonetic": "ðɪs taɪm, ðə ˈkwɛsʧən keɪm dɪˈrɛktli frɒm ən ˌɪntəˈnæʃənl ˈpɑːtnə",
+      "text_native": "Cette fois, la question venait directement d'un partenaire international."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Mark organized his schedule to handle this new task efficiently.",
+      "phonetic": "mɑːk ˈɔːgənaɪzd hɪz ˈʃɛʤuːl tuː ˈhændl ðɪs nuː tɑːsk ɪˈfɪʃəntli",
+      "text_native": "Mark a organisé son emploi du temps pour gérer cette nouvelle tâche efficacement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He planned to discuss the matter during tomorrow's video call.",
+      "phonetic": "hiː plænd tuː dɪsˈkʌs ðə ˈmætə ˈdjʊərɪŋ təˈmɒrəʊz ˈvɪdɪəʊ kɔːl",
+      "text_native": "Il prévoyait de discuter de cette affaire lors de la visioconférence de demain."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Before calling, he wanted to forward the relevant message history.",
+      "phonetic": "bɪˈfɔː ˈkɔːlɪŋ, hiː ˈwɒntɪd tuː ˈfɔːwəd ðə ˈrɛlɪvənt ˈmɛsɪʤ ˈhɪstəri",
+      "text_native": "Avant d'appeler, il a voulu transférer l'historique des messages pertinents."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The partner received the documents and confirmed the correct receipt.",
+      "phonetic": "ðə ˈpɑːtnə rɪˈsiːvd ðə ˈdɒkjʊmɪnts ænd kənˈfɜːmd ðə kəˈrɛkt rɪˈsiːt",
+      "text_native": "Le partenaire a reçu les documents et a confirmé leur bonne réception."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Mark felt pleased because everything was going according to plan.",
+      "phonetic": "mɑːk fɛlt pliːzd bɪˈkɒz ˈɛvriθɪŋ wɒz ˈgəʊɪŋ əˈkɔːdɪŋ tuː plæn",
+      "text_native": "Mark était ravi car tout se déroulait comme prévu."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He asked his colleagues for their honest opinion on the new schedule.",
+      "phonetic": "hiː ɑːskt hɪz ˈkɒliːgz fɔː ðeər ˈɒnɪst əˈpɪnjən ɒn ðə nuː ˈʃɛʤuːl",
+      "text_native": "Il a demandé à ses collègues leur avis sincère sur le nouveau planning."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "They talked briefly in the office room before the big conference.",
+      "phonetic": "ðeɪ tɔːkt ˈbriːfli ɪn ði ˈɒfɪs ruːm bɪˈfɔː ðə bɪg ˈkɒnfərəns",
+      "text_native": "Ils ont discuté brièvement dans le bureau avant la grande conférence."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Everyone agreed that the communication was much better now.",
+      "phonetic": "ˈɛvriwʌn əˈgriːd ðæt ðə kəˌmjuːnɪˈkeɪʃən wɒz mʌʧ ˈbɛtə naʊ",
+      "text_native": "Tout le monde a convenu que la communication était bien meilleure désormais."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Mark returned to his computer to finish writing the final summary.",
+      "phonetic": "mɑːk rɪˈtɜːnd tuː hɪz kəmˈpjuːtə tuː ˈfɪnɪʃ ˈraɪtɪŋ ðə ˈfaɪnəl ˈsʌməri",
+      "text_native": "Mark est retourné à son ordinateur pour achever la rédaction du résumé final."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He saved the completed file and closed the heavy application.",
+      "phonetic": "hiː seɪvd ðə kəmˈpliːtɪd faɪl ænd kləʊzd ðə ˈhɛvi ˌæplɪˈkeɪʃən",
+      "text_native": "Il a enregistré le fichier finalisé et a fermé l'application lourde."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Managing emails effectively made his busy workday much easier.",
+      "phonetic": "ˈmænɪʤɪŋ ˈiːmeɪlz ɪˈfɛktɪvli meɪd hɪz ˈbɪzi ˈwɜːkˌdeɪ mʌʧ ˈiːziə",
+      "text_native": "Gérer ses e-mails efficacement a grandement facilité sa journée de travail chargée."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He locked his screen before leaving his desk for the evening.",
+      "phonetic": "hiː lɒkt hɪz skriːn bɪˈfɔː ˈliːvɪŋ hɪz dɛsk fɔː ði ˈiːvnɪŋ",
+      "text_native": "Il a verrouillé son écran avant de quitter son bureau pour la soirée."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The successful day proved that good writing skills were essential.",
+      "phonetic": "ðə səkˈsɛsfʊl deɪ pruːvd ðæt gʊd ˈraɪtɪŋ skɪlz wɜːr ɪˈsɛnʃəl",
+      "text_native": "Cette journée fructueuse a prouvé que de bonnes compétences rédactionnelles étaient essentielles."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He turned off the desk lamp and walked out of the quiet room.",
+      "phonetic": "hiː tɜːnd ɒf ðə dɛsk læmp ænd wɔːkt aʊt ɒv ðə ˈkwaɪət ruːm",
+      "text_native": "Il a éteint sa lampe de bureau et est sorti de la pièce calme."
+    }
+  ]
+}

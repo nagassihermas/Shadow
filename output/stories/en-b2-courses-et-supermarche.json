@@ -1,0 +1,217 @@
+{
+  "title": "A Weekly Grocery Routine",
+  "new_vocabulary": [
+    "routine",
+    "schedule",
+    "organize",
+    "pantry",
+    "inventory",
+    "available",
+    "discount",
+    "coupon",
+    "promotion",
+    "aisle",
+    "detergent",
+    "cleaning",
+    "supply",
+    "household",
+    "alternative",
+    "quality",
+    "organic",
+    "preference",
+    "nutrition",
+    "ingredient",
+    "quantity",
+    "estimate",
+    "budget",
+    "calculate",
+    "convenient",
+    "express",
+    "checkout",
+    "cashier",
+    "bagger",
+    "trunk"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Sarah established a strict schedule for her weekly grocery run.",
+      "phonetic": "/ˈsærə ɪˈstæblɪʃt ə strɪkt ˈskɛʤul fɔːr hɜːr ˈwikli ˈɡroʊsəri rʌn/",
+      "text_native": "Sarah a établi un horaire strict pour ses courses hebdomadaires."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "She always organizes her pantry before writing down any items.",
+      "phonetic": "/ʃi ˈɔlweɪz ˈɔrɡəˌnaɪzɪz hɜːr ˈpæntri bɪˈfɔr ˈraɪtɪŋ daʊn ˈɛni ˈaɪtəmz/",
+      "text_native": "Elle organise toujours son garde-manger avant de noter le moindre article."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Checking the inventory helps her avoid buying unnecessary products.",
+      "phonetic": "/ˈʧɛkɪŋ ði ˈɪnvəntɔri hɛlps hɜːr əˈvɔɪd ˈbaɪɪŋ ˌʌnˈsɛsəˌsɛri ˈprɑdəkts/",
+      "text_native": "Vérifier l'inventaire l'aide à éviter d'acheter des produits superflus."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "She browses through a digital flyer to find current discounts.",
+      "phonetic": "/ʃi braʊzɪz θruː ə ˈdɪʤɪtəl ˈflaɪər tuː faɪnd ˈkɜrənt ˈdɪskaʊnts/",
+      "text_native": "Elle feuillette un prospectus numérique pour trouver les réductions en cours."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Clipping digital coupons can significantly reduce her total bill.",
+      "phonetic": "/ˈklɪpɪŋ ˈdɪʤɪtəl ˈkuˌpɑnz kæn sɪɡˈnɪfɪkəntli rɪˈdus hɜːr ˈtoʊtəl bɪl/",
+      "text_native": "Télécharger des coupons numériques peut réduire considérablement sa facture totale."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Today, organic vegetables are featured in a special promotion.",
+      "phonetic": "/təˈdeɪ, ɔrˈɡænɪk ˈvɛʤtəbəlz ɑr ˈfiʧərd ɪn ə ˈspɛʃəl prəˈmoʊʃən/",
+      "text_native": "Aujourd'hui, les légumes bio font l'objet d'une promotion spéciale."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "She grabs a heavy trolley near the sliding entrance doors.",
+      "phonetic": "/ʃi ɡræbz ə ˈhɛvi ˈtrɑli nɪr ðə ˈslaɪdɪŋ ˈɛntrəns dɔrz/",
+      "text_native": "Elle attrape un lourd chariot près des portes d'entrée coulissantes."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The bustling atmosphere reminds her of a busy Saturday morning.",
+      "phonetic": "/ðə ˈbʌsəlɪŋ ˈætməˌsfɪr rɪˈmaɪndz hɜːr ʌv ə ˈbɪzi ˈsætərdi ˈmɔrnɪŋ/",
+      "text_native": "L'atmosphère animée lui rappelle un samedi matin bien rempli."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "She navigates expertly through the dairy and bakery departments.",
+      "phonetic": "/ʃi ˈnævəˌɡeɪts ˈɛkspərtli θruː ðə ˈdɛri ænd ˈbeɪkəri dɪˈpɑrtmənts/",
+      "text_native": "Elle navigue avec aisance dans les rayons des produits laitiers et de la boulangerie."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Checking nutrition labels has become a healthy personal habit.",
+      "phonetic": "/ˈʧɛkɪŋ nuˈtrɪʃən ˈleɪbəlz hæz bɪˈkʌm ə ˈhɛlθi ˈpɜrsənəl ˈhæbɪt/",
+      "text_native": "Vérifier les étiquettes nutritionnelles est devenu une saine habitude personnelle."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "When her favorite brand is unavailable, she looks for alternatives.",
+      "phonetic": "/wɛn hɜːr ˈfeɪvərɪt brænd ɪz ˌʌnəˈveɪləbəl, ʃi lʊks fɔr ɔlˈtɜrnətɪvz/",
+      "text_native": "Quand sa marque préférée n'est pas disponible, elle cherche des alternatives."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "She compares the unit prices to ensure maximum savings.",
+      "phonetic": "/ʃi kəmˈpɛrz ðə ˈjunɪt ˈpraɪsɪz tuː ɪnˈʃʊr ˈmæksəməm ˈseɪvɪŋz/",
+      "text_native": "Elle compare les prix unitaires pour garantir un maximum d'économies."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Every single ingredient for her planned dinners goes into the cart.",
+      "phonetic": "/ˈɛvri ˈsɪŋɡəl ɪnˈɡridiənt fɔr hɜːr plænd ˈdɪnərz ɡoʊz ˈɪntuː ðə kɑrt/",
+      "text_native": "Chaque ingrédient de ses dîners prévus va dans le chariot."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Household cleaning supplies occupy an entire central aisle.",
+      "phonetic": "/ˈhaʊshoʊld ˈklinɪŋ səˈplaɪz ˈɑkjəpaɪ ən ɪnˈtaɪr ˈsɛntrəl aɪl/",
+      "text_native": "Les produits d'entretien ménager occupent toute une allée centrale."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "She carefully estimates the exact quantity of laundry detergent needed.",
+      "phonetic": "/ʃi ˈkɛrfəli ˈɛstəˌmeɪts ði ɪɡˈzækt ˈkwɑntəti ʌv ˈlɔndri dɪˈtɜrʤənt ˈnidɪd/",
+      "text_native": "Elle estime soigneusement la quantité exacte de lessive nécessaire."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Calculating her budget constantly prevents any unpleasant financial surprises.",
+      "phonetic": "/ˈkælkjuˌleɪtɪŋ hɜːr ˈbʌʤɪt ˈkɑnstəntli prɪˈvɛnts ˈɛni ʌnˈplɛzənt fəˈnænʃəl sərˈpraɪzɪz/",
+      "text_native": "Calculer constamment son budget prévient toute mauvaise surprise financière."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The heavy glass bottles require careful handling at the bottom.",
+      "phonetic": "/ðə ˈhɛvi ɡlæs ˈbɑtəlz rɪˈkwaɪr ˈkɛrfəl ˈhændlɪŋ æt ðə ˈbɑtəm/",
+      "text_native": "Les lourdes bouteilles en verre nécessitent une manipulation délicate."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Fresh bakery items smell incredible as she passes the ovens.",
+      "phonetic": "/frɛʃ ˈbeɪkəri ˈaɪtəmz smɛl ɪnˈkrɛdəbəl æz ʃi ˈpæsɪz ði ˈʌvənz/",
+      "text_native": "Les produits de boulangerie frais sentent incroyablement bon lorsqu'elle passe devant les fours."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "She selects a crusty artisan loaf instead of sliced white bread.",
+      "phonetic": "/ʃi səˈlɛkts ə ˈkrʌsti ˈɑrtəzən loʊf ɪnˈstɛd ʌv slaɪst waɪt brɛd/",
+      "text_native": "Elle choisit une miche de pain artisanal croustillant au lieu de pain blanc tranché."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Frozen pizzas and vegetables go into insulated bags immediately.",
+      "phonetic": "/ˈfroʊzən ˈpitsəz ænd ˈvɛʤtəbəlz ɡoʊ ˈɪntuː ˈɪnsəˌleɪtɪd bæɡz ɪˈmidiətli/",
+      "text_native": "Les pizzas surgelées et les légumes vont immédiatement dans des sacs isothermes."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The main queues look rather long and somewhat discouraging.",
+      "phonetic": "/ðə meɪn kjuːz lʊk ˈræðər lɔŋ ænd ˈsʌmwʌt dɪsˈkɜrɪʤɪŋ/",
+      "text_native": "Les files d'attente principales ont l'air plutôt longues et un peu décourageantes."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Fortunately, an express checkout opens just beside her location.",
+      "phonetic": "/fɔrˈʧənətli, ən ɪkˈsprɛs ˈʧɛkaʊt ˈoʊpənz ʤʌst bɪˈsaɪd hɜːr loʊˈkeɪʃən/",
+      "text_native": "Heureusement, une caisse express ouvre juste à côté d'elle."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "A friendly cashier greets every customer with a warm smile.",
+      "phonetic": "/ə ˈfrɛndli kæˈʃɪr ɡrits ˈɛvri ˈkʌstəmər wɪð ə wɔrm smaɪl/",
+      "text_native": "Un caissier sympathique accueille chaque client avec un sourire chaleureux."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The automated scanner rapidly processes each barcode efficiently.",
+      "phonetic": "/ði ˈɔtəˌmeɪtɪd ˈskænər ˈræpɪdli ˈprɑsɛsɪz iʧ ˈbɑrˌkoʊd ɪˈfɪʃəntli/",
+      "text_native": "Le scanner automatisé traite rapidement chaque code-barres de manière efficace."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "A helpful bagger organizes the plastic bags according to weight.",
+      "phonetic": "/ə ˈhɛlpfəl ˈbæɡər ˈɔrɡəˌnaɪzɪz ðə ˈplæstɪk bæɡz əˈkɔrdɪŋ tuː weɪt/",
+      "text_native": "Un emballeur serviable range les sacs en plastique en fonction du poids."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Sarah pays conveniently using her contactless payment card.",
+      "phonetic": "/ˈsærə peɪz kənˈvinjəntli ˈjuːzɪŋ hɜːr ˈkɑntæktlɪs ˈpeɪmənt kɑrd/",
+      "text_native": "Sarah paie facilement en utilisant sa carte de paiement sans contact."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "She accepts the printed receipt and tucks it safely inside her wallet.",
+      "phonetic": "/ʃi əkˈsɛpts ðə ˈprɪntɪd rɪˈsit ænd tʌks ɪt ˈseɪfli ɪnˈsaɪd hɜːr ˈwɑlət/",
+      "text_native": "Elle prend le ticket de caisse imprimé et le range en lieu sûr dans son portefeuille."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Pushing the heavy cart outside, she heads toward her vehicle.",
+      "phonetic": "/ˈpʊʃɪŋ ðə ˈhɛvi kɑrt ˌaʊˈsaɪd, ʃi hɛdz təˈwɔrd hɜːr ˈviɪkəl/",
+      "text_native": "Poussant le lourd chariot dehors, elle se dirige vers son véhicule."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "She opens the car trunk and loads all the groceries carefully.",
+      "phonetic": "/ʃi ˈoʊpənz ðə kɑr trʌŋk ænd loʊdz ɔl ðə ˈɡroʊsəriz ˈkɛrfəli/",
+      "text_native": "Elle ouvre le coffre de la voiture et charge toutes les courses avec soin."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Driving back home, she feels satisfied with a well-managed shopping trip.",
+      "phonetic": "/ˈdraɪvɪŋ bæk hoʊm, ʃi filz ˈsætɪsˌfaɪd wɪð ə wɛl-ˈmænəʤd ˈʃɑpɪŋ trɪp/",
+      "text_native": "En rentrant chez elle, elle se sent satisfaite de ses courses rondement menées."
+    }
+  ]
+}

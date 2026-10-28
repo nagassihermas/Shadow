@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "This is my room.",
+    "phonetic": "/ðɪs ɪz maɪ ruːm/",
+    "text_native": "C'est ma chambre.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I live in a small flat.",
+    "phonetic": "/aɪ lɪv ɪn ə smɔːl flæt/",
+    "text_native": "J'habite dans un petit appartement.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The door is open.",
+    "phonetic": "/ðə dɔːr ɪz ˈoʊpən/",
+    "text_native": "La porte est ouverte.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "My keys are on the table.",
+    "phonetic": "/maɪ kiːz ɑːr ɑːn ðə ˈteɪbəl/",
+    "text_native": "Mes clés sont sur la table.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I like my new sofa.",
+    "phonetic": "/aɪ laɪk maɪ nuː ˈsoʊfə/",
+    "text_native": "J'aime bien mon nouveau canapé.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Where is the remote control?",
+    "phonetic": "/wɛər ɪz ðə rɪˈmoʊt kənˈtroʊl/",
+    "text_native": "Où est la télécommande ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Turn on the light, please.",
+    "phonetic": "/tɜːrn ɑːn ðə laɪt pliːz/",
+    "text_native": "Allume la lumière, s'il te plaît.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I want a cup of coffee.",
+    "phonetic": "/aɪ wɑːnt ə kʌp əv ˈkɑːfi/",
+    "text_native": "Je veux une tasse de café.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The milk is in the fridge.",
+    "phonetic": "/ðə mɪlk ɪz ɪn ðə frɪdʒ/",
+    "text_native": "Le lait est dans le frigo.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I am cooking dinner now.",
+    "phonetic": "/aɪ æm ˈkʊkɪŋ ˈdɪnər naʊ/",
+    "text_native": "Je cuisine le dîner en ce moment.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "We eat at seven o'clock.",
+    "phonetic": "/wiː iːt æt ˈsɛvən əˈklɑːk/",
+    "text_native": "On mange à sept heures.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Can you wash these dishes?",
+    "phonetic": "/kæn juː wɑːʃ ðiːz ˈdɪʃɪz/",
+    "text_native": "Tu peux faire cette vaisselle ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "My clothes are in the wash.",
+    "phonetic": "/maɪ kloʊðz ɑːr ɪn ðə wɑːʃ/",
+    "text_native": "Mes vêtements sont à la machine.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I need to clean the bathroom.",
+    "phonetic": "/aɪ niːd tuː kliːn ðə ˈbæθruːm/",
+    "text_native": "Il faut que je nettoie la salle de bains.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The cat is sleeping on the bed.",
+    "phonetic": "/ðə kæt ɪz ˈsliːpɪŋ ɑːn ðə bɛd/",
+    "text_native": "Le chat dort sur le lit.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I charge my phone every night.",
+    "phonetic": "/aɪ tʃɑːrdʒ maɪ foʊn ˈɛvri naɪt/",
+    "text_native": "Je charge mon téléphone tous les soirs.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Let's watch a film tonight.",
+    "phonetic": "/lɛts wɑːtʃ ə fɪlm təˈnaɪt/",
+    "text_native": "On se regarde un film ce soir ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I usually go to bed at ten.",
+    "phonetic": "/aɪ ˈjuːʒuəli goʊ tuː bɛd æt tɛn/",
+    "text_native": "D'habitude je vais me coucher à dix heures.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Don't forget to lock the front door.",
+    "phonetic": "/doʊnt fərˈɡɛt tuː lɑːk ðə frʌnt dɔːr/",
+    "text_native": "N'oublie pas de fermer la porte d'entrée à clé.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I am so tired, I am going to sleep.",
+    "phonetic": "/aɪ æm soʊ ˈtaɪərd, aɪ æm ˈɡoʊɪŋ tuː sliːp/",
+    "text_native": "Je suis trop fatigué, je vais dormir.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

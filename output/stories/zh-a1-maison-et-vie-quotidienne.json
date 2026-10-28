@@ -1,0 +1,197 @@
+{
+  "title": "我的家和每一天",
+  "new_vocabulary": [
+    "起床",
+    "刷牙",
+    "洗脸",
+    "早餐",
+    "咖啡",
+    "报纸",
+    "工作",
+    "做饭",
+    "电视",
+    "睡觉"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是我的家。",
+      "phonetic": "Zhè shì wǒ de jiā.",
+      "text_native": "C'est ma maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我家有一个客厅和两个卧室。",
+      "phonetic": "Wǒ jiā yǒu yí gè kètīng hé liǎng gè wòshì.",
+      "text_native": "Ma maison a un salon et deux chambres."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "厨房很大，卫生间很干净。",
+      "phonetic": "Chúfáng hěn dà, wèishēngjiān hěn gānjìng.",
+      "text_native": "La cuisine est grande et la salle de bains est propre."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "早上七点，我起床。",
+      "phonetic": "Zǎoshang qī diǎn, wǒ qǐchuáng.",
+      "text_native": "À sept heures du matin, je me lève."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我走去卫生间。",
+      "phonetic": "Wǒ zǒu qù wèishēngjiān.",
+      "text_native": "Je vais à la salle de bains."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我刷牙和洗脸。",
+      "phonetic": "Wǒ shuāyá hé xǐliǎn.",
+      "text_native": "Je me brosse les dents et je me lave le visage."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "然后，我去厨房。",
+      "phonetic": "Ránhòu, wǒ qù chúfáng.",
+      "text_native": "Ensuite, je vais à la cuisine."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我做早餐。",
+      "phonetic": "Wǒ zuò zǎocān.",
+      "text_native": "Je prépare le petit-déjeuner."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我喝一杯咖啡。",
+      "phonetic": "Wǒ hē yì bēi kāfēi.",
+      "text_native": "Je bois une tasse de café."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我吃两个面包。",
+      "phonetic": "Wǒ chī liǎng gè miànbāo.",
+      "text_native": "Je mange deux morceaux de pain."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "八点钟，我坐在客厅里。",
+      "phonetic": "Bā diǎn zhōng, wǒ zuò zài kètīng lǐ.",
+      "text_native": "À huit heures, je m'assois dans le salon."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我看报纸。",
+      "phonetic": "Wǒ kàn bàozhǐ.",
+      "text_native": "Je lis un journal."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "九点，我开始工作。",
+      "phonetic": "Jiǔ diǎn, wǒ kāishǐ gōngzuò.",
+      "text_native": "À neuf heures, je commence à travailler."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我在书房用电脑。",
+      "phonetic": "Wǒ zài shūfáng yòng diànnǎo.",
+      "text_native": "J'utilise l'ordinateur dans le bureau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "中午十二点，我吃午饭。",
+      "phonetic": "Zhōngwǔ shí'èr diǎn, wǒ chī wǔfàn.",
+      "text_native": "À midi, je prends mon déjeuner."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "下午，我继续工作。",
+      "phonetic": "Xiàwǔ, wǒ jìxù gōngzuò.",
+      "text_native": "L'après-midi, je continue à travailler."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "下午五点，我关上电脑。",
+      "phonetic": "Xiàwǔ wǔ diǎn, wǒ guān shàng diànnǎo.",
+      "text_native": "À dix-sept heures, j'éteins l'ordinateur."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我离开房间。",
+      "phonetic": "Wǒ líkāi fángjiān.",
+      "text_native": "Je quitte la pièce."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我走去超市。",
+      "phonetic": "Wǒ zǒu qù chāoshì.",
+      "text_native": "Je vais au supermarché à pied."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我买苹果和水。",
+      "phonetic": "Wǒ mǎi píngguǒ hé shuǐ.",
+      "text_native": "J'achète des pommes et de l'eau."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我回家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre à la maison."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "晚上七点，我做晚饭。",
+      "phonetic": "Wǎnshang qī diǎn, wǒ zuò wǎnfàn.",
+      "text_native": "À dix-neuf heures, je prépare le dîner."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我和朋友一起吃饭。",
+      "phonetic": "Wǒ hé péngyǒu yìqǐ chīfàn.",
+      "text_native": "Je mange avec un ami."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我们吃米饭和菜。",
+      "phonetic": "Wǒmen chī mǐfàn hé cài.",
+      "text_native": "Nous mangeons du riz et des légumes."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "晚饭后，我们洗碗。",
+      "phonetic": "Wǎnfàn hòu, wǒmen xǐ wǎn.",
+      "text_native": "Après le dîner, nous faisons la vaisselle."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "八点半，朋友回家。",
+      "phonetic": "Bā diǎn bàn, péngyǒu huí jiā.",
+      "text_native": "À huit heures et demie, l'ami rentre chez lui."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我在客厅看电视。",
+      "phonetic": "Wǒ zài kètīng kàn diànshì.",
+      "text_native": "Je regarde la télévision dans le salon."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "十点，我关电视。",
+      "phonetic": "Shí diǎn, wǒ guān diànshì.",
+      "text_native": "À dix heures, j'éteins la télévision."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我走回卧室。",
+      "phonetic": "Wǒ zǒu huí wòshì.",
+      "text_native": "Je retourne dans la chambre."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "十点半，我睡觉。",
+      "phonetic": "Shí diǎn bàn, wǒ shuìjiào.",
+      "text_native": "À dix heures et demie, je vais me coucher."
+    }
+  ]
+}

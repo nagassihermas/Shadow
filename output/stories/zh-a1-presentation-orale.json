@@ -1,0 +1,217 @@
+{
+  "title": "口头报告",
+  "new_vocabulary": [
+    "今天",
+    "下午",
+    "教室",
+    "里面",
+    "很多",
+    "同学",
+    "站",
+    "前面",
+    "开始",
+    "说话",
+    "大家好",
+    "我叫",
+    "今年",
+    "岁",
+    "国籍",
+    "中国人",
+    "现在",
+    "住在",
+    "北京",
+    "工作",
+    "喜欢",
+    "看书",
+    "和",
+    "听",
+    "音乐",
+    "周末",
+    "常常",
+    "去",
+    "公园",
+    "谢谢"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天下午，教室里面有很多同学。",
+      "phonetic": "Jīntiān xiàwǔ, jiàoshì lǐmiàn yǒu hěnduō tóngxué.",
+      "text_native": "Cet après-midi, il y a beaucoup d'élèves dans la classe."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "老师说，现在大家开始做口头报告。",
+      "phonetic": "Lǎoshī shuō, xiànzài dàjiā kāishǐ zuò kǒutóu bàogào.",
+      "text_native": "Le professeur dit que tout le monde commence maintenant l'exposé oral."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "王明站起来。",
+      "phonetic": "Wáng Míng zhàn qǐlái.",
+      "text_native": "Wang Ming se lève."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他走到前面去。",
+      "phonetic": "Tā zǒu dào qiánmiàn qù.",
+      "text_native": "Il s'avance vers l'avant."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "他看着大家，很高兴。",
+      "phonetic": "Tā kànzhe dàjiā, hěn gāoxìng.",
+      "text_native": "Il regarde tout le monde et est très heureux."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "王明说：“大家好。”",
+      "phonetic": "Wáng Míng shuō: \"Dàjiā hǎo.\"",
+      "text_native": "Wang Ming dit : \"Bonjour à tous.\""
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "“我叫王明。”",
+      "phonetic": "\"Wǒ jiào Wáng Míng.\"",
+      "text_native": "\"Je m'appelle Wang Ming.\""
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "“我是这里的学生。”",
+      "phonetic": "\"Wǒ shì zhèlǐ de xuésheng.\"",
+      "text_native": "\"Je suis un élève d'ici.\""
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "“我今年二十岁。”",
+      "phonetic": "\"Wǒ jīnnián èrshí suì.\"",
+      "text_native": "\"J'ai vingt ans cette année.\""
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "“我是中国人。”",
+      "phonetic": "\"Wǒ shì Zhōngguó rén.\"",
+      "text_native": "\"Je suis Chinois.\""
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "“现在我住在北京。”",
+      "phonetic": "\"Xiànzài wǒ zhù zài Běijīng.\"",
+      "text_native": "\"Maintenant j'habite à Pékin.\""
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "“我的家不大。”",
+      "phonetic": "\"Wǒ de jiā bú dà.\"",
+      "text_native": "\"Ma maison n'est pas grande.\""
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "“我的爸爸和妈妈都在北京工作。”",
+      "phonetic": "\"Wǒ de bàba hé māmā dōu zài Běijīng gōngzuò.\"",
+      "text_native": "\"Mon papa et ma maman travaillent tous les deux à Pékin.\""
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "“我有一个妹妹。”",
+      "phonetic": "\"Wǒ yǒu yí gè mèimei.\"",
+      "text_native": "\"J'ai une petite sœur.\""
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "“她也是学生。”",
+      "phonetic": "\"Tā yě shì xuésheng.\"",
+      "text_native": "\"Elle est aussi élève.\""
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "“我很喜欢学习汉语。”",
+      "phonetic": "\"Wǒ hěn xǐhuān xuéxí Hànyǔ.\"",
+      "text_native": "\"J'aime beaucoup étudier le chinois.\""
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "“我的老师非常好。”",
+      "phonetic": "\"Wǒ de lǎoshī fēicháng hǎo.\"",
+      "text_native": "\"Mon professeur est formidable.\""
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "“同学们也很友好。”",
+      "phonetic": "\"Tóngxuémen yě hěn yǒuhǎo.\"",
+      "text_native": "\"Les camarades de classe sont aussi très amicaux.\""
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "“我每天去学校。”",
+      "phonetic": "\"Wǒ měitiān qù xuéxiào.\"",
+      "text_native": "\"Je vais à l'école tous les jours.\""
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "“我在学校看书。”",
+      "phonetic": "\"Wǒ zài xuéxiào kànshū.\"",
+      "text_native": "\"Je lis des livres à l'école.\""
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "“我也喜欢听音乐。”",
+      "phonetic": "\"Wǒ yě xǐhuān tīng yīnyuè.\"",
+      "text_native": "\"J'aime aussi écouter de la musique.\""
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "“下午我常常喝茶。”",
+      "phonetic": "\"Xiàwǔ wǒ chángcháng hē chá.\"",
+      "text_native": "\"L'après-midi, je bois souvent du thé.\""
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "“周末我常常去公园。”",
+      "phonetic": "\"Zhōumò wǒ chángcháng qù gōngyuán.\"",
+      "text_native": "\"Le week-end, je vais souvent au parc.\""
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "“今天的天气很好。”",
+      "phonetic": "\"Jīntiān de tiānqì hěn hǎo.\"",
+      "text_native": "\"Le temps d'aujourd'hui est très beau.\""
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "“公园里有很多花。”",
+      "phonetic": "\"Gōngyuán lǐ yǒu hěnduō huā.\"",
+      "text_native": "\"Il y a beaucoup de fleurs dans le parc.\""
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "“我很喜欢我的生活。”",
+      "phonetic": "\"Wǒ hěn xǐhuān wǒ de shēnghuó.\"",
+      "text_native": "\"J'aime beaucoup ma vie.\""
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "“这就是我的自我介绍。”",
+      "phonetic": "\"Zhè jiù shì wǒ de zìwǒ jièshào.\"",
+      "text_native": "\"C'est donc ma présentation personnelle.\""
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "“谢谢大家。”",
+      "phonetic": "\"Xièxie dàjiā.\"",
+      "text_native": "\"Merci à tous.\""
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "老师和同学都笑起来。",
+      "phonetic": "Lǎoshī hé tóngxué dōu xiào qǐlái.",
+      "text_native": "Le professeur et les élèves se mettent à sourire."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "大家给王明鼓掌。",
+      "phonetic": "Dàjiā gěi Wáng Míng gǔzhǎng.",
+      "text_native": "Tout le monde applaudit Wang Ming."
+    }
+  ]
+}

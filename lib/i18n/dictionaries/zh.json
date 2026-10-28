@@ -1,0 +1,24 @@
+{
+  "common": {
+    "interfaceLanguage": "界面语言",
+    "back": "返回"
+  },
+  "nav": {
+    "home": "首页",
+    "blocks": "词块",
+    "practice": "练习",
+    "stats": "统计"
+  },
+  "auth": {
+    "emailLabel": "电子邮箱",
+    "sendMagicLink": "发送登录链接",
+    "sending": "发送中…",
+    "magicLinkSent": "链接已发送，请查收邮箱。",
+    "error": "发送失败，请重试。"
+  },
+  "TODO_blocks_page": "__NEEDS_SOURCE__",
+  "TODO_practice_page": "__NEEDS_SOURCE__",
+  "TODO_stats_page": "__NEEDS_SOURCE__",
+  "TODO_shadowing_page": "__NEEDS_SOURCE__",
+  "TODO_recall_page": "__NEEDS_SOURCE__"
+}

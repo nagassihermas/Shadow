@@ -1,0 +1,227 @@
+{
+  "title": "A Misunderstood Schedule",
+  "new_vocabulary": [
+    "misunderstood",
+    "schedule",
+    "clutter",
+    "drawer",
+    "retrieval",
+    "confusing",
+    "misinterpret",
+    "guidance",
+    "pharmacist",
+    "verify",
+    "dispense",
+    "cautious",
+    "hesitate",
+    "clue",
+    "overlook",
+    "crucial",
+    "detail",
+    "accurate",
+    "estimation",
+    "properly",
+    "configure",
+    "remind",
+    "alarm",
+    "device",
+    "promptly",
+    "adhere",
+    "strict",
+    "protocol",
+    "ensure",
+    "optimal",
+    "outcome",
+    "resolve",
+    "concern",
+    "relief",
+    "distribute",
+    "storage",
+    "condition",
+    "environment",
+    "shelf",
+    "stability"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "David stared at the clutter inside his kitchen drawer.",
+      "phonetic": "/ˈdeɪvɪd stɛərd æt ðə ˈklʌtər ˈɪnsaɪd hɪz ˈkɪtʃən drɔːər/",
+      "text_native": "David regardait le désordre à l'intérieur de son tiroir de cuisine."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He needed to retrieve a specific medication box.",
+      "phonetic": "/hiː ˈniːdɪd tuː rɪˈtriːv ə spəˈsɪfɪk ˌmɛdɪˈkeɪʃən bɒks/",
+      "text_native": "Il avait besoin de retrouver une boîte de médicaments spécifique."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The small print on the label seemed rather confusing today.",
+      "phonetic": "/ðə smɔːl prɪnt ɒn ðə ˈleɪbəl siːmd ˈræðər kənˈfjuːzɪŋ təˈdeɪ/",
+      "text_native": "Les petits caractères sur l'étiquette semblaient plutôt confus aujourd'hui."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He wanted to avoid any mistake that could lead him to misinterpret the instructions.",
+      "phonetic": "/hiː ˈwɒntɪd tuː əˈvɔɪd ˈɛni mɪˈsteɪk ðæt kʊd liːd hɪm tuː ˌmɪsɪnˈtɜːprɪt ðə ɪnˈstrʌkʃənz/",
+      "text_native": "Il voulait éviter toute erreur qui pourrait le conduire à mal interpréter les instructions."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Professional guidance was clearly necessary before taking another dose.",
+      "phonetic": "/prəˈfɛʃənl ˈɡaɪdəns wɒz ˈklɪərli ˈnɛsəsəri bɪˈfɔːr ˈteɪkɪŋ əˈnʌðər dəʊs/",
+      "text_native": "Un avis professionnel était clairement nécessaire avant de prendre une autre dose."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Therefore, he decided to call the local pharmacist to verify everything.",
+      "phonetic": "/ˈðɛəfɔːr, hiː dɪˈsaɪdɪd tuː kɔːl ðə ˈləʊkəl ˈfɑːrməsɪst tuː ˈvɛrɪfaɪ ˈɛvriθɪŋ/",
+      "text_native": "Par conséquent, il décida d'appeler le pharmacien local pour tout vérifier."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The expert on the phone confirmed how the tablets should be taken.",
+      "phonetic": "/ði ˈɛkspɜːrt ɒn ðə fəʊn kənˈfɜːrmd haʊ ðə ˈtæblɪts ʃʊd biː ˈteɪkən/",
+      "text_native": "L'expert au téléphone a confirmé comment les comprimés devaient être pris."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Being cautious, David did not hesitate to ask multiple questions.",
+      "phonetic": "/ˈbiːɪŋ ˈkɔːʃəs, ˈdeɪvɪd dɪd nɒt ˈhɛzɪteɪt tuː ɑːsk ˈmʌltɪpl ˈkwɛstʃənz/",
+      "text_native": "Étant prudent, David n'a pas hésité à poser de multiples questions."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Every single detail on the packaging provided an important clue.",
+      "phonetic": "/ˈɛvri ˈsɪŋɡl ˈdiːteɪl ɒn ðə ˈpækɪdʒɪŋ prəˈvaɪdɪd ən ɪmˈpɔːrtənt kluː/",
+      "text_native": "Chaque détail sur l'emballage fournissait un indice important."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "It was easy to overlook a crucial hourly interval in the daily schedule.",
+      "phonetic": "/ɪt wɒz ˈiːzi tuː ˌəʊvəˈlʊk ə ˈkruːʃəl ˈaʊərli ˈɪntərvəl ɪn ðə ˈdeɪli ˈʃɛduːl/",
+      "text_native": "Il était facile de négliger un intervalle d'une heure crucial dans l'horaire quotidien."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "An accurate measurement of the liquid medicine was also required.",
+      "phonetic": "/ən ˈækjʊrət ˈmɛʒərmənt ɒv ðə ˈlɪkwɪd ˈmɛdɪsɪn wɒz ˈɔːlsəʊ rɪˈkwaɪərd/",
+      "text_native": "Une mesure précise du médicament liquide était également requise."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He needed to configure a digital reminder on his mobile device.",
+      "phonetic": "/hiː ˈniːdɪd tuː kənˈfɪɡər ə ˈdɪdʒɪtl rɪˈmaɪndər ɒn hɪz ˈməʊbaɪl dɪˈvaɪs/",
+      "text_native": "Il avait besoin de configurer un rappel numérique sur son appareil mobile."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The alarm would ring promptly when the next administration time arrived.",
+      "phonetic": "/ði əˈlɑːrm wʊd rɪŋ ˈprɒmptli wɛn ðə nɛkst ədˌmɪnɪˈstreɪʃən taɪm əˈraɪvd/",
+      "text_native": "L'alarme sonnerait rapidement lorsque le moment de la prochaine administration arriverait."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Adhering to a strict protocol ensured a better health outcome.",
+      "phonetic": "/ədˈhɪərɪŋ tuː ə strɪkt ˈprəʊtəkɒl ɪnˈʃʊərd ə ˈbɛtər hɛlθ ˈaʊtˌkʌm/",
+      "text_native": "Respecter un protocole strict garantissait un meilleur résultat de santé."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The pharmacist warned him against altering the recommended quantity.",
+      "phonetic": "/ðə ˈfɑːrməsɪst wɔːrnd hɪm əˈɡɛnst ˈɔːltərɪŋ ðə ˈrɛkəmɛndɪd ˈkwɒntɪti/",
+      "text_native": "Le pharmacien l'a mis en garde contre la modification de la quantité recommandée."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Any deviation could trigger an unwanted side effect like severe drowsiness.",
+      "phonetic": "/ˈɛni ˌdiːviˈeɪʃən kʊd ˈtrɪɡər ən ˈʌnwɒntɪd saɪd ɪˈfɛkt laɪk sɪˈvɪər ˈdraʊzinəs/",
+      "text_native": "Toute déviation pouvait déclencher un effet secondaire indésirable comme une somnolence sévère."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "David listened carefully to every single warning about potential risks.",
+      "phonetic": "/ˈdeɪvɪd ˈlɪsənd ˈkɛrfʊli tuː ˈɛvri ˈsɪŋɡl ˈwɔːrnɪŋ əˈbaʊt pəˈtɛnʃəl rɪsks/",
+      "text_native": "David a écouté attentivement chaque avertissement concernant les risques potentiels."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He wrote down the exact frequency and duration in his notebook.",
+      "phonetic": "/hiː rəʊt daʊn ði ɪɡˈzækt ˈfriːkwənsi ænd djʊˈreɪʃən ɪn hɪz ˈnʊtbʊk/",
+      "text_native": "Il a écrit la fréquence exacte et la durée dans son carnet."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "This proper routine would help him achieve a steady recovery.",
+      "phonetic": "/ðɪs ˈprɒpər ruːˈtiːn wʊd hɛlp hɪm əˈtʃiːv ə ˈstɛdi rɪˈkʌvəri/",
+      "text_native": "Cette routine appropriée l'aiderait à obtenir un rétablissement régulier."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Optimal health outcomes depended heavily on this personal discipline.",
+      "phonetic": "/ˈɒptɪməl hɛlθ ˈaʊtˌkʌmz dɪˈpɛndɪd ˈhɛvɪli ɒn ðɪs ˈpɜːrsənl ˈdɪsɪplɪn/",
+      "text_native": "Des résultats de santé optimaux dépendaient fortement de cette discipline personnelle."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "His stomach had felt weak lately, requiring a gentle treatment plan.",
+      "phonetic": "/hɪz ˈstʌmək hæd fɛlt wiːk ˈleɪtli, rɪˈkwaɪərɪŋ ə ˈdʒɛntl ˈtriːtmənt plæn/",
+      "text_native": "Son estomac s'était senti faible ces derniers temps, nécessitant un plan de traitement doux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Taking food alongside the pills prevented any heavy discomfort.",
+      "phonetic": "/ˈteɪkɪŋ fuːd əˈlɒŋsaɪd ðə pɪlz prɪˈvɛntɪd ˈɛni ˈhɛvi dɪsˈkʌmfərt/",
+      "text_native": "Prendre de la nourriture en même temps que les pilules évitait tout inconfort important."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The patient record showed continuous progress over the last week.",
+      "phonetic": "/ðə ˈpeɪʃənt ˈrɛkərd ʃəʊd kənˈtɪnjuəs ˈprəʊɡrəs ˈəʊvər ðə lɑːst wiːk/",
+      "text_native": "Le dossier du patient montrait des progrès continus au cours de la semaine dernière."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Resolving his persistent cough remained the main objective today.",
+      "phonetic": "/rɪˈzɒlvɪŋ hɪz pəˈsɪstənt kɒf rɪˈmeɪnd ðə meɪn əbˈdʒɛktɪv təˈdeɪ/",
+      "text_native": "Résoudre sa toux persistante restait l'objectif principal aujourd'hui."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Proper storage conditions also mattered for maintaining drug stability.",
+      "phonetic": "/ˈprɒpər ˈstɔːrɪdʒ kənˈdɪʃənz ˈɔːlsəʊ ˈmætərd fɔːr ˈmeɪnteɪnɪŋ drʌɡ stəˈbɪlɪti/",
+      "text_native": "Des conditions de stockage appropriées importaient également pour maintenir la stabilité du médicament."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Leaving bottles near a warm kitchen window was a bad idea.",
+      "phonetic": "/ˈliːvɪŋ ˈbɒtəlz nɪər ə wɔːrm ˈkɪtʃən ˈwɪndəʊ wɒz ə bæd aɪˈdiːə/",
+      "text_native": "Laisser des bouteilles près d'une fenêtre de cuisine chaude était une mauvaise idée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He placed every medical container safely on a dark pantry shelf.",
+      "phonetic": "/hiː pleɪst ˈɛvri ˈmɛdɪkl kənˈteɪnər ˈseɪfli ɒn ə dɑːrk ˈpæntri ʃɛlf/",
+      "text_native": "Il a placé chaque contenant médical en toute sécurité sur une étagère de garde-manger sombre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Such concerns vanished once he understood the instructions fully.",
+      "phonetic": "/sʌtʃ kənˈsɜːrnz ˈvænɪʃt wʌns hiː ˌʌndəˈstʊd ði ɪnˈstrʌkʃənz ˈfʊli/",
+      "text_native": "De telles préoccupations ont disparu une fois qu'il a pleinement compris les instructions."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He felt a wave of relief knowing his health was improving.",
+      "phonetic": "/hiː fɛlt ə weɪv ɒv rɪˈliːf ˈnəʊɪŋ hɪz hɛlθ wɒz ɪmˈpruːvɪŋ/",
+      "text_native": "Il a ressenti une vague de soulagement en sachant que sa santé s'améliorait."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Tomorrow morning would mark the successful completion of this cycle.",
+      "phonetic": "/təˈmɒrəʊ ˈmɔːrnɪŋ wʊd mɑːrk ðə səkˈsɛsfʊl kəmˈpliːʃən ʌv ðɪs ˈsaɪkl/",
+      "text_native": "Demain matin marquerait la fin réussie de ce cycle."
+    }
+  ]
+}

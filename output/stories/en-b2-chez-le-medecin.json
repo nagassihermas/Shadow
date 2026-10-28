@@ -1,0 +1,217 @@
+{
+  "title": "A Routine Medical Consultation",
+  "new_vocabulary": [
+    "consultation",
+    "schedule",
+    "practitioner",
+    "concern",
+    "worsen",
+    "gradually",
+    "persistent",
+    "exhaustion",
+    "schedule",
+    "forward",
+    "available",
+    "slot",
+    "convenient",
+    "thorough",
+    "examination",
+    "investigate",
+    "underlying",
+    "cause",
+    "blood",
+    "sample",
+    "laboratory",
+    "analyze",
+    "results",
+    "reassurance",
+    "recover",
+    "treatment",
+    "plan",
+    "follow-up",
+    "forward",
+    "discharge"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Mark decided to book a consultation because his health concerns were increasing.",
+      "phonetic": "/mɑːrk dɪˈsaɪdɪd tuː bʊk ə ˌkɒnslˈteɪʃn bɪˈkɒz hɪz hɛlt kənˈsɜːnz wɜːr ɪnˈkriːsɪŋ/",
+      "text_native": "Mark a décidé de prendre un rendez-vous de consultation parce que ses problèmes de santé s'aggravaient."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "His symptoms had worsened gradually over the past week.",
+      "phonetic": "/hɪz ˈsɪmptəmz hæd ˈwɜːrsənd ˈɡrædʒuəli ˈəʊvər ðə pɑːst wiːk/",
+      "text_native": "Ses symptômes s'étaient aggravés progressivement au cours de la semaine précédente."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He experienced a persistent cough and unusual exhaustion.",
+      "phonetic": "/hiː ɪkˈspɪəriənst ə pəˈsɪstənt kɒf ænd ʌnˈjuːʒuəl ɪɡˈzɔːstʃən/",
+      "text_native": "Il souffrait d'une toux persistante et d'une fatigue inhabituelle."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Therefore, he phoned his local medical practice early in the morning.",
+      "phonetic": "/ˈðeəfɔːr, hiː fəʊnd hɪz ˈləʊkl ˈmɛdɪkl ˈpræktɪs ˈɜːli ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Par conséquent, il a téléphoné à son cabinet médical de quartier tôt le matin."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The receptionist greeted him politely and asked about his availability.",
+      "phonetic": "/ðə rɪˈsɛpʃənɪst ˈɡriːtɪd hɪm pəˈlaɪtli ænd ɑːskt əˈbaʊt hɪz əˌveɪləˈbɪləti/",
+      "text_native": "La réceptionniste l'a accueilli poliment et s'est renseignée sur ses disponibilités."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "She checked the computer system to find an open slot.",
+      "phonetic": "/ʃiː tʃɛkt ðə kəmˈpjuːtə ˈsɪstəm tuː faɪnd ən ˈəʊpən slɒt/",
+      "text_native": "Elle a consulté le système informatique pour trouver un créneau libre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Fortunately, a practitioner had a cancellation for that afternoon.",
+      "phonetic": "/ˈfɔːtʃənətli, ə prækˈtɪʃənər hæd ə ˌkænsəˈleɪʃən fɔːr ðæt ˌɑːftəˈnuːn/",
+      "text_native": "Heureusement, un praticien avait eu un désistement pour l'après-midi même."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Mark agreed immediately because the timing was very convenient.",
+      "phonetic": "/mɑːrk əˈɡriːd ɪˈmiːdiətli bɪˈkɒz ðə ˈtaɪmɪŋ wɒz ˈvɛri kənˈviːniənt/",
+      "text_native": "Mark a accepté immédiatement, car l'horaire lui convenait parfaitement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He arrived at the facility ten minutes before his scheduled time.",
+      "phonetic": "/hiː əˈraɪvd æt ðə fəˈsɪlɪti tɛn ˈmɪnɪts bɪˈfɔːr hɪz ˈskɛdjuːld taɪm/",
+      "text_native": "Il est arrivé à l'établissement dix minutes avant l'heure prévue."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "While sitting in the waiting area, he completed a brief medical questionnaire.",
+      "phonetic": "/waɪl ˈsɪtɪŋ ɪn ðə ˈweɪtɪŋ ˈeəriə, hiː kəmˈpliːtɪd ə briːf ˈmɛdɪkl ˌkwɛstʃəˈnɛər/",
+      "text_native": "Assis dans la salle d'attente, il a rempli un bref questionnaire médical."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Soon after, a nurse called his name and guided him inside.",
+      "phonetic": "/suːn ˈɑːftər, ə nɜːs kɔːld hɪz neɪm ænd ˈɡaɪdɪd hɪm ɪnˈsaɪd/",
+      "text_native": "Peu après, une infirmière a prononcé son nom et l'a fait entrer."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "She measured his vital signs including temperature and blood pressure.",
+      "phonetic": "/ʃiː ˈmɛʒərd hɪz ˈvaɪtl saɪnz ɪnˈkluːdɪŋ ˈtɛmprətʃər ænd blʌd ˈprɛʃər/",
+      "text_native": "Elle a mesuré ses constantes vitales, notamment sa température et sa tension artérielle."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Everything seemed relatively normal, but further checking was necessary.",
+      "phonetic": "/ˈɛvriθɪŋ siːmd ˈrɛlətɪvli ˈnɔːml, bʌt ˈfɜːðər ˈtʃɛkɪŋ wɒz ˈnɛsəsəri/",
+      "text_native": "Tout semblait relativement normal, mais des examens complémentaires étaient nécessaires."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The doctor entered the office and shook hands warmly with Mark.",
+      "phonetic": "/ðə ˈdɒktər ˈɛntərd ðə ˈɒfɪs ænd ʃʊk hændz ˈwɔːmli wɪð mɑːrk/",
+      "text_native": "Le médecin est entré dans le cabinet et a serré la main de Mark chaleureusement."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "They sat down so Mark could thoroughly explain his discomfort.",
+      "phonetic": "/ðeɪ sæt daʊn səʊ mɑːrk kʊd ˈθʌrəli ɪksˈpleɪn hɪz dɪsˈkʌmfərt/",
+      "text_native": "Ils se sont assis pour que Mark puisse décrire en détail ce qui le faisait souffrir."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The physician listened carefully without interrupting the explanation.",
+      "phonetic": "/ðə fɪˈzɪʃn ˈlɪsnd ˈkɛəfəli wɪˈaʊt ˌɪntəˈrʌptɪŋ ði ˌɛkspləˈneɪʃən/",
+      "text_native": "Le médecin a écouté attentivement sans l'interrompre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Then, he performed a thorough physical examination of the chest.",
+      "phonetic": "/ðɛn, hiː pəˈfɔːrmd ə ˈθʌrəli ˈfɪzɪkl ɪɡˌzæmɪˈneɪʃən ɒv ðə tʃɛst/",
+      "text_native": "Ensuite, il a procédé à un examen physique approfondi du thorax."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He used a stethoscope to listen carefully to the patient's breathing.",
+      "phonetic": "/hiː juːzd ə ˈstɛθəskəʊp tuː ˈlɪsn ˈkɛəfəli tuː ðə ˈpeɪʃənts ˈbriːðɪŋ/",
+      "text_native": "Il a utilisé un stéthoscope pour écouter attentivement la respiration du patient."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The doctor noticed a minor infection in the upper airways.",
+      "phonetic": "/ðə ˈdɒktər ˈnəʊtɪst ə ˈmaɪnər ɪnˈfɛkʃən ɪn ði ˈʌpər ˈeəweɪz/",
+      "text_native": "Le médecin a détecté une infection bénigne des voies respiratoires supérieures."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "To investigate further, he decided to order a blood test.",
+      "phonetic": "/tuː ɪnˈvɛstɪɡeɪt ˈfɜːðər, hiː dɪˈsaɪdɪd tuː ˈɔːrdər ə blʌd tɛst/",
+      "text_native": "Pour approfondir le diagnostic, il a décidé de prescrire une prise de sang."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The nurse returned quickly to take a small blood sample.",
+      "phonetic": "/ðə nɜːs rɪˈtɜːnd ˈkwɪkli tuː teɪk ə smɔːl blʌd ˈsɑːmpl/",
+      "text_native": "L'infirmière est revenue rapidement pour prélever un petit échantillon de sang."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "This sample would go to the laboratory for detailed analysis.",
+      "phonetic": "/ðɪs ˈsɑːmpl wʊd ɡəʊ tuː ðə ləˈbɒrətəri fɔːr ˈdiːteɪld əˈnæləsɪs/",
+      "text_native": "Cet échantillon a été envoyé au laboratoire pour une analyse approfondie."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Afterwards, the doctor provided clear reassurance about the recovery process.",
+      "phonetic": "/ˈɑːftəwərdz, ðə ˈdɒktər prəˈvaɪdɪd klɪər ˌriːəˈʃʊrəns əˈbaʊt ðə rɪˈkʌvəri ˈprəʊsɛs/",
+      "text_native": "Ensuite, le médecin s'est voulu très rassurant quant au processus de guérison."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He wrote a prescription for targeted antibiotics and soothing cough syrup.",
+      "phonetic": "/hiː rəʊt ə prɪˈskrɪpʃən fɔːr ˈtɑːɡɪtɪd ˌæntibaɪˈɒtɪks ænd ˈsuːðɪŋ kɒf ˈsɪrəp/",
+      "text_native": "Il lui a rédigé une ordonnance pour des antibiotiques ciblés et un sirop calmant pour la toux."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Mark needed to take the medication strictly according to instructions.",
+      "phonetic": "/mɑːrk ˈniːdɪd tuː teɪk ðə ˌmɛdɪˈkeɪʃən ˈstrɪktli əˈkɔːrdɪŋ tuː ɪnˈstrʌkʃənz/",
+      "text_native": "Mark devait suivre scrupuleusement la posologie indiquée pour son traitement."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Additionally, strict rest at home was strongly recommended for several days.",
+      "phonetic": "/əˈdɪʃənəli, strɪkt rɛst æt həʊm wɒz ˈstrɒŋli ˈrɛkəmɛndɪd fɔːr ˈsɛvrəl deɪz/",
+      "text_native": "De plus, un repos strict à domicile lui a été fortement conseillé pendant plusieurs jours."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Before leaving, Mark scheduled a follow-up appointment for the next week.",
+      "phonetic": "/bɪˈfɔːr ˈliːvɪŋ, mɑːrk ˈskɛdjuːld ə ˈfɒləʊˌʌp əˈpɔɪntmənt fɔːr ðə nɛkst wiːk/",
+      "text_native": "Avant de partir, Mark a pris un rendez-vous de suivi pour la semaine suivante."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He thanked the medical team and walked toward the pharmacy outside.",
+      "phonetic": "/hiː θæŋkt ðə ˈmɛdɪkl tiːm ænd wɔːkt ˈtɔːwərd ðə ˈfɑːməsi ˈaʊtsaɪd/",
+      "text_native": "Il a remercié l'équipe médicale et s'est dirigé vers la pharmacie la plus proche."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "With the proper treatment plan, he expected to feel much better soon.",
+      "phonetic": "/wɪð ðə ˈprɒpər ˈtriːtmənt plæn, hiː ɪkˈspɛktɪd tuː fiːl mʌtʃ ˈbɛtər suːn/",
+      "text_native": "Grâce à ce traitement adapté, il espérait se sentir beaucoup mieux très bientôt."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His discharge from the clinic marked the beginning of his recovery.",
+      "phonetic": "/hɪz dɪsˈtʃɑːrdʒ frɒm ðə ˈklɪnɪk mɑːkt ðə bɪˈɡɪnɪŋ ɒv hɪz rɪˈkʌvəri/",
+      "text_native": "Son départ de la clinique a marqué le début de sa convalescence."
+    }
+  ]
+}

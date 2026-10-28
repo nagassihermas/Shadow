@@ -1,0 +1,217 @@
+{
+  "title": "酒店里的突发状况",
+  "new_vocabulary": [
+    "突发状况",
+    "稍微",
+    "延迟",
+    "接待",
+    "经理",
+    "致歉",
+    "补偿",
+    "免费",
+    "升级",
+    "豪华",
+    "套房",
+    "行政",
+    "酒廊",
+    "体验",
+    "遗憾",
+    "由于",
+    "系统",
+    "故障",
+    "导致",
+    "耽误",
+    "宝贵",
+    "时间",
+    "特意",
+    "准备",
+    "果盘",
+    "表达",
+    "诚意",
+    "妥善",
+    "解决",
+    "愉快"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我走进酒店大堂，准备办理入住手续。",
+      "phonetic": "Wǒ zǒu jìn jiǔdiàn dàtáng, zhǔnbèi bànlǐ rùzhù shǒuxù.",
+      "text_native": "Je suis entré dans le hall de l'hôtel pour faire les formalités d'enregistrement."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "前台服务员看到我，立刻微笑着跟我打招呼。",
+      "phonetic": "Qiántái fúwùyuán kàn dào wǒ, lìkè wèixiào zhe gēn wǒ dǎ zhāohū.",
+      "text_native": "La réceptionniste m'a vu et m'a immédiatement salué avec un sourire."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我拿出了护照，并告诉她我已经提前预订了单人间。",
+      "phonetic": "Wǒ ná chū le hùzhào, bìng gàosù tā wǒ yǐjīng tíqián yùdìng le dānrénjiān.",
+      "text_native": "J'ai sorti mon passeport et lui ai dit que j'avais réservé une chambre simple à l'avance."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "然而，她查了一下电脑，表情稍微变了一下。",
+      "phonetic": "Rán'ér, tā chá le yīxià diànnǎo, biǎoqíng shāowēi biàn le yīxià.",
+      "text_native": "Cependant, elle a vérifié l'ordinateur et son expression a légèrement changé."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "她抱歉地对我说，由于系统出现了一些故障，手续可能会延迟。",
+      "phonetic": "Tā bàoqiàn de duì wǒ shuō, yóuyú xìtǒng chūxiàn le yīxiē gùzhàng, shǒuxù kěnéng huì yánchí.",
+      "text_native": "Elle m'a présenté ses excuses en m'expliquant qu'en raison d'une panne du système, les formalités pourraient être retardées."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "为了处理这个问题，她立刻请来了大堂经理。",
+      "phonetic": "Wèile chǔlǐ zhège wèntí, tā lìkè qǐng lái le dàtáng jīnglǐ.",
+      "text_native": "Pour régler ce problème, elle a immédiatement fait venir le responsable du hall."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "经理非常客气地向我致歉，表示耽误了我的宝贵时间。",
+      "phonetic": "Jīnglǐ fēicháng kèqì de xiàng wǒ zhìqiàn, biǎoshì dānwù le wǒ de bǎoguì shíjiān.",
+      "text_native": "Le directeur s'est excusé très poliment auprès de moi, en regrettant d'avoir fait perdre un temps précieux."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "为了补偿我，酒店决定给我免费升级房间。",
+      "phonetic": "Wèile bǔcháng wǒ, jiǔdiàn juédìng gěi wǒ miǎnfèi shēngjí fángjiān.",
+      "text_native": "Pour me dédommager, l'hôtel a décidé de surclasser ma chambre gratuitement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我原本订的单人间变成了豪华套房。",
+      "phonetic": "Wǒ yuánběn dìng de dānrénjiān biàn chéng le háohuá tàofáng.",
+      "text_native": "La chambre simple que j'avais initialement réservée a été changée en suite de luxe."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "经理还告诉我，入住套房的客人可以去行政酒廊喝咖啡。",
+      "phonetic": "Jīnglǐ hái gàosù wǒ, rùzhù tàofáng de kèrén kěyǐ qù xíngzhèng jiǔláng hē kāfēi.",
+      "text_native": "Le directeur m'a également dit que les clients séjournant en suite pouvaient aller boire un café au salon exécutif."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "听到这个好消息，我心里的遗憾立刻消失了。",
+      "phonetic": "Tīng dào zhège hǎo xiāoxī, wǒ xīn lǐ de yíhàn lìkè xiāoshī le.",
+      "text_native": "En entendant cette bonne nouvelle, ma déception s'est immédiatement envolée."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "服务员帮我登记了身份信息，并收了押金。",
+      "phonetic": "Fúwùyuán bāng wǒ dēngjì le shēnfèn xìnxī, bìng shōu le yājīn.",
+      "text_native": "La réceptionniste m'a aidé à enregistrer mes informations d'identité et a encaissé la caution."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我选择用刷卡支付，整个过程十分顺利。",
+      "phonetic": "Wǒ xuǎnzé yòng shuākǎ zhīfù, zhěnggè guòchéng shífēn shùnlì.",
+      "text_native": "J'ai choisi de payer par carte bancaire, tout le processus s'est déroulé sans encombre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "她把房卡交给我，并嘱咐我注意电梯的方向。",
+      "phonetic": "Tā bǎ fángkǎ jiāo gěi wǒ, bìng zhǔfù wǒ zhùyì diàntī de fāngxiàng.",
+      "text_native": "Elle m'a remis la carte de la chambre et m'a indiqué où se trouvaient les ascenseurs."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我拿着行李走向电梯，按下了高楼层的按键。",
+      "phonetic": "Wǒ ná zhe xínglǐ zǒu xiàng diàntī, àn xià le gāo lóucéng de ànjiàn.",
+      "text_native": "J'ai pris mes bagages et me suis dirigé vers l'ascenseur, en appuyant sur le bouton des étages supérieurs."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "电梯很快就到了顶楼，我按照指示找到了走廊尽头的房间。",
+      "phonetic": "Diàntī hěn kuài jiù dào le dǐnglóu, wǒ ànzhào zhǐshì zhǎo dào le zǒuláng jìntóu de fángjiān.",
+      "text_native": "L'ascenseur est rapidement arrivé au dernier étage, et j'ai trouvé la chambre au bout du couloir grâce aux indications."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "刷了房卡之后，门开了，我推门走了进去。",
+      "phonetic": "Shuā le fángkǎ zhīhòu, mén kāi le, wǒ tuī mén zǒu le jìnqù.",
+      "text_native": "Après avoir passé la carte magnétique, la porte s'est ouverte et je suis entré."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "套房的面积非常大，里面既干净又安静。",
+      "phonetic": "Tàofáng de miànjī fēicháng dà, lǐmiàn jì gānjìng yòu ānjìng.",
+      "text_native": "La superficie de la suite est très grande, et l'intérieur est à la fois propre et calme."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "窗户外面正对著一个美丽的公园，晴天的风景让人心情舒畅。",
+      "phonetic": "Chuānghù wàimiàn zhèng duì zhe yīgè měilì de gōngyuán, qíngtiān de fēngjǐng ràng rén xīnqíng shūchàng.",
+      "text_native": "La fenêtre donne directement sur un beau parc, et le paysage par temps clair met de bonne humeur."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我把行李箱放在衣柜旁，然后脱下了重重的鞋子。",
+      "phonetic": "Wǒ bǎ xínglǐxiāng fàng zài yīguì páng, ránhòu tuō xià le zhòngzhòng de xiézi.",
+      "text_native": "J'ai posé ma valise près de l'armoire, puis j'ai retiré mes chaussures."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "换上舒适的拖鞋后，我在大沙发上坐了下来。",
+      "phonetic": "Huàn shàng shūshì de tuōxié hòu, wǒ zài dà shāfā shàng zuò le xiàlái.",
+      "text_native": "Après avoir enfilé des pantoufles confortables, je me suis assis sur le grand canapé."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "桌子上特意准备了一盘新鲜的迎宾水果，这是酒店表达诚意的方式。",
+      "phonetic": "Zhuōzi shàng tèyì zhǔnbèi le yī pán xīnxiān de yíngbīn shuǐguǒ, zhè shì jiǔdiàn biǎodá chéngyì de fāngshì.",
+      "text_native": "Un plateau de fruits de bienvenue frais avait été spécialement préparé sur la table, c'était la façon pour l'hôtel de témoigner sa sincérité."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我觉得有些口渴，便用烧水壶烧了一些热水泡茶。",
+      "phonetic": "Wǒ juéde yǒuxiē kǒukě, biàn yòng shāo shuǐ hú shāo le yīxiē rèshuǐ pào chá.",
+      "text_native": "J'ai eu un peu soif, alors j'ai fait bouillir de l'eau avec la bouilloire pour infuser du thé."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "喝着热茶，我打开电视看了一会儿新闻。",
+      "phonetic": "Hē zhe rè chá, wǒ dǎkāi diànshì kàn le yīhuǐ'er xīnwén.",
+      "text_native": "Tout en buvant mon thé chaud, j'ai allumé la télévision et regardé les actualités pendant un moment."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "因为今天工作比较累，我打算早点洗澡休息。",
+      "phonetic": "Yīnwèi jīntiān gōngzuò bǐjiào lèi, wǒ dǎsuàn zǎodiǎn xǐzǎo xiūxí.",
+      "text_native": "Comme j'avais été assez fatigué par le travail aujourd'hui, j'avais l'intention de prendre une douche et de me reposer tôt."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "浴室里有干净的毛巾和肥皂，热水也非常充足。",
+      "phonetic": "Yùshì lǐ yǒu gānjìng de máojīn hé féizào, rèshuǐ yě fēicháng chōngzú.",
+      "text_native": "Il y avait des serviettes propres et du savon dans la salle de bains, et l'eau chaude ne manquait pas."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "洗完澡后，换上干净的衣服，整个人感觉轻松多了。",
+      "phonetic": "Xǐ wán zǎo hòu, huàn shàng gānjìng de yīfú, zhěnggè rén gǎnjué qīngsōng duō le.",
+      "text_native": "Après m'être lavé et avoir enfilé des vêtements propres, je me sentais beaucoup plus détendu."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "床铺既大又软，躺上去非常舒服。",
+      "phonetic": "Chuángpù jì dà yòu ruǎn, tǎng shàngqù fēicháng shūfú.",
+      "text_native": "Le lit était à la fois grand et moelleux, c'était très confortable de s'y allongeant."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这次突发状况虽然带来了一点小麻烦，但最终得到了妥善的解决。",
+      "phonetic": "Zhè cì tūfā zhuàngkuàng suīrán dài lái le yīdiǎn xiǎo máfan, dàn zuìzhōng dédào le tuǒshàn de jiějué.",
+      "text_native": "Bien que cet incident imprévu ait causé un petit désagrément, il a finalement été résolu de manière adéquate."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我关了灯，准备在这个舒适的房间里度过一个愉快的夜晚。",
+      "phonetic": "Wǒ guān le dēng, zhǔnbèi zài zhège shūshì de fángjiān lǐ dùguò yīgè yúkuài de yèwǎn.",
+      "text_native": "J'ai éteint la lumière, prêt à passer une agréable soirée dans cette chambre confortable."
+    }
+  ]
+}

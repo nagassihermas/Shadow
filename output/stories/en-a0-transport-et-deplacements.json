@@ -1,0 +1,202 @@
+{
+  "title": "A Day in the City",
+  "new_vocabulary": [
+    "morning",
+    "home",
+    "street",
+    "bus",
+    "stop",
+    "ticket",
+    "driver",
+    "city",
+    "work",
+    "train",
+    "station",
+    "people",
+    "seat",
+    "time",
+    "evening"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːrnɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom is at home.",
+      "phonetic": "/tɒm ɪz æt hoʊm/",
+      "text_native": "Tom est à la maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He goes to work.",
+      "phonetic": "/hi ɡoʊz tu wɜːrk/",
+      "text_native": "Il va au travail."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He opens the door.",
+      "phonetic": "/hi ˈoʊpənz ðə dɔːr/",
+      "text_native": "Il ouvre la porte."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He walks on the street.",
+      "phonetic": "/hi wɔːks ɒn ðə striːt/",
+      "text_native": "Il marche dans la rue."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The weather is good.",
+      "phonetic": "/ðə ˈwɛðər ɪz ɡʊd/",
+      "text_native": "Il fait beau."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He sees a bus stop.",
+      "phonetic": "/hi siːz ə bʌs stɒp/",
+      "text_native": "Il voit un arrêt de bus."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom waits for the bus.",
+      "phonetic": "/tɒm weɪts fɔːr ðə bʌs/",
+      "text_native": "Tom attend le bus."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The yellow bus arrives.",
+      "phonetic": "/ðə ˈjɛloʊ bʌs əˈraɪvz/",
+      "text_native": "Le bus jaune arrive."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The door opens.",
+      "phonetic": "/ðə dɔːr ˈoʊpənz/",
+      "text_native": "La porte s'ouvre."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom shows his ticket.",
+      "phonetic": "/tɒm ʃoʊz hɪz ˈtɪkɪt/",
+      "text_native": "Tom montre son ticket."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He says hello to the driver.",
+      "phonetic": "/hi seɪz həˈloʊ tu ðə ˈdraɪvər/",
+      "text_native": "Il dit bonjour au chauffeur."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He finds a free seat.",
+      "phonetic": "/hi faɪndz ə friː siːt/",
+      "text_native": "Il trouve une place libre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He sits down.",
+      "phonetic": "/hi sɪts daʊn/",
+      "text_native": "Il s'assoit."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The bus moves fast.",
+      "phonetic": "/ðə bʌs muːvz fɑːst/",
+      "text_native": "Le bus roule vite."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He looks out the window.",
+      "phonetic": "/hi lʊks aʊt ðə ˈwɪndoʊ/",
+      "text_native": "Il regarde par la fenêtre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He sees the big city.",
+      "phonetic": "/hi siːz ðə bɪɡ ˈsɪti/",
+      "text_native": "Il voit la grande ville."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Many people get on.",
+      "phonetic": "/ˈmɛni ˈpiːpəl ɡɛt ɒn/",
+      "text_native": "Beaucoup de gens montent."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The bus stops again.",
+      "phonetic": "/ðə bʌs stɒps əˈɡɛn/",
+      "text_native": "Le bus s'arrête à nouveau."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Tom gets off the bus.",
+      "phonetic": "/tɒm ɡɛts ɒf ðə bʌs/",
+      "text_native": "Tom descend du bus."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He walks to the train station.",
+      "phonetic": "/hi wɔːks tu ðə treɪn ˈsteɪʃən/",
+      "text_native": "Il marche vers la gare."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The station is very big.",
+      "phonetic": "/ðə ˈsteɪʃən ɪz ˈvɛri bɪɡ/",
+      "text_native": "La gare est très grande."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He buys a train ticket.",
+      "phonetic": "/hi baɪz ə treɪn ˈtɪkɪt/",
+      "text_native": "Il achète un billet de train."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He goes to the platform.",
+      "phonetic": "/hi ɡoʊz tu ðə ˈplætfɔːrm/",
+      "text_native": "Il va sur le quai."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The blue train arrives.",
+      "phonetic": "/ðə bluː treɪn əˈraɪvz/",
+      "text_native": "Le train bleu arrive."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom enters the train.",
+      "phonetic": "/tɒm ˈɛntərz ðə treɪn/",
+      "text_native": "Tom monte dans le train."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The train starts to move.",
+      "phonetic": "/ðə treɪn stɑːrts tu muːv/",
+      "text_native": "Le train commence à avancer."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He travels for ten minutes.",
+      "phonetic": "/hi ˈtrævəlz fɔːr tɛn ˈmɪnɪts/",
+      "text_native": "Il voyage pendant dix minutes."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He arrives at his office.",
+      "phonetic": "/hi əˈraɪvz æt hɪz ˈɒfɪs/",
+      "text_native": "Il arrive à son bureau."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His journey is finished.",
+      "phonetic": "/hɪz ˈdʒɜːrni ɪz ˈfɪnɪʃt/",
+      "text_native": "Son trajet est terminé."
+    }
+  ]
+}

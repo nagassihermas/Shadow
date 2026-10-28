@@ -1,0 +1,217 @@
+{
+  "title": "看医生",
+  "new_vocabulary": [
+    "我",
+    "今天",
+    "不",
+    "舒服",
+    "早上",
+    "去",
+    "大楼",
+    "号",
+    "房间",
+    "坐",
+    "椅子",
+    "看",
+    "你好",
+    "问",
+    "什么",
+    "地方",
+    "疼",
+    "回答",
+    "发烧",
+    "咳嗽",
+    "听",
+    "心",
+    "跳",
+    "好",
+    "开",
+    "吃",
+    "休息",
+    "天",
+    "谢",
+    "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我今天很不舒服。",
+      "phonetic": "Wǒ jīntiān hěn bù shūfu.",
+      "text_native": "Je ne me sens pas bien du tout aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "早上我去医院。",
+      "phonetic": "Zǎoshang wǒ qù yīyuàn.",
+      "text_native": "Ce matin, je vais à l'hôpital."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "医院很大。",
+      "phonetic": "Yīyuàn hěn dà.",
+      "text_native": "L'hôpital est grand."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我走在大楼里。",
+      "phonetic": "Wǒ zǒu zài dàlóu lǐ.",
+      "text_native": "Je marche dans le bâtiment."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我看一个房间。",
+      "phonetic": "Wǒ kàn yí gè fángjiān.",
+      "text_native": "Je regarde une pièce."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "房间门上有号。",
+      "phonetic": "Fángjiān mén shàng yǒu hào.",
+      "text_native": "Il y a un numéro sur la porte de la pièce."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "医生在里面。",
+      "phonetic": "Yīshēng zài lǐmiàn.",
+      "text_native": "Le médecin est à l'intérieur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我走进房间。",
+      "phonetic": "Wǒ zǒu jìn fángjiān.",
+      "text_native": "J'entre dans la pièce."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我坐在椅子上。",
+      "phonetic": "Wǒ zuò zài yǐzi shàng.",
+      "text_native": "Je m'assois sur la chaise."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "医生看我。",
+      "phonetic": "Yīshēng kàn wǒ.",
+      "text_native": "Le médecin me regarde."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "医生说你好。",
+      "phonetic": "Yīshēng shuō nǐ hǎo.",
+      "text_native": "Le médecin dit bonjour."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "医生问我什么地方疼。",
+      "phonetic": "Yīshēng wèn wǒ shénme dìfang téng.",
+      "text_native": "Le médecin me demande où j'ai mal."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我回答医生。",
+      "phonetic": "Wǒ huídá yīshēng.",
+      "text_native": "Je réponds au médecin."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我的头很疼。",
+      "phonetic": "Wǒ de tóu hěn téng.",
+      "text_native": "J'ai très mal à la tête."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我的肚子也疼。",
+      "phonetic": "Wǒ de dùzi yě téng.",
+      "text_native": "J'ai aussi mal au ventre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我有一点发烧。",
+      "phonetic": "Wǒ yǒu yìdiǎn fāshāo.",
+      "text_native": "J'ai un peu de fièvre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我还咳嗽。",
+      "phonetic": "Wǒ hái késòu.",
+      "text_native": "Je tousse aussi."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "医生听我的心。",
+      "phonetic": "Yīshēng tīng wǒ de xīn.",
+      "text_native": "Le médecin écoute mon cœur."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "心在跳。",
+      "phonetic": "Xīn zài tiào.",
+      "text_native": "Le cœur bat."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "医生点头。",
+      "phonetic": "Yīshēng diǎn tóu.",
+      "text_native": "Le médecin hoche la tête."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "医生说不是大病。",
+      "phonetic": "Yīshēng shuō bú shì dà bìng.",
+      "text_native": "Le médecin dit que ce n'est pas une grave maladie."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "医生开药给我。",
+      "phonetic": "Yīshēng kāi yào gěi wǒ.",
+      "text_native": "Le médecin me prescrit des médicaments."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我去付钱。",
+      "phonetic": "Wǒ qù fù qián.",
+      "text_native": "Je vais payer."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我拿药。",
+      "phonetic": "Wǒ ná yào.",
+      "text_native": "Je prends les médicaments."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "医生说要吃药。",
+      "phonetic": "Yīshēng shuō yào chī yào.",
+      "text_native": "Le médecin dit qu'il faut prendre les médicaments."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "医生说要在家里休息。",
+      "phonetic": "Yīshēng shuō yào zài jiālǐ xiūxí.",
+      "text_native": "Le médecin dit qu'il faut se reposer à la maison."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "休息三天。",
+      "phonetic": "Xiūxí sān tiān.",
+      "text_native": "Se reposer pendant trois jours."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我说谢谢医生。",
+      "phonetic": "Wǒ shuō xièxie yīshēng.",
+      "text_native": "Je dis merci docteur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "医生说再见。",
+      "phonetic": "Yīshēng shuō zàijiàn.",
+      "text_native": "Le médecin dit au revoir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我回家了。",
+      "phonetic": "Wǒ huí jiā le.",
+      "text_native": "Je suis rentré à la maison."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "title": "我的新电脑和数据",
+  "new_vocabulary": [
+    "我", "有", "新", "的", "买", "在", "桌子", "上", "开", "机", "屏", "幕", "亮", "了", "用", "鼠标", "点", "击", "打", "开", "一", "个", "里", "存", "储", "很", "多", "重", "要", "发", "给", "朋", "友", "他", "喜", "欢", "谢", "谢", "关", "闭"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我有一台新电脑。",
+      "phonetic": "Wǒ yǒu yī tái xīn diànnǎo.",
+      "text_native": "J'ai un nouvel ordinateur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我买了很多数据。",
+      "phonetic": "Wǒ mǎi le hěnduō shùjù.",
+      "text_native": "J'ai acheté beaucoup de données."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "电脑在桌子上。",
+      "phonetic": "Diànnǎo zài zhuōzi shàng.",
+      "text_native": "L'ordinateur est sur le bureau."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我打开电脑。",
+      "phonetic": "Wǒ dǎkāi diànnǎo.",
+      "text_native": "J'allume l'ordinateur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "屏幕很亮。",
+      "phonetic": "Píngmù hěn liàng.",
+      "text_native": "L'écran est très lumineux."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我用鼠标。",
+      "phonetic": "Wǒ yòng shǔbiāo.",
+      "text_native": "J'utilise la souris."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我点击文件。",
+      "phonetic": "Wǒ diǎnjī wénjiàn.",
+      "text_native": "Je clique sur le fichier."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "文件里有数据。",
+      "phonetic": "Wénjiàn lǐ yǒu shùjù.",
+      "text_native": "Il y a des données dans le fichier."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我开始工作。",
+      "phonetic": "Wǒ kāishǐ gōngzuò.",
+      "text_native": "Je commence à travailler."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我看电脑屏幕。",
+      "phonetic": "Wǒ kàn diànnǎo píngmù.",
+      "text_native": "Je regarde l'écran de l'ordinateur."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "这是一个新文件。",
+      "phonetic": "Zhè shì yī gè xīn wénjiàn.",
+      "text_native": "C'est un nouveau fichier."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "数据很重要。",
+      "phonetic": "Shùjù hěn zhòngyào.",
+      "text_native": "Les données sont très importantes."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我存储数据。",
+      "phonetic": "Wǒ cúnchǔ shùjù.",
+      "text_native": "Je stocke les données."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "电脑里有很多文件。",
+      "phonetic": "Diànnǎo lǐ yǒu hěnduō wénjiàn.",
+      "text_native": "Il y a beaucoup de fichiers dans l'ordinateur."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我用鼠标点击。",
+      "phonetic": "Wǒ yòng shǔbiāo diǎnjī.",
+      "text_native": "Je clique avec la souris."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "工作很多。",
+      "phonetic": "Gōngzuò hěnduō.",
+      "text_native": "Il y a beaucoup de travail."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我看数据文件。",
+      "phonetic": "Wǒ kàn shùjù wénjiàn.",
+      "text_native": "Je regarde le fichier de données."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我发给朋友。",
+      "phonetic": "Wǒ fā gěi péngyǒu.",
+      "text_native": "Je l'envoie à un ami."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "朋友看文件。",
+      "phonetic": "Péngyǒu kàn wénjiàn.",
+      "text_native": "L'ami regarde le fichier."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "朋友喜欢数据。",
+      "phonetic": "Péngyǒu xǐhuān shùjù.",
+      "text_native": "L'ami aime les données."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "电脑屏幕很干净。",
+      "phonetic": "Diànnǎo píngmù hěn gānjìng.",
+      "text_native": "L'écran de l'ordinateur est très propre."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我买的新电脑很好。",
+      "phonetic": "Wǒ mǎi de xīn diànnǎo hěn hǎo.",
+      "text_native": "Le nouvel ordinateur que j'ai acheté est très bien."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "桌子上有鼠标。",
+      "phonetic": "Zhuōzi shàng yǒu shǔbiāo.",
+      "text_native": "Il y a une souris sur le bureau."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我点击打开文件。",
+      "phonetic": "Wǒ diǎnjī dǎkāi wénjiàn.",
+      "text_native": "Je clique pour ouvrir le fichier."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "数据在电脑里。",
+      "phonetic": "Shùjù zài diànnǎo lǐ.",
+      "text_native": "Les données sont dans l'ordinateur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "工作结束了。",
+      "phonetic": "Gōngzuò jiéshù le.",
+      "text_native": "Le travail est terminé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "朋友说谢谢。",
+      "phonetic": "Péngyǒu shuō xièxiè.",
+      "text_native": "L'ami dit merci."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我关闭电脑。",
+      "phonetic": "Wǒ guānbiì diànnǎo.",
+      "text_native": "J'éteins l'ordinateur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "屏幕黑了。",
+      "phonetic": "Píngmù hēi le.",
+      "text_native": "L'écran est noir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我很开心。",
+      "phonetic": "Wǒ hěn kāixīn.",
+      "text_native": "Je suis très heureux."
+    }
+  ]
+}

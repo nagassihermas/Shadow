@@ -1,0 +1,186 @@
+{
+  "title": "Four Seasons",
+  "new_vocabulary": ["spring", "summer", "autumn", "winter", "sunny", "rainy", "windy", "snowy", "hot", "cold", "season", "weather", "today", "tomorrow"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Hello, my name is Tom.",
+      "phonetic": "həˈloʊ, maɪ neɪm ɪz tɑm.",
+      "text_native": "Bonjour, je m'appelle Tom."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Today is Monday.",
+      "phonetic": "təˈdeɪ ɪz ˈmʌndeɪ.",
+      "text_native": "Aujourd'hui, c'est lundi."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The weather is nice.",
+      "phonetic": "ðə ˈwɛðər ɪz naɪs.",
+      "text_native": "Il fait beau temps."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "It is spring.",
+      "phonetic": "ɪt ɪz sprɪŋ.",
+      "text_native": "C'est le printemps."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The flowers are red.",
+      "phonetic": "ðə ˈflaʊərz ɑr rɛd.",
+      "text_native": "Les fleurs sont rouges."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "It is sunny today.",
+      "phonetic": "ɪt ɪz ˈsʌni təˈdeɪ.",
+      "text_native": "Il fait du soleil aujourd'hui."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom goes outside.",
+      "phonetic": "tɑm goʊz ˈaʊtˈsaɪd.",
+      "text_native": "Tom sort."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He likes spring.",
+      "phonetic": "hi laɪks sprɪŋ.",
+      "text_native": "Il aime le printemps."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Then, summer comes.",
+      "phonetic": "ðɛn, ˈsʌmər kʌmz.",
+      "text_native": "Ensuite, l'été arrive."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The weather is very hot.",
+      "phonetic": "ðə ˈwɛðər ɪz ˈvɛri hɑt.",
+      "text_native": "Il fait très chaud."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom wears a hat.",
+      "phonetic": "tɑm wɛrz ə hæt.",
+      "text_native": "Tom porte un chapeau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He drinks cold water.",
+      "phonetic": "hi drɪŋks koʊld ˈwɔtər.",
+      "text_native": "Il boit de l'eau froide."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The sun is big.",
+      "phonetic": "ðə sʌn ɪz bɪg.",
+      "text_native": "Le soleil est radieux."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Summer is a warm season.",
+      "phonetic": "ˈsʌmər ɪz ə wɔrm ˈsizən.",
+      "text_native": "L'été est une saison chaude."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "After summer, autumn arrives.",
+      "phonetic": "ˈæftər ˈsʌmər, ˈɔtəm əˈraɪvz.",
+      "text_native": "Après l'été, l'automne arrive."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The weather changes.",
+      "phonetic": "ðə ˈwɛðər ˈʧeɪnʤɪz.",
+      "text_native": "Le temps change."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "It is windy today.",
+      "phonetic": "ɪt ɪz ˈwɪndi təˈdeɪ.",
+      "text_native": "Il y a du vent aujourd'hui."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Leaves fall from trees.",
+      "phonetic": "livz fɔl frəm triz.",
+      "text_native": "Les feuilles tombent des arbres."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom wears a jacket.",
+      "phonetic": "tɑm wɛrz ə ˈʤækɪt.",
+      "text_native": "Tom porte une veste."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "It is rainy too.",
+      "phonetic": "ɪt ɪz ˈreɪni tu.",
+      "text_native": "Il pleut aussi."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He takes an umbrella.",
+      "phonetic": "hi teɪks ən ʌmˈbrɛlə.",
+      "text_native": "Il prend un parapluie."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Finally, winter begins.",
+      "phonetic": "ˈfaɪnəli, ˈwɪntər bɪˈgɪnz.",
+      "text_native": "Enfin, l'hiver commence."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Winter is very cold.",
+      "phonetic": "ˈwɪntər ɪz ˈvɛri koʊld.",
+      "text_native": "L'hiver est très froid."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Snow falls down.",
+      "phonetic": "snoʊ fɔlz daʊn.",
+      "text_native": "La neige tombe."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The ground is white.",
+      "phonetic": "ðə graʊnd ɪz waɪt.",
+      "text_native": "Le sol est blanc."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom wears gloves.",
+      "phonetic": "tɑm wɛrz glʌvz.",
+      "text_native": "Tom porte des gants."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He stays inside.",
+      "phonetic": "hi steɪz ɪnˈsaɪd.",
+      "text_native": "Il reste à l'intérieur."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He drinks hot tea.",
+      "phonetic": "hi drɪŋks hɑt ti.",
+      "text_native": "Il boit du thé chaud."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "All seasons are nice.",
+      "phonetic": "ɔl ˈsizənz ɑr naɪs.",
+      "text_native": "Toutes les saisons sont belles."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Tom is happy now.",
+      "phonetic": "tɑm ɪz ˈhæpi naʊ.",
+      "text_native": "Tom est heureux maintenant."
+    }
+  ]
+}

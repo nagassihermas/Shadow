@@ -1,0 +1,190 @@
+{
+  "title": "家庭聚会",
+  "new_vocabulary": [
+    "家庭", "聚会", "准备", "邀请", "亲戚", "伯伯", "姑姑", "表哥", "表妹", "关系",
+    "感情", "互相", "照顾", "理解", "支持", "经常", "联系", "节日", "春节", "礼物",
+    "红包", "祝福", "长辈", "晚辈", "尊重", "传统", "文化", "重要", "总是", "温暖"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是一个重要的日子，因为我们要举办家庭聚会。",
+      "phonetic": "Jīntiān shì yí gè zhòngyào de rìzi, yīnwèi wǒmen yào jǔbàn jiātíng jùhuì.",
+      "text_native": "Aujourd'hui est un jour important, car nous organisons une réunion de famille."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "爸爸和妈妈早早就开始在厨房里准备午饭。",
+      "phonetic": "Bàba hé māmā zǎozǎo jiù kāishǐ zài chúfáng lǐ zhǔnbèi wǔfàn.",
+      "text_native": "Papa et maman ont commencé à préparer le déjeuner dans la cuisine de bonne heure."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "爷爷、奶奶还有叔叔、婶婶都会来我们家。",
+      "phonetic": "Yéyé, nǎinai hái yǒu shūshu, shěnshen dōuhuì lái wǒmen jiā.",
+      "text_native": "Grand-père, grand-mère, ainsi que mon oncle et ma tante viendront chez nous."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "姑姑和伯伯也带着表哥和表妹一起过来了。",
+      "phonetic": "Gūgu hé bóbo yě dàizhe biǎogē hé biǎomèi yìqǐ guòláile.",
+      "text_native": "Ma tante et mon oncle sont aussi venus avec mon cousin et ma cousine."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "大家见面的时候非常高兴，互相打招呼。",
+      "phonetic": "Dàjiā jiànmiàn de shíhòu fēicháng gāoxìng, hùxiāng dǎzhāohu.",
+      "text_native": "Tout le monde était très heureux de se voir et s'est salué mutuellement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我和弟弟赶快去帮忙搬椅子和摆桌子。",
+      "phonetic": "Wǒ hé dìdi gǎnkuài qù bāngmáng bān yǐzi hé bǎi zhuōzi.",
+      "text_native": "Mon frère cadet et moi sommes allés rapidement aider à porter les chaises et à dresser la table."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "桌子上摆满了盘子，上面有很多好吃的菜和鱼。",
+      "phonetic": "Zhuōzi shàng bǎi mǎnle pánzi, shàngmiàn yǒu hěn duō hǎochī de cài hé yú.",
+      "text_native": "La table était remplie d'assiettes, avec dessus beaucoup de plats délicieux et du poisson."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "长辈们坐在客厅里喝茶聊天，气氛很温暖。",
+      "phonetic": "Zhǎnbèimen zuò zài kètīng lǐ hē chá liáotiān, qìfēn hěn wēnnuǎn.",
+      "text_native": "Les aînés étaient assis dans le salon à boire du thé et à discuter, l'ambiance était très chaleureuse."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我和表哥表妹坐在旁边，一起分享学校里的趣事。",
+      "phonetic": "Wǒ hé biǎogē biǎomèi zuò zài pángbiān, yìqǐ fēnxiǎng xuéxiào lǐ de qùshì.",
+      "text_native": "Mon cousin, ma cousine et moi étions assis à côté, partageant des histoires amusantes de l'école."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "妈妈端出了热腾腾的菜肴和果汁给孩子们吃。",
+      "phonetic": "Māmā duān chūle rèténgténg de càiyáo hé guǒzhī gěi háizimen chī.",
+      "text_native": "Maman a apporté des plats chauds et du jus de fruits pour les enfants."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我们吃得很饱，也喝了很多茶和水。",
+      "phonetic": "Wǒmen chī de hěn bǎo, yě hēle hěn duō chá hé shuǐ.",
+      "text_native": "Nous avons bien mangé et avons aussi bu beaucoup de thé et d'eau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "吃饭以后，大家一起坐在椅子上休息。",
+      "phonetic": "Chīfàn yǐhòu, dàjiā yìqǐ zuò zài yǐzi shàng xiūxī.",
+      "text_native": "Après le repas, tout le monde s'est assis ensemble sur les chaises pour se reposer."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "家庭关系对每个人来说都是非常重要的。",
+      "phonetic": "Jiātíng guānxi duì měi gè rén lái shuō dōu shì fēicháng zhòngyào de.",
+      "text_native": "Les relations familiales sont très importantes pour tout le monde."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我们应该互相照顾，并且经常联系。",
+      "phonetic": "Wǒmen yīnggāi hùxiāng zhàogù, bìngqiě jīngcháng liánxì.",
+      "text_native": "Nous devons prendre soin les uns des autres et rester souvent en contact."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "父母总是给我们很多支持和理解。",
+      "phonetic": "Fùmǔ zǒngshì gěi wǒmen hěn duō zhīchí hé lǐjiě.",
+      "text_native": "Les parents nous donnent toujours beaucoup de soutien et de compréhension."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "作为晚辈，我们必须尊重长辈的意见。",
+      "phonetic": "Zuòwéi wǎnbèi, wǒmen bìxū zūnzhòng zhǎnbèi de yìjiàn.",
+      "text_native": "En tant que plus jeunes, nous devons respecter l'avis des aînés."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "中国传统文化非常重视家庭的感情。",
+      "phonetic": "Zhōngguó chuántǒng wénhuà fēicháng zhòngshì jiātíng de gǎnqíng.",
+      "text_native": "La culture traditionnelle chinoise accorde une grande importance aux liens familiaux."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "每年的春节，大家都会回家过年。",
+      "phonetic": "Měi nián de Chūnjié, dàjiā dōuhuì huí jiā guònián.",
+      "text_native": "Chaque année, à la fête du Printemps, tout le monde rentre chez soi pour le Nouvel An."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "孩子们最喜欢收红包和新年礼物。",
+      "phonetic": "Háizimen zuì xǐhuan shōu hóngbāo hé xīnnián lǐwù.",
+      "text_native": "Les enfants aiment le plus recevoir des enveloppes rouges et des cadeaux de Nouvel An."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "长辈们会给年轻人送上美好的祝福。",
+      "phonetic": "Zhǎnbèimen huì gěi niánqīngrén sòng shàng měihǎo de zhùfú.",
+      "text_native": "Les aînés adressent leurs meilleurs vœux aux jeunes."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "有时候朋友也很重要，但是家人永远在身边。",
+      "phonetic": "Yǒushíhòu péngyǒu yě hěn zhòngyào, dànshì jiārén yǒngyuǎn zài shēnbiān.",
+      "text_native": "Parfois, les amis sont aussi importants, mais la famille est toujours à nos côtés."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "今天的天气很好，阳光照在公园的树上。",
+      "phonetic": "Jīntiān de tiānqì hěn hǎo, yángguāng zhào zài gōngyuán de shù shàng.",
+      "text_native": "La météo d'aujourd'hui est très belle, le soleil brille sur les arbres du parc."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "午饭后，一部分人决定去附近的公园散步。",
+      "phonetic": "Wǔfàn hòu, yí bùfèn rén juédìng qù fùjìn de gōngyuán sànbù.",
+      "text_native": "Après le déjeuner, une partie des gens a décidé d'aller se promener dans le parc voisin."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "爷爷和奶奶坐在长椅上听收音机里的音乐。",
+      "phonetic": "Yéyé hé nǎinai zuò zài chángyǐ shàng tīng shōuyīnjī lǐ de yīnyuè.",
+      "text_native": "Grand-père et grand-mère étaient assis sur le banc à écouter de la musique à la radio."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我和妹妹带着小狗在草地上跑来跑去。",
+      "phonetic": "Wǒ hé mèimei dàizhe xiǎogǒu zài cǎodì shàng pǎo lái pǎo qù.",
+      "text_native": "Ma sœur cadette et moi courions sur la pelouse avec le petit chien."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "猫也懒洋洋地躺在太阳底下睡觉。",
+      "phonetic": "Māo yě lǎnyángyáng de tǎng zài tàiyáng dǐxià shuìjiào.",
+      "text_native": "Le chat était également étendu paresseusement au soleil pour dormir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "大家一边走路一边开心地笑。",
+      "phonetic": "Dàjiā yìbiān zǒulù yìbiān kāixīn de xiào.",
+      "text_native": "Tout le monde marchait tout en riant joyeusement."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "快乐的时光总是过得特别快。",
+      "phonetic": "Kuàilè de shíguāng zǒngshì guò de tèbié kuài.",
+      "text_native": "Les moments heureux passent toujours particulièrement vite."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "傍晚的时候，亲戚们依依不舍地告别回家。",
+      "phonetic": "Bàngwǎn de shíhòu, qīnqīmen yīyībùshě de gàobié huí jiā.",
+      "text_native": "Le soir venu, les proches se sont dit au revoir à regret pour rentrer chez eux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "这是一个美好又难忘的周末，我很感谢我的家人。",
+      "phonetic": "Zhè shì yí gè měihǎo yòu nánwàng de zhōumò, wǒ hěn gǎnxiè wǒ de jiārén.",
+      "text_native": "C'était un week-end merveilleux et inoubliable, je suis très reconnaissant envers ma famille."
+    }
+  ]
+}

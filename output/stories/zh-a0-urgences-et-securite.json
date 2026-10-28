@@ -1,0 +1,132 @@
+{
+  "title": "危险",
+  "new_vocabulary": [
+    "危险",
+    "警察",
+    "医院",
+    "快",
+    "电话"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是家。",
+      "phonetic": "Zhè shì jiā.",
+      "text_native": "C'est la maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有火。",
+      "phonetic": "Wǒ yǒu huǒ.",
+      "text_native": "J'ai du feu."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "火很大。",
+      "phonetic": "Huǒ hěn dà.",
+      "text_native": "Le feu est très grand."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "这是危险。",
+      "phonetic": "Zhè shì wēixiǎn.",
+      "text_native": "C'est un danger."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我要跑。",
+      "phonetic": "Wǒ yào pǎo.",
+      "text_native": "Je veux courir."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "门在这里。",
+      "phonetic": "Mén zài zhèli.",
+      "text_native": "La porte est ici."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我开门。",
+      "phonetic": "Wǒ kāi mén.",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我出去。",
+      "phonetic": "Wǒ chū qù.",
+      "text_native": "Je sors."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "外面安全。",
+      "phonetic": "Wàimiàn ānquán.",
+      "text_native": "Dehors, c'est sûr."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我看别人。",
+      "phonetic": "Wǒ kàn biérén.",
+      "text_native": "Je regarde quelqu'un."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "那是一个人。",
+      "phonetic": "Nà shì yī gè rén.",
+      "text_native": "C'est une personne."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我叫救命。",
+      "phonetic": "Wǒ jiào jiùmìng.",
+      "text_native": "J'appelle au secours."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他有电话。",
+      "phonetic": "Tā yǒu diànhuà.",
+      "text_native": "Il a un téléphone."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他打电话。",
+      "phonetic": "Tā dǎ diànhuà.",
+      "text_native": "Il téléphone."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "警察要来。",
+      "phonetic": "Jǐngchá yào lái.",
+      "text_native": "La police va venir."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "警察在这里。",
+      "phonetic": "Jǐngchá zài zhèli.",
+      "text_native": "La police est ici."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我去医院。",
+      "phonetic": "Wǒ qù yīyuàn.",
+      "text_native": "Je vais à l'hôpital."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "现在安全。",
+      "phonetic": "Xiànzài ānquán.",
+      "text_native": "Maintenant, c'est sûr."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "危险没有了。",
+      "phonetic": "Wēixiǎn méiyǒu le.",
+      "text_native": "Le danger a disparu."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我很好。",
+      "phonetic": "Wǒ hěn hǎo.",
+      "text_native": "Je vais très bien."
+    }
+  ]
+}

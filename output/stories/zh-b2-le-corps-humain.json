@@ -1,0 +1,217 @@
+{
+  "title": "办公室里的健康危机",
+  "new_vocabulary": [
+    "办公室",
+    "职员",
+    "长时间",
+    "保持",
+    "姿势",
+    "肩膀",
+    "酸痛",
+    "脊椎",
+    "压迫",
+    "血液循环",
+    "减缓",
+    "大脑",
+    "缺氧",
+    "注意力",
+    "集中",
+    "效率",
+    "下降",
+    "站立",
+    "伸展",
+    "关节",
+    "活动",
+    "缓解",
+    "紧张",
+    "意识",
+    "重要性",
+    "定期",
+    "调整",
+    "预防",
+    "慢性病",
+    "保护"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "张伟是一名普通的办公室职员，每天需要在电脑前工作八个小时。",
+      "phonetic": "Zhāng Wěi shì yī míng pǔtōng de bàngōngshì zhíyuán, měitiān xūyào zài diànnǎo qián gōngzuò bā gè xiǎoshí.",
+      "text_native": "Zhang Wei est un employé de bureau ordinaire qui doit travailler huit heures par jour devant son ordinateur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "由于长时间保持同一个坐姿，他的肩膀开始感到明显的酸痛。",
+      "phonetic": "Yóuyú cháng shíjiān bǎochí tóng yīgè zuòzī, tā de jiānbǎng kāishǐ gǎndào míngxiǎn de suāntòng.",
+      "text_native": "À force de conserver la même position assise pendant de longues périodes, ses épaules ont commencé à le faire souffrir sensiblement."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "这种不良的姿势对他的脊椎造成了很大的压迫。",
+      "phonetic": "Zhè zhǒng bùliáng de zīshì duì tā de jǐzhuī zàochéngle hěn dà de yāpò.",
+      "text_native": "Cette mauvaise posture exerce une forte pression sur sa colonne vertébrale."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "久坐不动还让他的血液循环明显减缓了许多。",
+      "phonetic": "Jiǔ zuò bú dòng hái ràng tā de xuèyè xúnhuán míngxiǎn jiǎnhuǎnle xǔduō.",
+      "text_native": "Le fait de rester assis trop longtemps sans bouger a également considérablement ralienti sa circulation sanguine."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "到了下午三点，他的大脑因为轻微缺氧而有些发昏。",
+      "phonetic": "Dàole xiàwǔ sān diǎn, tā de dànǎo yīnwèi qīngwēi quēyǎng ér yǒuxiē fāhūn.",
+      "text_native": "À quinze heures, son cerveau commençait à se sentir un peu embrumé en raison d'un léger manque d'oxygène."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他的注意力很难集中，工作效率也随之大幅下降。",
+      "phonetic": "Tā de zhùyìlì hěn nán jízhōng, gōngzuò xiàolǜ yě suí zhī dàfú xiàjiàng.",
+      "text_native": "Il avait du mal à se concentrer et son efficacité au travail a chuté de manière spectaculaire."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "突然，他的眼睛感到十分干涩，看屏幕也变得模糊不清。",
+      "phonetic": "Tūrán, tā de yǎnjīng gǎndào shífēn gānsè, kàn píngmù yě biàn de móhū bù qīng.",
+      "text_native": "Soudain, ses yeux le piquaient de sécheresse et l'écran est devenu flou à son regard."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "他意识到自己不能再这样继续下去了，必须采取行动。",
+      "phonetic": "Tā yìshídào zìjǐ bùnéng zài zhèyàng jìxù xiàqùle, bìxū cǎiqǔ xíngdòng.",
+      "text_native": "Il a pris conscience qu'il ne pouvait plus continuer ainsi et qu'il devait agir."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "张伟决定站立起来，走到窗前呼吸一下新鲜空气。",
+      "phonetic": "Zhāng Wěi juédìng zhànlì qǐlái, zǒu dào chuāng qián hūxī yīxià xīnxiān kōngqì.",
+      "text_native": "Zhang Wei a décidé de se lever et de s'approcher de la fenêtre pour prendre l'air frais."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他闭上眼睛，深深地吸了一口气，然后缓慢地呼出。",
+      "phonetic": "Tā bì shàng yǎnjīng, shēnshēn de xīle yī kǒu qì, ránhòu huǎnmàn de hū chū.",
+      "text_native": "Il a fermé les yeux, a pris une grande inspiration, puis a expiré lentement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "接着，他开始活动自己的脖子和僵硬的手指关节。",
+      "phonetic": "Jiēzhe, tā kāishǐ huódòng zìjǐ de bózi hé jiāngyìng de shǒuzhǐ guānjié.",
+      "text_native": "Ensuite, il a commencé à bouger son cou et ses articulations des doigts rendues rigides."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他把双臂向上高高举起，做了一个大大的伸展动作。",
+      "phonetic": "Tā bǎ shuāngbì xiàng shàng gāogāo jǔ qǐ, zuòle yīgè dàdà de shēnzhǎn dòngzuò.",
+      "text_native": "Il a levé les bras bien haut vers le ciel pour faire un grand étirement."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "这个简单的伸展帮助他的肌肉得到了暂时的放松。",
+      "phonetic": "Zhège jiǎndān de shēnzhǎn bāngzhù tā de jīròu dédàole zhànshí de fàngsōng.",
+      "text_native": "Cet étirement tout simple a permis à ses muscles de se détendre momentanément."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "虽然身体还是有些疲劳，但肌肉的紧绷感减轻了很多。",
+      "phonetic": "Suīrán shēntǐ háishì yǒuxiē píláo, dàn jīròu de jǐnbēng gǎn jiǎnqīngle hěn duō.",
+      "text_native": "Bien que son corps fût encore un peu fatigué, la sensation de tension musculaire s'était beaucoup dissipée."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他转过身去，给自己倒了一杯温开水来补充水分。",
+      "phonetic": "Tā zhuǎn guò shēn qù, jǐzi zìjǐ dǎole yībēi wēn kāishuǐ lái bǔchōng shuǐfèn.",
+      "text_native": "Il a fait demi-tour et s'est versé un verre d'eau tiède pour s'hydrater."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "水分对维持人体的正常新陈代谢起着非常关键的作用。",
+      "phonetic": "Shuǐfèn duì wéichí réntǐ de zhèngcháng xīnchén dàixiè qǐzhe fēicháng guānjiàn de zuòyòng.",
+      "text_native": "L'eau joue un rôle capital dans le maintien du métabolisme normal du corps humain."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "喝完水后，他觉得喉咙舒服多了，头脑也逐渐清醒。",
+      "phonetic": "Hē wán shuǐ hòu, tā juéde hóulóng shūfú duōle, tóunǎo yě zhújiàn qīngxǐng.",
+      "text_native": "Une fois l'eau bue, sa gorge le grattait moins et son esprit s'est progressivement éclairci."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "这次小小的身体抗议让他深刻认识到了健康管理的重要性。",
+      "phonetic": "Zhè cì xiǎoxiǎo de shēntǐ kàngyì ràng tā shēnkè rènshí dàole jiànkāng guǎnlǐ de zhòngyào xìng.",
+      "text_native": "Ce petit rappel à l'ordre de son corps lui a fait prendre pleinement conscience de l'importance de la gestion de sa santé."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他明白了，光靠努力工作是不够的，还要照顾好自己的体魄。",
+      "phonetic": "Tā míngbáile, guāng kào nǔlì gōngzuò shì bùgòu de, háiyào zhàogù hǎo zìjǐ de tǐpò.",
+      "text_native": "Il a compris qu'il ne suffisait pas de travailler dur, il fallait également prendre soin de son enveloppe corporelle."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "于是，他在电脑上设置了一个提醒每小时休息的闹钟。",
+      "phonetic": "Yúshì, tā zài diànnǎo shàng shèzhìle yīgè tíxǐng měi xiǎoshí xiūxí de nàozhōng.",
+      "text_native": "Il a donc configuré une alarme sur son ordinateur pour lui rappeler de faire une pause toutes les heures."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他还给自己制定了一个长期的运动计划，以增强免疫力。",
+      "phonetic": "Tā hái gěi zìjǐ zhìdìngle yīgè chángqī de yùndòng jìhuà, yǐ zēngqiáng miǎnyìlì.",
+      "text_native": "Il s'est aussi fixé un programme d'exercice à long terme afin de renforcer son système immunitaire."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "均衡的饮食和充足的营养也是保持良好状态的关键要素。",
+      "phonetic": "Jūnhéng de yǐnshí hé chōngzú de yíngyǎng yě shì bǎochí liánghǎo zhuàngtài de guānjiàn yàosù.",
+      "text_native": "Une alimentation équilibrée et des apports nutritionnels suffisants constituent également des éléments clés pour rester en pleine forme."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "他决定以后中午不再随便吃快餐，而是多吃蔬菜和水果。",
+      "phonetic": "Tā juédìng yǐhòu zhōngwǔ bù zài suíbiàn chī kuàicān, ér shì duō chī shūcài hé shuǐguǒ.",
+      "text_native": "Il a décidé qu'à l'avenir, il ne mangerait plus du fast-food sur le pouce le midi, mais privilégierait les légumes et les fruits."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "良好的生活习惯能够有效地预防各种慢性疾病的发生。",
+      "phonetic": "Liánghǎo de shēnghuó xíguàn nénggòu yǒuxiào de yùfáng gèzhǒng mànxìng jíbìng de fāshēng.",
+      "text_native": "De bonnes habitudes de vie permettent de prévenir efficacement l'apparition de diverses maladies chroniques."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "保护好自己的身体，才能在事业上走得更远、更稳。",
+      "phonetic": "Bǎohù hǎo zìjǐ de shēntǐ, cáinéng zài shìyè shàng zǒu de gèng yuǎn, gèng wěn.",
+      "text_native": "C'est en prenant soin de sa santé que l'on peut aller plus loin et plus solidement de l'avant dans sa carrière."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "下班后，张伟没有直接坐地铁回家，而是选择步行了一站路。",
+      "phonetic": "Xiàbān hòu, Zhāng Wěi méiyǒu zhíjiē zuò dìtiě huíjiā, ér shì xuǎnzé bùxíngle yī zhàn lù.",
+      "text_native": "En quittant le travail, Zhang Wei n'a pas pris directement le métro, mais a préféré faire une station à pied."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "晚风轻轻吹拂着他的脸庞，让他感到前所未有的舒服。",
+      "phonetic": "Wǎnfēng qīngqīng chuīfúzhe tā de liǎnpáng, ràng tā gǎndào qiánsuǒwèiyǒu de shūfú.",
+      "text_native": "La brise du soir caressait doucement son visage, lui procurant un bien-être inédit."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "虽然只是简单的改变，但他的身体已经开始给出积极的反馈。",
+      "phonetic": "Suīrán zhǐshì jiǎndān de gǎibiàn, dàn tā de shēntǐ yǐjīng kāishǐ gěi chū jījí de fǎnkuì.",
+      "text_native": "Bien qu'il ne s'agisse que de changements minimes, son corps a déjà commencé à lui envoyer des signaux positifs."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "回到家里，他吃了一顿营养丰富而健康的晚餐。",
+      "phonetic": "Huí dào jiālǐ, tā chīle yī dùn yíngyǎng fēngfù ér jiànkāng de wǎncān.",
+      "text_native": "De retour chez lui, il s'est préparé un dîner à la fois nutritif et sain."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "带着愉快的心情，他很快进入了甜美的梦乡，准备迎接充满活力的新一天。",
+      "phonetic": "Dàizhe yúkuài de xīnqíng, tā hěn kuài jìnrùle tiánměi de mèngxiāng, zhǔnbèi yíngjiē chōngmǎn huólì de xīn yītiān.",
+      "text_native": "L'esprit serein et joyeux, il a rapidement sombré dans un doux sommeil, prêt à accueillir une nouvelle journée pleine d'énergie."
+    }
+  ]
+}

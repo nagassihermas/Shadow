@@ -1,0 +1,101 @@
+{
+  "title": "我感冒了",
+  "new_vocabulary": [
+    "我",
+    "不",
+    "好",
+    "头",
+    "痛",
+    "水",
+    "药",
+    "家",
+    "床",
+    "累"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我是马克。",
+      "phonetic": "Wǒ shì Mǎkè.",
+      "text_native": "Je suis Marc."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我不好。",
+      "phonetic": "Wǒ bù hǎo.",
+      "text_native": "Je ne vais pas bien."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我头痛。",
+      "phonetic": "Wǒ tóu tòng.",
+      "text_native": "J'ai mal à la tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我很累。",
+      "phonetic": "Wǒ hěn lèi.",
+      "text_native": "Je suis très fatigué."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我要水。",
+      "phonetic": "Wǒ yào shuǐ.",
+      "text_native": "Je veux de l'eau."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我不吃饭。",
+      "phonetic": "Wǒ bù chī fàn.",
+      "text_native": "Je ne mange pas."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我回家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre à la maison."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我上床。",
+      "phonetic": "Wǒ shàng chuáng.",
+      "text_native": "Je vais au lit."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "吃药了。",
+      "phonetic": "Chī yào le.",
+      "text_native": "Je prends le médicament."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "药不好。",
+      "phonetic": "Yào bù hǎo.",
+      "text_native": "Le médicament n'est pas bon."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "现在休息。",
+      "phonetic": "Xiànzài xiūxí.",
+      "text_native": "Maintenant je me repose."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "明天很好。",
+      "phonetic": "Míngtiān hěn hǎo.",
+      "text_native": "Demain ira bien."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我好了。",
+      "phonetic": "Wǒ hǎo le.",
+      "text_native": "Je vais mieux."
+    }
+  ]
+}

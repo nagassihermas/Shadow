@@ -1,0 +1,186 @@
+{
+  "title": "The Proposal",
+  "new_vocabulary": ["proposal", "convince", "stakeholders", "boardroom", "tailor", "approach", "persuade", "keynote", "address", "concern", "objection", "handle", "seamlessly", "pace", "maintain", "eye contact", "engage", "listener", "delivery", "impact", "persuasive", "rhetorical", "device", "emphasis", "tone", "body language", "gesture", "posture", "confident", "reassure", "endorse", "approval", "consensus", "outcome", "turning point", "career", "milestone", "rewarding", "accomplishment"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Arthur had spent the entire weekend refining his proposal for the upcoming company restructure.",
+      "phonetic": "/ˈɑːr.θər hæd spɛnt ði ɪnˈtaɪr ˈwiːkˌɛnd rɪˈfaɪ.ɪŋ hɪz prəˈpoʊ.zəl fɔːr ði ˈʌpˌkʌm.ɪŋ ˈkʌm.pə.ni ˈriːˌstrʌk.tʃər/",
+      "text_native": "Arthur avait passé tout le week-end à peaufiner sa proposition pour la restructuration prochaine de l'entreprise."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "His main objective was to convince the senior stakeholders gathered in the boardroom.",
+      "phonetic": "/hɪz meɪn əbˈdʒɛk.tɪv wʌz tuː kənˈvɪns ðə ˈsiː.njər ˈsteɪkˌhoʊl.dərz ˈɡæðərd ɪn ðə ˈbɔːrdˌruːm/",
+      "text_native": "Son objectif principal était de convaincre les principales parties prenantes rassemblées dans la salle du conseil."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He decided to tailor his persuasive approach to address potential concerns directly.",
+      "phonetic": "/hiː dɪˈsaɪ.dɪd tuː ˈteɪ.lər hɪz pərˈsweɪ.sɪv əˈproʊtʃ tuː əˈdrɛs pəˈtɛn.ʃəl kənˈsɜːrnz daɪˈrɛkt.li/",
+      "text_native": "Il a décidé d'adapter son approche persuasive pour aborder directement les préoccupations potentielles."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Before entering, he reviewed his keynote notes one last time to ensure absolute clarity.",
+      "phonetic": "/bɪˈfɔːr ˈɛn.tər.ɪŋ, hiː rɪˈvjuːd hɪz ˈkiːˌnoʊt noʊts wʌn læst taɪm tuː ɪnˈʃʊr ˈæb.sə.luːt ˈklɛr.ə.t̬i/",
+      "text_native": "Avant d'entrer, il a revu ses notes de présentation une dernière fois pour garantir une clarté absolue."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When he stepped inside, the room fell silent as everyone looked up expectantly.",
+      "phonetic": "/wɛn hiː stɛpt ɪnˈsaɪd, ðə ruːm fɛl ˈsaɪ.lənt æz ˈɛv.riː.wʌn lʊkt ʌp ɪkˈspɛk.tənt.li/",
+      "text_native": "Lorsqu'il est entré, la pièce est devenue silencieuse alors que tout le monde levait les yeux dans l'attente."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He took a measured breath and began his delivery with a steady, confident voice.",
+      "phonetic": "/hiː tʊk ə ˈmɛʒərd brɛθ ænd bɪˈɡæn hɪz dɪˈlɪv.ər.i wɪð ə ˈstɛd.i, ˈkɑːn.fə.dənt vɔɪs/",
+      "text_native": "Il a pris une respiration mesurée et a commencé son intervention d'une voix assurée et stable."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Throughout the presentation, he maintained consistent eye contact to engage every listener.",
+      "phonetic": "/θruːˈaʊt ðə ˌprɛz.ənˈteɪ.ʃən, hiː meɪnˈtɪnd kənˈsɪs.tənt aɪ ˈkɑːn.tækt tuː ɪnˈɡeɪdʒ ˈɛv.ri ˈlɪs.ən.ər/",
+      "text_native": "Tout au long de la présentation, il a maintenu un contact visuel constant pour capter l'attention de chaque auditeur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "His body language was open, using natural gestures to emphasize important points.",
+      "phonetic": "/hɪz ˈbɑː.di ˈlæŋ.ɡwɪdʒ wʌz ˈoʊ.pən, ˈjuː.zɪŋ ˈnætʃ.ər.əl ˈdʒɛs.tʃərz tuː ˈɛm.fə.saɪz ɪmˈpɔːr.tənt pɔɪnts/",
+      "text_native": "Son langage corporel était ouvert, utilisant des gestes naturels pour souligner les points importants."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He adjusted his posture slightly to project authority without appearing arrogant.",
+      "phonetic": "/hiː əˈdʒʌs.tɪd hɪz ˈpɑːs.tʃər ˈslaɪt.li tuː prəˈdʒɛkt əˈθɔːr.ə.t̬i wɪˈðaʊt əˈpɪr.ɪŋ ˈær.ə.ɡənt/",
+      "text_native": "Il a légèrement ajusté sa posture pour projeter de l'autorité sans paraître arrogant."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Careful pacing allowed the audience to digest the complex data seamlessly.",
+      "phonetic": "/ˈkɛr.fəl ˈpeɪ.sɪŋ əˈlaʊd ði ˈɔːdi.əns tuː daɪˈdʒɛst ðə ˈkɑːm.plɛks ˈdeɪ.tə ˈsiːm.ləs.li/",
+      "text_native": "Un rythme bien maîtrisé a permis au public d'assimiler les données complexes sans difficulté."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He strategically employed rhetorical devices to keep the atmosphere dynamic.",
+      "phonetic": "/hiː strəˈtiː.dʒɪk.li ɪmˈplɔɪd rɪˈtɔːr.ɪ.kəl dɪˈvaɪ.sɪz tuː kiːp ði ˈæt.məs.fɪr daɪˈnæm.ɪk/",
+      "text_native": "Il a employé stratégiquement des procédés rhétoriques pour maintenir une atmosphère dynamique."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "When a difficult question arose regarding potential expenses, Arthur did not hesitate.",
+      "phonetic": "/wɛn ə ˈdɪf.ə.kənt ˈkwɛs.tʃən əˈroʊz rɪˈɡɑːrd.ɪŋ pəˈtɛn.ʃəl ɪkˈspɛn.sɪz, ˈɑːr.θər dɪd nɑːt ˈhɛz.əˌteɪt/",
+      "text_native": "Lorsqu'une question difficile a surgi concernant les dépenses potentielles, Arthur n'a pas hésité."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He handled every objection calmly, reassuring the team with solid market analysis.",
+      "phonetic": "/hiː ˈhæn.dəld ˈɛv.ri əbˈdʒɛk.ʃən ˈkɑːm.li, ˌriː.əˈʃʊr.ɪŋ ðə tiːm wɪð ˈsɑː.lɪd ˈmɑːr.kɪt əˈنæl.ə.sɪs/",
+      "text_native": "Il a géré chaque objection calmement, rassurant l'équipe grâce à une solide analyse de marché."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Specific examples from the previous quarter illustrated how efficiency would improve.",
+      "phonetic": "/spəˈsɪf.ɪk ɪɡˈzæm.pəlz frʌm ðə ˈpriː.viəs ˈkwɔːr.tər ˈɪl.əˌstreɪ.tɪd haʊ ɪˈfɪʃ.ən.si wʊd ɪmˈpruːv/",
+      "text_native": "Des exemples précis du trimestre précédent ont illustré comment l'efficacité allait s'améliorer."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "His persuasive tone shifted slightly to reflect genuine enthusiasm for the project.",
+      "phonetic": "/hɪz pərˈsweɪ.sɪv toʊn ˈʃɪf.tɪd ˈslaɪt.li tuː rɪˈflɛkt ˈdʒɛn.ju.ɪn ɛnˌθuː.ziˈæz.əm fɔːr ðə ˈprɑː.dʒɛkt/",
+      "text_native": "Son ton persuasif a légèrement évolué pour refléter un enthousiasme sincère pour le projet."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Visual aids flashed on the screen behind him, reinforcing each strategic goal.",
+      "phonetic": "/ˈvɪʒ.u.əl eɪdz flæʃt ɑːn ðə skriːn bɪˈhaɪnd hɪm, ˌriː.ɪnˈfɔːrs.ɪŋ iːtʃ strəˈtiː.dʒɪk ɡoʊl/",
+      "text_native": "Des supports visuels ont défilé sur l'écran derrière lui, renforçant chaque objectif stratégique."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He pointed out the projected revenue increase without rushing through the slide.",
+      "phonetic": "/hiː ˈpɔɪn.tɪd aʊt ðə prəˈdʒɛk.tɪd ˈrɛv.ə.nuː ˈɪn.kriːs wɪˈðaʊt ˈrʌʃ.ɪŋ θruː ðə slaɪd/",
+      "text_native": "Il a mis en valeur l'augmentation des revenus prévisionnels sans survoler la diapositive."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Employees in the department would benefit directly from the proposed training schedule.",
+      "phonetic": "/ɪmˈplɔɪ.iːz ɪn ðə dɪˈpɑːrt.mənt wʊd ˈbɛn.ə.fɪt daɪˈrɛkt.li frʌm ðə prəˈpoʊzd ˈtreɪ.nɪŋ ˈʃɛd.juːl/",
+      "text_native": "Les employés du département bénéficieraient directement du programme de formation proposé."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Arthur paused briefly to invite feedback and welcome constructive suggestions.",
+      "phonetic": "/ˈɑːr.θər pɔːzd ˈbriːf.li tuː ɪnˈvaɪt ˈfiːdˌbæk ænd ˈwɛl.kəm kənˈstrʌk.tɪv səɡˈdʒɛs.tʃənz/",
+      "text_native": "Arthur a fait une brève pause pour solliciter des retours et accueillir les suggestions constructives."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Several managers nodded in agreement as they began to understand the full scope.",
+      "phonetic": "/ˈsɛv.ər.əl ˈmæn.ə.dʒərz ˈnɑːd.ɪd ɪn əˈɡriː.mənt æz ðeɪ bɪˈɡæn tuː ˌʌn.dərˈstænd ðə fʊl skoʊp/",
+      "text_native": "Plusieurs responsables ont hoché la tête en signe d'approbation en commençant à en saisir toute la portée."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He summarized the core strategy before moving toward the final conclusion.",
+      "phonetic": "/hiː ˈsʌm.əˌraɪzd ðə kɔːr ˈstræt.ə.dʒi bɪˈfɔːr ˈmuːv.ɪŋ təˈwɔːrd ðə ˈfaɪ.nəl kənˈkluː.ʒən/",
+      "text_native": "Il a résumé la stratégie principale avant d'aborder la conclusion."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The room remained attentive, fully captivated by his compelling narrative.",
+      "phonetic": "/ðə ruːm rɪˈmeɪnd əˈtɛn.tɪv, ˈfʊ.li ˈkæp.təˌveɪ.tɪd baɪ hɪz kəmˈpɛl.ɪŋ ˈnɛr.ə.tɪv/",
+      "text_native": "L'assistance est restée attentive, totalement captivée par son exposé convaincant."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "As he wrapped up his talk, spontaneous applause echoed through the room.",
+      "phonetic": "/æz hiː ræpt ʌp hɪz tɔːk, spɑːnˈteɪ.ni.əs əˈplɔːz ˈɛk.oʊd θruː ðə ruːm/",
+      "text_native": "Alors qu'il concluait son intervention, des applaudissements spontanés ont résonné dans la pièce."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The director smiled warmly and offered a strong public endorsement.",
+      "phonetic": "/ðə dɪˈrɛk.tər smaɪld ˈwɔːrm.li ænd ˈɔː.fərd ə strɔːŋ ˈpʌb.lɪk ɪnˈdɔːr.mənt/",
+      "text_native": "Le directeur a souri chaleureusement et a exprimé un fort soutien public."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Approval from leadership created a clear consensus among all present colleagues.",
+      "phonetic": "/əˈpruː.vəl frʌm ˈliː.dər.ʃɪp kriˈeɪ.tɪd ə klɪr kənˈsɛn.səs əˈmʌŋ ɔːl ˈprɛz.ənt ˈkɑːl.iːɡz/",
+      "text_native": "L'approbation de la direction a fait naître un consensus clair parmi tous les collègues présents."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "This favorable outcome marked a major milestone in his professional career.",
+      "phonetic": "/ðɪs ˈfeɪ.vər.ə.bəl ˈaʊtˌkʌm mɑːrkt ə ˈmeɪ.ʒər ˈmaɪlˌstoʊn ɪn hɪz prəˈfɛʃ.ən.əl kəˈrɪr/",
+      "text_native": "Ce résultat favorable a marqué une étape majeure dans sa carrière professionnelle."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Looking back, all the thorough preparation had truly been worthwhile.",
+      "phonetic": "/ˈlʊk.ɪŋ bæk, ɔːl ðə ˈθɜːr.oʊ ˌprɛp.əˈreɪ.ʃən hæd ˈtruː.li bɪn ˈwɜːrθ.waɪl/",
+      "text_native": "Avec le recul, toute cette préparation minutieuse en valait vraiment la peine."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Such a rewarding accomplishment gave him immense pride in his daily work.",
+      "phonetic": "/sʌtʃ ə rɪˈwɔːrd.ɪŋ əˈkɑːm.plɪʃ.mənt ɡeɪv hɪm ɪˈmɛns praɪd ɪn hɪz ˈdeɪ.li wɜːrk/",
+      "text_native": "Une réussite aussi gratifiante lui a procuré une immense fierté dans son travail quotidien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He returned to his desk, organizing his folder with a quiet sense of satisfaction.",
+      "phonetic": "/hiː rɪˈtɜːrnd tuː hɪz dɛsk, ˈɔːr.ɡəˌnaɪz.ɪŋ hɪz ˈfoʊl.dər wɪð ə ˈkwaɪ.ɪt sɛns ʌv ˌsæt.ɪsˈfæk.ʃən/",
+      "text_native": "Il est retourné à son bureau, rangeant son dossier avec un sentiment discret de satisfaction."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "This successful presentation proved that he was ready for even greater responsibilities.",
+      "phonetic": "/ðɪs səkˈsɛs.fəl ˌprɛz.ənˈteɪ.ʃən pruːvd ðæt hiː wʌz ˈrɛd.i fɔːr ˈiː.vən ˈɡreɪ.tər rɪˌspɑːn.səˈbɪl.ə.t̬iz/",
+      "text_native": "Cette présentation réussie a prouvé qu'il était prêt à assumer des responsabilités encore plus grandes."
+    }
+  ]
+}

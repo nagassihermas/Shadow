@@ -1,0 +1,217 @@
+{
+  "title": "A Family Reunion",
+  "new_vocabulary": [
+    "reunion",
+    "organize",
+    "arrive",
+    "hug",
+    "greet",
+    "discuss",
+    "career",
+    "project",
+    "support",
+    "advice",
+    "share",
+    "memory",
+    "laugh",
+    "joke",
+    "relieve",
+    "stress",
+    "pressure",
+    "schedule",
+    "balance",
+    "habit",
+    "lifestyle",
+    "improve",
+    "solution",
+    "suggest",
+    "plan",
+    "future",
+    "event",
+    "celebrate",
+    "success",
+    "togetherness"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Last weekend, my family decided to organize a special reunion at our old house.",
+      "phonetic": "/lɑːst ˈwiːkɛnd, maɪ ˈfæmɪli dɪˈsaɪdɪd tuː ˈɔːrɡənaɪz ə ˈspɛʃəl ˌriːˈjuːnjən æt ˈaʊər oʊld haʊs./",
+      "text_native": "Le week-end dernier, ma famille a décidé d'organiser des retrouvailles spéciales dans notre vieille maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "My parents prepared the living room while my sister cleaned the large kitchen.",
+      "phonetic": "/maɪ ˈpɛrənts prɪˈpɛrd ðə ˈlɪvɪŋ ruːm waɪl maɪ ˈsɪstər kliːnd ðə lɑːrʤ ˈkɪtʃən./",
+      "text_native": "Mes parents ont préparé le salon pendant que ma sœur nettoyait la grande cuisine."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Early in the afternoon, my uncle and aunt arrived with their two teenage children.",
+      "phonetic": "/ˈɜːrli ɪn ði ˌæftərˈnuːn, maɪ ˈʌŋkl ənd ænt əˈraɪvd wɪð ðɛr tuː ˈtiːnɪʤ ˈtʃɪldrən./",
+      "text_native": "Tôt dans l'après-midi, mon oncle et ma tante sont arrivés avec leurs deux enfants adolescents."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Everyone hugged each other warmly as they walked through the front door.",
+      "phonetic": "/ˈɛvriwʌn hʌɡd iːtʃ ˈʌðər ˈwɔːrmli æz ðeɪ wɔːkt θruː ðə frʌnt dɔːr./",
+      "text_native": "Tout le monde s'est fait un câlin chaleureux en franchissant la porte d'entrée."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "My cousins looked much taller than during our last meeting six months ago.",
+      "phonetic": "/maɪ ˈkʌzənz lʊkt mʌtʃ ˈtɔːlər ðæn ˈdʊrɪŋ ˈaʊər lɑːst ˈmiːtɪŋ sɪks mʌnθs əˈɡoʊ./",
+      "text_native": "Mes cousins avaient l'air beaucoup plus grands que lors de notre dernière rencontre il y a six mois."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "We sat together in the comfortable armchairs to discuss our recent news.",
+      "phonetic": "/wiː sæt təˈɡɛðər ɪn ðə ˈkʌmfərtəbəl ˈɑːrtʃɛrz tuː dɪˈskʌs ˈaʊər ˈriːsənt nuːz./",
+      "text_native": "Nous nous sommes assis ensemble dans les fauteuils confortables pour discuter de nos nouvelles récentes."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "My brother talked about his new job and his responsibilities at the office.",
+      "phonetic": "/maɪ ˈbrʌðər tɔːkt əˈbaʊt hɪz nuː ʤɑːb ənd hɪz rɪˌspɑːnsəˈbɪlətiz æt ði ˈɔːfɪs./",
+      "text_native": "Mon frère a parlé de son nouvel emploi et de ses responsabilités au bureau."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He explained that his daily schedule was very busy with important projects.",
+      "phonetic": "/hiː ɪkˈspleɪnd ðæt hɪz ˈdeɪli ˈskɛʤuəl wʌz ˈvɛri ˈbɪzi wɪð ɪmˈpɔːrtənt ˈprɑːʤɛkts./",
+      "text_native": "Il a expliqué que son emploi du temps quotidien était très chargé avec des projets importants."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "My mother listened carefully and smiled proudly at his professional success.",
+      "phonetic": "/maɪ ˈmʌðər ˈlɪsənd ˈkɛrfəli ənd smaɪld ˈpraʊdli æt hɪz prəˈfɛʃənəl səkˈsɛs./",
+      "text_native": "Ma mère a écouté attentivement et a souri fièrement devant sa réussite professionnelle."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Then, my aunt shared some useful advice about balancing work and personal life.",
+      "phonetic": "/ðɛn, maɪ ænt ʃɛrd sʌm ˈjuːsfəl ədˈvaɪs əˈbaʊt ˈbælənsɪŋ wɜːrk ənd ˈpɜːrsənəl laɪf./",
+      "text_native": "Ensuite, ma tante a partagé des conseils utiles sur l'équilibre entre travail et vie personnelle."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "She mentioned that modern lifestyles create too much stress and daily pressure.",
+      "phonetic": "/ʃiː ˈmɛnʃənd ðæt ˈmɑːdərn ˈlaɪfˌstaɪlz kriˈeɪt tuː mʌtʃ strɛs ənd ˈdeɪli ˈprɛʃər./",
+      "text_native": "Elle a mentionné que les modes de vie modernes créent trop de stress et de pression quotidienne."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "My father agreed and suggested changing some daily habits to improve health.",
+      "phonetic": "/maɪ ˈfɑːðər əˈɡriːd ənd səˈʤɛstɪd ˈʧeɪnʤɪŋ sʌm ˈdeɪli ˈhæbɪts tuː ɪmˈpruːv hɛlθ./",
+      "text_native": "Mon père a approuvé et a suggéré de modifier certaines habitudes quotidiennes pour améliorer la santé."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The children played games in the garden while the adults continued their conversation.",
+      "phonetic": "/ðə ˈtʃɪldrən pleɪd ɡeɪmz ɪn ði ˈɡɑːrdən waɪl ði əˈdʌlts kənˈtɪnjuːd ðɛr ˌkɑːnvərˈseɪʃən./",
+      "text_native": "Les enfants ont joué dans le jardin pendant que les adultes poursuivaient leur conversation."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Later, we gathered around the large wooden table for a delicious dinner.",
+      "phonetic": "/ˈleɪtər, wiː ˈɡæðərd əˈraʊnd ðə lɑːrʤ ˈwʊdən ˈteɪbəl fɔːr ə dɪˈlɪʃəs ˈdɪnər./",
+      "text_native": "Plus tard, nous nous sommes rassemblés autour de la grande table en bois pour un délicieux dîner."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "My grandmother cooked a wonderful chicken recipe with potatoes and fresh salad.",
+      "phonetic": "/maɪ ˈɡrændˌmʌðər kʊkt ə ˈwʌndərfəl ˈʧɪkən ˈrɛsəpi wɪð pəˈteɪtoʊz ənd frɛʃ ˈsæləd./",
+      "text_native": "Ma grand-mère a préparé une merveilleuse recette de poulet avec des pommes de terre et de la salade fraîche."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "We poured cold water and sweet juice into glass cups.",
+      "phonetic": "/wiː pɔːrd koʊld ˈwɔːtər ənd swiːt ʤuːs ˈɪntuː ɡlæs kʌps./",
+      "text_native": "Nous avons versé de l'eau fraîche et du jus de fruits dans des verres."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Everyone was hungry, so we started eating immediately with spoons and forks.",
+      "phonetic": "/ˈɛvriwʌn wʌz ˈhʌŋɡri, soʊ wiː ˈstɑːrtɪd ˈiːtɪŋ ɪˈmiːdiətli wɪð spuːnz ənd fɔːrks./",
+      "text_native": "Tout le monde avait faim, alors nous avons commencé à manger immédiatement avec des cuillères et des fourchettes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "During the meal, my grandfather told funny stories from his youth.",
+      "phonetic": "/ˈdʊrɪŋ ðə miːl, maɪ ˈɡrændˌfɑːðər toʊld ˈfʌni ˈstɔːriz frʌm hɪz juːθ./",
+      "text_native": "Pendant le repas, mon grand-père a raconté des histoires drôles de sa jeunesse."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "We laughed loudly because his jokes were always very clever and kind.",
+      "phonetic": "/wiː læft ˈlaʊdli bɪˈkʌz hɪz ʤoʊks wɜːr ˈɔːlweɪz ˈvɛri ˈklɛvər ənd kaɪnd./",
+      "text_native": "Nous avons ri aux éclats car ses blagues étaient toujours très intelligentes et bienveillantes."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Good relationships are built on moments like this when people share feelings.",
+      "phonetic": "/ɡʊd rɪˈleɪʃənʃɪps ɑːr bɪlt ɑːn ˈmoʊmɪnts laɪk ðɪs wɛn ˈpiːpəl ʃɛr ˈfiːlɪŋz./",
+      "text_native": "De bonnes relations se construisent sur des moments comme celui-ci où les gens partagent leurs sentiments."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "My cousin mentioned a future plan to travel abroad for his studies.",
+      "phonetic": "/maɪ ˈkʌzən ˈmɛnʃənd ə ˈfjuːʧər plæn tuː ˈtrævəl əˈbrɔːd fɔːr hɪz ˈstʌdiz./",
+      "text_native": "Mon cousin a mentionné son projet de voyager à l'étranger pour ses études."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "We all supported his decision and offered helpful solutions for his journey.",
+      "phonetic": "/wiː ɔːl səˈpɔːrtɪd hɪz dɪˈsɪʒən ənd ˈɔːfərd ˈhɛlpfəl səˈluːʃənz fɔːr hɪz ˈʤɜːrni./",
+      "text_native": "Nous avons tous soutenu sa décision et proposé des solutions utiles pour son voyage."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "After dinner, the young people helped wash the plates and clean the kitchen.",
+      "phonetic": "/ˈæftər ˈdɪnər, ðə jʌŋ ˈpiːpəl hɛlpt wɑːʃ ðə pleɪts ənd kliːn ðə ˈkɪtʃən./",
+      "text_native": "Après le dîner, les jeunes ont aidé à faire la vaisselle et à nettoyer la cuisine."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The evening progressed peacefully with more warm discussions in the living room.",
+      "phonetic": "/ði ˈiːvnɪŋ prəˈɡrɛst ˈpiːsfʊli wɪð mɔːr wɔːrm dɪˈskʌʃənz ɪn ðə ˈlɪvɪŋ ruːm./",
+      "text_native": "La soirée s'est déroulée paisiblement avec d'autres discussions chaleureuses dans le salon."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "My uncle showed us old photographs from past family events.",
+      "phonetic": "/maɪ ˈʌŋkl ʃoʊd ʌs oʊld ˈfoʊtəˌɡræfs frʌm pæst ˈfæmɪli ɪˈvɛnts./",
+      "text_native": "Mon oncle nous a montré de vieilles photographies d'événements familiaux passés."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Looking at those pictures brought back wonderful memories for everyone present.",
+      "phonetic": "/ˈlʊkɪŋ æt ðoʊz ˈpɪkʧərz brɔːt bæk ˈwʌndərfəl ˈmɛməriz fɔːr ˈɛvriwʌn ˈprɛzənt./",
+      "text_native": "Regarder ces photos a ravivé de merveilleux souvenirs pour toutes les personnes présentes."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "It is important to maintain strong ties with relatives despite busy schedules.",
+      "phonetic": "/ɪt ɪz ɪmˈpɔːrtənt tuː mɛnˈteɪn strɔːŋ taɪz wɪð ˈrɛlətɪvz dɪˈspaɪt ˈbɪzi ˈskɛʤuəlz./",
+      "text_native": "Il est important de maintenir des liens étroits avec ses proches malgré des emplois du temps chargés."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "We truly enjoyed this rare moment of togetherness before leaving for home.",
+      "phonetic": "/wiː ˈtruːli ɪnˈʤɔɪd ðɪs rɛr ˈmoʊmɪnt ʌv təˈɡɛðərnəs bɪˈfɔːr ˈliːvɪŋ fɔːr hoʊm./",
+      "text_native": "Nous avons vraiment apprécié ce moment rare de complicité avant de rentrer chez nous."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "My parents thanked everyone for coming and making the day so special.",
+      "phonetic": "/maɪ ˈpɛrənts θæŋkt ˈɛvriwʌn fɔːr ˈkʌmɪŋ ənd ˈmeɪkɪŋ ðə deɪ soʊ ˈspɛʃəl./",
+      "text_native": "Mes parents ont remercié tout le monde d'être venu et d'avoir rendu cette journée si spéciale."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "We promised to meet again very soon to celebrate another happy occasion.",
+      "phonetic": "/wiː ˈprɑːmɪst tuː miːt əˈɡɛn ˈvɛri suːn tuː ˈsɛlɪˌbreɪt əˈnʌðər ˈhæpi əˈkeɪʒən./",
+      "text_native": "Nous avons promis de nous retrouver très bientôt pour fêter une autre heureuse occasion."
+    }
+  ]
+}

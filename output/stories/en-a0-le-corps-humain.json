@@ -1,0 +1,217 @@
+{
+  "title": "My Body",
+  "new_vocabulary": [
+    "body",
+    "head",
+    "hair",
+    "face",
+    "eyes",
+    "nose",
+    "mouth",
+    "ears",
+    "neck",
+    "shoulders",
+    "arms",
+    "hands",
+    "fingers",
+    "chest",
+    "stomach",
+    "legs",
+    "knees",
+    "feet",
+    "toes",
+    "skin",
+    "heart",
+    "blood",
+    "bones",
+    "muscles",
+    "health",
+    "water",
+    "food",
+    "sleep",
+    "rest",
+    "day"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "This is my body.",
+      "phonetic": "/ðɪs ɪz maɪ ˈbɒdi/",
+      "text_native": "C'est mon corps."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I have a head.",
+      "phonetic": "/aɪ hæv ə hɛd/",
+      "text_native": "J'ai une tête."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My hair is brown.",
+      "phonetic": "/maɪ hɛər ɪz braʊn/",
+      "text_native": "Mes cheveux sont bruns."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I see with my eyes.",
+      "phonetic": "/aɪ siː wɪð maɪ aɪz/",
+      "text_native": "Je vois avec mes yeux."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I smell with my nose.",
+      "phonetic": "/aɪ smɛl wɪð maɪ nəʊz/",
+      "text_native": "Je sens avec mon nez."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I eat with my mouth.",
+      "phonetic": "/aɪ iːt wɪð maɪ maʊθ/",
+      "text_native": "Je mange avec ma bouche."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I hear with my ears.",
+      "phonetic": "/aɪ hɪər wɪð maɪ ɪəz/",
+      "text_native": "J'entends avec mes oreilles."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "My face is clean.",
+      "phonetic": "/maɪ feɪs ɪz kliːn/",
+      "text_native": "Mon visage est propre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "My neck is short.",
+      "phonetic": "/maɪ nɛk ɪz ʃɔːt/",
+      "text_native": "Mon cou est court."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I have two shoulders.",
+      "phonetic": "/aɪ hæv tuː ˈʃəʊldəz/",
+      "text_native": "J'ai deux épaules."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I have two arms.",
+      "phonetic": "/aɪ hæv tuː ɑːmz/",
+      "text_native": "J'ai deux bras."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "My hands have fingers.",
+      "phonetic": "/maɪ hændz hæv ˈfɪŋgəz/",
+      "text_native": "Mes mains ont des doigts."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I touch things with my hands.",
+      "phonetic": "/aɪ tʌtʃ θɪŋz wɪð maɪ hændz/",
+      "text_native": "Je touche des choses avec mes mains."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "My chest is strong.",
+      "phonetic": "/maɪ tʃɛst ɪz strɒŋ/",
+      "text_native": "Ma poitrine est forte."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "My stomach is full now.",
+      "phonetic": "/maɪ ˈstʌmək ɪz fʊl naʊ/",
+      "text_native": "Mon estomac est bien rempli maintenant."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I have a heart inside.",
+      "phonetic": "/aɪ hæv ə hɑːt ɪnˈsaɪd/",
+      "text_native": "J'ai un cœur à l'intérieur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "My heart beats fast.",
+      "phonetic": "/maɪ hɑːt biːts fɑːst/",
+      "text_native": "Mon cœur bat vite."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Blood moves in my body.",
+      "phonetic": "/blʌd muːvz ɪn maɪ ˈbɒdi/",
+      "text_native": "Le sang circule dans mon corps."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Bones give me support.",
+      "phonetic": "/bəʊnz gɪv miː səˈpɔːt/",
+      "text_native": "Les os me soutiennent."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Muscles help me move.",
+      "phonetic": "/ˈmʌslz hɛlp miː muːv/",
+      "text_native": "Les muscles m'aident à bouger."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "My skin covers everything.",
+      "phonetic": "/maɪ skɪn ˈkʌvəz ˈɛvriθɪŋ/",
+      "text_native": "Ma peau recouvre tout."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I have two legs.",
+      "phonetic": "/aɪ hæv tuː lɛgz/",
+      "text_native": "J'ai deux jambes."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "My knees bend easily.",
+      "phonetic": "/maɪ niːz bɛnd ˈiːzɪli/",
+      "text_native": "Mes genoux se plient facilement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I walk on my feet.",
+      "phonetic": "/aɪ wɔːk ɒn maɪ fiːt/",
+      "text_native": "Je marche sur mes pieds."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "My feet have toes.",
+      "phonetic": "/maɪ fiːt hæv təʊz/",
+      "text_native": "Mes pieds ont des orteils."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I drink water for health.",
+      "phonetic": "/aɪ drɪŋk ˈwɔːtə fɔː hɛlθ/",
+      "text_native": "Je bois de l'eau pour rester en bonne santé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I eat good food daily.",
+      "phonetic": "/aɪ iːt gʊd fuːd ˈdeɪli/",
+      "text_native": "Je mange de la bonne nourriture chaque jour."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "My body needs rest.",
+      "phonetic": "/maɪ ˈbɒdi niːdz rɛst/",
+      "text_native": "Mon corps a besoin de repos."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I sleep at night.",
+      "phonetic": "/aɪ sliːp æt naɪt/",
+      "text_native": "Je dors la nuit."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now my body is ready.",
+      "phonetic": "/naʊ maɪ ˈbɒdi ɪz ˈrɛdi/",
+      "text_native": "Maintenant, mon corps est prêt."
+    }
+  ]
+}

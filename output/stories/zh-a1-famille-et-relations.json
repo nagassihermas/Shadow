@@ -1,0 +1,157 @@
+{
+  "title": "我的周末",
+  "new_vocabulary": [
+    "周末",
+    "和",
+    "朋友",
+    "去",
+    "公园",
+    "看",
+    "书",
+    "听",
+    "音乐",
+    "吃",
+    "苹果",
+    "喝",
+    "咖啡",
+    "喜欢",
+    "高兴",
+    "今天",
+    "天气",
+    "很",
+    "好",
+    "我们",
+    "一起",
+    "坐",
+    "椅子",
+    "说话",
+    "笑",
+    "买",
+    "个",
+    "面包",
+    "回家",
+    "晚安"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天天气很好。",
+      "phonetic": "Jīntiān tiānqì hěn hǎo.",
+      "text_native": "Il fait très beau aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "今天是周末。",
+      "phonetic": "Jīntiān shì zhōumò.",
+      "text_native": "C'est le week-end aujourd'hui."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我和朋友去公园。",
+      "phonetic": "Wǒ hé péngyǒu qù gōngyuán.",
+      "text_native": "Mon ami et moi allons au parc."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我们一起去公园。",
+      "phonetic": "Wǒmen yìqǐ qù gōngyuán.",
+      "text_native": "Nous allons ensemble au parc."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我们在公园看书。",
+      "phonetic": "Wǒmen zài gōngyuán kàn shū.",
+      "text_native": "Nous lisons des livres dans le parc."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "朋友听音乐。",
+      "phonetic": "Péngyǒu tīng yīnyuè.",
+      "text_native": "Mon ami écoute de la musique."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我吃一个苹果。",
+      "phonetic": "Wǒ chī yí gè píngguǒ.",
+      "text_native": "Je mange une pomme."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "朋友喝咖啡。",
+      "phonetic": "Péngyǒu hē kāfēi.",
+      "text_native": "Mon ami boit du café."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "公园里有很多树。",
+      "phonetic": "Gōngyuán lǐ yǒu hěn duō shù.",
+      "text_native": "Il y a beaucoup d'arbres dans le parc."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "天气很好。",
+      "phonetic": "Tiānqì hěn hǎo.",
+      "text_native": "Il fait très beau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我喜欢这个公园。",
+      "phonetic": "Wǒ xǐhuān zhè gè gōngyuán.",
+      "text_native": "J'aime ce parc."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "朋友也很高兴。",
+      "phonetic": "Péngyǒu yě hěn gāoxìng.",
+      "text_native": "Mon ami est aussi très heureux."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我们坐在椅子上。",
+      "phonetic": "Wǒmen zuò zài yǐzi shàng.",
+      "text_native": "Nous nous asseyons sur le banc."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "大家一起说话。",
+      "phonetic": "Dàjiā yìqǐ shuōhuà.",
+      "text_native": "Tout le monde parle ensemble."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "大家开心地笑。",
+      "phonetic": "Dàjiā kāixīn de xiào.",
+      "text_native": "Tout le monde sourit joyeusement."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我们买个面包。",
+      "phonetic": "Wǒmen mǎi gè miànbāo.",
+      "text_native": "Nous achetons un pain."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "时间不早了。",
+      "phonetic": "Shíjiān bù zǎo le.",
+      "text_native": "Il se fait tard."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我们回家。",
+      "phonetic": "Wǒmen huí jiā.",
+      "text_native": "Nous rentrons à la maison."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "周末非常快乐。",
+      "phonetic": "Zhōumò fēicháng kuàilè.",
+      "text_native": "Le week-end a été formidable."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "大家说晚安。",
+      "phonetic": "Dàjiā shuō wǎn'ān.",
+      "text_native": "Tout le monde se dit bonne nuit."
+    }
+  ]
+}

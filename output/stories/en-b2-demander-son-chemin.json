@@ -1,0 +1,217 @@
+{
+  "title": "A Miscalculated Detour",
+  "new_vocabulary": [
+    "miscalculated",
+    "detour",
+    "commuter",
+    "hesitate",
+    "puzzled",
+    "expression",
+    "approach",
+    "confess",
+    "unfamiliar",
+    "district",
+    "navigate",
+    "complicated",
+    "network",
+    "alleyway",
+    "landmark",
+    "prominent",
+    "skyscraper",
+    "glass",
+    "façade",
+    "reflect",
+    "sunlight",
+    "conveniently",
+    "situated",
+    "block",
+    "proceed",
+    "junction",
+    "observe",
+    "signage",
+    "destination",
+    "accomplish"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Arthur was a daily commuter who rarely explored beyond his usual routine.",
+      "phonetic": "/ˈɑːrθər wɒz ə ˈdeɪli kəˈmjuːtər huː ˈreərli ɪkˈsplɔːrd bɪˈjɒnd hɪz ˈjuːʒuəl ruːˈtiːn/",
+      "text_native": "Arthur était un navetteur quotidien qui explorait rarement au-delà de sa routine habituelle."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "On this particular morning, he decided to exit the underground system at an unfamiliar platform.",
+      "phonetic": "/ɒn ðɪs pərˈtɪkjələr ˈmɔːrnɪŋ, hiː dɪˈsaɪdɪd tuː ˈɛɡzɪt ði ˈʌndərɡraʊnd ˈsɪstəm ət ən ʌnˈfəmɪliər ˈplætfɔːrm/",
+      "text_native": "Ce matin-là, il décida de sortir du réseau souterrain à une station inhabituelle."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He stepped out onto the crowded pavement and immediately realized he had miscalculated his trajectory.",
+      "phonetic": "/hiː stɛpt aʊt ˈɒntuː ðə ˈkraʊdɪd ˈpeɪvmənt ənd ɪˈmiːdiətli ˈriːəlaɪzd hiː hæd ˌmɪsˈkælkjuleɪtɪd hɪz trəˈdʒɛktəri/",
+      "text_native": "Il mit le pied sur le trottoir bondé et réalisa immédiatement qu'il avait mal calculé sa trajectoire."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The morning breeze was chilly, and his heavy leather shoes echoed against the stone steps.",
+      "phonetic": "/ðə ˈmɔːrnɪŋ briːz wɒz ˈʧɪli, ənd hɪz ˈhɛvi ˈlɛðər ʃuːz ˈɛkəʊd əˈɡɛnst ðə stəʊn stɛps/",
+      "text_native": "La brise matinale était fraîche, et ses lourdes chaussures en cuir résonnaient contre les marches en pierre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Instead of turning left toward the bustling avenue, he hesitated at the corner.",
+      "phonetic": "/ɪnˈstɛd əv ˈtɜːrnɪŋ lɛft təˈwɔːrd ðə ˈbʌslɪŋ ˈævənuː, hiː ˈhɛzɪteɪtɪd ət ðə ˈkɔːrnər/",
+      "text_native": "Au lieu de tourner à gauche vers l'avenue animée, il hésita au coin de la rue."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A puzzled expression appeared on his face as he reached into his pocket for his smartphone.",
+      "phonetic": "/ə ˈpʌzəld ɪkˈsprɛʃən əˈpɪərd ɒn hɪz feɪs æz hiː riːtʃt ˈɪntuː hɪz ˈpɒkɪt fɔːr hɪz ˈsmɑːrtfəʊn/",
+      "text_native": "Une expression perplexe apparut sur son visage alors qu'il fouillait dans sa poche pour attraper son smartphone."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "To his absolute horror, the battery was completely dead.",
+      "phonetic": "/tuː hɪz ˈæbsəluːt ˈhɒrər, ðə ˈbætəri wɒz kəmˈpliːtli dɛd/",
+      "text_native": "À son grand désespoir, la batterie était complètement déchargée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Without a map or schedule, he felt entirely lost within the dense urban labyrinth.",
+      "phonetic": "/wɪðˈaʊt ə mæp ɔːr ˈʃɛduːl, hiː fɛlt ɪnˈtaɪəri lɒst wɪˈðɪn ðə dɛns ˈɜːrbən ˈlæbərɪnθ/",
+      "text_native": "Sans carte ni horaire, il se sentait totalement perdu au sein de ce labyrinthe urbain dense."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He needed to ask someone for help before he became seriously late for his appointment.",
+      "phonetic": "/hiː ˈniːdɪd tuː ɑːsk ˈsʌmwʌn fɔːr hɛlp bɪˈfɔːr hiː bɪˈkeɪm ˈsɪriəsli leɪt fɔːr hɪz əˈpɔɪntmənt/",
+      "text_native": "Il devait demander de l'aide à quelqu'un avant d'être sérieusement en retard pour son rendez-vous."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Spotting a friendly pedestrian approaching from the bakery, Arthur decided to step forward.",
+      "phonetic": "/ˈspɒtɪŋ ə ˈfrɛndli pəˈdɛstriən əˈprəʊtʃɪŋ frəm ðə ˈbeɪkəri, ˈɑːrθər dɪˈsaɪdɪd tuː stɛp ˈfɔːrwərd/",
+      "text_native": "Apercevant un piéton sympathique qui s'approchait de la boulangerie, Arthur décida de faire un pas en avant."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "A warm smell of fresh bread drifted from the shop, reminding him that he was also hungry.",
+      "phonetic": "/ə wɔːrm smɛl əv frɛʃ brɛd ˈdrɪftɪd frəm ðə ʃɒp, rɪˈmaɪndɪŋ hɪm ðæt hiː wɒz ˈɔːlsoʊ ˈhʌŋɡri/",
+      "text_native": "Une douce odeur de pain frais s'échappait de la boutique, lui rappelant qu'il avait aussi faim."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He cleared his throat politely and smiled at the stranger.",
+      "phonetic": "/hiː klɪərd hɪz θroʊt pəˈlaɪtli ənd smaɪld ət ðə ˈstreɪndʒər/",
+      "text_native": "Il se racla la gorge poliment et sourit à l'inconnu."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Excuse me, sir, could you please help me find my way around this unfamiliar district?",
+      "phonetic": "/ɪkˈskjuːz miː, sɜːr, kʊd juː pliːz hɛlp miː faɪnd maɪ weɪ əˈraʊnd ðɪs ʌnˈfəmɪliər ˈdɪstrɪkt/",
+      "text_native": "Excusez-moi, monsieur, pourriez-vous m'aider à me repérer dans ce quartier inconnu ?"
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The man stopped walking, adjusted his jacket, and looked down at Arthur with an understanding grin.",
+      "phonetic": "/ðə mæn stɒpt ˈwɔːkɪŋ, əˈdʒʌstɪd hɪz ˈdʒækɪt, ənd lʊkt daʊn ət ˈɑːrθər wɪð ən ˌʌndərˈstændɪŋ ɡrɪn/",
+      "text_native": "L'homme s'arrêta de marcher, rajusta sa veste et regarda Arthur avec un sourire compréhensif."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Of course, replied the local resident, this neighborhood can be quite complicated to navigate.",
+      "phonetic": "/ɒv kɔːrs, rɪˈplaɪd ðə ˈləʊkəl ˈrɛzɪdənt, ðɪs ˈneɪbərhʊd kən biː kwaɪt ˈkɒmplɪkeɪtɪd tuː ˈnævɪɡeɪt/",
+      "text_native": "Bien sûr, répondit le résident local, ce quartier peut s'avérer assez compliqué à parcourir."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Where exactly are you trying to go today?",
+      "phonetic": "/wɛr ɪɡˈzæklti ɑːr juː ˈtraɪɪŋ tuː ɡəʊ təˈdeɪ/",
+      "text_native": "Où essayez-vous exactement d'aller aujourd'hui ?"
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Arthur pulled out a small notebook and a pen from his coat pocket.",
+      "phonetic": "/ˈɑːrθər pʊld aʊt ə smɔːl ˈnʊtbʊk ənd ə pɛn frəm hɪz kəʊt ˈpɒkɪt/",
+      "text_native": "Arthur sortit un petit carnet et un stylo de la poche de son manteau."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I need to reach the main corporate building near the central park.",
+      "phonetic": "/aɪ niːd tuː riːtʃ ðə meɪn ˈkɔːrpərət ˈbɪldɪŋ nɪr ðə ˈsɛntrəl pɑːrk/",
+      "text_native": "Je dois rejoindre le bâtiment d'entreprise principal près du parc central."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Ah, that is a prominent skyscraper with a huge glass façade that reflects the sunlight.",
+      "phonetic": "/ɑː, ðæt ɪz ə ˈprɒmɪnənt ˈskaɪˌskreɪpər wɪð ə hjuːdʒ glæs fəˈsɑːd ðæt rɪˈflɛkts ðə ˈsʌnlaɪt/",
+      "text_native": "Ah, c'est un gratte-ciel remarquable doté d'une immense façade en verre qui reflète la lumière du soleil."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "It is conveniently situated just two blocks away from the police station.",
+      "phonetic": "/ɪt ɪz kənˈviːniəntli ˈsɪtʃueɪtɪd dʒʌst tuː blɒks əˈweɪ frəm ðə pəˈliːs ˈsteɪʃən/",
+      "text_native": "Il est idéalement situé à seulement deux pâtés de maisons du poste de police."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "You need to proceed straight down this narrow street until you reach the traffic lights.",
+      "phonetic": "/juː niːd tuː prəˈsiːd streɪt daʊn ðɪs ˈnɛroʊ striːt ənˈtɪl juː riːtʃ ðə ˈtræfɪk laɪts/",
+      "text_native": "Vous devez continuer tout droit dans cette rue étroite jusqu'à ce que vous arriviez aux feux de circulation."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Then, cross the pedestrian crossing carefully past the old hospital.",
+      "phonetic": "/ðɛn, krɒs ðə pəˈdɛstriən ˈkrɒsɪŋ ˈkɛrfʊli pɑːst ði əʊld ˈhɒspɪtəl/",
+      "text_native": "Ensuite, traversez le passage piéton avec précaution en passant devant le vieux hôpital."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "After passing the bank on your right, turn immediately down the dark alleyway.",
+      "phonetic": "/ˈæftər ˈpɑːsɪŋ ðə bæŋk ɒn jʊr raɪt, tɜːrn ɪˈmiːdiətli daʊn ðə dɑːrk ˈæliˌweɪ/",
+      "text_native": "Après avoir dépassé la banque sur votre droite, engagez-vous immédiatement dans la sombres ruelle."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Do not worry about missing the junction because there is clear signage everywhere.",
+      "phonetic": "/duː nɒt ˈwʌri əˈbaʊt ˈmɪsɪŋ ðə ˈdʒʌŋkʃən bɪˈkɒz ðɛr ɪz klɪər ˈsaɪnɪdʒ ˈɛvriˌwɛr/",
+      "text_native": "Ne vous inquiétez pas de rater l'intersection car il y a une signalisation claire partout."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Arthur listened carefully while noting down every single landmark in his notebook.",
+      "phonetic": "/ˈɑːrθər ˈlɪsənd ˈkɛrfʊli waɪl ˈnəʊtɪŋ daʊn ˈɛvri ˈsɪŋɡəl ˈlændˌmɑːrk ɪn hɪz ˈnʊtbʊk/",
+      "text_native": "Arthur écouta attentivement tout en notant chaque point de repère dans son carnet."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He thanked the helpful stranger for taking the time to explain the route.",
+      "phonetic": "/hiː θæŋkt ðə ˈhɛlpfʊl ˈstreɪndʒər fɔːr ˈteɪkɪŋ ðə taɪm tuː ɪkˈspleɪn ðə ruːt/",
+      "text_native": "Il remercia l'inconnu serviable d'avoir pris le temps de lui expliquer l'itinéraire."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Walking briskly along the sidewalk, he finally spotted the prominent glass structure.",
+      "phonetic": "/ˈwɔːkɪŋ ˈbrɪskli əˈlɒŋ ðə ˈsaɪdˌwɔːk, hiː ˈfaɪnəli ˈspɒtɪd ðə ˈprɒmɪnənt glæs ˈstrʌktʃər/",
+      "text_native": "Marchant d'un pas vif le long du trottoir, il aperçut enfin la structure en verre remarquable."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "His goal was now within reach, and his worries began to fade away.",
+      "phonetic": "/hɪz ɡəʊl wɒz naʊ wɪˈðɪn riːtʃ, ənd hɪz ˈwʌriz bɪˈɡæn tuː feɪd əˈweɪ/",
+      "text_native": "Son objectif était désormais à portée de main, et ses inquiétudes commencèrent à s'estomper."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He pushed open the heavy glass door just a few minutes before his meeting started.",
+      "phonetic": "/hiː pʊʃt ˈəʊpən ðə ˈhɛvi glæs dɔːr dʒʌst ə fjuː ˈmɪnɪts bɪˈfɔːr hɪz ˈmiːtɪŋ ˈstɑːrtɪd/",
+      "text_native": "Il poussa la lourde porte en verre juste quelques minutes avant que sa réunion ne commence."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Successfully arriving on time proved that asking for directions is a valuable daily skill.",
+      "phonetic": "/səkˈsɛsfʊli əˈraɪvɪŋ ɒn taɪm pruːvd ðæt ˈɑːskɪŋ fɔːr dəˈrɛkʃənz ɪz ə ˈvæljuəbəl ˈdeɪli skɪl/",
+      "text_native": "Arriver à l'heure avec succès a prouvé que demander son chemin est une compétence quotidienne précieuse."
+    }
+  ]
+}

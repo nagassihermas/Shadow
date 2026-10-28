@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "请问，去地铁站怎么走？",
+    "phonetic": "Qǐngwèn, qù dìtiězhàn zěnme zǒu?",
+    "text_native": "S'il vous plaît, pour aller à la station de métro, c'est par où ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "离这里最近的公交站在哪儿？",
+    "phonetic": "Lí zhèli zuìjìn de gōngjiāozhàn zài nǎr?",
+    "text_native": "Où se trouve l'arrêt de bus le plus proche d'ici ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "从这儿到火车站要多久？",
+    "phonetic": "Cóng zhèli dào huǒchēzhàn yào duōjiǔ?",
+    "text_native": "Il faut combien de temps pour aller d'ici à la gare ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我要买一张去市中心的单程票。",
+    "phonetic": "Wǒ yào mǎi yì zhāng qù shìzhōngxīn de dānchéngpiào.",
+    "text_native": "Je voudrais acheter un aller simple pour le centre-ville.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "坐地铁比坐出租车便宜得多。",
+    "phonetic": "Zuò dìtiě bǐ zuò chūzūchē piányi de duō.",
+    "text_native": "Prendre le métro est beaucoup moins cher que de prendre un taxi.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "师傅，请在前面那个路口停一下。",
+    "phonetic": "Shīfu, qǐng zài qiánmian nà ge lùkǒu tíng yíxià.",
+    "text_native": "Chauffeur, s'il vous plaît, arrêtez-vous au carrefour là-devant.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "可以用手机扫码付车费吗？",
+    "phonetic": "Kěyǐ yòng shǒujī sǎomǎ fù chēfèi ma?",
+    "text_native": "Est-ce qu'on peut payer le trajet en flashant un code avec le téléphone ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "下一班车大概几分钟后到？",
+    "phonetic": "Xià yì bān chē dàgài jǐ fēnzhōng hòu dào?",
+    "text_native": "Le prochain bus arrive dans combien de minutes environ ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "不好意思，这趟车去机场吗？",
+    "phonetic": "Bùhǎoyìsi, zhè tàng chē qù jīchǎng ma?",
+    "text_native": "Excusez-moi, est-ce que cette ligne va à l'aéroport ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "现在是早高峰，路上车特别多。",
+    "phonetic": "Xiànzài shì zǎogāofēng, lùshang chē tèbié duō.",
+    "text_native": "C'est l'heure de pointe du matin, il y a vraiment beaucoup de circulation.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "我在二号线换乘，应该往哪边走？",
+    "phonetic": "Wǒ zài èr hào xiàn huànchéng, yīnggāi wǎng nǎ biān zǒu?",
+    "text_native": "Je fais une correspondance à la ligne 2, je dois aller de quel côté ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "这条路线经常堵车，我们换个方式吧。",
+    "phonetic": "Zhè tiáo lùxiàn jīngcháng dǔchē, wǒmen huàn gè fāngshì ba.",
+    "text_native": "Cet axe est souvent embouteillé, changeons de moyen de transport.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "请帮我看一下，行李箱能放在这儿吗？",
+    "phonetic": "Qǐng bāng wǒ kàn yíxià, xínglixiāng néng fàng zài zhèer ma?",
+    "text_native": "Pouvez-vous jeter un œil, est-ce qu'on peut poser la valise ici ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "扫一扫就能解锁这辆共享单车。",
+    "phonetic": "Sǎo yì sǎo jiù néng jiěsuǒ zhè liàng gòngxiǎng dānchē.",
+    "text_native": "Il suffit de scanner pour déverrouiller ce vélo en libre-service.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "如果不赶时间，骑车去也是个不错的选择。",
+    "phonetic": "Rúguǒ bù gǎn shíjiān, qí chē qù yě shì gè bú cuò de xuǎnzé.",
+    "text_native": "Si on n'est pas pressés, y aller à vélo est aussi une bonne option.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "这趟高铁票已经卖光了，我们买晚一点的吧。",
+    "phonetic": "Zhè tàng gāotiě piào yǐjīng mài guāng le, wǒmen mǎi wǎn yìdiǎn de ba.",
+    "text_native": "Les billets pour ce train à grande vitesse sont épuisés, prenons-en un plus tardif.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "上车请抓紧扶手，下一站是王府井。",
+    "phonetic": "Shàng chē qǐng zhuājǐn fúshǒu, xià yí zhàn shì Wángfǔjǐng.",
+    "text_native": "Veuillez vous tenir aux poignées en montant, le prochain arrêt est Wangfujing.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "为了避开晚高峰，我决定提前半小时出门。",
+    "phonetic": "Wèile bìkāi wǎngāofēng, wǒ juédìng tíqián bàn xiǎoshí chūmén.",
+    "text_native": "Pour éviter les bouchons du soir, j'ai décidé de partir une demi-heure plus tôt.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "由于系统升级，今天部分线路会延误。",
+    "phonetic": "Yóuyú xìtǒng shēngjí, jīntiān bùfen xiànlù huì yánwù.",
+    "text_native": "En raison d'une mise à jour du système, certaines lignes auront du retard aujourd'hui.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "虽然外面在下雨，但幸好地铁没有受太大影响。",
+    "phonetic": "Suīrán wàimian zài xià yǔ, dàn xìnghǎo dìtiě méiyǒu shòu tài dà yǐngxiǎng.",
+    "text_native": "Même s'il pleut dehors, heureusement que le métro n'est pas trop perturbé.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A2"
+  }
+]

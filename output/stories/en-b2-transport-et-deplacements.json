@@ -1,0 +1,217 @@
+{
+  "title": "A Complicated Business Trip",
+  "new_vocabulary": [
+    "reliable",
+    "commuter",
+    "cancellation",
+    "announcement",
+    "overcrowded",
+    "luggage",
+    "aisle",
+    "compartment",
+    "reservation",
+    "available",
+    "passenger",
+    "conductor",
+    "validate",
+    "departure",
+    "connection",
+    "luggage rack",
+    "heavy",
+    "hurry",
+    "bother",
+    "apologize",
+    "disruption",
+    "rebook",
+    "fare",
+    "refund",
+    "receipt",
+    "gate",
+    "board",
+    "takeoff",
+    "luggage claim",
+    "destination"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Every reliable commuter knows that winter weather often ruins daily transportation.",
+      "phonetic": "/ˈɛvəri rɪˈlaɪəbl kəˈmjutər noʊz ðæt ˈwɪntər ˈwɛðər ˈɔfn ˈruz ˈdeɪli ˌtrænspərˈteɪʃn/",
+      "text_native": "Tous les navetteurs réguliers savent que les conditions hivernales gâchent souvent les transports quotidiens."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Mark woke up early because he had an important meeting downtown.",
+      "phonetic": "/mɑrk woʊk ʌp ˈɜrli bɪˈkəz hi hæd ən ɪmˈpɔrtnt ˈmitɪŋ ˈdaʊnˌtaʊn/",
+      "text_native": "Mark s'est réveillé tôt parce qu'il avait une réunion importante au centre-ville."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "After drinking his coffee, he grabbed his heavy suitcase from the closet.",
+      "phonetic": "/ˈæftər ˈdrɪŋkɪŋ hɪz ˈkɑfi, hi græbd hɪz ˈhɛvi ˈsutˌkeɪs frəm ðə ˈklɑzɪt/",
+      "text_native": "Après avoir bu son café, il a pris sa lourde valise dans le placard."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He left his apartment in a hurry to reach the central station on time.",
+      "phonetic": "/hi lɛft hɪz əˈpɑrtmənt ɪn ə ˈhɜri tu riʧ ðə ˈsɛntrəl ˈsteɪʃn ɑn taɪm/",
+      "text_native": "Il a quitté son appartement en hâte pour arriver à la gare centrale à l'heure."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When he arrived at the platform, a sudden cancellation appeared on the board.",
+      "phonetic": "/wɛn hi əˈraɪvd æt ðə ˈplætfɔrm, ə ˈsʌdn ˌkænsəˈleɪʃn əˈpɪrd ɑn ðə bɔrd/",
+      "text_native": "Quand il est arrivé sur le quai, une annulation soudaine est apparue sur le panneau."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A loudspeaker announcement explained that severe technical issues caused major delays.",
+      "phonetic": "/ə ˈlaʊdˌspikər əˈnaʊnsmənt ɪkˈspleɪnd ðæt sɪˈvɪr ˈtɛknɪkl ˈɪʃuz kɑzd ˈmeɪʤər dɪˈleɪz/",
+      "text_native": "Une annonce par haut-parleur a expliqué que de graves problèmes techniques causaient d'importants retards."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Many frustrated passengers gathered around the ticket counter to ask questions.",
+      "phonetic": "/ˈmɛni ˈfrʌstreɪtɪd ˈpæsənʤərz ˈgæðərd əˈraʊnd ðə ˈtɪkɪt ˈkaʊntər tu æsk ˈkwɛstʃənz/",
+      "text_native": "De nombreux passagers frustrés se sont rassemblés autour du guichet pour poser des questions."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Mark realized he needed to find an alternative route immediately.",
+      "phonetic": "/mɑrk ˈriəˌlaɪzd hi ˈnidɪd tu faɪnd ən ɔlˈtɜrnətɪv rut ɪˈmidiətli/",
+      "text_native": "Mark a réalisé qu'il devait trouver un itinéraire de rechange immédiatement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He quickly checked his smartphone for available bus connections.",
+      "phonetic": "/hi ˈkwɪkli ʧɛkt hɪz ˈsmɑrtˌfoʊn fɔr əˈveɪləbl bəs kəˈnɛkʃənz/",
+      "text_native": "Il a rapidement vérifié sur son smartphone les correspondances de bus disponibles."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Fortunately, a long-distance coach was leaving from the nearby terminal in ten minutes.",
+      "phonetic": "/ˈfɔrʧənətli, ə lɔŋ ˈdɪstəns koʊʧ wʌz ˈlivɪŋ frəm ðə ˈnɪrbaɪ ˈtɜrmɪnl ɪn tɛn ˈmɪnɪts/",
+      "text_native": "Heureusement, un car longue distance partait de la gare routière voisine dans dix minutes."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He walked rapidly through the cold street, carrying his luggage with difficulty.",
+      "phonetic": "/hi wɔkt ˈræpɪdli θru ðə koʊld strit, ˈkæriɪŋ hɪz ˈlʌgɪʤ wɪð ˈdɪfəkəlti/",
+      "text_native": "Il a marché d'un pas vif dans la rue froide, portant ses bagages avec difficulté."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "At the desk, he paid the fare and received a small paper receipt.",
+      "phonetic": "/æt ðə dɛsk, hi peɪd ðə fɛr ənd rɪˈsivd ə smɔl ˈpeɪpər rɪˈsit/",
+      "text_native": "Au guichet, il a payé le tarif et a reçu un petit reçu en papier."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The driver asked him to validate his ticket before stepping inside.",
+      "phonetic": "/ðə ˈdraɪvər æskt hɪm tu ˈvæləˌdeɪt hɪz ˈtɪkɪt bɪˈfɔr ˈstɛpɪŋ ɪnˈsaɪd/",
+      "text_native": "Le chauffeur lui a demandé de valider son ticket avant de monter à bord."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The vehicle was completely overcrowded because so many people missed their trains.",
+      "phonetic": "/ðə ˈvihɪkl wʌz kəmˈplitli ˌoʊvərˈkraʊdɪd bɪˈkəz soʊ ˈmɛni ˈpipəl mɪst ðɛr treɪnz/",
+      "text_native": "Le véhicule était complètement bondé parce que tant de gens avaient raté leurs trains."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Mark found a narrow space near the back door to stand safely.",
+      "phonetic": "/mɑrk faʊnd ə ˈnæroʊ speɪs nɪr ðə bæk dɔr tu stænd ˈseɪfli/",
+      "text_native": "Mark a trouvé un espace étroit près de la porte arrière pour se tenir debout en toute sécurité."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He placed his heavy bag carefully on the overhead luggage rack.",
+      "phonetic": "/hi pleɪst hɪz ˈhɛvi bæg ˈkɛrfəli ɑn ði ˈoʊvərˌhɛd ˈlʌgɪʤ ræk/",
+      "text_native": "Il a posé son sac lourd avec précaution sur le porte-bagages supérieur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Heavy traffic slowed down their progress on the busy highway bridge.",
+      "phonetic": "/ˈhɛvi ˈtræfɪk sloʊd daʊn ðɛr ˈprɑgrəs ɑn ðə ˈbɪzi ˈhaɪˌweɪ brɪʤ/",
+      "text_native": "Une circulation dense a ralenti leur progression sur le pont autoroutier très fréquenté."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The friendly conductor apologized for the general travel disruption.",
+      "phonetic": "/ðə ˈfrɛndli kənˈdʌktər əˈpɑləˌʤaɪzd fɔr ðə ˈʤɛnərəl ˈtrævəl dɪsˈrʌpʃn/",
+      "text_native": "Le sympathique contrôleur s'est excusé pour la perturbation générale du trafic."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Another passenger standing in the aisle offered to help him adjust his coat.",
+      "phonetic": "/əˈnʌðər ˈpæsənʤər ˈstændɪŋ ɪn ðə aɪl ˈɔfərd tu hɛlp hɪm əˈʤʌst hɪz koʊt/",
+      "text_native": "Un autre passager debout dans l'allée s'est proposé pour l'aider à ajuster son manteau."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "They crossed the big river while raindrops fell heavily against the glass window.",
+      "phonetic": "/ðeɪ krɑst ðə bɪg ˈrɪvər waɪl ˈreɪnˌdrɑps fɛl ˈhɛvɪli əˈgɛnst ðə glæs ˈwɪndoʊ/",
+      "text_native": "Ils ont traversé le grand fleuve tandis que des gouttes de pluie frappaient lourdement contre la vitre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Mark looked outside at the gray buildings passing by very slowly.",
+      "phonetic": "/mɑrk lʊkt ˈaʊtˌsaɪd æt ðə greɪ ˈbɪldɪŋz ˈpæsɪŋ baɪ ˈvɛri ˈsloʊli/",
+      "text_native": "Mark a regardé par la fenêtre les bâtiments gris qui défilaient très lentement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He hoped the company would understand the unavoidable reason for his delay.",
+      "phonetic": "/hi hoʊpt ðə ˈkʌmpəni wʊd ˌʌndərˈstænd ði ˌʌnəˈvɔɪdəbl ˈrizən fɔr hɪz dɪˈleɪ/",
+      "text_native": "Il espérait que l'entreprise comprendrait la raison inévitable de son retard."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "After forty minutes, the coach finally reached the downtown business district.",
+      "phonetic": "/ˈæftər ˈfɔrti ˈmɪnɪts, ðə koʊʧ ˈfaɪnəli riʧt ðə ˈdaʊnˌtaʊn ˈbɪznəs ˈdɪstrɪkt/",
+      "text_native": "Après quarante minutes, le car a enfin atteint le quartier d'affaires du centre-ville."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Mark stepped down from the vehicle and walked quickly toward his office building.",
+      "phonetic": "/mɑrk stɛpt daʊn frəm ðə ˈvihɪkl ənd wɔkt ˈkwɪkli təˈwɔrd hɪz ˈɔfɪs ˈbɪldɪŋ/",
+      "text_native": "Mark est descendu du véhicule et a marché d'un pas vif vers son immeuble de bureaux."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He entered the lobby, greeting the security guard at the front desk.",
+      "phonetic": "/hi ˈɛntərd ðə ˈlɑbi, ˈgritɪŋ ðə sɪˈkjʊrəti gɑrd æt ðə frʌnt dɛsk/",
+      "text_native": "Il est entré dans le hall, en saluant l'agent de sécurité à l'accueil."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "His manager was already sitting at the computer waiting for the presentation.",
+      "phonetic": "/hɪz ˈmænəʤər wʌz ɔlˈrɛdi ˈsɪtɪŋ æt ðə kəmˈpjutər ˈweɪtɪŋ fɔr ðə ˌprɛzənˈteɪʃn/",
+      "text_native": "Son responsable était déjà assis à son ordinateur à attendre la présentation."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Mark sat at his desk, opened his laptop, and apologized for the trouble.",
+      "phonetic": "/mɑrk sæt æt hɪz dɛsk, ˈoʊpənd hɪz ˈlæpˌtɑp, ənd əˈpɑləˌʤaɪzd fɔr ðə ˈtrʌbl/",
+      "text_native": "Mark s'est assis à son bureau, a ouvert son ordinateur portable et s'est excusé pour ce désagrément."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "His boss smiled and said that travel disruptions happen to every commuter.",
+      "phonetic": "/hɪz bɔs smaɪld ənd sɛd ðæt ˈtrævəl dɪsˈrʌpʃənz ˈhæpən tu ˈɛvəri kəˈmjutər/",
+      "text_native": "Son patron a souri en disant que les perturbations de transport arrivent à tous les navetteurs."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "They began the important meeting without any further complications today.",
+      "phonetic": "/ðeɪ bɪˈgæn ði ɪmˈpɔrtnt ˈmitɪŋ wɪˈðaʊt ˈɛni ˈfɜrðər ˌkɑmpləˈkeɪʃnz təˈdeɪ/",
+      "text_native": "Ils ont commencé cette réunion importante sans plus de complications aujourd'hui."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "By evening, Mark hoped his return journey home would be much calmer.",
+      "phonetic": "/baɪ ˈivnɪŋ, mɑrk hoʊpt hɪz rɪˈtɜrn ˈʤɜrni hoʊm wʊd bi mʌʧ ˈkɑmər/",
+      "text_native": "Le soir venu, Mark espérait que son voyage de retour serait beaucoup plus calme."
+    }
+  ]
+}

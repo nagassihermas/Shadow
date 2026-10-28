@@ -1,0 +1,186 @@
+{
+  "title": "The Meeting",
+  "new_vocabulary": ["meeting", "office", "table", "chair", "computer", "paper", "pen", "door", "boss", "colleague"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːrnɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom goes to the office.",
+      "phonetic": "/tɑːm ɡoʊz tuː ði ˈɔːfɪs/",
+      "text_native": "Tom va au bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He opens the door.",
+      "phonetic": "/hiː ˈoʊpənz ðə dɔːr/",
+      "text_native": "Il ouvre la porte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He sees his colleagues.",
+      "phonetic": "/hiː siːz hɪz ˈkɑːliːɡz/",
+      "text_native": "Il voit ses collègues."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "They say hello.",
+      "phonetic": "/ðeɪ seɪ həˈloʊ/",
+      "text_native": "Ils disent bonjour."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "It is time for a meeting.",
+      "phonetic": "/ɪt ɪz taɪm fɔːr ə ˈmiːtɪŋ/",
+      "text_native": "C'est l'heure de la réunion."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom walks to the meeting room.",
+      "phonetic": "/tɑːm wɔːks tuː ðə ˈmiːtɪŋ ruːm/",
+      "text_native": "Tom se dirige vers la salle de réunion."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The room is big.",
+      "phonetic": "/ðə ruːm ɪz bɪɡ/",
+      "text_native": "La pièce est grande."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "There is a large table.",
+      "phonetic": "/ðeər ɪz ə lɑːrdʒ ˈteɪbl/",
+      "text_native": "Il y a une grande table."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "There are many chairs.",
+      "phonetic": "/ðeər ɑːr ˈmeni tʃerz/",
+      "text_native": "Il y a beaucoup de chaises."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom sits down.",
+      "phonetic": "/tɑːm sɪts daʊn/",
+      "text_native": "Tom s'assoit."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He puts his bag on the floor.",
+      "phonetic": "/hiː pʊts hɪz bæɡ ɑːn ðə flɔːr/",
+      "text_native": "Il pose son sac par terre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He takes out a piece of paper.",
+      "phonetic": "/hiː teɪks aʊt ə piːs əv ˈpeɪpər/",
+      "text_native": "Il sort une feuille de papier."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He takes out a pen.",
+      "phonetic": "/hiː teɪks aʊt ə pen/",
+      "text_native": "Il sort un stylo."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The boss enters the room.",
+      "phonetic": "/ðə bɑːs ˈentərz ðə ruːm/",
+      "text_native": "Le patron entre dans la pièce."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The boss smiles.",
+      "phonetic": "/ðə bɑːs smaɪlz/",
+      "text_native": "Le patron sourit."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Everyone is quiet.",
+      "phonetic": "/ˈevriwʌn ɪz ˈkwaɪət/",
+      "text_native": "Tout le monde se tait."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The boss starts to speak.",
+      "phonetic": "/ðə bɑːs stɑːrts tuː spiːk/",
+      "text_native": "Le patron commence à parler."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom listens.",
+      "phonetic": "/tɑːm ˈlɪsn̩z/",
+      "text_native": "Tom écoute."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He writes notes on the paper.",
+      "phonetic": "/hiː raɪts noʊts ɑːn ðə ˈpeɪpər/",
+      "text_native": "Il prend des notes sur le papier."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "A colleague asks a question.",
+      "phonetic": "/ə ˈkɑːliːɡ æsks ə ˈkwestʃən/",
+      "text_native": "Un collègue pose une question."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The boss answers.",
+      "phonetic": "/ðə bɑːs ˈænsərz/",
+      "text_native": "Le patron répond."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom looks at his computer.",
+      "phonetic": "/tɑːm lʊks æt hɪz kəmˈpjuːtər/",
+      "text_native": "Tom regarde son ordinateur."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The screen is on.",
+      "phonetic": "/ðə skriːn ɪz ɑːn/",
+      "text_native": "L'écran est allumé."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He checks his work.",
+      "phonetic": "/hiː tʃeks hɪz wɜːrk/",
+      "text_native": "Il vérifie son travail."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The meeting is going well.",
+      "phonetic": "/ðə ˈmiːtɪŋ ɪz ˈɡoʊɪŋ wel/",
+      "text_native": "La réunion se déroule bien."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Time passes fast.",
+      "phonetic": "/taɪm ˈpæsɪz fæst/",
+      "text_native": "Le temps passe vite."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The boss says thank you.",
+      "phonetic": "/ðə bɑːs seɪz θæŋk juː/",
+      "text_native": "Le patron les remercie."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The meeting ends.",
+      "phonetic": "/ðə ˈmiːtɪŋ endz/",
+      "text_native": "La réunion se termine."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Tom stands up and leaves.",
+      "phonetic": "/tɑːm stændz ʌp ənd liːvz/",
+      "text_native": "Tom se lève et s'en va."
+    }
+  ]
+}

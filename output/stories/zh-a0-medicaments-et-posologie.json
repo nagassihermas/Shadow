@@ -1,0 +1,186 @@
+{
+  "title": "吃药",
+  "new_vocabulary": ["药", "吃", "水", "一", "二", "三", "多"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我是马克。",
+      "phonetic": "Wǒ shì Mǎkè.",
+      "text_native": "Je suis Marc."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有药。",
+      "phonetic": "Wǒ yǒu yào.",
+      "text_native": "J'ai un médicament."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "药是红的。",
+      "phonetic": "Yào shì hóng de.",
+      "text_native": "Le médicament est rouge."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "药在桌上。",
+      "phonetic": "Yào zài zhuō shàng.",
+      "text_native": "Le médicament est sur la table."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我要吃药。",
+      "phonetic": "Wǒ yào chī yào.",
+      "text_native": "Je veux prendre un médicament."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我看药。",
+      "phonetic": "Wǒ kàn yào.",
+      "text_native": "Je regarde le médicament."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "药是一个。",
+      "phonetic": "Yào shì yī gè.",
+      "text_native": "Il y a un médicament."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我吃一个药。",
+      "phonetic": "Wǒ chī yī gè yào.",
+      "text_native": "Je prends un médicament."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "这是早上。",
+      "phonetic": "Zhè shì zǎoshang.",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我有水。",
+      "phonetic": "Wǒ yǒu shuǐ.",
+      "text_native": "J'ai de l'eau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "水在杯子里。",
+      "phonetic": "Shuǐ zài bēizi lǐ.",
+      "text_native": "L'eau est dans la tasse."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "水是冷的。",
+      "phonetic": "Shuǐ shì lěng de.",
+      "text_native": "L'eau est froide."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我要水。",
+      "phonetic": "Wǒ yào shuǐ.",
+      "text_native": "Je veux de l'eau."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "药是两个。",
+      "phonetic": "Yào shì liǎng gè.",
+      "text_native": "Il y a deux médicaments."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我吃两个药。",
+      "phonetic": "Wǒ chī liǎng gè yào.",
+      "text_native": "Je prends deux médicaments."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "这是中午。",
+      "phonetic": "Zhè shì zhōngwǔ.",
+      "text_native": "C'est midi."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "药在手上。",
+      "phonetic": "Yào zài shǒu shàng.",
+      "text_native": "Le médicament est dans la main."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "手是白的。",
+      "phonetic": "Shǒu shì bái de.",
+      "text_native": "La main est blanche."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我吃药。",
+      "phonetic": "Wǒ chī yào.",
+      "text_native": "Je prends le médicament."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "药是三个。",
+      "phonetic": "Yào shì sān gè.",
+      "text_native": "Il y a trois médicaments."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "这是晚上。",
+      "phonetic": "Zhè shì wǎnshang.",
+      "text_native": "C'est le soir."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我有药。",
+      "phonetic": "Wǒ yǒu yào.",
+      "text_native": "J'ai un médicament."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我吃三个药。",
+      "phonetic": "Wǒ chī sān gè yào.",
+      "text_native": "Je prends trois médicaments."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "药好吗？",
+      "phonetic": "Yào hǎo ma?",
+      "text_native": "Le médicament est bon ?"
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "药很好。",
+      "phonetic": "Yào hěn hǎo.",
+      "text_native": "Le médicament est très bien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我很好。",
+      "phonetic": "Wǒ hěn hǎo.",
+      "text_native": "Je vais très bien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "药完了。",
+      "phonetic": "Yào wán le.",
+      "text_native": "Le médicament est fini."
+    }
+  ]
+}

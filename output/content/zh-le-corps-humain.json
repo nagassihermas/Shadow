@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我今天觉得有点累。",
+    "phonetic": "Wǒ jīntiān juéde yǒudiǎn lèi.",
+    "text_native": "Je me sens un peu fatigué aujourd'hui.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "你哪里不舒服吗？",
+    "phonetic": "Nǐ nǎlǐ bù shūfu ma?",
+    "text_native": "Tu n'es pas bien quelque part ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我的头很疼。",
+    "phonetic": "Wǒ de tóu hěn téng.",
+    "text_native": "J'ai mal à la tête.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "他昨晚没睡好，所以眼睛红红的。",
+    "phonetic": "Tā zuówǎn méi shuì hǎo, suǒyǐ yǎnjīng hónghóng de.",
+    "text_native": "Il n'a pas bien dormi hier soir, alors il a les yeux rouges.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "多喝水对皮肤好。",
+    "phonetic": "Duō hē shuǐ duì pífū hǎo.",
+    "text_native": "Boire beaucoup d'eau, c'est bon pour la peau.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我昨天跑步把脚扭了。",
+    "phonetic": "Wǒ zuótiān pǎobù bǎ jiǎo niǔ le.",
+    "text_native": "Je me suis tordu la cheville en courant hier.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "医生说我需要多休息。",
+    "phonetic": "Yīshēng shuō wǒ xūyào duō xiūxi.",
+    "text_native": "Le médecin a dit que j'avais besoin de me reposer davantage.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "吃完药以后，肚子好多了。",
+    "phonetic": "Chī wán yào yǐhòu, dùzi hǎo duō le.",
+    "text_native": "Après avoir pris les médicaments, mon ventre va beaucoup mieux.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "天气冷，出门记得戴围巾保护脖子。",
+    "phonetic": "Tiānqì lěng, chūmén jìde dài wéijīn bǎohù bózi.",
+    "text_native": "Il fait froid, en sortant pense à mettre une écharpe pour te protéger le cou.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我每次看书太久眼睛就会酸。",
+    "phonetic": "Wǒ měicì kàn shū tài jiǔ yǎnjīng jiù huì suān.",
+    "text_native": "À chaque fois que je lis trop longtemps, j'ai les yeux fatigués et piquants.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "长期用电脑肩膀容易酸痛。",
+    "phonetic": "Chángqī yòng diànnǎo jiānbǎng róngyì suāntòng.",
+    "text_native": "Utiliser l'ordinateur sur une longue période fatigue facilement les épaules.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "你最近好像胖了一点点。",
+    "phonetic": "Nǐ zuìjìn hǎoxiàng pàng le yìdiǎndiǎn.",
+    "text_native": "Tu as l'air d'avoir pris un tout petit peu de poids ces derniers temps.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "为了保持身材，她每天坚持去健身房。",
+    "phonetic": "Wèile bǎochí shēncái, tā měitiān jiānchí qù jiànshēnfáng.",
+    "text_native": "Pour garder la ligne, elle va persévéramment à la salle de sport tous les jours.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "大卫感冒了，鼻子塞得说不出话。",
+    "phonetic": "Dàwèi gǎnmào le, bízi sāi de shuō bù chū huà.",
+    "text_native": "David a attrapé un rhume, il a le nez si bouché qu'il ne peut plus parler.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "洗完澡以后，头发一定要吹干。",
+    "phonetic": "Xǐ wán zǎo yǐhòu, tóufa yídìng yào chuī gān.",
+    "text_native": "Après s'être lavé les cheveux, il faut absolument les sécher au sèche-cheveux.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "站久了以后，两条腿感觉特别沉。",
+    "phonetic": "Zhàn jiǔ le yǐhòu, liǎng tiáo tuǐ gǎnjué tèbié chén.",
+    "text_native": "Après être resté debout longtemps, j'ai les deux jambes qui me paraissent particulièrement lourdes.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "妈妈总提醒我吃饭要慢慢嚼。",
+    "phonetic": "Māma zǒng tíxǐng wǒ chīfàn yào mànmàn jiáo.",
+    "text_native": "Maman me rappelle toujours de bien mâcher lentement quand je mange.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "昨晚落枕了，现在脖子根本转不动。",
+    "phonetic": "Zuówǎn làzhěn le, xiànzài bózi gēnběn zhuǎn bú dòng.",
+    "text_native": "J'ai mal dormi de travers cette nuit, maintenant mon cou ne peut carrément plus tourner.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "多吃水果和蔬菜对免疫力好。",
+    "phonetic": "Duō chī shuǐguǒ hé shūcài duì miǎnyìlì hǎo.",
+    "text_native": "Manger beaucoup de fruits et de légumes est bon pour le système immunitaire.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "听完这个好消息，他高兴得心跳加速。",
+    "phonetic": "Tīng wán zhège hǎo xiāoxi, tā gāoxìng de xīntiào jiāsù.",
+    "text_native": "En entendant cette bonne nouvelle, son cœur s'est mis à battre plus vite de joie.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  }
+]

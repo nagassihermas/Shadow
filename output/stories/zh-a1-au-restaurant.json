@@ -1,0 +1,210 @@
+{
+  "title": "在饭馆吃午饭",
+  "new_vocabulary": [
+    "饿",
+    "坐",
+    "桌子",
+    "看",
+    "点",
+    "鱼",
+    "菜",
+    "两",
+    "瓶",
+    "可乐",
+    "等",
+    "分钟",
+    "热",
+    "好吃",
+    "真",
+    "吃",
+    "饱",
+    "买单",
+    "多少",
+    "元",
+    "给",
+    "找",
+    "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我今天很饿。",
+      "phonetic": "Wǒ jīntiān hěn è.",
+      "text_native": "J'ai très faim aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我去一个饭馆。",
+      "phonetic": "Wǒ qù yī gè fànguǎn.",
+      "text_native": "Je vais dans un restaurant."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "服务员你好。",
+      "phonetic": "Fúwùyuán, nǐ hǎo.",
+      "text_native": "Bonjour, serveur."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我一个人。",
+      "phonetic": "Wǒ yī gè rén.",
+      "text_native": "Je suis tout seul."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "请问能坐吗？",
+      "phonetic": "Qǐngwèn néng zuò ma?",
+      "text_native": "Puis-je m'asseoir, s'il vous plaît ?"
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "可以，请坐那张桌子。",
+      "phonetic": "Kěyǐ, qǐng zuò nà zhāng zhuōzi.",
+      "text_native": "Oui, veuillez vous asseoir à cette table."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "谢谢。",
+      "phonetic": "Xièxie.",
+      "text_native": "Merci."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "服务员给我菜单。",
+      "phonetic": "Fúwùyuán gěi wǒ càidān.",
+      "text_native": "Le serveur me donne le menu."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我看菜单。",
+      "phonetic": "Wǒ kàn càidān.",
+      "text_native": "Je regarde le menu."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我想点菜。",
+      "phonetic": "Wǒ xiǎng diǎn cài.",
+      "text_native": "Je voudrais commander."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我要一碗米饭。",
+      "phonetic": "Wǒ yào yī wǎn mǐfàn.",
+      "text_native": "Je voudrais un bol de riz."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我也要鱼和肉。",
+      "phonetic": "Wǒ yě yào yú hé ròu.",
+      "text_native": "Je voudrais aussi du poisson et de la viande."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "你要喝什么？",
+      "phonetic": "Nǐ yào hē shénme?",
+      "text_native": "Qu'est-ce que vous voulez boire ?"
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我要两瓶可乐。",
+      "phonetic": "Wǒ yào liǎng píng kělè.",
+      "text_native": "Je veux deux bouteilles de Coca."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "请给我一杯水。",
+      "phonetic": "Qǐng gěi wǒ yī bēi shuǐ.",
+      "text_native": "Donnez-moi un verre d'eau, s'il vous plaît."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "好的，请等十分钟。",
+      "phonetic": "Hǎo de, qǐng děng shí fēnzhōng.",
+      "text_native": "D'accord, veuillez patienter dix minutes."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "菜来了。",
+      "phonetic": "Cài lái le.",
+      "text_native": "Voici les plats."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "鱼很热。",
+      "phonetic": "Yú hěn rè.",
+      "text_native": "Le poisson est bien chaud."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "米饭真好吃。",
+      "phonetic": "Mǐfàn zhēn hǎochī.",
+      "text_native": "Le riz est vraiment délicieux."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我吃得很高兴。",
+      "phonetic": "Wǒ chī de hěn gāoxìng.",
+      "text_native": "Je mange avec plaisir."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "现在我吃饱了。",
+      "phonetic": "Xiànzài wǒ chī bǎo le.",
+      "text_native": "Maintenant, je suis repu."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "服务员，买单。",
+      "phonetic": "Fúwùyuán, mǎidān.",
+      "text_native": "Serveur, l'addition s'il vous plaît."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "一共多少钱？",
+      "phonetic": "Yīgòng duōshǎo qián?",
+      "text_native": "Combien cela fait-il en tout ?"
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "一共六十元。",
+      "phonetic": "Yīgòng liùshí yuán.",
+      "text_native": "Cela fait soixante yuans en tout."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "给你钱。",
+      "phonetic": "Gěi nǐ qián.",
+      "text_native": "Voici l'argent."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "这是您的找零。",
+      "phonetic": "Zhè shì nín de zhǎolíng.",
+      "text_native": "Voici votre monnaie."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "谢谢你。",
+      "phonetic": "Xièxie nǐ.",
+      "text_native": "Merci."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "不客气。",
+      "phonetic": "Bú kèqi.",
+      "text_native": "De rien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "再见。",
+      "phonetic": "Zàijiàn.",
+      "text_native": "Au revoir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "再见。",
+      "phonetic": "Zàijiàn.",
+      "text_native": "Au revoir."
+    }
+  ]
+}

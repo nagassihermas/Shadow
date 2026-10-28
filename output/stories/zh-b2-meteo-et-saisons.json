@@ -1,0 +1,190 @@
+{
+  "title": "城市里的气候变迁",
+  "new_vocabulary": [
+    "气候", "变迁", "适应", "空调", "湿度", "闷热", "雷雨", "台风", "防范", "措施",
+    "秋高气爽", "昼夜", "温差", "外套", "干燥", "滋润", "供暖", "寒冷", "室内", "舒适",
+    "环境", "保护", "节能", "减排", "意识", "逐渐", "增强", "自然", "规律", "和谐"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这座城市的气候变迁非常明显，居民们必须学会适应每个季节的转换。",
+      "phonetic": "zhè zuò chéng shì de qì hòu biàn qiān fēi cháng míng xiǎn, jū mín men bì xū xué huì shì yìng měi gè jì jié de zhuǎn huàn.",
+      "text_native": "Les changements climatiques de cette ville sont très évidents, et les habitants doivent apprendre à s'adapter à la transition de chaque saison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "夏天常常伴随着高湿度，空气又闷热又难受，大家离不开空调。",
+      "phonetic": "xià tiān cháng cháng bàn suí zhe gāo shī dù, kōng qì yòu mēn rè yòu nán shòu, dà jiā lí bù kāi kōng tiáo.",
+      "text_native": "L'été s'accompagne souvent d'une forte humidité, l'air est à la fois étouffant et inconfortable, et tout le monde ne peut pas se passer de la climatisation."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "下午经常突然出现雷雨，暴风雨让交通变得十分拥堵。",
+      "phonetic": "xià wǔ jīng cháng tū rán chū xiàn léi yǔ, bào fēng yǔ ràng jiāo tōng biàn de shí fēn yōng dǔ.",
+      "text_native": "L'après-midi, des orages surviennent souvent soudainement, et les averses rendent la circulation très encombrée."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "到了盛夏，台风偶尔会登陆，相关部门会提前发布防范措施。",
+      "phonetic": "dào le shèng xià, tái fēng ǒu ěr huì dēng lù, xiāng guān bù mén huì tí qián fā bù fáng fàn cuò shī.",
+      "text_native": "Au cœur de l'été, des typhons débarquent parfois, et les services concernés publient des mesures préventives à l'avance."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "市民们接到警报后，会检查门窗并减少不必要的外出。",
+      "phonetic": "shì mín men jiē dào jǐng bào hòu, huì jiǎn chá mén chuāng bìng jiǎn shǎo bù bì yào de wài chū.",
+      "text_native": "Après avoir reçu l'alerte, les citoyens vérifient les portes et fenêtres et réduisent les sorties non essentielles."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "幸运的是，台风过境之后，天空很快恢复了晴朗。",
+      "phonetic": "xìng yùn de shì, tái fēng guò jìng zhī hòu, tiān kōng hěn kuài huī fù le qíng lǎng.",
+      "text_native": "Heureusement, après le passage du typhon, le ciel a rapidement retrouvé son beau temps."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "秋天带来了秋高气爽的好天气，蓝天白云让人心情舒畅。",
+      "phonetic": "qiū tiān dài lái le qiū gāo qì shuǎng de hǎo tiān qì, lán tiān bái yún ràng rén xīn qíng shū chàng.",
+      "text_native": "L'automne apporte un temps magnifique et rafraîchissant, avec un ciel bleu et des nuages blancs qui mettent de bonne humeur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这个季节的昼夜温差比较大，早晚出门需要添加一件外套。",
+      "phonetic": "zhè gè jì jié de zhòu yè wēn chā bǐ jiào dà, zǎo wǎn chū mén xū yào tiān jiā yī jiàn wài tào.",
+      "text_native": "L'écart de température entre le jour et la nuit est assez important en cette saison, et il faut ajouter une veste en sortant le matin et le soir."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "空气逐渐变得干燥，多喝水和吃水果对皮肤很有好处。",
+      "phonetic": "kōng qì zhú jiàn biàn de gān zào, duō hē shuǐ hé chī shuǐ guǒ duì pí fū hěn yǒu hǎo chù.",
+      "text_native": "L'air devient progressivement sec, et boire beaucoup d'eau ainsi que manger des fruits est très bon pour la peau."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "公园里的树叶慢慢变黄，微风吹过时落叶在空中飞舞。",
+      "phonetic": "gōng yuán lǐ de shù yè màn màn biàn huáng, wēi fēng chuī guò shí luò yè zài kōng zhōng fēi wǔ.",
+      "text_native": "Les feuilles du parc jaunissent lentement, et lorsque la brise souffle, les feuilles mortes volent dans les airs."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "老年人喜欢在凉爽的早晨去散步，呼吸新鲜空气来保持健康。",
+      "phonetic": "lǎo nián rén xǐ huān zài liáng shuǎng de zǎo chén qù sàn bù, hū xī xīn xiān kōng qì lái bǎo chí jiàn kāng.",
+      "text_native": "Les personnes âgées aiment aller se promener pendant la fraîche matinée et respirer l'air frais pour rester en bonne santé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "随着冬季临近，气温大幅下降，寒冷的天气让人不想离开被窝。",
+      "phonetic": "suí zhe dōng jì lín jìn, qì wēn dà fú xià jiàng, hán lěng de tiān qì ràng rén bù xiǎng lí kāi bèi wō.",
+      "text_native": "À l'approche de l'hiver, la température baisse considérablement, et le temps froid donne envie de rester blotti sous la couette."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "北方城市有完善的供暖系统，室内感觉非常温暖和舒适。",
+      "phonetic": "běi fāng chéng shì yǒu wán shàn de gòng nuǎn xì tǒng, shì nèi gǎn jué fēi cháng wēn nuǎn hé shū shì.",
+      "text_native": "Les villes du nord disposent de systèmes de chauffage complets, et l'intérieur donne une sensation très chaleureuse et confortable."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "南方虽然没有供暖，但人们会穿上厚毛衣和围巾来御寒。",
+      "phonetic": "nán fāng suī rán méi yǒu gòng nuǎn, dàn rén men huì chuān shàng hòu máo yī hé wéi jīn lái yù hán.",
+      "text_native": "Bien qu'il n'y ait pas de chauffage dans le sud, les gens mettent de gros pulls et des écharpes pour se protéger du froid."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "偶尔下一场大雪时，孩子们兴奋地跑到户外去堆雪人和打雪仗。",
+      "phonetic": "ǒu ěr xià yī chǎng dà xuě shí, hái zi men xīng fèn de pǎo dào hù wài qù duī xuě rén hé dǎ xuě zhàng.",
+      "text_native": "Quand il neige abondamment de temps en temps, les enfants courent avec excitation à l'extérieur pour faire des bonhommes de neige et des batailles de boules de neige."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "四季的更替不仅改变了风景，也影响了人们日常生活的节奏。",
+      "phonetic": "sì jì de gēng tì bù jǐn gǎi biàn le fēng jǐng, yě yǐng xiǎng le rén men rì cháng shēng huó de jié zòu.",
+      "text_native": "L'alternance des quatre saisons ne modifie pas seulement le paysage, elle influence aussi le rythme de la vie quotidienne des gens."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "为了应对极端天气，气象部门现在提供更精准的预报服务。",
+      "phonetic": "wèi le yìng duì jí duān tiān qì, qì xiàng bù mén xiàn zài tí gōng gēng jīng zhǔn de yù bào fú wù.",
+      "text_native": "Afin de faire face aux conditions météorologiques extrêmes, les services météorologiques fournissent désormais des prévisions plus précises."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "人们在出门前习惯用手机查看最新的气象动态和空气质量。",
+      "phonetic": "rén men zài chū mén qián xí guàn yòng shǒu jī chá kàn zuì xīn de qì xiàng dòng tài hé kōng qì zhì liàng.",
+      "text_native": "Avant de sortir, les gens ont l'habitude de consulter sur leur téléphone les dernières actualités météo et la qualité de l'air."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "近年来，环境保护和节能减排的意识在全社会逐渐增强。",
+      "phonetic": "jìn nián lái, huán jìng bǎo hù hé jié néng jiǎn pái de yì shí zài quán shè huì zhú jiàn zēng qiáng.",
+      "text_native": "Ces dernières années, la sensibilisation à la protection de l'environnement ainsi qu'à l'économie d'énergie et à la réduction des émissions s'est progressivement renforcée dans toute la société."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "大家认识到人类的活动对自然规律有着不可忽视的影响。",
+      "phonetic": "dà jiā rèn shí dào rén lèi de huó dòng duì zì rán guī lǜ yǒu zhe bù kě hū shì de yǐng xiǎng.",
+      "text_native": "Chacun réalise que les activités humaines ont un impact non négligeable sur les lois de la nature."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "因此，绿色生活方式成为了许多年轻人周末计划的重要部分。",
+      "phonetic": "yīn cǐ, lǜ sè shēng huó fāng shì chéng wéi le xǔ duō nián qīng rén zhōu mò jì huà de zhòng yào bù fēn.",
+      "text_native": "Par conséquent, le mode de vie vert est devenu une partie importante des projets de week-end de nombreux jeunes."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "周末的时候，朋友们经常邀请彼此一起去郊外登山和野餐。",
+      "phonetic": "zhōu mò de shí hòu, péng you men jīng cháng yāo qǐng bǐ cǐ yī qǐ qù jiāo wài dēng shān hé yě cān.",
+      "text_native": "Pendant le week-end, les amis s'invitent souvent mutuellement à aller faire de la randonnée et un pique-nique dans la banlieue."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "背包里面装着面包和矿泉水，大家轻装简从地出发了。",
+      "phonetic": "bēi bāo lǐ miàn zhuāng zhe miàn bāo hé kuàng quán shuǐ, dà jiā qīng zhuāng jiǎn cóng de chū fā le.",
+      "text_native": "Le sac à dos contient du pain et de l'eau minérale, et tout le monde est parti léger."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "一路上，大家用手机拍下了美丽的自然风景和盛开的鲜花。",
+      "phonetic": "yī lù shàng, dà jiā yòng shǒu jī pāi xià le měi lì de zì rán fēng jǐng hé shèng kāi de xiān huā.",
+      "text_native": "Tout au long du chemin, les gens ont pris en photo avec leur téléphone les magnifiques paysages naturels et les fleurs écloses."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "虽然走山路有些累，但是呼吸着新鲜空气让人感到非常高兴。",
+      "phonetic": "suī rán zǒu shān lù yǒu xiē lèi, dàn shì hū xī zhe xīn xiān kōng qì ràng rén gǎn dào fēi cháng gāo xìng.",
+      "text_native": "Bien que marcher sur les sentiers de montagne soit un peu fatigant, respirer l'air frais procure un grand bonheur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "夕阳西下时，气温开始下降，大家决定慢慢走回家休息。",
+      "phonetic": "xī yáng xī xià shí, qì wēn kāi shǐ xià jiàng, dà jiā jué dìng màn màn zǒu huí jiā xiū xi.",
+      "text_native": "Au coucher du soleil, la température commence à baisser, et tout le monde décide de rentrer tranquillement à la maison pour se reposer."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "这次周末活动不仅锻炼了身体，也让大家更加亲近大自然。",
+      "phonetic": "zhè cì zhōu mò huó dòng bù jǐn duàn liàn le shēn tǐ, yě ràng dà jiā gèng jiā qīn jìn dà zì rán.",
+      "text_native": "Cette activité de week-end a non seulement exercé le corps, mais a aussi permis à chacun de se rapprocher davantage de la nature."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "面对不断变化的气候，我们应该学会与自然和谐相处。",
+      "phonetic": "miàn duì bù duàn biàn huà de qì hòu, wǒ men yīng gāi xué huì yǔ zì rán hé xié xiāng chǔ.",
+      "text_native": "Face au climat en constante évolution, nous devons apprendre à vivre en harmonie avec la nature."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "只有保持健康的生活习惯，才能更好地享受每一个美丽的季节。",
+      "phonetic": "zhǐ yǒu bǎo chí jiàn kāng de shēng huó xí guàn, cái néng gèng hǎo de xiǎng shòu měi yī gè měi lì de jì jié.",
+      "text_native": "Ce n'est qu'en conservant de saines habitudes de vie que l'on peut mieux profiter de chaque magnifique saison."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "无论明天是晴天还是阴天，积极的心态永远是最美的阳光。",
+      "phonetic": "wú lùn míng tiān shì qíng tiān hái shì yīn tiān, jī jí de xīn tài yǒng yuǎn shì zuì měi de yáng guāng.",
+      "text_native": "Peu importe que demain soit ensoleillé ou couvert, une attitude positive est toujours le plus beau des soleils."
+    }
+  ]
+}

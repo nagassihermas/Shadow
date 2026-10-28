@@ -1,0 +1,217 @@
+{
+  "title": "A Seasonal Transition",
+  "new_vocabulary": [
+    "unpredictable",
+    "transition",
+    "wardrobe",
+    "sweater",
+    "overcast",
+    "drizzle",
+    "puddle",
+    "commute",
+    "subway",
+    "rush",
+    "hour",
+    "crowded",
+    "platform",
+    "delay",
+    "announcement",
+    "passenger",
+    "sigh",
+    "frustration",
+    "gradually",
+    "clearing",
+    "sunlight",
+    "pavement",
+    "reflection",
+    "bureau",
+    "colleague",
+    "compliment",
+    "cheerful",
+    "after-work",
+    "terrace",
+    "forecasted"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The weather this month is completely unpredictable during this seasonal transition.",
+      "phonetic": "/ðə ˈwɛðər ðɪs mʌntʃ ɪz kəmˈpliːtli ˌʌnprɪˈdɪktəbəl ˈdʊrɪŋ ðɪs ˈsiːzənəl trænˈzɪʃən/",
+      "text_native": "Le temps ce mois-ci est totalement imprévisible pendant cette transition saisonnière."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Every morning, I check the weather forecast to organize my daily wardrobe.",
+      "phonetic": "/ˈɛvri ˈmɔːrnɪŋ, aɪ tʃɛk ðə ˈwɛðər ˈfɔːrkæst tuː ˈɔːrɡənaɪz maɪ ˈdeɪli ˈwɔːrdroʊb/",
+      "text_native": "Chaque matin, je consulte les prévisions météo pour organiser ma garde-robe quotidienne."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Today, I decided to wear a comfortable wool sweater instead of a thick jacket.",
+      "phonetic": "/təˈdeɪ, aɪ dɪˈsaɪdɪd tuː wɛr ə ˈkʌmfərtəbəl wʊl ˈswɛtər ɪnˈstɛd ʌv ə θɪk ˈdʒækɪt/",
+      "text_native": "Aujourd'hui, j'ai décidé de porter un pull en laine confortable au lieu d'une veste épaisse."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "When I stepped outside, the sky appeared extremely overcast and gloomy.",
+      "phonetic": "/wɛn aɪ stɛpt ˌaʊtˈsaɪd, ðə skaɪ əˈpɪrd ɪkˈstriːmli ˈoʊvərˌkæst ænd ˈɡluːmi/",
+      "text_native": "Quand je suis sorti, le ciel semblait extrêmement couvert et morose."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A persistent light drizzle soon started to fall across the neighborhood.",
+      "phonetic": "/ə pərˈsɪstənt laɪt ˈdrɪzəl suːn ˈstɑːrtɪd tuː fɔːl əˈkrɒs ðə ˈneɪbərhʊd/",
+      "text_native": "Une bruine légère et persistante a bientôt commencé à tomber dans le quartier."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I opened my umbrella quickly to avoid getting completely soaked.",
+      "phonetic": "/aɪ ˈoʊpənd maɪ ʌmˈbrɛlə ˈkwɪkli tuː əˈvɔɪd ˈɡɛtɪŋ kəmˈpliːtli soʊkt/",
+      "text_native": "J'ai ouvert mon parapluie rapidement pour éviter d'être complètement trempé."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Small puddles formed rapidly on the pavement during my morning walk.",
+      "phonetic": "/smɔːl ˈpʌdəlz fɔːrmd ˈræpɪdli ɒn ðə ˈpeɪvmənt ˈdʊrɪŋ maɪ ˈmɔːrnɪŋ wɔːk/",
+      "text_native": "De petites flaques d'eau se sont formées rapidement sur le trottoir pendant ma marche matinale."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "My commute to the office was more complicated than usual because of the rain.",
+      "phonetic": "/maɪ kəˈmjuːt tuː ði ˈɒfɪs wʌz mɔːr ˈkɒmpləkeɪtɪd ðæn ˈjuːʒuəl bɪˈkɒz ʌv ðə reɪn/",
+      "text_native": "Mon trajet domicile-travail a été plus compliqué que d'habitude à cause de la pluie."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I hurried toward the subway station to catch the early train.",
+      "phonetic": "/aɪ ˈhɜːrid təˈwɔːrd ðə ˈsʌbweɪ ˈsteɪʃən tuː kætʃ ði ˈɜːrli treɪn/",
+      "text_native": "Je me suis dépêché vers la station de métro pour attraper le train matinal."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The underground platform was crowded with passengers during the rush hour.",
+      "phonetic": "/ði ˈʌndərɡraʊnd ˈplætfɔːrm wʌz ˈkraʊdɪd wɪð ˈpæsɪndʒərz ˈdʊrɪŋ ðə rʌʃ ˈaʊər/",
+      "text_native": "Le quai souterrain était bondé de passagers pendant l'heure de pointe."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Suddenly, an audio announcement informed us about a technical delay.",
+      "phonetic": "/ˈsʌdənli, ən ˈɔːdioʊ əˈnaʊnsmənt ɪnˈfɔːrmd ʌs əˈbaʊt ə ˈtɛknɪkəl dɪˈleɪ/",
+      "text_native": "Soudain, une annonce audio nous a informés d'un retard technique."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Several tired commuters let out a collective sigh of frustration.",
+      "phonetic": "/ˈsɛvərəl ˈtaɪərd kəˈmjuːtərz lɛt aʊt ə kəˈlɛktɪv saɪ ʌv frʌˈstreɪʃən/",
+      "text_native": "Plusieurs navetteurs fatigués ont poussé un soupir collectif de frustration."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Fortunately, the train arrived after a short waiting period.",
+      "phonetic": "/ˈfɔːrtʃənətli, ðə treɪn əˈraɪvd ˈæftər ə ʃɔːrt ˈweɪtɪŋ ˈpɪriəd/",
+      "text_native": "Heureusement, le train est arrivé après une courte période d'attente."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I found a dry seat near the window and sat down quietly.",
+      "phonetic": "/aɪ faʊnd ə draɪ siːt nɪər ðə ˈwɪndoʊ ænd sæt daʊn ˈkwaɪətli/",
+      "text_native": "J'ai trouvé une place sèche près de la fenêtre et je me suis assis tranquillement."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Looking through the glass, I watched the heavy drops slide down.",
+      "phonetic": "/ˈlʊkɪŋ θruː ðə ɡlæs, aɪ wɒtʃt ðə ˈhɛvi drɒps slaɪd daʊn/",
+      "text_native": "En regardant à travers la vitre, j'ai vu les lourdes gouttes glisser vers le bas."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "By midday, the persistent gray clouds began to break apart.",
+      "phonetic": "/baɪ ˈmɪddeɪ, ðə pərˈsɪstənt ɡreɪ klaʊdz bɪˈɡæn tuː breɪk əˈpɑːrt/",
+      "text_native": "Vers midi, les nuages gris persistants ont commencé à se dissiper."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The atmosphere changed dramatically as the temperature rose slightly.",
+      "phonetic": "/ði ˈætməsfɪr tʃeɪndʒd drəˈmætɪkli æz ðə ˈtɛmprətʃər roʊz ˈslaɪtli/",
+      "text_native": "L'atmosphère a changé radicalement alors que la température augmentait légèrement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Bright sunlight started shining through the office windows.",
+      "phonetic": "/braɪt ˈsʌnlaɪt ˈstɑːrtɪd ˈʃaɪnɪŋ θruː ði ˈɒfɪs ˈwɪndoʊz/",
+      "text_native": "Un soleil éclatant a commencé à briller à travers les fenêtres du bureau."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The wet pavement reflected the golden rays of the afternoon sun.",
+      "phonetic": "/ðə wɛt ˈpeɪvmənt rɪˈflɛktɪd ðə ˈɡoʊldən reɪz ʌv ði ˈɑːftərnuːn sʌn/",
+      "text_native": "Le trottoir mouillé reflétait les rayons dorés du soleil de l'après-midi."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Inside the building, my colleagues were discussing the sudden weather shift.",
+      "phonetic": "/ɪnˈsaɪd ðə ˈbɪldɪŋ, maɪ ˈkɒliːɡz wɜːr dɪˈskʌsɪŋ ðə ˈsʌdən ˈwɛðər ʃɪft/",
+      "text_native": "À l'intérieur du bâtiment, mes collègues discutaient du changement soudain de temps."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "One cheerful colleague gave me a nice compliment about my new sweater.",
+      "phonetic": "/wʌn ˈtʃɪərfəl ˈkɒliːɡ ɡeɪv miː ə naɪs ˈkɒmplɪmənt əˈbaʊt maɪ nuː ˈswɛtər/",
+      "text_native": "Un collègue enjoué m'a fait un joli compliment sur mon nouveau pull."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "We agreed that spring weather always brings mixed feelings and surprises.",
+      "phonetic": "/wiː əˈɡriːd ðæt sprɪŋ ˈwɛðər ˈɔːlweɪz brɪŋz mɪkst ˈfiːlɪŋz ænd sərˈpraɪzɪz/",
+      "text_native": "Nous avons convenu que le temps printanier apporte toujours des sentiments mitigés et des surprises."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "During the afternoon break, we stepped outside to enjoy the fresh breeze.",
+      "phonetic": "/ˈdʊrɪŋ ði ˈɑːftərnuːn breɪk, wiː stɛpt ˌaʊtˈsaɪd tuː ɪnˈdʒɔɪ ðə frɛʃ briːz/",
+      "text_native": "Pendant la pause de l'après-midi, nous sommes sortis pour profiter de la brise fraîche."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The park trees looked vibrant against the blue spring sky.",
+      "phonetic": "/ðə pɑːrk triːz lʊkt ˈvaɪbrənt əˈɡɛnst ðə bluː sprɪŋ skaɪ/",
+      "text_native": "Les arbres du parc avaient l'air pleins de vie sous le ciel bleu du printemps."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Several small birds were singing happily in the branches above us.",
+      "phonetic": "/ˈsɛvərəl smɔːl bɜːrdz wɜːr ˈsɪŋɪŋ ˈhæpɪli ɪn ðə ˈbræntʃɪz əˈbʌv ʌs/",
+      "text_native": "Plusieurs petits oiseaux chantaient joyeusement dans les branches au-dessus de nous."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Looking around, I noticed that the grass was greener than yesterday.",
+      "phonetic": "/ˈlʊkɪŋ əˈraʊnd, aɪ ˈnoʊtɪst ðæt ðə ɡrɑːs wʌz ˈɡriːnər ðæn ˈjɛstərdeɪ/",
+      "text_native": "En regardant autour de moi, j'ai remarqué que l'herbe était plus verte qu'hier."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "We planned an after-work activity to make the most of the evening.",
+      "phonetic": "/wiː plænd ən ˈæftər wɜːrk ækˈtɪvɪti tuː meɪk ðə moʊst ʌv ði ˈiːvnɪŋ/",
+      "text_native": "Nous avons prévu une activité après le travail pour profiter au maximum de la soirée."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "We decided to sit on a cozy outdoor terrace near the town square.",
+      "phonetic": "/wiː dɪˈsaɪdɪd tuː sɪt ɒn ə ˈkoʊzi ˈaʊtˌdɔːr ˈtɛrəs nɪər ðə taʊn skwɛr/",
+      "text_native": "Nous avons décidé de nous asseoir sur une terrasse extérieure chaleureuse près de la place de la ville."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Drinking warm tea together, we shared stories about our weekend plans.",
+      "phonetic": "/ˈdrɪŋkɪŋ wɔːrm tiː təˈɡɛðər, wiː ʃɛrd ˈstɔːriz əˈbaʊt ˈaʊər ˈwiːkɛnd plænz/",
+      "text_native": "En buvant du thé chaud ensemble, nous avons discuté de nos projets pour le week-end."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "The weather forecast for tomorrow promised even better conditions for everyone.",
+      "phonetic": "/ðə ˈwɛðər ˈfɔːrkæst fər təˈmɒroʊ ˈprɒmɪst ˈiːvən ˈbɛtər kənˈdɪʃənz fər ˈɛvriwʌn/",
+      "text_native": "Les prévisions météo pour demain promettaient des conditions encore meilleures pour tout le monde."
+    }
+  ]
+}

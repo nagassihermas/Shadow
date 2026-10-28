@@ -1,0 +1,194 @@
+{
+  "title": "At the Hotel",
+  "new_vocabulary": [
+    "hotel",
+    "door",
+    "room",
+    "key",
+    "bed",
+    "night",
+    "morning"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "I am at the hotel.",
+      "phonetic": "/aɪ æm æt ðə hoʊˈtɛl/",
+      "text_native": "Je suis à l'hôtel."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The hotel is big.",
+      "phonetic": "/ðə hoʊˈtɛl ɪz bɪɡ/",
+      "text_native": "L'hôtel est grand."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I see the door.",
+      "phonetic": "/aɪ siː ðə dɔːr/",
+      "text_native": "Je vois la porte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I walk to the door.",
+      "phonetic": "/aɪ wɔːk tuː ðə dɔːr/",
+      "text_native": "Je marche vers la porte."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I stop.",
+      "phonetic": "/aɪ stɑːp/",
+      "text_native": "Je m'arrête."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I look at the man.",
+      "phonetic": "/aɪ lʊk æt ðə mæn/",
+      "text_native": "Je regarde l'homme."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The man smiles.",
+      "phonetic": "/ðə mæn smaɪlz/",
+      "text_native": "L'homme sourit."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I speak English.",
+      "phonetic": "/aɪ spiːk ˈɪŋɡlɪʃ/",
+      "text_native": "Je parle anglais."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I want a room.",
+      "phonetic": "/aɪ wɑːnt ə ruːm/",
+      "text_native": "Je veux une chambre."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The man takes a key.",
+      "phonetic": "/ðə mæn teɪks ə kiː/",
+      "text_native": "L'homme prend une clé."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I take the key.",
+      "phonetic": "/aɪ teɪk ðə kiː/",
+      "text_native": "Je prends la clé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk juː/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I turn around.",
+      "phonetic": "/aɪ tɜːrn əˈraʊnd/",
+      "text_native": "Je me retourne."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I see the stairs.",
+      "phonetic": "/aɪ siː ðə stɛrz/",
+      "text_native": "Je vois les escaliers."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I go up.",
+      "phonetic": "/aɪ ɡoʊ ʌp/",
+      "text_native": "Je monte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I find my room.",
+      "phonetic": "/aɪ faɪnd maɪ ruːm/",
+      "text_native": "Je trouve ma chambre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The room number is ten.",
+      "phonetic": "/ðə ruːm ˈnʌmbər ɪz tɛn/",
+      "text_native": "Le numéro de la chambre est dix."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I put the key in.",
+      "phonetic": "/aɪ pʊt ðə kiː ɪn/",
+      "text_native": "J'insère la clé."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I open the door.",
+      "phonetic": "/aɪ ˈoʊpən ðə dɔːr/",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I go in.",
+      "phonetic": "/aɪ ɡoʊ ɪn/",
+      "text_native": "J'entre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The room is clean.",
+      "phonetic": "/ðə ruːm ɪz kliːn/",
+      "text_native": "La chambre est propre."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I see a bed.",
+      "phonetic": "/aɪ siː ə bɛd/",
+      "text_native": "Je vois un lit."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The bed is big.",
+      "phonetic": "/ðə bɛd ɪz bɪɡ/",
+      "text_native": "Le lit est grand."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I close the door.",
+      "phonetic": "/aɪ kloʊz ðə dɔːr/",
+      "text_native": "Je ferme la porte."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I sit down.",
+      "phonetic": "/aɪ sɪt daʊn/",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I am very tired.",
+      "phonetic": "/aɪ æm ˈvɛri ˈtaɪərd/",
+      "text_native": "Je suis très fatigué."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "It is night.",
+      "phonetic": "/ɪt ɪz naɪt/",
+      "text_native": "C'est la nuit."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I sleep.",
+      "phonetic": "/aɪ sliːp/",
+      "text_native": "Je dors."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːrnɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I am happy.",
+      "phonetic": "/aɪ æm ˈhæpi/",
+      "text_native": "Je suis heureux."
+    }
+  ]
+}

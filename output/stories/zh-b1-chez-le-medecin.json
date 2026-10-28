@@ -1,0 +1,193 @@
+{
+  "title": "去看医生",
+  "new_vocabulary": [
+    "预约", "挂号", "等候", "症状", "严重",
+    "传染", "检查", "血压", "化验", "结果",
+    "诊断", "处方", "药房", "取药", "遵医嘱",
+    "按时", "康复", "复查", "康复", "请假",
+    "办公室", "同事", "经理", "照顾", "虚弱",
+    "疲惫", "精神", "彻底", "完全", "习惯"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早上我感觉非常疲惫，身体很不舒服。",
+      "phonetic": "jīntiān zǎoshang wǒ gǎnjué fēicháng píbèi, shēntǐ hěn bù shūfu.",
+      "text_native": "Ce matin, je me sens extrêmement fatigué et mon corps ne va vraiment pas bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "因为昨天晚上我开始咳嗽，所以决定去医院看医生。",
+      "phonetic": "yīnwèi zuótiān wǎnshang wǒ kāishǐ késòu, suǒyǐ juédìng qù yīyuàn kàn yīshēng.",
+      "text_native": "Comme j'ai commencé à tousser hier soir, j'ai décidé d'aller à l'hôpital voir un médecin."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "出门以前，我仔细戴好了口罩，因为我担心传染给别人。",
+      "phonetic": "chūmén yǐqián, wǒ zìxì dài hǎo le kǒuzhào, yīnwèi wǒ dānxīn chuánrǎn gěi biérén.",
+      "text_native": "Avant de sortir, j'ai mis soigneusement mon masque, car j'ai peur de transmettre quelque chose aux autres."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我到了医院的大楼外面，发现今天人特别多。",
+      "phonetic": "wǒ dào le yīyuàn de dàlóu wàimian, fāxiàn jīntiān rén tèbié duō.",
+      "text_native": "Je suis arrivé devant le bâtiment de l'hôpital et j'ai constaté qu'il y avait particulièrement beaucoup de monde aujourd'hui."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我先去窗口挂号，然后拿到了一个排队号码。",
+      "phonetic": "wǒ xiān qù chuāngkǒu guàhào, ránhòu ná dào le yí gè páiduì hàomǎ.",
+      "text_native": "Je suis d'abord allé au guichet pour m'inscrire, puis j'ai obtenu un numéro de file d'attente."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "护士请我到二楼的房间外面等候。",
+      "phonetic": "hùshi qǐng wǒ dào èr lóu de fángjiān wàimian děnghòu.",
+      "text_native": "L'infirmière m'a demandé d'aller attendre à l'extérieur de la salle au deuxième étage."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我在椅子上坐下来，认真观察着周围的病人。",
+      "phonetic": "wǒ zài yǐzi shàng zuò xià lai, rènzhēn guānchá zhe zhōuwéi de bìngrén.",
+      "text_native": "Je me suis assis sur la chaise et j'ai observé attentivement les patients autour de moi."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "过了半个小时，广播里终于叫到了我的号。",
+      "phonetic": "guò le bàn gè xiǎoshí, guǎngbō lǐ zhōngyú jiào dào le wǒ de hào.",
+      "text_native": "Une demi-heure plus tard, la voix du haut-parleur a enfin appelé mon numéro."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我站起身，推开门走进医生的办公室。",
+      "phonetic": "wǒ zhàn qǐ shēn, tuī kāi mén zǒu jìn yīshēng de bàngōngshì.",
+      "text_native": "Je me suis levé, j'ai poussé la porte et je suis entré dans le bureau du médecin."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "医生微笑着问我今天有什么不舒服的症状。",
+      "phonetic": "yīshēng wēixiào zhe wèn wǒ jīntiān yǒu shénme bù shūfu de zhèngzhuàng.",
+      "text_native": "Le médecin m'a souri et m'a demandé quels symptômes désagréables j'avais aujourd'hui."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我回答说我的头很疼，而且早上量体温发现有点发烧。",
+      "phonetic": "wǒ huídá shuō wǒ de tóu hěn téng, érqiě zǎoshang liáng tǐwēn fāxiàn yǒu diǎn fāshāo.",
+      "text_native": "J'ai répondu que j'avais très mal à la tête et qu'en prenant ma température ce matin, j'avais constaté un peu de fièvre."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "医生仔细地听了我的心跳，又看了看我的喉咙。",
+      "phonetic": "yīshēng zìxì de tīng le wǒ de xīntiào, yòu kàn le kàn wǒ de hóulóng.",
+      "text_native": "Le médecin a écouté attentivement mes battements de cœur, puis a examiné ma gorge."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他问我这种情况持续了几天，严重不严重。",
+      "phonetic": "tā wèn wǒ zhè zhǒng qíngkuàng chíxù le jǐ tiān, yánzhòng bù yánzhòng.",
+      "text_native": "Il m'a demandé depuis combien de jours cette situation durait et si c'était grave."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我告诉他感冒流鼻涕已经三天了，精神特别虚弱。",
+      "phonetic": "wǒ gàosù tā gǎnmào liú bítì yǐjīng sān tiān le, jīngshén tèbié xūruò.",
+      "text_native": "Je lui ai dit que mon rhume avec écoulement nasal durait déjà depuis trois jours et que mon moral était particulièrement faible."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "为了安全起见，他建议我去做一个血液检查。",
+      "phonetic": "wèile ānquán qǐjiàn, tā jiànyì wǒ qù zuò yí gè xuèyè jiǎnchá.",
+      "text_native": "Par mesure de sécurité, il m'a conseillé d'aller faire une analyse de sang."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "护士带我去了另一个房间抽血，过程非常快。",
+      "phonetic": "hùshi dài wǒ qù le lìng yí gè fángjiān chōuxuě, guòchéng fēicháng kuài.",
+      "text_native": "L'infirmière m'a emmené dans une autre pièce pour faire une prise de sang, le processus a été très rapide."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我拿着化验结果重新回到了医生的面前。",
+      "phonetic": "wǒ ná zhe huàyàn jiéguǒ chóngxīn huí dào le yīshēng de miànqián.",
+      "text_native": "Je suis retourné devant le médecin en tenant les résultats des analyses."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "他看了看结果，做出了最后的诊断。",
+      "phonetic": "tā kàn le kàn jiéguǒ, zuò chū le zuìhòu de zhěnduàn.",
+      "text_native": "Il a examiné les résultats et a posé le diagnostic final."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "医生说这只是一次普通的感冒，不用太担心。",
+      "phonetic": "yīshēng shuō zhè zhǐ shì yí cì pǔtōng de gǎnmào, bú yòng tài dānxīn.",
+      "text_native": "Le médecin a dit que c'était juste un rhume ordinaire et qu'il ne fallait pas trop s'inquiéter."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他在电脑上写好了处方，并打印出来交给我。",
+      "phonetic": "tā zài diànnǎo shàng xiě hǎo le chǔfāng, bìng dǎyìn chūlái jiāo gěi wǒ.",
+      "text_native": "Il a rédigé l'ordonnance sur l'ordinateur, l'a imprimée et me l'a remise."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我拿着处方单走到一楼的药房去取药。",
+      "phonetic": "wǒ ná zhe chǔfāng dān zǒu dào yī lóu de yàofáng qù qǔ yào.",
+      "text_native": "Je suis allé à la pharmacie au rez-de-chaussée avec l'ordonnance pour récupérer les médicaments."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "付过药费之后，工作人员把感冒药递给了我。",
+      "phonetic": "fù guò yàofèi zhīhòu, gōngzuò rényuán bǎ gǎnmàoyào dì gěi le wǒ.",
+      "text_native": "Après avoir payé les frais de pharmacie, l'employé m'a remis les médicaments contre le rhume."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "药师非常耐心地告诉我应该如何按时吃药。",
+      "phonetic": "yàoshī fēicháng nàixīn de gàosù wǒ yīnggāi rúhé ànshí chī yào.",
+      "text_native": "Le pharmacien m'a expliqué avec beaucoup de patience comment je devais prendre les médicaments à l'heure."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "他叮嘱我一天要吃三次，每次两粒，必须用温水吞服。",
+      "phonetic": "tā dīngzhǔ wǒ yì tiān yào chī sān cì, měi cì liǎng lì, bìxū yòng wēnshuǐ tūn fú.",
+      "text_native": "Il m'a recommandé d'en prendre trois fois par jour, deux pilules à chaque fois, et de les avaler impérativement avec de l'eau tiède."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "离开医院前，我给公司的经理打了一个电话请假。",
+      "phonetic": "líkāi yīyuàn qián, wǒ gěi gōngsī de jīnglǐ dǎ le yí gè diànhuà qǐngjià.",
+      "text_native": "Avant de quitter l'hôpital, j'ai passé un coup de fil au manager de l'entreprise pour demander un congé."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "经理关心地对我说在家好好休息，不要着急工作。",
+      "phonetic": "jīnglǐ guānxīn de duì wǒ shuō zài jiā hǎohǎo xiūxī, bú yào zháojí gōngzuò.",
+      "text_native": "Le manager m'a dit avec bienveillance de bien me reposer à la maison et de ne pas me presser pour le travail."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "回到家以后，我喝了一大杯温水，觉得舒服多了。",
+      "phonetic": "huí dào jiā yǐhòu, wǒ hē le yí dà bēi wēnshuǐ, juéde shūfu duō le.",
+      "text_native": "Une fois rentré à la maison, j'ai bu un grand verre d'eau tiède et je me suis senti beaucoup mieux."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "希望身体能快点康复，下周顺利回到办公室上班。",
+      "phonetic": "xīwàng shēntǐ néng kuài diǎn kāngfù, xià zhōu shùnlì huí dào bàngōngshì shàngbān.",
+      "text_native": "J'espère que mon corps guérira rapidement et que je pourrai retourner travailler au bureau sans problème la semaine prochaine."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这次生病让我明白健康的重要性，平时一定要多加保重。",
+      "phonetic": "zhè cì shēngbìng ràng wǒ míngbái jiànkāng de zhòngyào xìng, píngshí yídìng yào duō jiā bǎozhòng.",
+      "text_native": "Cette maladie m'a fait comprendre l'importance de la santé, il faut absolument faire plus attention à soi au quotidien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "如果有任何不适，一定要遵医嘱及时去医院复查。",
+      "phonetic": "rúguǒ yǒu rènhé bùshì, yídìng yào zūn yīzhǔ jíshí qù yīyuàn fùchá.",
+      "text_native": "S'il y a le moindre inconfort, il faut impérativement suivre les consignes du médecin et aller faire un contrôle à l'hôpital à temps."
+    }
+  ]
+}

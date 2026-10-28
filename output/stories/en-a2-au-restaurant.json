@@ -1,0 +1,217 @@
+{
+  "title": "A Nice Dinner",
+  "new_vocabulary": [
+    "arrive",
+    "reserve",
+    "name",
+    "evening",
+    "window",
+    "corner",
+    "smile",
+    "greet",
+    "coat",
+    "hang",
+    "cloth",
+    "glass",
+    "bottle",
+    "pour",
+    "starter",
+    "soup",
+    "tomato",
+    "bread",
+    "butter",
+    "main",
+    "course",
+    "chicken",
+    "rice",
+    "vegetable",
+    "salt",
+    "pepper",
+    "taste",
+    "dessert",
+    "cake",
+    "chocolate"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom and his partner arrive at the restaurant.",
+      "phonetic": "/tɒm ænd hɪz ˈpɑːtnər əˈraɪv æt ðə ˈrɛstrɒnt./",
+      "text_native": "Tom et sa partenaire arrivent au restaurant."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "They want to reserve a nice table.",
+      "phonetic": "/ðeɪ wɒnt tuː rɪˈzɜːv ə naɪs ˈteɪbl./",
+      "text_native": "Ils veulent réserver une jolie table."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The man says his name to the person at the door.",
+      "phonetic": "/ðə mæn sɛz hɪz neɪm tuː ðə ˈpɜːsn æt ðə dɔː./",
+      "text_native": "L'homme donne son nom à la personne à l'entrée."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "It is a cold evening outside.",
+      "phonetic": "/ɪt ɪz ə kəʊld ˈiːvnɪŋ ˌaʊtˈsaɪd./",
+      "text_native": "C'est une soirée froide dehors."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A friendly waiter greets them with a smile.",
+      "phonetic": "/ə ˈfrɛndli ˈweɪtə griːts ðɛm wɪð ə smaɪl./",
+      "text_native": "Un serveur sympathique les accueille avec le sourire."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He helps them take off their heavy coats.",
+      "phonetic": "/hiː hɛlps ðɛm teɪk ɒf ðɛər ˈhɛvi kəʊts./",
+      "text_native": "Il les aide à retirer leurs manteaux d'hiver."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The staff hangs the coats near the entrance.",
+      "phonetic": "/ðə stɑːf hæŋz ðə kəʊts nɪə ðə ˈɛntrəns./",
+      "text_native": "Le personnel accroche les manteaux près de l'entrée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "They walk to a table near the window.",
+      "phonetic": "/ðeɪ wɔːk tuː ə ˈteɪbl nɪə ðə ˈwɪndəʊ./",
+      "text_native": "Ils s'avancent vers une table près de la fenêtre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The two friends sit on comfortable chairs.",
+      "phonetic": "/ðə tuː frɛndz sɪt ɒn ˈkʌmfətəbl tʃɛəz./",
+      "text_native": "Les deux amis s'asseyent sur des chaises confortables."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Tom looks at the clean white cloth on the table.",
+      "phonetic": "/tɒm lʊks æt ðə kliːn waɪt klɒθ ɒn ðə ˈteɪbl./",
+      "text_native": "Tom regarde la belle nappe blanche sur la table."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "They open the big menu to read the choices.",
+      "phonetic": "/ðeɪ ˈəʊpən ðə bɪg ˈmɛnjuː tuː riːd ðə ˈtʃɔɪsɪz./",
+      "text_native": "Ils ouvrent le grand menu pour découvrir les choix."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The waiter brings cold water in a glass bottle.",
+      "phonetic": "/ðə ˈweɪtə brɪŋz kəʊld ˈwɔːtər ɪn ə glɑːs ˈbɒtl./",
+      "text_native": "Le serveur apporte de l'eau fraîche dans une bouteille en verre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He pours fresh water into small glasses.",
+      "phonetic": "/hiː pɔːz frɛʃ ˈwɔːtər ˈɪntuː smɔːl ˈglɑːsɪz./",
+      "text_native": "Il verse de l'eau fraîche dans de petits verres."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Tom is very hungry and wants a hot soup.",
+      "phonetic": "/tɒm ɪz ˈvɛri ˈhʌŋgri ænd wɒnts ə hɒt suːp./",
+      "text_native": "Tom a très faim et veut une soupe chaude."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "His friend chooses a fresh tomato salad.",
+      "phonetic": "/hɪz frɛnd ˈtʃuːzɪz ə frɛʃ təˈmɑːtəʊ ˈsæləd./",
+      "text_native": "Son amie choisit une salade de tomates fraîche."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "They also share some bread with fresh butter.",
+      "phonetic": "/ðeɪ ˈɔːlsəʊ ʃeə sʌm brɛd wɪð frɛʃ ˈbʌtə./",
+      "text_native": "Ils partagent aussi du pain avec du beurre frais."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "After a short minute, the waiter takes the first plates.",
+      "phonetic": "/ˈɑːftər ə ʃɔːt ˈmɪnɪt, ðə ˈweɪtə teɪks ðə fɜːst pleɪts./",
+      "text_native": "Quelques instants plus tard, le serveur apporte les entrées."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The soup smells delicious and very good.",
+      "phonetic": "/ðə suːp smɛlz dɪˈlɪʃəs ænd ˈvɛri gʊd./",
+      "text_native": "La soupe sent délicieusement bon."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Next, they order the main course for dinner.",
+      "phonetic": "/nɛkst, ðeɪ ˈɔːdə ðə meɪn kɔːs fɔː ˈdɪnə./",
+      "text_native": "Ensuite, ils commandent le plat principal."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Tom wants chicken with rice and vegetables.",
+      "phonetic": "/tɒm wɒnts ˈtʃɪkɪn wɪð raɪs ænd ˈvɛdʒtəblz./",
+      "text_native": "Tom choisit du poulet avec du riz et des légumes."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "His friend prefers fish with hot potatoes.",
+      "phonetic": "/hɪz frɛnd prɪˈfɜːz fɪʃ wɪð hɒt pəˈteɪtəʊz./",
+      "text_native": "Son amie préfère du poisson avec des pommes de terre chaudes."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "They add a little salt and pepper to the food.",
+      "phonetic": "/ðeɪ æd ə ˈlɪtl sɔːlt ænd ˈpɛpə tuː ðə fuːd./",
+      "text_native": "Ils ajoutent un peu de sel et de poivre à leur plat."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "They taste the meal and speak happily.",
+      "phonetic": "/ðeɪ teɪst ðə miːl ænd spiːk ˈhæpɪli./",
+      "text_native": "Ils goûtent le repas et discutent joyeusement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The food is warm and tastes fantastic.",
+      "phonetic": "/ðə fuːd ɪz wɔːm ænd teɪsts fænˈtæstɪk./",
+      "text_native": "Le plat est chaud et a un goût fantastique."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "After eating, they look at the dessert menu.",
+      "phonetic": "/ˈɑːftər ˈiːtɪŋ, ðeɪ lʊk æt ðə dɪˈzɜːt ˈmɛnjuː./",
+      "text_native": "Après avoir mangé, ils regardent la carte des desserts."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom orders a sweet chocolate cake.",
+      "phonetic": "/tɒm ˈɔːdəz ə swiːt ˈtʃɒklɪt keɪk./",
+      "text_native": "Tom commande un gâteau au chocolat."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "When they finish, Tom asks to pay the bill.",
+      "phonetic": "/wɛn ðeɪ ˈfɪnɪʃ, tɒm ɑːsks tuː peɪ ðə bɪl./",
+      "text_native": "Une fois le repas terminé, Tom demande l'addition."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He takes out his bank card to pay the money.",
+      "phonetic": "/hiː teɪks aʊt hɪz bæŋk kɑːd tuː peɪ ˈʌp./",
+      "text_native": "Il sort sa carte bancaire pour régler."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "They thank the nice waiter and say goodbye.",
+      "phonetic": "/ðeɪ θæŋk ðə naɪs ˈweɪtə ænd seɪ gʊdˈbaɪ./",
+      "text_native": "Ils remercient le charmant serveur et lui disent au revoir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Then they walk out of the restaurant door.",
+      "phonetic": "/ðɛn ðeɪ wɔːk aʊt ɒv ðə ˈrɛstrɒnt dɔː./",
+      "text_native": "Ensuite, ils franchissent la porte du restaurant pour sortir."
+    }
+  ]
+}

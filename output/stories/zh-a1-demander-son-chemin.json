@@ -1,0 +1,185 @@
+{
+  "title": "问路",
+  "new_vocabulary": [
+    "请问",
+    "酒店",
+    "在哪儿",
+    "对不起",
+    "不知道",
+    "警察",
+    "先生",
+    "车站",
+    "前面",
+    "右边",
+    "左边",
+    "一直走",
+    "分钟",
+    "远",
+    "近",
+    "地图",
+    "手机",
+    "看",
+    "给",
+    "谢",
+    "客气",
+    "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "你好，请问酒店在哪儿？",
+      "phonetic": "Nǐ hǎo, qǐng wèn jiǔdiàn zài nǎr?",
+      "text_native": "Bonjour, s'il vous plaît, où est l'hôtel ?"
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "对不起，我不知道。",
+      "phonetic": "Duìbuqǐ, wǒ bù zhīdào.",
+      "text_native": "Je suis désolé, je ne sais pas."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "那个人是警察。",
+      "phonetic": "Nà ge rén shì jǐngchá.",
+      "text_native": "Cette personne est un policier."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "你好，警察先生。",
+      "phonetic": "Nǐ hǎo, jǐngchá xiānshēng.",
+      "text_native": "Bonjour, monsieur le policier."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我想去火车站。",
+      "phonetic": "Wǒ xiǎng qù huǒchēzhàn.",
+      "text_native": "Je veux aller à la gare."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "火车站很近。",
+      "phonetic": "Huǒchēzhàn hěn jìn.",
+      "text_native": "La gare est très proche."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "路就在前面。",
+      "phonetic": "Lù jiù zài qiánmiàn.",
+      "text_native": "La route est juste devant."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "你一直走。",
+      "phonetic": "Nǐ yìzhí zǒu.",
+      "text_native": "Vous marchez tout droit."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "然后向右边走。",
+      "phonetic": "Ránhòu xiàng yòubian zǒu.",
+      "text_native": "Ensuite, allez vers la droite."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "左边有一个路口。",
+      "phonetic": "Zuǒbiān yǒu yí gè lùkǒu.",
+      "text_native": "Il y a une intersection sur la gauche."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "车不能进去。",
+      "phonetic": "Chē bù néng jìn qù.",
+      "text_native": "Les voitures ne peuvent pas entrer."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "人可以走。",
+      "phonetic": "Rén kěyǐ zǒu.",
+      "text_native": "Les piétons peuvent y aller."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "走五分钟。",
+      "phonetic": "Zǒu wǔ fēnzhōng.",
+      "text_native": "Marchez pendant cinq minutes."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "路很远吗？",
+      "phonetic": "Lù hěn yuǎn ma?",
+      "text_native": "C'est loin ?"
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "不远，很近。",
+      "phonetic": "Bù yuǎn, hěn jìn.",
+      "text_native": "Ce n'est pas loin, c'est très proche."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我有手机。",
+      "phonetic": "Wǒ yǒu shǒujī.",
+      "text_native": "J'ai un téléphone portable."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "手机里有地图。",
+      "phonetic": "Shǒujī lǐ yǒu dìtú.",
+      "text_native": "Il y a une carte sur le téléphone."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "你看地图。",
+      "phonetic": "Nǐ kàn dìtú.",
+      "text_native": "Regardez la carte."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我喝一口水。",
+      "phonetic": "Wǒ hē yì kǒu shuǐ.",
+      "text_native": "Je bois une gorgée d'eau."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "谢谢警察。",
+      "phonetic": "Xièxie jǐngchá.",
+      "text_native": "Merci au policier."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "不客气。",
+      "phonetic": "Bú kèqi.",
+      "text_native": "De rien."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "火车站就在后面。",
+      "phonetic": "Huǒchēzhàn jiù zài hòumiàn.",
+      "text_native": "La gare est juste derrière."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我走到了。",
+      "phonetic": "Wǒ zǒudào le.",
+      "text_native": "Je suis arrivé."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "再见，先生。",
+      "phonetic": "Zàijiàn, xiānshēng.",
+      "text_native": "Au revoir, monsieur."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "今天天气很好。",
+      "phonetic": "Jīntiān tiānqì hěn hǎo.",
+      "text_native": "Aujourd'hui, il fait très beau."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我找到路了。",
+      "phonetic": "Wǒ zhǎodào lù le.",
+      "text_native": "J'ai trouvé le chemin."
+    }
+  ]
+}

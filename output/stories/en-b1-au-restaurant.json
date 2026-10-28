@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Friday Night",
+  "new_vocabulary": [
+    "busy",
+    "weekend",
+    "booked",
+    "available",
+    "host",
+    "follow",
+    "seat",
+    "recommend",
+    "special",
+    "local",
+    "beef",
+    "medium",
+    "rare",
+    "side",
+    "sauce",
+    "mushroom",
+    "wine",
+    "red",
+    "glass",
+    "enjoy",
+    "conversation",
+    "empty",
+    "clear",
+    "terrible",
+    "stomach",
+    "instead",
+    "cash",
+    "tip",
+    "receipt",
+    "umbrella"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It was a very busy Friday evening when Sarah decided to go to the new restaurant.",
+      "phonetic": "/ɪt wɒz ə ˈvɛri ˈbɪzi ˈfraɪdeɪ ˈiːvnɪŋ wɛn ˈsɛrə dɪˈsaɪdɪd tuː gəʊ tuː ðə njuː ˈrɛstrɒnt/",
+      "text_native": "C'était un vendredi soir très animé quand Sarah a décidé d'aller au nouveau restaurant."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "She walked through the front door and hoped they had a table available.",
+      "phonetic": "/ʃi wɔːkt θruː ðə frʌnt dɔːr ænd həʊpt ðeɪ hæd ə ˈteɪbl əˈveɪləbl/",
+      "text_native": "Elle a franchi la porte d'entrée en espérant qu'ils auraient une table de libre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The friendly host smiled and asked if she had booked a spot.",
+      "phonetic": "/ðə ˈfrɛndli həʊst smaɪld ænd ɑːskt ɪf ʃi hæd bʊkt ə spɒt/",
+      "text_native": "L'accueillant hôte a souri et a demandé si elle avait réservé une place."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Sarah explained that she forgot to reserve, but the host checked the schedule.",
+      "phonetic": "/ˈsɛrə ɪksˈpleɪnd ðæt ʃi fəˈgɒt tuː rɪˈzɜːv, bʌt ðə həʊst tʃɛkt ðə ˈʃɛduːl/",
+      "text_native": "Sarah a expliqué qu'elle avait oublié de réserver, mais l'hôte a consulté le planning."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He found a small corner near the window and asked her to follow him.",
+      "phonetic": "/hi faʊnd ə smɔːl ˈkɔːnə nɪə ðə ˈwɪndəʊ ænd ɑːskt hɜː tuː ˈfɒləʊ hɪm/",
+      "text_native": "Il a trouvé un petit coin près de la fenêtre et lui a demandé de le suivre."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "She sat down on the wooden chair and opened the large paper menu.",
+      "phonetic": "/ʃi sæt daʊn ɒn ðə ˈwʊdn tʃeər ænd ˈəʊpənd ðə lɑːrdʒ ˈpeɪpə ˈmɛnjuː/",
+      "text_native": "Elle s'est assise sur la chaise en bois et a ouvert le grand menu en papier."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "A polite waiter arrived quickly to pour some fresh water into her glass.",
+      "phonetic": "/ə pəˈlaɪt ˈweɪtər əˈraɪvd ˈkwɪkli tuː pɔː sʌm frɛʃ ˈwɔːtər ˈɪntuː hɜː glɑːs/",
+      "text_native": "Un serveur poli est arrivé rapidement pour verser un peu d'eau fraîche dans son verre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "She looked at the options and asked the waiter to recommend a special dish.",
+      "phonetic": "/ʃi lʊkt æt ði ˈɒpʃənz ænd ɑːskt ðə ˈweɪtə tuː ˌrɛkəˈmɛnd ə ˈspɛʃəl dɪʃ/",
+      "text_native": "Elle a regardé les options et a demandé au serveur de lui recommander un plat spécial."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He suggested the local beef cooked with a rich mushroom sauce.",
+      "phonetic": "/hi səˈʤɛstɪd ðə ˈləʊkəl biːf kʊkt wɪð ə rɪtʃ ˈmʌʃrʊm sɔːs/",
+      "text_native": "Il a suggéré le bœuf local cuisiné avec une riche sauce aux champignons."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Sarah liked the idea and ordered the meat cooked medium.",
+      "phonetic": "/ˈsɛrə laɪkt ði aɪˈdɪə ænd ˈɔːdəd ðə miːt kʊkt ˈmiːdiəm/",
+      "text_native": "Sarah a aimé l'idée et a commandé la viande cuite à point."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "For the side, she chose some warm rice and fresh green vegetables.",
+      "phonetic": "/fɔː ðə saɪd, ʃi tʃəʊz sʌm wɔːm raɪs ænd frɛʃ griːn ˈvɛʤtəblz/",
+      "text_native": "En accompagnement, elle a choisi du riz chaud et des légumes verts frais."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The waiter also recommended a glass of strong red wine to go with the meal.",
+      "phonetic": "/ðə ˈweɪtə ˈɔːlsəʊ ˌrɛkəˈmɛndɪd ə glɑːs ɒv strɒŋ rɛd waɪn tuː gəʊ wɪð ðə miːl/",
+      "text_native": "Le serveur a également recommandé un verre de vin rouge corsé pour aller avec le repas."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "While waiting for the food, she enjoyed a light tomato soup as a starter.",
+      "phonetic": "/waɪl ˈweɪtɪŋ fɔː ðə fuːd, ʃi ɪnˈʤɔɪd ə laɪt təˈmɑːtəʊ suːp æz ə ˈstɑːtə/",
+      "text_native": "En attendant le repas, elle a apprécié une soupe légère à la tomate en entrée."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The warm bread basket arrived with fresh butter on a small white plate.",
+      "phonetic": "/ðə wɔːm brɛd ˈbɑːskɪt əˈraɪvd wɪð frɛʃ ˈbʌtər ɒn ə smɔːl waɪt pleɪt/",
+      "text_native": "La corbeille de pain chaud est arrivée avec du beurre frais sur une petite assiette blanche."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "After a few minutes, the main course arrived and smelled absolutely delicious.",
+      "phonetic": "/ˈɑːftər ə fjuː ˈmɪnɪts, ðə meɪn kɔːs əˈraɪvd ænd smɛld ˈæbsəluːtli dɪˈlɪʃəs/",
+      "text_native": "Après quelques minutes, le plat principal est arrivé et sentait divinement bon."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "She tasted the beef carefully and smiled because it was very tender.",
+      "phonetic": "/ʃi ˈteɪstɪd ðə biːf ˈkeəfʊli ænd smaɪld bɪˈkɒz ɪt wɒz ˈvɛri ˈtɛndə/",
+      "text_native": "Elle a goûté le bœuf avec attention et a souri car il était très tendre."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The rice and vegetables had just the right amount of salt and pepper.",
+      "phonetic": "/ðə raɪs ænd ˈvɛʤtəblz hæd ʤʌst ðə raɪt əˈmaʊnt ɒv sɔːlt ænd ˈpɛpə/",
+      "text_native": "Le riz et les légumes avaient juste ce qu'il fallait de sel et de poivre."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "During the meal, she had a nice conversation with another person sitting nearby.",
+      "phonetic": "/ˈdjʊərɪŋ ðə miːl, ʃi hæd ə naɪs ˌkɒnvəˈseɪʃən wɪð əˈnʌðə ˈpɜːsn ˈsɪtɪŋ ˈnɪəbaɪ/",
+      "text_native": "Pendant le repas, elle a eu une conversation agréable avec une autre personne assise à côté."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "When she finished eating, the waiter returned to clear the empty plates.",
+      "phonetic": "/wɛn ʃi ˈfɪnɪʃt ˈiːtɪŋ, ðə ˈweɪtə rɪˈtɜːnd tuː klɪə ði ˈɛmpti pleɪts/",
+      "text_native": "Lorsqu'elle a eu fini de manger, le serveur est revenu débarrasser les assiettes vides."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He asked if she wanted to see the dessert menu with chocolate cakes.",
+      "phonetic": "/hi ɑːskt ɪf ʃi ˈwɒntɪd tuː siː ðə dɪˈzɜːt ˈmɛnjuː wɪð ˈtʃɒklət keɪks/",
+      "text_native": "Il a demandé si elle souhaitait voir la carte des desserts avec des gâteaux au chocolat."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Sarah touched her stomach and decided she was too full for sweet food.",
+      "phonetic": "/ˈsɛrə tʌtʃt hɜː ˈstʌmək ænd dɪˈsaɪdɪd ʃi wɒz tuː fʊl fɔː swiːt fuːd/",
+      "text_native": "Sarah a posé la main sur son ventre et a décidé qu'elle n'avait plus faim pour du sucré."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Instead, she asked for the bill to pay and leave.",
+      "phonetic": "/ɪnˈstɛd, ʃi ɑːskt fɔː ðə bɪl tuː peɪ ænd liːv/",
+      "text_native": "À la place, elle a demandé l'addition pour régler et partir."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The waiter brought the paper bill on a small plastic tray.",
+      "phonetic": "/ðə ˈweɪtə brɔːt ðə ˈpeɪpə bɪl ɒn ə smɔːl ˈplæstɪk treɪ/",
+      "text_native": "Le serveur a apporté l'addition sur un petit plateau en plastique."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "She decided to pay with her credit card instead of using cash.",
+      "phonetic": "/ʃi dɪˈsaɪdɪd tuː peɪ wɪð hɜː ˈkrɛdɪt kɑːd ɪnˈstɛd ɒv ˈjuːzɪŋ kæʃ/",
+      "text_native": "Elle a décidé de payer par carte bancaire au lieu d'utiliser des espèces."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The payment machine worked fast, and she received her printed receipt.",
+      "phonetic": "/ðə ˈpeɪmənt məˈʃiːn wɜːkt fɑːst, ænd ʃi rɪˈsiːvd hɜː ˈprɪntɪd rɪˈsiːt/",
+      "text_native": "Le terminal de paiement a fonctionné rapidement, et elle a reçu son ticket de caisse."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "She left some money on the table as a good tip for the waiter.",
+      "phonetic": "/ʃi lɛft sʌm ˈmʌni ɒn ðə ˈteɪbl æz ə gʊd tɪp fɔː ðə ˈweɪtə/",
+      "text_native": "Elle a laissé un peu d'argent sur la table en guise de bon pourboire pour le serveur."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Standing up from the chair, she put on her warm winter coat.",
+      "phonetic": "/ˈstændɪŋ ʌp frɒm ðə tʃeə, ʃi pʊt ɒn hɜː wɔːm ˈwɪntə kəʊt/",
+      "text_native": "En se levant de sa chaise, elle a enfilé son manteau d'hiver bien chaud."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "She checked outside and saw that it was raining heavily.",
+      "phonetic": "/ʃi tʃɛkt ˈaʊtsaɪd ænd sɔː ðæt ɪt wɒz ˈreɪnɪŋ ˈhɛvɪli/",
+      "text_native": "Elle a jeté un œil dehors et a vu qu'il pleuvait des cordes."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Luckily, she had her small umbrella ready in her bag.",
+      "phonetic": "/ˈlʌkɪli, ʃi hæd hɜː smɔːl ʌmˈbrɛlə ˈrɛdi ɪn hɜː bæg/",
+      "text_native": "Heureusement, elle avait son petit parapluie à portée de main dans son sac."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "She said goodbye to the friendly staff and walked back out into the night.",
+      "phonetic": "/ʃi sɛd gʊdˈbaɪ tuː ðə ˈfrɛndli stɑːf ænd wɔːkt bæk aʊt ˈɪntuː ðə naɪt/",
+      "text_native": "Elle a dit au revoir au personnel sympathique et est ressortie dans la nuit."
+    }
+  ]
+}

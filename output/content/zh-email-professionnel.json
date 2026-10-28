@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我刚给你发了一个邮件，你注意查收一下。",
+    "phonetic": "Wǒ gāng gěi nǐ fā le yí gè yóujiàn, nǐ zhùyì cháshōu yíxià.",
+    "text_native": "Je viens de t'envoyer un mail, jette un œil à ta boîte.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "邮件里我写了具体的要求，你看看有什么问题没有。",
+    "phonetic": "Yóujiàn lǐ wǒ xiě le jùtǐ de yāoqiú, nǐ kànkan yǒu shénme wèntí méiyǒu.",
+    "text_native": "J'ai détaillé mes attentes dans le message, dis-moi si quelque chose te pose question.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这个项目的最新进展我都发在邮件附件里了。",
+    "phonetic": "Zhè gè xiàngmù de zuìxīn jìnzhǎn wǒ dōu fā zài yóujiàn fùjiàn lǐ le.",
+    "text_native": "J'ai mis à jour l'état d'avancement du projet dans la pièce jointe.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "不好意思，刚才那个邮件我忘加附件了。",
+    "phonetic": "Bù hǎoyìsi, gāngcái nà gè yóujiàn wǒ wàng jiā fùjiàn le.",
+    "text_native": "Désolé, j'ai oublié de joindre le fichier dans mon précédent message.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "补发的文件已经发出去了，请以这版为准。",
+    "phonetic": "Bǔfā de wénjiàn yǐjīng fā chūqù le, qǐng yǐ zhè bǎn wéi zhǔn.",
+    "text_native": "Voici le document rectifié, merci de ne retenir que cette version.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "因为昨天太忙，你的邮件我今天一上班就回了。",
+    "phonetic": "Yīnwèi zuótiān tài máng, nǐ de yóujiàn wǒ jīntiān yī shàngbān jiù huí le.",
+    "text_native": "J'étais débordé hier, je réponds à ton mail dès mon arrivée au bureau ce matin.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这事儿挺急的，我一会儿发邮件单独跟你确认一下细节。",
+    "phonetic": "Zhè shìr tǐng jí de, wǒ yíhuìr fā yóujiàn dāndú gēn nǐ quèrèn yíxià xìjié.",
+    "text_native": "C'est assez urgent, je t'envoie un mail tout à l'heure pour caler les détails.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "你能不能帮我群发一下这个通知？",
+    "phonetic": "Nǐ néng bù néng bāng wǒ qúnfā yíxià zhè gè tōngzhī?",
+    "text_native": "Tu pourrais diffuser cette annonce à tout le monde pour moi ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "发邮件的时候别忘了抄送给咱们经理。",
+    "phonetic": "Fā yóujiàn de shíhòu bié wàngle chāosòng gěi zánmen jīnglǐ.",
+    "text_native": "N'oublie pas de mettre notre manager en copie du mail.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我刚才回复的时候点错了，应该点“全部回复”的。",
+    "phonetic": "Wǒ gāngcái huífù de shíhòu diǎn cuò le, yīnggāi diǎn “quánbù huífù” de.",
+    "text_native": "Je me suis trompé de bouton en répondant, j'aurais dû faire « répondre à tous ».",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "要不你直接用邮件把具体的要求列出来吧。",
+    "phonetic": "Yào bù nǐ zhíjiē yòng yóujiàn bǎ jùtǐ de yāoqiú liè chūlái ba.",
+    "text_native": "Tu ferais mieux de m'écrire tout ça par mail pour qu'on ait une trace claire.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "客户那边还没回信，要不我再发个邮件催一下？",
+    "phonetic": "Kèhù nàbiān hái méi huíxìn, yào bù wǒ zài fā gè yóujiàn cuī yíxià?",
+    "text_native": "Le client n'a toujours pas répondu, je devrais peut-être le relancer par mail ?",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "这封邮件信息量有点大，我得仔仔细细读一遍。",
+    "phonetic": "Zhè fēng yóujiàn xìnxīliàng yǒudiǎn dà, wǒ děi zǐzǐxìxì dú yíbiàn.",
+    "text_native": "Il y a pas mal d'infos dans ce message, il faut que je le relise à tête reposée.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我给他们发了邮件，不过到现在还没动静呢。",
+    "phonetic": "Wǒ gěi tāmen fā le yóujiàn, búguò dào xiànzài hái méi dòngjìng ne.",
+    "text_native": "Je leur ai écrit, mais pour l'instant je n'ai aucun retour.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "刚才那封邮件的语气可能不太对，我重新编辑一下再发。",
+    "phonetic": "Gāngcái nà fēng yóujiàn de yǔqì kěnéng bú tài duì, wǒ chóngxīn biānjí yíxià zài fā.",
+    "text_native": "Le ton de mon message n'était peut-être pas idéal, je vais le reformuler avant de l'envoyer.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "你在写商务邮件的时候，称呼一定要正式一点。",
+    "phonetic": "Nǐ zài xiě shāngwù yóujiàn de shíhòu, chēnghū yídìng yào zhèngshì yìdiǎn.",
+    "text_native": "Quand tu rédiges un courriel professionnel, fais attention à bien soigner la formule d'appel.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "如果有什么临时变动，随时用邮件联系我。",
+    "phonetic": "Rúguǒ yǒu shénme línshí biàndòng, suíshí yòng yóujiàn liánxì wǒ.",
+    "text_native": "S'il y a le moindre changement de dernière minute, n'hésite pas à me l'écrire.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "我看今天收到的垃圾邮件特别多，差点把重要信息漏掉。",
+    "phonetic": "Wǒ kàn jīntiān shōudào de lājī yóujiàn tèbié duō, chàdiǎn bǎ zhòngyào xìnxī lòudiào.",
+    "text_native": "J'ai reçu énormément de spams aujourd'hui, j'ai failli rater un mail important au milieu.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "领导在邮件里特意表扬了我们上个季度的表现。",
+    "phonetic": "Lǐngdǎo zài yóujiàn lǐ tèyì biǎoyáng le wǒmen shàng gè jìdù de biǎoxiàn.",
+    "text_native": "Le chef a pris le temps de souligner nos bons résultats du trimestre dernier par mail.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  },
+  {
+    "text_target": "为了避免以后再出现这种误会，我们在邮件里把规则写清楚吧。",
+    "phonetic": "Wèile bìmiǎn yǐhòu zài chūxiàn zhè zhǒng wùhuì, wǒmen zài yóujiàn lǐ bǎ guīzé xiě qīngchǔ ba.",
+    "text_native": "Pour éviter qu'on se comprenne mal la prochaine fois, mettons les choses au clair par écrit.",
+    "language": "ZH",
+    "category": "travail",
+    "level": "B1"
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "title": "我 去 工作",
+  "new_vocabulary": [
+    "我",
+    "去",
+    "工作",
+    "家",
+    "车",
+    "路",
+    "快",
+    "慢",
+    "大",
+    "小"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我 在 家。",
+      "phonetic": "Wǒ zài jiā.",
+      "text_native": "Je suis à la maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "天亮 了。",
+      "phonetic": "Tiān liàng le.",
+      "text_native": "Il fait jour."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我 去 工作。",
+      "phonetic": "Wǒ qù gōngzuò.",
+      "text_native": "Je vais au travail."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "门 在 这儿。",
+      "phonetic": "Mén zài zhèr.",
+      "text_native": "La porte est ici."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我 出 门。",
+      "phonetic": "Wǒ chū mén.",
+      "text_native": "Je sors."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "路 很 长。",
+      "phonetic": "Lù hěn cháng.",
+      "text_native": "La route est longue."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "车 在 那儿。",
+      "phonetic": "Chē zài nàr.",
+      "text_native": "La voiture est là-bas."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "车 是 红 的。",
+      "phonetic": "Chē shì hóng de.",
+      "text_native": "La voiture est rouge."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我 看 车。",
+      "phonetic": "Wǒ kàn chē.",
+      "text_native": "Je regarde la voiture."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我 有 车。",
+      "phonetic": "Wǒ yǒu chē.",
+      "text_native": "J'ai une voiture."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我 上 车。",
+      "phonetic": "Wǒ shàng chē.",
+      "text_native": "Je monte dans la voiture."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "车 门 开 了。",
+      "phonetic": "Chē mén kāi le.",
+      "text_native": "La portière s'ouvre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我 坐 好。",
+      "phonetic": "Wǒ zuò hǎo.",
+      "text_native": "Je m'assois bien."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "车 在 动。",
+      "phonetic": "Chē zài dòng.",
+      "text_native": "La voiture bouge."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "车 走 吧。",
+      "phonetic": "Chē zǒu ba.",
+      "text_native": "La voiture démarre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "路 很 大。",
+      "phonetic": "Lù hěn dà.",
+      "text_native": "La route est grande."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "红灯 停。",
+      "phonetic": "Hóngdēng tíng.",
+      "text_native": "Feu rouge, on s'arrête."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "绿灯 走。",
+      "phonetic": "Lǜdēng zǒu.",
+      "text_native": "Feu vert, on roule."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "车 很 快。",
+      "phonetic": "Chē hěn kuài.",
+      "text_native": "La voiture est rapide."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我 过 桥。",
+      "phonetic": "Wǒ guò qiáo.",
+      "text_native": "Je traverse le pont."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "水 很 多。",
+      "phonetic": "Shuǐ hěn duō.",
+      "text_native": "Il y a beaucoup d'eau."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "到 了。",
+      "phonetic": "Dào le.",
+      "text_native": "On est arrivés."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "车 停 下。",
+      "phonetic": "Chē tíng xià.",
+      "text_native": "La voiture s'arrête."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我 下 车。",
+      "phonetic": "Wǒ xià chē.",
+      "text_native": "Je descends de voiture."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我 进 门。",
+      "phonetic": "Wǒ jìn mén.",
+      "text_native": "J'entre."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "开始 工作。",
+      "phonetic": "Kāishǐ gōngzuò.",
+      "text_native": "Le travail commence."
+    }
+  ]
+}

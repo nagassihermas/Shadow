@@ -1,0 +1,195 @@
+{
+  "title": "开会",
+  "new_vocabulary": [
+    "开会",
+    "公司",
+    "人",
+    "桌子",
+    "椅子",
+    "电脑",
+    "纸",
+    "笔"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我去公司。",
+      "phonetic": "Wǒ qù gōngsī.",
+      "text_native": "Je vais à l'entreprise."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "公司很大。",
+      "phonetic": "Gōngsī hěn dà.",
+      "text_native": "L'entreprise est grande."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我进门。",
+      "phonetic": "Wǒ jìn mén.",
+      "text_native": "Je rentre par la porte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我看人。",
+      "phonetic": "Wǒ kàn rén.",
+      "text_native": "Je regarde les gens."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "有三个人。",
+      "phonetic": "Yǒu sān gè rén.",
+      "text_native": "Il y a trois personnes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我走进去。",
+      "phonetic": "Wǒ zǒu jìn qù.",
+      "text_native": "J'entre en marchant."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "这是一张桌子。",
+      "phonetic": "Zhè shì yì zhāng zhuōzi.",
+      "text_native": "C'est une table."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "桌子很大。",
+      "phonetic": "Zhuōzi hěn dà.",
+      "text_native": "La table est grande."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "这里有椅子。",
+      "phonetic": "Zhèli yǒu yǐzi.",
+      "text_native": "Il y a des chaises ici."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我有椅子。",
+      "phonetic": "Wǒ yǒu yǐzi.",
+      "text_native": "J'ai une chaise."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我坐下。",
+      "phonetic": "Wǒ zuò xià.",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他坐旁边。",
+      "phonetic": "Tā zuò pángbiān.",
+      "text_native": "Il s'assoit à côté."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我看桌子。",
+      "phonetic": "Wǒ kàn zhuōzi.",
+      "text_native": "Je regarde la table."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "桌上有电脑。",
+      "phonetic": "Zhuō shàng yǒu diànnǎo.",
+      "text_native": "Il y a un ordinateur sur la table."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "电脑是黑的。",
+      "phonetic": "Diànnǎo shì hēi de.",
+      "text_native": "L'ordinateur est noir."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我开电脑。",
+      "phonetic": "Wǒ kāi diànnǎo.",
+      "text_native": "J'allume l'ordinateur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "电脑亮了。",
+      "phonetic": "Diànnǎo liàng le.",
+      "text_native": "L'ordinateur s'allume."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "这里有纸。",
+      "phonetic": "Zhèli yǒu zhǐ.",
+      "text_native": "Il y a du papier ici."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "纸是白的。",
+      "phonetic": "Zhǐ shì bái de.",
+      "text_native": "Le papier est blanc."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我有纸。",
+      "phonetic": "Wǒ yǒu zhǐ.",
+      "text_native": "J'ai du papier."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "这里有笔。",
+      "phonetic": "Zhèli yǒu bǐ.",
+      "text_native": "Il y a un stylo ici."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "笔是红的。",
+      "phonetic": "Bǐ shì hóng de.",
+      "text_native": "Le stylo est rouge."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我有笔。",
+      "phonetic": "Wǒ yǒu bǐ.",
+      "text_native": "J'ai un stylo."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "大家开会。",
+      "phonetic": "Dàjiā kāihuì.",
+      "text_native": "Tout le monde est en réunion."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "一个人说话。",
+      "phonetic": "Yí gè rén shuōhuà.",
+      "text_native": "Une personne parle."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我听他说。",
+      "phonetic": "Wǒ tīng tā shuō.",
+      "text_native": "Je l'écoute parler."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我写字。",
+      "phonetic": "Wǒ xiě zì.",
+      "text_native": "J'écris."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "会很好。",
+      "phonetic": "Huì hěn hǎo.",
+      "text_native": "La réunion se passe bien."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "会完了。",
+      "phonetic": "Huì wán le.",
+      "text_native": "La réunion est terminée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我回家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre à la maison."
+    }
+  ]
+}

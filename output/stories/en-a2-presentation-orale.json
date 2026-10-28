@@ -1,0 +1,216 @@
+{
+  "title": "A Successful Presentation",
+  "new_vocabulary": [
+    "arrive",
+    "early",
+    "wait",
+    "hall",
+    "nervously",
+    "review",
+    "notes",
+    "breath",
+    "deep",
+    "microphone",
+    "test",
+    "volume",
+    "audience",
+    "enter",
+    "front",
+    "projector",
+    "remote",
+    "control",
+    "button",
+    "page",
+    "next",
+    "laser",
+    "pointer",
+    "attention",
+    "focus",
+    "example",
+    "practice",
+    "success",
+    "proud"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrives at the office very early today.",
+      "phonetic": "/tɒm əˈraɪvz æt ði ˈɒfɪs ˈvɛri ˈɜːli təˈdeɪ/",
+      "text_native": "Tom arrive au bureau très tôt aujourd'hui."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He wears a nice grey suit and brown shoes.",
+      "phonetic": "/hi wɛəz ə naɪs greɪ suːt ænd braʊn ʃuːz/",
+      "text_native": "Il porte un beau costume gris et des chaussures marron."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He carries a heavy black leather bag.",
+      "phonetic": "/hi ˈkæriz ə ˈhɛvi blæk ˈlɛðə bæg/",
+      "text_native": "Il porte un lourd sac en cuir noir."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Inside the bag, his computer and papers are ready.",
+      "phonetic": "/ɪnˈsaɪd ðə bæg, hɪz kəmˈpjuːtə ænd ˈpeɪpəz ɑːr ˈrɛdi/",
+      "text_native": "À l'intérieur du sac, son ordinateur et ses papiers sont prêts."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He waits quietly in the small corridor outside.",
+      "phonetic": "/hi weɪts ˈkwaɪətli ɪn ðə smɔːl ˈkɒrɪdɔːr ˈaʊtˈsaɪd/",
+      "text_native": "Il attend tranquillement dans le petit couloir à l'extérieur."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He feels a little nervous before the meeting.",
+      "phonetic": "/hi fiːlz ə ˈlɪtl ˈnɜːvəs bɪˈfɔː ðə ˈmiːtɪŋ/",
+      "text_native": "Il se sent un peu nerveux avant la réunion."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He takes a deep breath to calm down.",
+      "phonetic": "/hi teɪks ə diːp brɛθ tuː kɑːm daʊn/",
+      "text_native": "Il prend une grande inspiration pour se calmer."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "At nine o'clock, he opens the meeting room door.",
+      "phonetic": "/æt naɪn əˈklɒk, hi ˈəʊpənz ðə ˈmiːtɪŋ ruːm dɔː/",
+      "text_native": "À neuf heures, il ouvre la porte de la salle de réunion."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "His colleagues are already sitting at the long table.",
+      "phonetic": "/hɪz ˈkɒliːgz ɑːr ɔːlˈrɛdi ˈsɪtɪŋ æt ðə lɒŋ ˈteɪbl/",
+      "text_native": "Ses collègues sont déjà assis à la longue table."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Tom walks to the front of the room.",
+      "phonetic": "/tɒm wɔːks tuː ðə frʌnt ɒv ðə ruːm/",
+      "text_native": "Tom marche vers l'avant de la pièce."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He puts his folder carefully on the desk.",
+      "phonetic": "/hi pʊts hɪz ˈfəʊldə ˈkeəfʊli ɒn ðə dɛsk/",
+      "text_native": "Il pose son dossier soigneusement sur le bureau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He connects his laptop to the big screen.",
+      "phonetic": "/hi kəˈnɛkts hɪz ˈlæptɒp tuː ðə bɪg skriːn/",
+      "text_native": "Il connecte son ordinateur portable au grand écran."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The projector turns on and shows the first slide.",
+      "phonetic": "/ðə prəˈʤɛktə tɜːnz ɒn ænd ʃəʊz ðə fɜːst slaɪd/",
+      "text_native": "Le projecteur s'allume et montre la première diapositive."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He tests the small microphone on his shirt.",
+      "phonetic": "/hi tɛsts ðə smɔːl ˈmaɪkrəfəʊn ɒn hɪz ʃɜːt/",
+      "text_native": "Il teste le petit microphone sur sa chemise."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Everyone looks at him with a warm smile.",
+      "phonetic": "/ˈɛvrɪwʌn lʊks æt hɪm wɪð ə wɔːm smaɪl/",
+      "text_native": "Tout le monde le regarde avec un sourire chaleureux."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Tom starts to speak in a clear voice.",
+      "phonetic": "/tɒm stɑːts tuː spiːk ɪn ə klɪə vɔɪs/",
+      "text_native": "Tom commence à parler d'une voix claire."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He explains the new business plan very slowly.",
+      "phonetic": "/hi ɪksˈpleɪnz ðə njuː ˈbɪznɪs plæn ˈvɛri ˈsləʊli/",
+      "text_native": "Il explique le nouveau plan d'affaires très lentement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He uses a black clicker to change the pages.",
+      "phonetic": "/hi ˈjuːzɪz ə blæk ˈklɪkə tuː ʧeɪnʤ ðə ˈpeɪʤɪz/",
+      "text_native": "Il utilise une télécommande noire pour changer les pages."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He points a red laser at important numbers.",
+      "phonetic": "/hi pɔɪnts ə rɛd ˈleɪzə æt ɪmˈpɔːtənt ˈnʌmbəz/",
+      "text_native": "Il pointe un laser rouge sur les chiffres importants."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The people in the room listen with great attention.",
+      "phonetic": "/ðə ˈpiːpl ɪn ðə ruːm ˈlɪsn wɪð greɪt əˈtɛnʃn/",
+      "text_native": "Les gens dans la pièce écoutent avec beaucoup d'attention."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He gives a concrete example for every project.",
+      "phonetic": "/hi gɪvz ə ˈkɒŋkriːt ɪgˈzɑːmpl fɔːr ˈɛvri ˈprɒʤɛkt/",
+      "text_native": "Il donne un exemple concret pour chaque projet."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "His friends in the audience nod their heads.",
+      "phonetic": "/hɪz frɛndz ɪn ði ˈɔːdiəns nɒd ðeə hɛdz/",
+      "text_native": "Ses collègues dans le public hochent la tête."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "After twenty minutes, he drinks some fresh water.",
+      "phonetic": "/ˈɑːftə ˈtwɛnti ˈmɪnɪts, hi drɪŋks sʌm frɛʃ ˈwɔːtə/",
+      "text_native": "Après vingt minutes, il boit de l'eau fraîche."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Then he answers many questions from his boss.",
+      "phonetic": "/ðɛn hi ˈɑːnsəz ˈmɛni ˈkwɛstʃənz frɒm hɪz bɒs/",
+      "text_native": "Ensuite, il répond à de nombreuses questions de son patron."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Everybody understands the message very well.",
+      "phonetic": "/ˈɛvribɒdi ˌʌndəˈstændz ðə ˈmɛsɪʤ ˈvɛri wɛl/",
+      "text_native": "Tout le monde comprend très bien le message."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Tom finishes his presentation with a happy smile.",
+      "phonetic": "/tɒm ˈfɪnɪʃɪz hɪz ˌprɛzənˈteɪʃn wɪð ə ˈhæpi smaɪl/",
+      "text_native": "Tom termine sa présentation avec un sourire heureux."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "All colleagues stand up and clap their hands.",
+      "phonetic": "/ɔːl ˈkɒliːgz stænd ʌp ænd klæp ðeə hændz/",
+      "text_native": "Tous les collègues se lèvent et applaudissent."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He says thank you to everyone in the room.",
+      "phonetic": "/hi seɪz θæŋk juː tuː ˈɛvrɪwʌn ɪn ðə ruːm/",
+      "text_native": "Il dit merci à tout le monde dans la pièce."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "It is a big success for his daily job.",
+      "phonetic": "/ɪt ɪz ə bɪg səkˈsɛs fɔː hɪz ˈdeɪli ʤɒb/",
+      "text_native": "C'est un grand succès pour son travail quotidien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He goes back to his seat feeling very proud.",
+      "phonetic": "/hi gəʊz bæk tuː hɪz siːt ˈfiːlɪŋ ˈvɛri praʊd/",
+      "text_native": "Il retourne à sa place en se sentant très fier."
+    }
+  ]
+}

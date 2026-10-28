@@ -1,0 +1,186 @@
+{
+  "title": "四个季节",
+  "new_vocabulary": ["春", "夏", "秋", "冬", "热", "冷", "雨", "雪", "天", "好"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是春。",
+      "phonetic": "Zhè shì chūn.",
+      "text_native": "C'est le printemps."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "天不冷。",
+      "phonetic": "Tiān bù lěng.",
+      "text_native": "Il ne fait pas froid."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "雨水多。",
+      "phonetic": "Yǔshuǐ duō.",
+      "text_native": "Il y a beaucoup de pluie."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "草是绿的。",
+      "phonetic": "Cǎo shì lǜ de.",
+      "text_native": "L'herbe est verte."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "花很美。",
+      "phonetic": "Huā hěn měi.",
+      "text_native": "Les fleurs sont très belles."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我出门。",
+      "phonetic": "Wǒ chū mén.",
+      "text_native": "Je sors."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "春走了。",
+      "phonetic": "Chūn zǒu le.",
+      "text_native": "Le printemps s'en va."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这是夏。",
+      "phonetic": "Zhè shì xià.",
+      "text_native": "C'est l'été."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "天气热。",
+      "phonetic": "Tiānqì rè.",
+      "text_native": "Le temps est chaud."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "太阳大。",
+      "phonetic": "Tàiyáng dà.",
+      "text_native": "Le soleil brille fort."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我不去。",
+      "phonetic": "Wǒ bú qù.",
+      "text_native": "Je n'y vais pas."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我在家。",
+      "phonetic": "Wǒ zài jiā.",
+      "text_native": "Je suis à la maison."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "夏走了。",
+      "phonetic": "Xià zǒu le.",
+      "text_native": "L'été s'en va."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "这是秋。",
+      "phonetic": "Zhè shì qiū.",
+      "text_native": "C'est l'automne."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "天不热。",
+      "phonetic": "Tiān bú rè.",
+      "text_native": "Il ne fait pas chaud."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "风很大。",
+      "phonetic": "Fēng hěn dà.",
+      "text_native": "Il y a beaucoup de vent."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "树叶落。",
+      "phonetic": "Shùyè luò.",
+      "text_native": "Les feuilles tombent."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "叶子黄了。",
+      "phonetic": "Yèzi huáng le.",
+      "text_native": "Les feuilles sont jaunes."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "秋走了。",
+      "phonetic": "Qiū zǒu le.",
+      "text_native": "L'automne s'en va."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "这是冬。",
+      "phonetic": "Zhè shì dōng.",
+      "text_native": "C'est l'hiver."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "天气冷。",
+      "phonetic": "Tiānqì lěng.",
+      "text_native": "Le temps est froid."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "下大雪。",
+      "phonetic": "Xià dà xuě.",
+      "text_native": "Il neige beaucoup."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "雪是白的。",
+      "phonetic": "Xuě shì bái de.",
+      "text_native": "La neige est blanche."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我穿衣。",
+      "phonetic": "Wǒ chuān yī.",
+      "text_native": "Je m'habille."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "衣服多。",
+      "phonetic": "Yīfú duō.",
+      "text_native": "Il y a beaucoup de vêtements."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "冬走了。",
+      "phonetic": "Dōng zǒu le.",
+      "text_native": "L'hiver s'en va."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "春又来。",
+      "phonetic": "Chūn yòu lái.",
+      "text_native": "Le printemps revient."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "天天好。",
+      "phonetic": "Tiān tiān hǎo.",
+      "text_native": "Chaque jour est beau."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我很高兴。",
+      "phonetic": "Wǒ hěn gāoxìng.",
+      "text_native": "Je suis très content."
+    }
+  ]
+}

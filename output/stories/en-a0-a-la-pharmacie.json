@@ -1,0 +1,197 @@
+{
+  "title": "At the pharmacy",
+  "new_vocabulary": [
+    "pharmacy",
+    "medicine",
+    "headache",
+    "cough",
+    "fever",
+    "doctor",
+    "prescription",
+    "pain",
+    "water",
+    "day"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Monday morning.",
+      "phonetic": "/ɪt ɪz ˈmʌndeɪ ˈmɔːrnɪŋ/",
+      "text_native": "C'est lundi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom is very sick.",
+      "phonetic": "/tɒm ɪz ˈvɛri sɪk/",
+      "text_native": "Tom est très malade."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He has a bad headache.",
+      "phonetic": "/hiː hæz ə bæd ˈhɛdheɪk/",
+      "text_native": "Il a un affreux mal de tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He has a bad cough.",
+      "phonetic": "/hiː hæz ə bæd kɒf/",
+      "text_native": "Il a une mauvaise toux."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He feels cold.",
+      "phonetic": "/hiː fiːlz kəʊld/",
+      "text_native": "Il a froid."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He goes outside.",
+      "phonetic": "/hiː ɡəʊz ˌaʊtˈsaɪd/",
+      "text_native": "Il sort."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He walks to the pharmacy.",
+      "phonetic": "/hiː wɔːks tuː ðə ˈfɑːrməsi/",
+      "text_native": "Il marche jusqu'à la pharmacie."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The pharmacy is open.",
+      "phonetic": "/ðə ˈfɑːrməsi ɪz ˈəʊpən/",
+      "text_native": "La pharmacie est ouverte."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Tom opens the door.",
+      "phonetic": "/tɒm ˈəʊpənz ðə dɔːr/",
+      "text_native": "Tom ouvre la porte."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He goes inside.",
+      "phonetic": "/hiː ɡəʊz ɪnˈsaɪd/",
+      "text_native": "Il entre."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "A pharmacist smiles.",
+      "phonetic": "/ə ˈfɑːrməsɪst smaɪlz/",
+      "text_native": "Un pharmacien sourit."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The woman says hello.",
+      "phonetic": "/ðə ˈwʊmən sɛz həˈləʊ/",
+      "text_native": "La femme dit bonjour."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom says hello back.",
+      "phonetic": "/tɒm sɛz həˈləʊ bæk/",
+      "text_native": "Tom répond bonjour."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He hands her a piece of paper.",
+      "phonetic": "/hiː hændz hɜːr ə piːs əv ˈpeɪpər/",
+      "text_native": "Il lui tend un morceau de papier."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The paper is a prescription.",
+      "phonetic": "/ðə ˈpeɪpər ɪz ə prɪˈskrɪpʃən/",
+      "text_native": "Le papier est une ordonnance."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The woman reads the paper.",
+      "phonetic": "/ðə ˈwʊmən riːdz ðə ˈpeɪpər/",
+      "text_native": "La femme lit le papier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "She goes to the shelf.",
+      "phonetic": "/ʃiː ɡəʊz tuː ðə ʃɛlf/",
+      "text_native": "Elle va vers l'étagère."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She finds the medicine.",
+      "phonetic": "/ʃiː faɪndz ðə ˈmɛdɪsɪn/",
+      "text_native": "Elle trouve le médicament."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "She takes a small box.",
+      "phonetic": "/ʃiː teɪks ə smɔːl bɒks/",
+      "text_native": "Elle prend une petite boîte."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "She walks back to Tom.",
+      "phonetic": "/ʃiː wɔːks bæk tuː tɒm/",
+      "text_native": "Elle revient vers Tom."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "She puts it on the counter.",
+      "phonetic": "/ʃiː pʊts ɪt ɒn ðə ˈkaʊntər/",
+      "text_native": "Elle le pose sur le comptoir."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Tom looks at the box.",
+      "phonetic": "/tɒm lʊks æt ðə bɒks/",
+      "text_native": "Tom regarde la boîte."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He pays her.",
+      "phonetic": "/hiː peɪz hɜːr/",
+      "text_native": "Il la paye."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "She gives him a receipt.",
+      "phonetic": "/ʃiː ɡɪvz hɪm ə rɪˈsiːt/",
+      "text_native": "Elle lui donne un reçu."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom takes the medicine.",
+      "phonetic": "/tɒm teɪks ðə ˈmɛdɪsɪn/",
+      "text_native": "Tom prend le médicament."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He says thank you.",
+      "phonetic": "/hiː sɛz θæŋk juː/",
+      "text_native": "Il dit merci."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "She says goodbye.",
+      "phonetic": "/ʃiː sɛz ɡʊdˈbaɪ/",
+      "text_native": "Elle dit au revoir."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom leaves the pharmacy.",
+      "phonetic": "/tɒm liːvz ðə ˈfɑːrməsi/",
+      "text_native": "Tom quitte la pharmacie."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He hurries home.",
+      "phonetic": "/hiː ˈhʌriz həʊm/",
+      "text_native": "Il rentre vite chez lui."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now he can rest.",
+      "phonetic": "/naʊ hiː kæn rɛst/",
+      "text_native": "Maintenant, il peut se reposer."
+    }
+  ]
+}

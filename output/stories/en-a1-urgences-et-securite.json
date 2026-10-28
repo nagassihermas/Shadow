@@ -1,0 +1,217 @@
+{
+  "title": "A Bad Day",
+  "new_vocabulary": [
+    "man",
+    "street",
+    "car",
+    "accident",
+    "run",
+    "fast",
+    "stop",
+    "driver",
+    "old",
+    "leg",
+    "pain",
+    "look",
+    "around",
+    "see",
+    "phone",
+    "pocket",
+    "number",
+    "speak",
+    "english",
+    "slow",
+    "wait",
+    "minute",
+    "light",
+    "blue",
+    "red",
+    "hear",
+    "noise",
+    "arrive",
+    "doctor",
+    "hospital"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "A man is on the street.",
+      "phonetic": "[ə mæn ɪz ɒn ðə striːt]",
+      "text_native": "Un homme est dans la rue."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "A big car is driving very fast.",
+      "phonetic": "[ə bɪg kɑːr ɪz ˈdraɪvɪŋ ˈvɛri fɑːst]",
+      "text_native": "Une grosse voiture roule très vite."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "There is a bad accident.",
+      "phonetic": "[ðeər ɪz ə bæd ˈæksɪdənt]",
+      "text_native": "Il y a un grave accident."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The car does not stop.",
+      "phonetic": "[ðə kɑːr dʌz nɒt stɒp]",
+      "text_native": "La voiture ne s'arrête pas."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "The driver looks scared.",
+      "phonetic": "[ðə ˈdraɪvə lʊks skɛəd]",
+      "text_native": "Le conducteur a l'air effrayé."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "An old man is on the ground.",
+      "phonetic": "[ən əʊld mæn ɪz ɒn ðə graʊnd]",
+      "text_native": "Un homme âgé est par terre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "His leg is badly hurt.",
+      "phonetic": "[hɪz lɛg ɪz ˈbædli hɜːt]",
+      "text_native": "Sa jambe est très blessée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He is in a lot of pain.",
+      "phonetic": "[hiː ɪz ɪn ə lɒt ɒv peɪn]",
+      "text_native": "Il souffre énormément."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "People run to help him.",
+      "phonetic": "[ˈpiːpl rʌn tuː hɛlp hɪm]",
+      "text_native": "Des gens courent pour l'aider."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I look around.",
+      "phonetic": "[aɪ lʊk əˈraʊnd]",
+      "text_native": "Je regarde autour de moi."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I see a dangerous situation.",
+      "phonetic": "[aɪ siː ə ˈdeɪnʤərəs ˌsɪtjʊˈeɪʃən]",
+      "text_native": "Je vois une situation dangereuse."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I take my phone from my pocket.",
+      "phonetic": "[aɪ teɪk maɪ fəʊn frɒm maɪ ˈpɒkɪt]",
+      "text_native": "Je sors mon téléphone de ma poche."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I need to call the police.",
+      "phonetic": "[aɪ niːd tuː kɔːl ðə pəˈliːs]",
+      "text_native": "J'ai besoin d'appeler la police."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I dial the correct number.",
+      "phonetic": "[aɪ ˈdaɪəl ðə kəˈrɛkt ˈnʌmbə]",
+      "text_native": "Je compose le bon numéro."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "A woman speaks on the phone.",
+      "phonetic": "[ə ˈwʊmən spiːks ɒn ðə fəʊn]",
+      "text_native": "Une femme répond au téléphone."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "She speaks English with me.",
+      "phonetic": "[ʃiː spiːks ˈɪŋglɪʃ wɪð miː]",
+      "text_native": "Elle parle anglais avec moi."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I speak slowly and clearly.",
+      "phonetic": "[aɪ spiːk ˈsləʊli ænd ˈklɪəli]",
+      "text_native": "Je parle lentement et clairement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She tells me to wait a minute.",
+      "phonetic": "[ʃiː tɛlz miː tuː weɪt ə ˈmɪnɪt]",
+      "text_native": "Elle me dit d'attendre une minute."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "We hear a loud siren.",
+      "phonetic": "[wiː hɪə ə laʊd ˈsaɪərən]",
+      "text_native": "Nous entendons une sirène retentissante."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "There is no fire here.",
+      "phonetic": "[ðeər ɪz nəʊ ˈfaɪər hɪə]",
+      "text_native": "Il n'y a pas d'incendie ici."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Then we see flashing lights.",
+      "phonetic": "[ðɛn wiː siː ˈflæʃɪŋ laɪts]",
+      "text_native": "Ensuite, nous voyons des gyrophares."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The lights are blue and red.",
+      "phonetic": "[ðə laɪts ɑː bluː ænd rɛd]",
+      "text_native": "Les lumières sont bleues et rouges."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The emergency cars arrive fast.",
+      "phonetic": "[ði ɪˈmɜːʤənsi kɑːz əˈraɪv fɑːst]",
+      "text_native": "Les véhicules d'urgence arrivent vite."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "A doctor comes to the man.",
+      "phonetic": "[ə ˈdɒktə kʌmz tuː ðə mæn]",
+      "text_native": "Un médecin s'approche de l'homme."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He checks the injured leg.",
+      "phonetic": "[hiː tʃɛks ði ˈɪnʤəd lɛg]",
+      "text_native": "Il examine la jambe blessée."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "They put him in a safe place.",
+      "phonetic": "[ðeɪ pʊt hɪm ɪn ə seɪf pleɪs]",
+      "text_native": "Ils le mettent en lieu sûr."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The man goes to the hospital.",
+      "phonetic": "[ðə mæn gəʊz tuː ðə ˈhɒspɪtəl]",
+      "text_native": "L'homme est emmené à l'hôpital."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The street is safe now.",
+      "phonetic": "[ðə striːt ɪz seɪf naʊ]",
+      "text_native": "La rue est calme à présent."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "People stop making noise.",
+      "phonetic": "[ˈpiːpl stɒp ˈmeɪkɪŋ nɔɪz]",
+      "text_native": "Les gens cessent de faire du bruit."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I can go home safely.",
+      "phonetic": "[aɪ kæn gəʊ həʊm ˈseɪfli]",
+      "text_native": "Je peux rentrer chez moi en toute sécurité."
+    }
+  ]
+}

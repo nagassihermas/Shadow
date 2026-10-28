@@ -1,0 +1,217 @@
+{
+  "title": "口头报告",
+  "new_vocabulary": [
+    "经理",
+    "开会",
+    "部门",
+    "计划",
+    "项目",
+    "今年",
+    "目标",
+    "首先",
+    "接着",
+    "然后",
+    "最后",
+    "数据",
+    "图表",
+    "表格",
+    "分析",
+    "结果",
+    "销售",
+    "增长",
+    "利润",
+    "成本",
+    "减少",
+    "建议",
+    "实施",
+    "步骤",
+    "阶段",
+    "讨论",
+    "意见",
+    "满意",
+    "顺利",
+    "专业"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天下午，经理让我做一个重要的口头报告。",
+      "phonetic": "Jīntiān xiàwǔ, jīnglǐ ràng wǒ zuò yí gè zhòngyào de kǒutóu bàogào.",
+      "text_native": "Cet après-midi, le directeur m'a demandé de faire un important rapport oral."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "会议室里面已经坐满了各部门的同事。",
+      "phonetic": "Huìyìshì lǐmiàn yǐjīng zuò mǎn le gè bùmén de tóngshì.",
+      "text_native": "La salle de réunion était déjà comble, remplie de collègues de différents départements."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我走到前面，把电脑连接到大屏幕上。",
+      "phonetic": "Wǒ zǒu dào qiánmiàn, bǎ diànnǎo liánjiē dào dà píngmù shàng.",
+      "text_native": "Je me suis avancé vers l'avant et j'ai branché l'ordinateur au grand écran."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "幻灯片顺利打开了，我深呼吸了一次。",
+      "phonetic": "Huàndēngpiàn shùnlì dǎkāi le, wǒ shēnhūxī le yí cì.",
+      "text_native": "Les diapositives se sont lancées sans problème, j'ai pris une grande inspiration."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "看着大家期待的目光，我不再那么紧张了。",
+      "phonetic": "Kànzhe dàjiā qídài de mùguāng, wǒ bú zài nàme jǐnzhāng le.",
+      "text_native": "En croisant les regards pleins d'attente de tout le monde, j'étais beaucoup moins nerveux."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我微笑着对大家说：大家好，我是市场部的王明。",
+      "phonetic": "Wǒ wēixiàozhe duì dàjiā shuō: Dàjiā hǎo, wǒ shì shìchǎng bù de Wáng Míng.",
+      "text_native": "J'ai souri à l'assemblée et j'ai dit : Bonjour à tous, je suis Wang Ming du département marketing."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "今天的主题是我们部门下一阶段的新计划。",
+      "phonetic": "Jīntiān de zhǔtí shì wǒmen bùmén xià yí jiēduàn de xīn jìhuà.",
+      "text_native": "Le sujet d'aujourd'hui est le nouveau plan de notre département pour la prochaine étape."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "首先，我介绍一下我们最近的项目进展。",
+      "phonetic": "Shǒuxiān, wǒ jièshào yíxià wǒmen zuìjìn de xiàngmù jìnzhǎn.",
+      "text_native": "Tout d'abord, je vais vous présenter l'avancement de nos projets récents."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "屏幕上显示了很多详细的数据和图表。",
+      "phonetic": "Píngmù shàng xiǎnshì le hěnduō xiángxì de shùjù hé túbiǎo.",
+      "text_native": "L'écran affichait de nombreuses données détaillées ainsi que des graphiques."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "这些表格能帮助大家更好地理解分析结果。",
+      "phonetic": "Zhèxiē biǎogé néng bāngzhù dàjiā gèng hǎo de lǐjiě fēnxī jiéguǒ.",
+      "text_native": "Ces tableaux permettront à tout le monde de mieux appréhender les résultats de l'analyse."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "接着，我谈到了今年的销售目标。",
+      "phonetic": "Jiēzhe, wǒ tán dào le jīnnián de xiāoshòu mùbiāo.",
+      "text_native": "Ensuite, j'ai abordé les objectifs de vente de cette année."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "得益于大家的努力，我们的业务有了明显的增长。",
+      "phonetic": "Déyì yú dàjiā de nǔlì, wǒmen de yèwù yǒu le míngxiǎn de zēngzhǎng.",
+      "text_native": "Grâce aux efforts de chacun, notre activité a connu une nette croissance."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "虽然成本有所增加，但是利润也变高了。",
+      "phonetic": "Suīrán chéngběn yǒu suǒ zēngjiā, dànshì lìrùn yě biàn gāo le.",
+      "text_native": "Bien que les coûts aient augmenté, les bénéfices ont également progressé."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "然后，我提出了几点关于未来发展的建议。",
+      "phonetic": "Ránhòu, wǒ tí chū le jǐ diǎn guānyú wèilái fāzhǎn de jiànyì.",
+      "text_native": "Puis, j'ai formulé quelques suggestions concernant notre développement futur."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "为了减少风险，我们需要分步骤实施这些方案。",
+      "phonetic": "Wèile jiǎnshǎo fēngxiǎn, wǒmen xūyào fēn bùzhòu shíshī zhèxiē fāng'àn.",
+      "text_native": "Afin de limiter les risques, nous devons mettre en œuvre ces solutions par étapes."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我的声音听起来很清楚，语速也很稳定。",
+      "phonetic": "Wǒ de shēngyīn tīng qǐlái hěn qīngchǔ, yǔsù yě hěn wěndìng.",
+      "text_native": "Ma voix portait clairement et mon rythme de parole était bien régulier."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "台下的同事们都在认真听我说话，没有人开小差。",
+      "phonetic": "Tái xià de tóngshìmen dōu zài rènzhēn tīng wǒ shuōhuà, méiyǒu rén kāi xiǎochā.",
+      "text_native": "Les collègues dans la salle m'écoutaient avec attention, personne n'avait l'esprit ailleurs."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "最后，我总结了报告的核心内容。",
+      "phonetic": "Zuìhòu, wǒ zǒngjié le bàogào de héxīn nèiróng.",
+      "text_native": "Enfin, j'ai résumé les points clés du rapport."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我微笑着看着大家，说：我的介绍就到这里。",
+      "phonetic": "Wǒ wēixiàozhe kànzhe dàjiā, shuō: Wǒ de jièshào jiù dào zhèlǐ.",
+      "text_native": "J'ai souri en regardant l'assistance et j'ai dit : Ma présentation s'arrête ici."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "谢谢大家的聆听，欢迎大家提出宝贵的问题。",
+      "phonetic": "Xièxiè dàjiā de língtīng, huānyíng dàjiā tí chū bǎoguì de wèntí.",
+      "text_native": "Merci de votre attention, et n'hésitez pas à poser vos questions."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "话音刚落，房间里响起了热烈的掌声。",
+      "phonetic": "Huàyīn gāng luò, fángjiān lǐ xiǎng qǐ le rèliè de zhǎngshēng.",
+      "text_native": "À peine mes derniers mots prononcés, des applaudissements chaleureux ont retenti dans la pièce."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "经理点了点头，对我的专业表现表示满意。",
+      "phonetic": "Jīnglǐ diǎn le diǎn tóu, duì wǒ de zhuānyè biǎoxiàn biǎoshì mǎnyì.",
+      "text_native": "Le directeur a hoché la tête, exprimant sa satisfaction face à ma prestation professionnelle."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "随后，进入了自由讨论的环节。",
+      "phonetic": "Suíhòu, jìnrù le zìyóu tǎolùn de huánjié.",
+      "text_native": "Nous sommes ensuite passés à la séance de questions-réponses."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "几位老员工举手发表了他们的意见。",
+      "phonetic": "Jǐ wèi lǎo yuángōng jǔshǒu fābiǎo le tāmen de yìjiàn.",
+      "text_native": "Plusieurs anciens collaborateurs ont levé la main pour donner leur avis."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我认真听取了大家的反馈，并一一作了回答。",
+      "phonetic": "Wǒ rènzhēn tīngqǔ le dàjiā de fǎnkuì, bìng yīyī zuò le huídá.",
+      "text_native": "J'ai écouté attentivement les retours de chacun et y ai répondu un par un."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "这些问题很有深度，也很有实际价值。",
+      "phonetic": "Zhèxiē wèntí hěn yǒu shēndù, yě hěn yǒu shíjì jiàzhí.",
+      "text_native": "Ces questions étaient très pertinentes et d'une réelle valeur pratique."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "时间过得很快，不知不觉就到了结束的时候。",
+      "phonetic": "Shíjiān guò de hěn kuài, bùzhībùjué jiù dào le jiéshù de shíhòu.",
+      "text_native": "Le temps a filé très vite, et c'était déjà l'heure de lever la séance sans que l'on s'en aperçoive."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "这次口头报告取得了圆满的成功。",
+      "phonetic": "Zhè cì kǒutóu bàogào qǔdé le yuánmǎn de chénggōng.",
+      "text_native": "Ce rapport oral a été un franc succès."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "通过充分的准备和练习，我积累了宝贵的经验。",
+      "phonetic": "Tōngguò chōngfèn de zhǔnbèi hé liànxí, wǒ jīlěi le bǎoguì de jīngyàn.",
+      "text_native": "Grâce à une préparation rigoureuse et de bons entraînements, j'ai accumulé une expérience précieuse."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "以后面对更多人的场合，我会更加自信。",
+      "phonetic": "Yǐhòu miànduì gèng duō rén de chǎnghé, wǒ huì gèngjiā zìxìn.",
+      "text_native": "À l'avenir, lors de prises de parole devant un public encore plus large, je serai encore plus confiant."
+    }
+  ]
+}

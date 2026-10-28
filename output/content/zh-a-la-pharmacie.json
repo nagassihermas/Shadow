@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "请问附近有药店吗？",
+    "phonetic": "qǐng wèn fù jìn yǒu yào diàn ma?",
+    "text_native": "Je vous demande, y a-t-il une pharmacie par ici ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我想买点治头疼的药。",
+    "phonetic": "wǒ xiǎng mǎi diǎn zhì tóu téng de yào.",
+    "text_native": "Je voudrais acheter quelque chose pour les maux de tête.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我女儿有点发烧。",
+    "phonetic": "wǒ nǚ ér yǒu diǎn fā shāo.",
+    "text_native": "Ma fille a un peu de fièvre.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我喉咙痛得很厉害。",
+    "phonetic": "wǒ hóu lóng tòng de hěn lì hài.",
+    "text_native": "J'ai très mal à la gorge.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "这里买创可贴在哪边？",
+    "phonetic": "zhè lǐ mǎi chuāng kě tiē zài nǎ biān?",
+    "text_native": "Où est-ce qu'on trouve les pansements ici ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "有没有管咳嗽的糖浆？",
+    "phonetic": "yǒu méi yǒu guǎn ké sòu de táng jiāng?",
+    "text_native": "Est-ce que vous avez du sirop pour la toux ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我好像有点消化不良。",
+    "phonetic": "wǒ hǎo xiàng yǒu diǎn xiāo huà bù liáng.",
+    "text_native": "J'ai l'impression d'avoir une mauvaise digestion.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "吃坏肚子了有什么特效药吗？",
+    "phonetic": "chī huài dù zi le yǒu shén me tè xiào yào ma?",
+    "text_native": "Vous avez un remède efficace en cas d'intoxication alimentaire ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "这个药需要医生开处方吗？",
+    "phonetic": "zhè ge yào xū yào yī shēng kāi chǔ fāng ma?",
+    "text_native": "Est-ce qu'il me faut une ordonnance pour ce médicament ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "一天应该吃几次？",
+    "phonetic": "yī tiān yīng gāi chī jǐ cì?",
+    "text_native": "Je dois en prendre combien de fois par jour ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "饭前吃还是饭后吃？",
+    "phonetic": "fàn qián chī hái shì fàn hòu chī?",
+    "text_native": "C'est avant ou après les repas ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "每次吃多少克？",
+    "phonetic": "měi cì chī duō shǎo kè?",
+    "text_native": "Quelle quantité je dois prendre à chaque fois ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "这药吃了会不会犯困？",
+    "phonetic": "zhè yào chī le huì bú huì fàn kùn?",
+    "text_native": "Est-ce que ce médicament fait somnoler ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我鼻子塞得厉害，有什么喷雾吗？",
+    "phonetic": "wǒ bí zi sāi de lì hài, yǒu shén me pēn wù ma?",
+    "text_native": "J'ai le nez complètement bouché, vous avez un spray nasal ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "我想量一下血压。",
+    "phonetic": "wǒ xiǎng liáng yī xià xuè yā.",
+    "text_native": "Je voudrais mesurer ma tension.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "店里有体温计卖吗？",
+    "phonetic": "diàn lǐ yǒu tǐ wēn jì mài ma?",
+    "text_native": "Est-ce que vous vendez des thermomètres ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "对花粉严重过敏有什么好办法？",
+    "phonetic": "duì huā fěn yán zhòng guò mǐn yǒu shén me hǎo bàn fǎ?",
+    "text_native": "Qu'est-ce qui marche bien contre les fortes allergies au pollen ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "帮我拿一瓶眼药水吧。",
+    "phonetic": "bāng wǒ ná yī píng yǎn yào shuǐ ba.",
+    "text_native": "Donnez-moi un flacon de collyre s'il vous plaît.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "可以用手机扫码付款吗？",
+    "phonetic": "kě yǐ yòng shǒu jī sǎo mǎ fù kuǎn ma?",
+    "text_native": "Est-ce qu'on peut payer par scan avec le téléphone ?",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "谢谢，祝你早日康复！",
+    "phonetic": "xiè xiè, zhù nǐ zǎo rì kāng fù!",
+    "text_native": "Merci, bon rétablissement à vous !",
+    "language": "ZH",
+    "category": "santé",
+    "level": "A2"
+  }
+]

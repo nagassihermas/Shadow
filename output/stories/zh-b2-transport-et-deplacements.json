@@ -1,0 +1,216 @@
+{
+  "title": "城市通勤的挑战",
+  "new_vocabulary": [
+    "通勤",
+    "上班族",
+    "通常",
+    "选择",
+    "私家车",
+    "虽然",
+    "舒适",
+    "然而",
+    "经常",
+    "停车位",
+    "寻找",
+    "浪费",
+    "宝贵",
+    "时间",
+    "因此",
+    "决定",
+    "改变",
+    "方式",
+    "环保",
+    "而且",
+    "避免",
+    "拥堵",
+    "外面",
+    "刮风",
+    "坚持",
+    "顺利",
+    "抵达",
+    "效率",
+    "提升"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "作为一个普通的上班族，王明的通勤生活总是充满了各种选择。",
+      "phonetic": "zuò wéi yī gè pǔ tōng de shàng bān zú, wáng míng de tōng qín shēng huó zǒng shì chōng mǎn le gè zhǒng xuǎn zé.",
+      "text_native": "En tant qu'employé de bureau ordinaire, la vie de navetteur de Wang Ming est toujours pleine de choix."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他通常在早晨七点半起床，然后开始准备出门。",
+      "phonetic": "tā tōng cháng zài zǎo chén qī diǎn bàn qǐ chuáng, rán hòu kāi shǐ zhǔn bèi chū mén.",
+      "text_native": "Il se lève généralement à sept heures et demie le matin, puis commence à se préparer pour sortir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "过去，他习惯驾驶自己的私家车去公司。",
+      "phonetic": "guò qù, tā xí guàn jià shǐ zì jǐ de sī jiā chē qù gōng sī.",
+      "text_native": "Autrefois, il avait l'habitude de conduire sa propre voiture pour aller au bureau."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "虽然开车非常舒适，不受天气的影响，但是市中心的情况并不乐观。",
+      "phonetic": "suī rán kāi chē fēi cháng shū shì, bù shòu tiān qì de yǐng xiǎng, dàn shì shì zhōng xīn de qíng kuàng bìng bù lè guān.",
+      "text_native": "Bien que conduire soit très confortable et non affecté par la météo, la situation au centre-ville n'est pas réjouissante."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "每到早高峰期，路上的交通就变得异常严重。",
+      "phonetic": "měi dào zǎo gāo fēng qī, lù shàng de jiāo tōng jiù biàn de yì cháng yán zhòng.",
+      "text_native": "À chaque heure de pointe matinale, la circulation routière devient extrêmement difficile."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "王明常常被堵在路上，眼看着时间一分一秒地过去。",
+      "phonetic": "wáng míng cháng cháng bèi dǔ zài lù shàng, yǎn kàn zhe shí jiān yī fēn yī miǎo de guò qù.",
+      "text_native": "Wang Ming se retrouve souvent coincé dans les embouteillages, voyant le temps passer minute par minute."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "更让人头疼的是，到达公司附近以后很难找到停车位。",
+      "phonetic": "gèng ràng rén tóu téng de shì, dào dá gōng sī fù jìn yǐ hòu hěn nán zhǎo dào tíng chē wèi.",
+      "text_native": "Ce qui est encore plus pénible, c'est qu'il est très difficile de trouver une place de stationnement une fois arrivé près du bureau."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "寻找车位不仅浪费了大量的宝贵时间，还增加了不少额外的费用。",
+      "phonetic": "xún zhǎo chē wèi bù jǐn làng fèi le dà liàng de bǎo guì shí jiān, hái zēng jiā le bù shǎo é wài de fèi yòng.",
+      "text_native": "Chercher une place de parking gaspille non seulement un temps précieux, mais engendre aussi de nombreux frais supplémentaires."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "这样的通勤体验让他感到非常疲惫和烦躁。",
+      "phonetic": "zhè yàng de tōng qín tǐ yàn ràng tā gǎn dào fēi cháng pí bèi hé fán zào.",
+      "text_native": "Cette expérience de trajet le fait se sentir très fatigué et irrité."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "为了改善这种情况，他认真地做了一个新的出行计划。",
+      "phonetic": "wèi le gǎi shàn zhè zhǒng qíng kuàng, tā rèn zhēn de zuò le yī gè xīn de chū xíng jì huà.",
+      "text_native": "Afin d'améliorer cette situation, il a sérieusement élaboré un nouveau plan de déplacement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "上个周末，他仔细研究了地铁的换乘路线图。",
+      "phonetic": "shàng gè zhōu mò, tā zǐ xì yán jiū le dì tiě de huàn chéng lù xiàn tú.",
+      "text_native": "Le week-end dernier, il a étudié attentivement le plan des correspondances du métro."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他发现搭乘地铁不仅速度快，而且非常准时，能够完美避开地面拥堵。",
+      "phonetic": "tā fā xiàn dā chéng dì tiě bù jǐn sù dù kuài, èr qiě fēi cháng zhǔn shí, néng gòu wán měi bì kāi dì miàn yōng dǔ.",
+      "text_native": "Il a découvert que prendre le métro est non seulement rapide, mais aussi très ponctuel, ce qui permet d'éviter parfaitement les embouteillages en surface."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "星期一早晨，王明决定改变以往的出行方式。",
+      "phonetic": "xīng qī yī zǎo chén, wáng míng jué dìng gǎi biàn yǐ wǎng de chū xíng fāng shì.",
+      "text_native": "Lundi matin, Wang Ming a décidé de changer ses habitudes de déplacement."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他提前十分钟出门，步行走向最近的地铁站。",
+      "phonetic": "tā tí qián shí fēn zhōng chū mén, bù xíng zǒu xiàng zuì jìn de dì tiě zhàn.",
+      "text_native": "Il est sorti dix minutes plus tôt et a marché vers la station de métro la plus proche."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "虽然外面刮着冷风，但是轻快的步伐让他觉得很健康。",
+      "phonetic": "suī rán wài miàn guā zhe lěng fēng, dàn shì qīng kuài de bù fá ràng tā jué de hěn jiàn kāng.",
+      "text_native": "Bien que le vent froid souffle dehors, son pas léger le fait se sentir en forme."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "到了地铁站入口，他熟练地刷卡进站。",
+      "phonetic": "dào le dì tiě zhàn rù kǒu, tā shú liàn de shuā kǎ jìn zhàn.",
+      "text_native": "Arrivé à l'entrée de la station de métro, il a validé son titre de transport avec aisance pour entrer."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "站台上有很多人，大家都在安静地等待列车进站。",
+      "phonetic": "zhàn tái shàng yǒu hěn duō rén, dà jiā dōu zài ān jìng de děng dài liè chē jìn zhàn.",
+      "text_native": "Il y a beaucoup de monde sur le quai, tout le monde attend tranquillement l'arrivée du train."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "列车准时到达，车门打开后乘客们有序地上车。",
+      "phonetic": "liè chē zhǔn shí dào dá, chē mén dǎ kāi hòu chéng kè men yǒu xù de shàng chē.",
+      "text_native": "Le train est arrivé à l'heure, et après l'ouverture des portes, les passagers sont montés à bord de manière ordonnée."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "虽然车厢里人多拥挤，但他幸运地找到了一个空座位。",
+      "phonetic": "suī rán chē xiāng lǐ rén duō yōng jǐ, dàn tā xìng yùn de zhǎo dào le yī gè kōng zuò wèi.",
+      "text_native": "Bien que la rame soit bondée, il a eu la chance de trouver une place assise."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "坐在座位上，他拿出手机开始浏览今天的新闻。",
+      "phonetic": "zuò zài zuò wèi shàng, tā ná chū shǒu jī kāi shǐ liú lǎn jīn tiān de xīn wén.",
+      "text_native": "Assis à sa place, il a sorti son téléphone portable pour commencer à consulter les actualités du jour."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "周围环境虽然有些吵闹，但这并不影响他的好心情。",
+      "phonetic": "zhōu wéi huán jìng suī rán yǒu xiē chǎo nào, dàn zhè bìng bù yǐng xiǎng tā de hǎo xīn qíng.",
+      "text_native": "Bien que l'environnement ambiant soit un peu bruyant, cela n'altère en rien sa bonne humeur."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "经过一次顺利的换乘之后，列车快速地穿梭在地下隧道中。",
+      "phonetic": "jīng guò yī cì shùn lì de huàn chéng zhī hòu, liè chē kuài sù de chuān suō zài dì xià suì dào zhōng.",
+      "text_native": "Après une correspondance fluide, le train a filé rapidement à travers les tunnels souterrains."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "大约四十分钟后，列车平稳地到达了目的地的车站。",
+      "phonetic": "dà yuē sì shí fēn zhōng hòu, liè chē píng wěn de dào dá le mù dì dì de chē zhàn.",
+      "text_native": "Environ quarante minutes plus tard, le train est arrivé en douceur à la station de destination."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "王明随着人流快速下车，走出了地铁站的出口。",
+      "phonetic": "wáng míng suí zhe rén liú kuài sù xià chē, zǒu chū le dì tiě zhàn de chū kǒu.",
+      "text_native": "Wang Ming est descendu rapidement du train en suivant le flux de passagers et est sorti de la station de métro."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "从地铁口到公司的办公大楼只需要步行五分钟。",
+      "phonetic": "cóng dì tiě kǒu dào gōng sī de bàn gōng dà lóu zhǐ xū yào bù xíng wǔ fēn zhōng.",
+      "text_native": "De la sortie du métro à l'immeuble de bureaux de l'entreprise, il ne faut que cinq minutes de marche."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "当他走进公司大门时，距离上班时间还有十五分钟。",
+      "phonetic": "dāng tā zǒu jìn gōng sī dà mén shí, jù lí shàng bān shí jiān hái yǒu shí wǔ fēn zhōng.",
+      "text_native": "Lorsqu'il a franchi les portes de l'entreprise, il restait encore quinze minutes avant l'heure de prise de poste."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "他没有迟到，也没有经历堵车的烦恼。",
+      "phonetic": "tā méi yǒu chí dào, yě méi yǒu jīng lì dǔ chē de fán nǎo.",
+      "text_native": "Il n'était pas en retard et n'avait subi aucun tracas lié aux embouteillages."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "这次高效的绿色出行让他对未来每天的通勤充满了信心。",
+      "phonetic": "zhè cì gāo xiào de lǜ sè chū xíng ràng tā duì wèi lái měi tiān de tōng qín chōng mǎn le xìn xīn.",
+      "text_native": "Ce déplacement écologique et efficace lui a redonné pleine confiance pour ses trajets quotidiens à venir."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "他意识到，合理规划路线和选择交通工具能够大大节省时间和精力。",
+      "phonetic": "tā yì shí dào, hé lǐ guī huà lù xiàn hé xuǎn zé jiāo tōng gōng jù néng gòu dà dà jiě shěng shí jiān hé jīng lì.",
+      "text_native": "Il a réalisé qu'une planification judicieuse des itinéraires et le choix des moyens de transport permettent d'économiser considérablement temps et énergie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "从此以后，公共交通成为了他日常生活中不可或缺的重要部分。",
+      "phonetic": "cóng cǐ yǐ hòu, gōng gòng jiāo tōng chéng wéi le tā rì cháng shēng huó zhōng bù kě huò quē de zhòng yào bù fēn.",
+      "text_native": "À partir de ce jour, les transports en commun sont devenus un élément indispensable de sa vie quotidienne."
+    }
+  ]
+}

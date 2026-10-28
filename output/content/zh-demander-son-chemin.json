@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "请问，地铁站在哪里？",
+    "phonetic": "qǐng wèn, dì tiě zhàn zài nǎ lǐ?",
+    "text_native": "S'il vous plaît, où se trouve la station de métro ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "不好意思，去火车站怎么走？",
+    "phonetic": "bù hǎo yì si, qù huǒ chē zhàn zěn me zǒu?",
+    "text_native": "Excusez-moi, comment on va à la gare ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "这里附近有洗手间吗？",
+    "phonetic": "zhè lǐ fù jìn yǒu xǐ shǒu jiān ma?",
+    "text_native": "Il y a des toilettes par ici ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "请问，附近有便利店吗？",
+    "phonetic": "qǐng wèn, fù jìn yǒu biàn lì diàn ma?",
+    "text_native": "Dites-moi, y a-t-il une supérette dans le coin ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "我想找一家咖啡馆。",
+    "phonetic": "wǒ xiǎng zhǎo yì jiā kā fēi guǎn.",
+    "text_native": "Je cherche un café.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "药房怎么走？",
+    "phonetic": "yào fáng zěn me zǒu?",
+    "text_native": "Par où on va à la pharmacie ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "这家酒店离这儿远吗？",
+    "phonetic": "zhè jiā jiǔ diàn lí zhèr yuǎn ma?",
+    "text_native": "Cet hôtel est loin d'ici ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "走路去大概要多久？",
+    "phonetic": "zǒu lù qù dà gài yào duō jiǔ?",
+    "text_native": "Il faut compter combien de temps à pied ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "一直往前走，对吗？",
+    "phonetic": "yì zhí wǎng qián zǒu, duì ma?",
+    "text_native": "Je continue tout droit, c'est bien ça ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "到了红绿灯往右拐。",
+    "phonetic": "dào le hóng lǜ dēng wǎng yòu guǎi.",
+    "text_native": "Au feu rouge, tournez à droite.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "前面那个路口左转。",
+    "phonetic": "qián miàn nà gè lù kǒu zuǒ zhuǎn.",
+    "text_native": "Prenez à gauche au prochain carrefour.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "超市在马路对面。",
+    "phonetic": "chāo shì zài mǎ lù duì miàn.",
+    "text_native": "Le supermarché est de l'autre côté de la rue.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "银行就在邮局旁边。",
+    "phonetic": "yín háng jiù zài yóu jú páng biān.",
+    "text_native": "La banque se trouve juste à côté de la poste.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "哎呀，我好像迷路了。",
+    "phonetic": "āi yā, wǒ hǎo xiàng mí lù le.",
+    "text_native": "Oups, j'ai l'impression d'être perdu.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "你能帮我看一下地图吗？",
+    "phonetic": "nǐ néng bāng wǒ kàn yí xià dì tú ma?",
+    "text_native": "Tu peux m'aider à regarder le plan, s'il te plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "这里可以坐公交车去吗？",
+    "phonetic": "zhè lǐ kě yǐ zuò gōng jiāo chē qù ma?",
+    "text_native": "On peut y aller en bus d'ici ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "哪个公交车站牌去市中心？",
+    "phonetic": "nǎ gè gōng jiāo chē zhàn pái qù shì zhōng xīn?",
+    "text_native": "Quel arrêt de bus va vers le centre-ville ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "请再多说一点，我没听懂。",
+    "phonetic": "qǐng zài duō shuō yì diǎn, wǒ méi tīng dǒng.",
+    "text_native": "Pouvez-vous répéter un peu plus, je n'ai pas tout saisi.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "能不能写在纸上给我？",
+    "phonetic": "néng bù néng xiě zài zhǐ shàng gěi wǒ?",
+    "text_native": "Vous pourriez me l'écrire sur un papier ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  },
+  {
+    "text_target": "太谢谢你的帮忙了！",
+    "phonetic": "tài xiè xie nǐ de bāng máng le!",
+    "text_native": "Un grand merci pour votre aide !",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A1"
+  }
+]

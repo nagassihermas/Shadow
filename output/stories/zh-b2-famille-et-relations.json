@@ -1,0 +1,217 @@
+{
+  "title": "家庭责任与沟通",
+  "new_vocabulary": [
+    "责任",
+    "沟通",
+    "矛盾",
+    "解决",
+    "商量",
+    "决定",
+    "听取",
+    "意见",
+    "接受",
+    "建议",
+    "态度",
+    "诚恳",
+    "原谅",
+    "误会",
+    "解释",
+    "耐心",
+    "倾听",
+    "表达",
+    "想法",
+    "成年",
+    "独立",
+    "空间",
+    "信任",
+    "建立",
+    "维持",
+    "和谐",
+    "氛围",
+    "共同",
+    "面对",
+    "挑战"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "成年以后，我和父母的关系进入了一个新的阶段。",
+      "phonetic": "chéng nián yǐ hòu, wǒ hé fù mǔ de guān xì jìn rù le yí gè xīn de jiē duàn.",
+      "text_native": "Après l'âge adulte, ma relation avec mes parents est entrée dans une nouvelle phase."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "虽然我们住得很近，但是独立的生活让彼此有了更多的个人空间。",
+      "phonetic": "suī rán wǒ men zhù de hěn jìn, dàn shì dú lì de shēng huó ràng bǐ cǐ yǒu le gèng duō de gè rén kōng jiān.",
+      "text_native": "Bien que nous vivions très près, la vie indépendante donne à chacun plus d'espace personnel."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "上个周末，家里因为一件事情产生了一些小矛盾。",
+      "phonetic": "shàng gè zhōu mò, jiā lǐ yīn wèi yí jiàn shì qíng chǎn shēng le yì xiē xiǎo máo dùn.",
+      "text_native": "Le week-end dernier, il y a eu un petit malentendu à la maison à cause d'une affaire."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "面对家庭内部的冲突，良好的沟通是解决问题的重要途径。",
+      "phonetic": "miàn duì jiā tíng nèi bù de chōng tú, liáng hǎo de gōu tōng shì jiě jué wèn tí de zhòng yào tú jìng.",
+      "text_native": "Face aux conflits familiaux, une bonne communication est un moyen important de résoudre les problèmes."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "爸爸妈妈邀请我回家吃晚饭，顺便坐下来好好商量这件事。",
+      "phonetic": "bà ba mā ma yāo qǐng wǒ huí jiā chī wǎn fàn, shùn biàn zuò xià lái hǎo hǎo shāng liang zhè jiàn shì.",
+      "text_native": "Papa et maman m'ont invité à dîner à la maison et à en profiter pour m'asseoir et en discuter sérieusement."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "回到家里，温暖的氛围让我感到非常放松。",
+      "phonetic": "huí dào jiā lǐ, wēn nuǎn de fēn wéi ràng wǒ gǎn dào fēi cháng fàng sōng.",
+      "text_native": "De retour à la maison, l'atmosphère chaleureuse m'a fait me sentir très détendu."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我们围坐在桌子旁，大家的情绪都很平静。",
+      "phonetic": "wǒ men wéi zuò zài zhuō zi páng, dà jiā de qíng xù dōu hěn píng jìng.",
+      "text_native": "Nous étions assis autour de la table, et l'humeur de tout le monde était très calme."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "妈妈给我盛了一碗汤，脸上带着温柔的微笑。",
+      "phonetic": "mā ma gěi wǒ chéng le yì wǎn tāng, liǎn shàng dài zhe wēn róu de wēi xiào.",
+      "text_native": "Maman m'a servi un bol de soupe avec un doux sourire sur le visage."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "爸爸首先打破了沉默，态度显得十分诚恳。",
+      "phonetic": "bà ba shǒu xiān dǎ pò le chén mò, tài dù xiǎn de shí fēn chéng kěn.",
+      "text_native": "Papa a brisé le silence en premier, son attitude paraissant très sincère."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他希望我能够理解长辈们的苦心，不要总是按照自己的想法行事。",
+      "phonetic": "tā xī wàng wǒ néng gòu lǐ jiě zhǎng bèi men de kǔ xīn, bú yào zǒng shì àn zhào zì jǐ de xiǎng fǎ xíng shì.",
+      "text_native": "Il espérait que je pourrais comprendre les bonnes intentions des aînés et ne pas toujours agir selon mes propres idées."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我耐心地倾听他们的意见，没有急着反驳。",
+      "phonetic": "wǒ nài xīn de qīng tīng tā men de yì jiàn, méi yǒu jí zhe fǎn bó.",
+      "text_native": "J'ai écouté patiemment leurs avis sans me presser de répliquer."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "成年人的关系需要建立在相互尊重的基础之上。",
+      "phonetic": "chéng nián rén de guān xì xū yào jiàn lì zài xiāng hù zūn zhòng de jī chǔ zhī shàng.",
+      "text_native": "Les relations entre adultes doivent être basées sur le respect mutuel."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "接着，我向他们解释了我这样做的原因。",
+      "phonetic": "jiē zhe, wǒ xiàng tā men jiě shì le wǒ zhè yàng zuò de yuán yīn.",
+      "text_native": "Ensuite, je leur ai expliqué les raisons pour lesquelles j'avais agi ainsi."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我认真地表达了自己对未来的规划和责任感。",
+      "phonetic": "wǒ rèn zhēn de biǎo dá le zì jǐ duì wèi lái de guī huà hé zé rèn gǎn.",
+      "text_native": "J'ai exprimé sérieusement mes projets pour l'avenir et mon sens des responsabilités."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "听完我的话，父母脸上的表情放松了很多。",
+      "phonetic": "tīng wán wǒ de huà, fù mǔ liǎn shàng de biǎo qíng fàng sōng le hěn duō.",
+      "text_native": "Après avoir écouté mes paroles, l'expression sur le visage de mes parents s'est beaucoup détendue."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "他们发现我已经是一个能够独自面对挑战的成年人了。",
+      "phonetic": "tā men fā xiàn wǒ yǐ jīng shì yí gè néng gòu dú zì miàn duì tiǎo zhàn de chéng nián rén le.",
+      "text_native": "Ils ont découvert que j'étais déjà un adulte capable d'affronter seul les défis."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "误会一旦解开，家里的气氛立刻变得轻松起来。",
+      "phonetic": "wù huì yí dàn jiě kāi, jiā lǐ de qì fēn lì kè biàn de qīng sōng qǐ lái.",
+      "text_native": "Une fois le malentendu dissipé, l'ambiance à la maison est immédiatement devenue détendue."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "爸爸接受了我的建议，同意让我自己去尝试一些新的选择。",
+      "phonetic": "bà ba jiē shòu le wǒ de jiàn yì, tóng yì ràng wǒ zì jǐ qù cháng shì yì xiē xīn de xuǎn zé.",
+      "text_native": "Papa a accepté ma suggestion et a convenu de me laisser essayer de nouveaux choix par moi-même."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我也向他们表达了歉意，承认自己之前的态度有些急躁。",
+      "phonetic": "wǒ yě xiàng tā men biǎo dá le qiàn yì, chéng rèn zì jǐ zhī qián de tài dù yǒu xiē jí zào.",
+      "text_native": "Je leur ai également présenté mes excuses, reconnaissant que mon attitude précédente avait été un peu impatiente."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "家人之间没有什么是不能原谅的。",
+      "phonetic": "jiā rén zhī jiān méi yǒu shén me shì bù néng yuán liàng de.",
+      "text_native": "Il n'y a rien qu'on ne puisse pardonner entre membres d'une même famille."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我们一起高高兴兴地吃完了这顿晚饭。",
+      "phonetic": "wǒ men yì qǐ gāo gāo xìng xìng de chī wán le zhè dùn wǎn fàn.",
+      "text_native": "Nous avons terminé ce dîner ensemble joyeusement."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "通过这次谈话，我们彼此的信任更加深厚了。",
+      "phonetic": "tōng guò zhè cì tán huà, wǒ men bǐ cǐ de xìn rèn gèng jiā shēn hòu le.",
+      "text_native": "Grâce à cette conversation, notre confiance mutuelle s'est encore approfondie."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "维护家庭的和谐需要每一个成员的共同努力。",
+      "phonetic": "wéi hù jiā tíng de hé xié xū yào měi yí gè chéng yuán de gòng tóng nǔ lì.",
+      "text_native": "Maintenir l'harmonie de la famille nécessite l'effort commun de chaque membre."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "离开家的时候，妈妈特意让我带了一些家里做的菜。",
+      "phonetic": "lí kāi jiā de shí hòu, mā ma tè yì ràng wǒ dài le yì xiē jiā lǐ zuò de cài.",
+      "text_native": "Au moment de quitter la maison, maman a insisté pour que je prenne des plats faits maison."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "拿着沉甸甸的饭盒，我的心里充满了感激。",
+      "phonetic": "ná zhe chén diān diān de fàn hé, wǒ de xīn lǐ chōng mǎn le gǎn jī.",
+      "text_native": "Tenant la boîte de repas lourde, mon cœur débordait de gratitude."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "回到自己的公寓后，我给他们发了一条信息报平安。",
+      "phonetic": "huí dào zì jǐ de gōng yù hòu, wǒ gěi tā men fā le yì tiáo xìn xī bào píng ān.",
+      "text_native": "De retour dans mon appartement, je leur ai envoyé un message pour les rassurer sur mon arrivée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "爸爸很快回复说，有空要经常回家看看。",
+      "phonetic": "bà ba hěn kuài huí fù shuō, yǒu kòng yào jīng cháng huí jiā kàn kan.",
+      "text_native": "Papa a rapidement répondu que je devais rentrer à la maison plus souvent quand j'aurais du temps libre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "家永远是我们最坚强的后盾和避风港。",
+      "phonetic": "jiā yǒng yuǎn shì wǒ men zuì jiān qiáng de hòu dùn hé bì fēng gǎng.",
+      "text_native": "La famille est toujours notre soutien le plus fort et notre havre de paix."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "无论外面的生活有多么忙碌，我都不会忽视亲情的重要性。",
+      "phonetic": "wú lùn wài miàn de shēng huó yǒu duō me máng lù, wǒ dōu bú huì hū shì qīn qíng de zhòng yào xìng.",
+      "text_native": "Peu importe à quel point la vie à l'extérieur est occupée, je ne négligerai jamais l'importance des liens familiaux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "这就是成长带给我们的意义，学会理解，懂得珍惜。",
+      "phonetic": "zhè jiù shì chéng zhǎng dài gěi wǒ men de yì yì, xué huì lǐ jiě, dǒng de zhēn xī.",
+      "text_native": "C'est cela le sens que nous apporte la croissance : apprendre à comprendre et savoir chérir."
+    }
+  ]
+}

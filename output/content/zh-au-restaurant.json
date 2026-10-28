@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "请问还有空桌吗？",
+    "phonetic": "qǐng wèn hái yǒu kòng zhuō ma?",
+    "text_native": "Est-ce qu'il reste des tables libres ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我们一共四个人。",
+    "phonetic": "wǒ men yí gòng sì gè rén.",
+    "text_native": "On est quatre en tout.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "能不能给我们换个位子？",
+    "phonetic": "néng bù néng gěi wǒ men huàn gè wèi zi?",
+    "text_native": "Est-ce qu'on pourrait changer de place ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "麻烦给我们拿一下菜单。",
+    "phonetic": "má fan gěi wǒ men ná yí xià cài dān.",
+    "text_native": "Pourriez-vous nous apporter le menu s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "你们有什么招牌菜吗？",
+    "phonetic": "nǐ men yǒu shén me zhāo pái cài ma?",
+    "text_native": "Qu'est-ce que vous avez comme spécialités ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "这个菜里放不放花生？",
+    "phonetic": "zhè ge cài lǐ fàng bu fàng huā shēng?",
+    "text_native": "Il y a des cacahuètes dans ce plat ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我不吃太辣的食物。",
+    "phonetic": "wǒ bù chī tài là de shí wù.",
+    "text_native": "Je ne mange pas de plats trop épicés.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "可以帮我做一份不放香菜的吗？",
+    "phonetic": "kě yǐ bāng wǒ zuò yí fèn bú fàng xiāng cài de ma?",
+    "text_native": "C'est possible de m'en préparer une sans coriandre ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我想先点一杯冰镇果汁。",
+    "phonetic": "wǒ xiǎng xiān diǎn yì bēi bīng zhèn guǒ zhī.",
+    "text_native": "Je voudrais commander un jus de fruits bien frais pour commencer.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "今天有什么新鲜的鱼吗？",
+    "phonetic": "jīn tiān yǒu shén me xīn xiān de yú ma?",
+    "text_native": "Vous avez du poisson frais aujourd'hui ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我们现在可以点菜了吗？",
+    "phonetic": "wǒ men xiàn zài kě yǐ diǎn cài le ma?",
+    "text_native": "Est-ce qu'on peut commander maintenant ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "这个汤喝起来真鲜美。",
+    "phonetic": "zhè ge tāng hē qǐ lái zhēn xiān měi.",
+    "text_native": "Cette soupe est vraiment savoureuse.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "不好意思，我们还要加一个炒青菜。",
+    "phonetic": "bù hǎo yì si, wǒ men hái yào jiā yí gè chǎo qīng cài.",
+    "text_native": "Excusez-nous, on voudrait rajouter un plat de légumes sautés.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "请问上菜还要等多久？",
+    "phonetic": "qǐng wèn shàng cài hái yào děng duǒ jiǔ?",
+    "text_native": "Il faut attendre encore combien de temps pour les plats ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "这个牛肉嚼不动，太老了。",
+    "phonetic": "zhè ge niú ròu jiáo bú dòng, tài lǎo le.",
+    "text_native": "Ce bœuf est trop dur à mâcher.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "麻烦帮我加一点开水。",
+    "phonetic": "má fan bāng wǒ jiā yì diǎn kāi shuǐ.",
+    "text_native": "Pourriez-vous me rajouter un peu d'eau chaude s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我们实在吃不下了，太饱了。",
+    "phonetic": "wǒ men shí zài chī bú xià le, tài bǎo le.",
+    "text_native": "On n'en peut vraiment plus, on est trop calés.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "剩的这些可以帮我打包吗？",
+    "phonetic": "shèng de zhè xiē kě yǐ bāng wǒ dǎ bāo ma?",
+    "text_native": "Vous pouvez m'emballer les restes à emporter ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "服务员，我们要买单。",
+    "phonetic": "fú wù yuán, wǒ men yào mǎi dān.",
+    "text_native": "Garçon, l'addition s'il vous plaît.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "请问可以用手机扫码付钱吗？",
+    "phonetic": "qǐng wèn kě yǐ yòng shǒu jī sǎo mǎ fù qián ma?",
+    "text_native": "Est-ce qu'on peut payer par application mobile ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  }
+]

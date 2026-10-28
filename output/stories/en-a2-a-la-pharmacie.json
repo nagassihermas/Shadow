@@ -1,0 +1,190 @@
+{
+  "title": "A Visit to the Pharmacy",
+  "new_vocabulary": [
+    "feeling", "tired", "stomach", "ache", "afternoon", "walk", "corner", "reach", "bell", "ring",
+    "greet", "smile", "friendly", "explain", "listen", "carefully", "recommend", "syrup", "shelf", "bottle", 
+    "euro", "total", "receipt", "pocket", "leave", "feel", "better", "soon", "home"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom is feeling very tired this afternoon.",
+      "phonetic": "/tɒm ɪz ˈfiːlɪŋ ˈvɛri ˈtaɪəd ðɪs ˈɑːftənuːn/",
+      "text_native": "Tom se sent très fatigué cet après-midi."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He has a bad stomach ache.",
+      "phonetic": "/hiː hæz ə bæd ˈstʌmək eɪk/",
+      "text_native": "Il a un terrible mal de ventre."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He decides to walk to the local pharmacy.",
+      "phonetic": "/hiː dɪˈsaɪdz tuː wɔːk tuː ðə ˈləʊkəl ˈfɑːməsi/",
+      "text_native": "Il décide de marcher jusqu'à la pharmacie de quartier."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The pharmacy is on a busy street corner.",
+      "phonetic": "/ðə ˈfɑːməsi ɪz ɒn ə ˈbɪzi striːt ˈkɔːnə/",
+      "text_native": "La pharmacie est au coin d'une rue animée."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He pushes the glass door open.",
+      "phonetic": "/hiː ˈpʊʃɪz ðə glɑːs dɔːr ˈəʊpən/",
+      "text_native": "Il pousse la porte vitrée pour l'ouvrir."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A small bell rings above his head.",
+      "phonetic": "/ə smɔːl bɛl rɪŋz əˈbʌv hɪz hɛd/",
+      "text_native": "Une petite cloche tinte au-dessus de sa tête."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "There are three people waiting inside.",
+      "phonetic": "/ðeər ɑː θriː ˈpiːpl ˈweɪtɪŋ ɪnˈsaɪd/",
+      "text_native": "Il y a trois personnes qui attendent à l'intérieur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom joins the quiet queue.",
+      "phonetic": "/tɒm ʤɔɪnz ðə ˈkwaɪət kjuː/",
+      "text_native": "Tom se met dans la file d'attente calme."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "After a short wait, it is his turn.",
+      "phonetic": "/ˈɑːftər ə ʃɔːt weɪt, ɪt ɪz hɪz tɜːn/",
+      "text_native": "Après une courte attente, c'est son tour."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "A kind pharmacist greets him with a smile.",
+      "phonetic": "/ə kaɪnd ˈfɑːməsɪst griːts hɪm wɪð ə smaɪl/",
+      "text_native": "Un pharmacien aimable l'accueille avec un sourire."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The friendly man asks about his health problem.",
+      "phonetic": "/ðə ˈfrɛndli mæn ɑːsks əˈbaʊt hɪz hɛlθ ˈprɒbləm/",
+      "text_native": "L'homme sympathique l'interroge sur son problème de santé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Tom explains his pain clearly.",
+      "phonetic": "/tɒm ɪkˈspleɪnz hɪz peɪn ˈklɪəli/",
+      "text_native": "Tom explique clairement sa douleur."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The professional listens very carefully.",
+      "phonetic": "/ðə prəˈfɛʃənl ˈlɪsnz ˈvɛri ˈkeəfʊli/",
+      "text_native": "Le professionnel l'écoute très attentivement."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He does not need a doctor's prescription today.",
+      "phonetic": "/hiː dʌz nɒt niːd ə ˈdɒktəz prɪsˈkrɪpʃən təˈdeɪ/",
+      "text_native": "Il n'a pas besoin d'ordonnance de médecin aujourd'hui."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The pharmacist recommends a special medical syrup.",
+      "phonetic": "/ðə ˈfɑːməsɪst ˌrɛkəˈmɛndz ə ˈspɛʃəl ˈmɛdɪkəl ˈsɪrəp/",
+      "text_native": "Le pharmacien recommande un sirop médical spécial."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He turns around to reach the high shelf.",
+      "phonetic": "/hiː tɜːnz əˈraʊnd tuː riːʧ ðə haɪ ʃɛlf/",
+      "text_native": "Il se retourne pour atteindre l'étagère en hauteur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He takes a small glass bottle.",
+      "phonetic": "/hiː teɪks ə smɔːl glɑːs ˈbɒtl/",
+      "text_native": "Il prend une petite bouteille en verre."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He also puts a small box of tablets on the counter.",
+      "phonetic": "/hiː ˈɔːlsəʊ pʊts ə smɔːl bɒks ɒv ˈtæblɪts ɒn ðə ˈkaʊntə/",
+      "text_native": "Il pose également une petite boîte de comprimés sur le comptoir."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom looks at the total price.",
+      "phonetic": "/tɒm lʊks æt ðə ˈtəʊtl praɪs/",
+      "text_native": "Tom regarde le prix total."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The products cost fifteen euros.",
+      "phonetic": "/ðə ˈprɒdʌkts kɒst fɪfˈtiːn ˈjʊərəʊz/",
+      "text_native": "Les produits coûtent quinze euros."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Tom takes his bank card from his pocket.",
+      "phonetic": "/tɒm teɪks hɪz bæŋk kɑːd frɒm hɪz ˈpɒkɪt/",
+      "text_native": "Tom sort sa carte bancaire de sa poche."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He pays for the items quickly.",
+      "phonetic": "/hiː peɪz fɔː ðə ˈaɪtəmz ˈkwɪkli/",
+      "text_native": "Il paye les articles rapidement."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The pharmacist puts everything inside a paper bag.",
+      "phonetic": "/ðə ˈfɑːməsɪst pʊts ˈɛvriθɪŋ ɪnˈsaɪd ə ˈpeɪpə bæg/",
+      "text_native": "Le pharmacien met le tout dans un sac en papier."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He gives the receipt and the bag to Tom.",
+      "phonetic": "/hiː gɪvz ðə rɪˈsiːt ænd ðə bæg tuː tɒm/",
+      "text_native": "Il donne le ticket de caisse et le sac à Tom."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom says thank you in a polite voice.",
+      "phonetic": "/tɒm sɛɪz θæŋk juː ɪn ə pəˈlaɪt vɔɪs/",
+      "text_native": "Tom dit merci d'une voix polie."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He says goodbye and turns to the exit.",
+      "phonetic": "/hiː sɛɪz gʊdˈbaɪ ænd tɜːnz tuː ði ˈɛksɪt/",
+      "text_native": "Il dit au revoir et se dirige vers la sortie."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He steps back out into the fresh afternoon air.",
+      "phonetic": "/hiː stɛps bæk aʊt ˈɪntuː ðə frɛʃ ˈɑːftənuːn eə/",
+      "text_native": "Il ressort à l'air frais de l'après-midi."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He walks back home slowly.",
+      "phonetic": "/hiː wɔːks bæk həʊm ˈsləʊli/",
+      "text_native": "Il rentre chez lui lentement à pied."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He hopes to feel much better soon.",
+      "phonetic": "/hiː həʊps tuː fiːl mʌtʃ ˈbɛtə suːn/",
+      "text_native": "Il espère se sentir beaucoup mieux bientôt."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now he is resting safely in his room.",
+      "phonetic": "/naʊ hiː ɪz ˈrɛstɪŋ ˈseɪfli ɪn hɪz ruːm/",
+      "text_native": "Maintenant, il se repose tranquillement dans sa chambre."
+    }
+  ]
+}

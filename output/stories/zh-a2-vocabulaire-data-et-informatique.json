@@ -1,0 +1,217 @@
+{
+  "title": "小明的办公电脑",
+  "new_vocabulary": [
+    "办公室",
+    "同事",
+    "经理",
+    "邮件",
+    "收到",
+    "回复",
+    "写",
+    "名",
+    "字",
+    "保存",
+    "文件夹",
+    "备份",
+    "硬盘",
+    "网",
+    "络",
+    "连",
+    "接",
+    "快",
+    "慢",
+    "问",
+    "题",
+    "查",
+    "找",
+    "错",
+    "误",
+    "改",
+    "进",
+    "完",
+    "成",
+    "下"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早上小明去办公室工作。",
+      "phonetic": "Jīntiān zǎoshang Xiǎo Míng qù bàngōngshì gōngzuò.",
+      "text_native": "Ce matin, Xiao Ming va travailler au bureau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他坐在桌子前面。",
+      "phonetic": "Tā zuò zài zhuōzi qiánmiàn.",
+      "text_native": "Il s'assoit devant son bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "桌子上面有一台新电脑。",
+      "phonetic": "Zhuōzi shàngmiàn yǒu yī tái xīn diànnǎo.",
+      "text_native": "Il y a un nouvel ordinateur sur la table."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他按下电脑的电源开关。",
+      "phonetic": "Tā àn xià diànnǎo de diànyuán kāiguān.",
+      "text_native": "Il appuie sur le bouton d'alimentation de l'ordinateur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "屏幕很快就亮了。",
+      "phonetic": "Píngmù hěn kuài jiù liàng le.",
+      "text_native": "L'écran s'allume très vite."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他用鼠标点击桌面。",
+      "phonetic": "Tā yòng shǔbiāo diǎnjī zhuōmiàn.",
+      "text_native": "Il clique sur le bureau avec la souris."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "网络连接有一点慢。",
+      "phonetic": "Wǎngluò liánjiē yǒu yīdiǎn màn.",
+      "text_native": "La connexion réseau est un peu lente."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "经理发给他一个重要文件。",
+      "phonetic": "Jīnglǐ fā gěi tā yīgè zhòngyào wénjiàn.",
+      "text_native": "Le manager lui a envoyé un document important."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "小明收到一封新邮件。",
+      "phonetic": "Xiǎo Míng shōudào yī fēng xīn yóujiàn.",
+      "text_native": "Xiao Ming reçoit un nouvel e-mail."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他打开邮件看里面的数据。",
+      "phonetic": "Tā dǎkāi yóujiàn kàn lǐmiàn de shùjù.",
+      "text_native": "Il ouvre l'e-mail pour regarder les données à l'intérieur."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "这些数据非常多。",
+      "phonetic": "Zhèxiē shùjù fēicháng duō.",
+      "text_native": "Ces données sont très nombreuses."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他需要在电脑里存储它们。",
+      "phonetic": "Tā xūyào zài diànnǎo lǐ cúnchǔ tāmen.",
+      "text_native": "Il doit les stocker dans l'ordinateur."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他创建一个新的文件夹。",
+      "phonetic": "Tā chuàngjiàn yīgè xīn de wénjiànjiā.",
+      "text_native": "Il crée un nouveau dossier."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "文件夹的名字是工作数据。",
+      "phonetic": "Wénjiànjiā de míngzi shì gōngzuò shùjù.",
+      "text_native": "Le dossier s'appelle « données de travail »."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他把文件保存在里面。",
+      "phonetic": "Tā bǎ wénjiàn bǎocún zài lǐmiàn.",
+      "text_native": "Il sauvegarde le document à l'intérieur."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "同事问他一个问题。",
+      "phonetic": "Tóngshì wèn tā yīgè wèntí.",
+      "text_native": "Un collègue lui pose une question."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "屏幕上出现一个错误。",
+      "phonetic": "Píngmù shàng chūxiàn yīgè cuòwù.",
+      "text_native": "Une erreur apparaît sur l'écran."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "小明开始查找问题。",
+      "phonetic": "Xiǎo Míng kāishǐ cházhǎo wèntí.",
+      "text_native": "Xiao Ming commence à chercher le problème."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他在键盘上打字。",
+      "phonetic": "Tā zài jiànpán shàng dǎzì.",
+      "text_native": "Il tape au clavier."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他用移动硬盘做备份。",
+      "phonetic": "Tā yòng yídòng yìngpán zuò bèifèn.",
+      "text_native": "Il fait une sauvegarde avec un disque dur externe."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "这样数据就很安全。",
+      "phonetic": "Zhèyàng shùjù jiù hěn ānquán.",
+      "text_native": "De cette façon, les données sont bien en sécurité."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "朋友给他发了一条消息。",
+      "phonetic": "Péngyou gěi tā fā le yītiáo xiāoxī.",
+      "text_native": "Un ami lui a envoyé un message."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "他喜欢用电脑看新闻。",
+      "phonetic": "Tā xǐhuan yòng diànnǎo kàn xīnwén.",
+      "text_native": "Il aime utiliser l'ordinateur pour lire les actualités."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "下午他要写一份报告。",
+      "phonetic": "Xiàwǔ tā yào xiě yī fèn bàogào.",
+      "text_native": "Cet après-midi, il doit rédiger un rapport."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "他认真地修改错误。",
+      "phonetic": "Tā rènzhēn de xiūgǎi cuòwù.",
+      "text_native": "Il corrige consciencieusement les erreurs."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "经理对他的工作很满意。",
+      "phonetic": "Jīnglǐ duì tā de gōngzuò hěn mǎnyì.",
+      "text_native": "Le manager est très satisfait de son travail."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "小明把文件发送给经理。",
+      "phonetic": "Xiǎo Míng bǎ wénjiàn fāsòng gěi jīnglǐ.",
+      "text_native": "Xiao Ming envoie le document au manager."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "今天的工作顺利完成了。",
+      "phonetic": "Jīntiān de gōngzuò shùnlì wánchéng le.",
+      "text_native": "Le travail d'aujourd'hui s'est terminé avec succès."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "他谢谢同事的帮助。",
+      "phonetic": "Tā xièxie tóngshì de bāngzhù.",
+      "text_native": "Il remercie son collègue pour son aide."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "最后他关闭了电脑回家。",
+      "phonetic": "Zuìhòu tā guābiì le diànnǎo huí jiā.",
+      "text_native": "Finalement, il a éteint l'ordinateur et est rentré chez lui."
+    }
+  ]
+}

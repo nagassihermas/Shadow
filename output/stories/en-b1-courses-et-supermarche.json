@@ -1,0 +1,237 @@
+{
+  "title": "A Busy Saturday Grocery Run",
+  "new_vocabulary": [
+    "busy",
+    "neighborhood",
+    "decide",
+    "plan",
+    "meal",
+    "dinner",
+    "special",
+    "recipe",
+    "forget",
+    "something",
+    "instead",
+    "leave",
+    "jacket",
+    "wear",
+    "umbrella",
+    "cloudy",
+    "look",
+    "towards",
+    "soon",
+    "department",
+    "section",
+    "find",
+    "needed",
+    "shelf",
+    "compare",
+    "brand",
+    "expensive",
+    "cheap",
+    "basket",
+    "full",
+    "move",
+    "forward",
+    "behind",
+    "finally",
+    "reach",
+    "register",
+    "friendly",
+    "employee",
+    "scan",
+    "item",
+    "pack",
+    "plastic",
+    "weather",
+    "change",
+    "drop",
+    "rain",
+    "fast",
+    "reach",
+    "safe",
+    "dry"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It was a busy Saturday morning in the neighborhood.",
+      "phonetic": "/ɪt wɒz ə ˈbɪzi ˈsætədeɪ ˈmɔːnɪŋ ɪn ðə ˈneɪbəhʊd/",
+      "text_native": "C'était un samedi matin animé dans le quartier."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Mark decided to plan his meals for the entire week.",
+      "phonetic": "/mɑːk dɪˈsaɪdɪd tuː plæn hɪz miːlz fɔːr ði ɪnˈtaɪə wiːk/",
+      "text_native": "Mark a décidé de planifier ses repas pour toute la semaine."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He wanted to cook a special dinner for his friends.",
+      "phonetic": "/hiː ˈwɒntɪd tuː kʊk ə ˈspɛʃəl ˈdɪnə fɔːr hɪz frɛndz/",
+      "text_native": "Il voulait cuisiner un dîner spécial pour ses amis."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He checked his recipe book and wrote down a grocery list.",
+      "phonetic": "/hiː tʃɛkt hɪz ˈrɛsɪpi bʊk ənd rəʊt daʊn ə ˈɡrəʊsəri lɪst/",
+      "text_native": "Il a consulté son livre de recettes et a rédigé une liste de courses."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Suddenly, he realized he forgot something important.",
+      "phonetic": "/ˈsʌdnli, hiː ˈrɪəlaɪzd hiː fəˈɡɒt ˈsʌmθɪŋ ɪmˈpɔːtənt/",
+      "text_native": "Soudain, il s'est rendu compte qu'il avait oublié quelque chose d'important."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He needed to buy a special sauce instead of the regular one.",
+      "phonetic": "/hiː ˈniːdɪd tuː baɪ ə ˈspɛʃəl sɔːs ɪnˈstɛd ɒv ðə ˈrɛɡjʊlə wʌn/",
+      "text_native": "Il devait acheter une sauce spéciale au lieu de la classique."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Before leaving his apartment, he grabbed his warm jacket.",
+      "phonetic": "/bɪˈfɔː ˈliːvɪŋ hɪz əˈpɑːtmənt, hiː ɡræbd hɪz wɔːm ˈdʒækɪt/",
+      "text_native": "Avant de quitter son appartement, il a pris sa veste chaude."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The weather looked cloudy, so he also took an umbrella.",
+      "phonetic": "/ðə ˈwɛðə lʊkt ˈklaʊdi, səʊ hiː ˈɔːlsəʊ tʊʊk ən ʌmˈbrɛlə/",
+      "text_native": "Le temps avait l'air nuageux, alors il a aussi pris un parapluie."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He walked down the street towards the local supermarket.",
+      "phonetic": "/hiː wɔːkt daʊn ðə striːt təˈwɔːdz ðə ˈləʊkəl ˈsuːpəˌmɑːkɪt/",
+      "text_native": "Il a descendu la rue en direction du supermarché local."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Soon, he arrived at the automatic sliding doors.",
+      "phonetic": "/suːn, hiː əˈraɪvd æt ði ˌɔːtəˈmætɪk ˈslaɪdɪŋ dɔːz/",
+      "text_native": "Bientôt, il est arrivé devant les portes automatiques coulissantes."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He pushed a metal shopping cart into the busy entrance.",
+      "phonetic": "/hiː pʊʃt ə ˈmɛtəl ˈʃɒpɪŋ kɑːt ˈɪntʊ ðə ˈbɪzi ˈɛntrəns/",
+      "text_native": "Il a poussé un chariot de courses en métal dans l'entrée animée."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "First, he walked through the fresh fruit and vegetable department.",
+      "phonetic": "/fɜːst, hiː wɔːkt θruː ðə frɛʃ fruːt ənd ˈvɛdʒtəbəl dɪˈpɑːtmənt/",
+      "text_native": "D'abord, il a traversé le rayon des fruits et légumes frais."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He carefully chose some ripe bananas and juicy tomatoes.",
+      "phonetic": "/hiː ˈkeəfʊli tʃəʊz sʌm raɪp bəˈnɑːnəz ənd ˈdʒuːsi təˈmɑːtəʊz/",
+      "text_native": "Il a choisi avec soin des bananes mûres et des tomates juteuses."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Next, he moved towards the dairy section to find fresh milk.",
+      "phonetic": "/nɛkst, hiː muːvd təˈwɔːdz ðə ˈdeəri ˈsɛkʃən tuː faɪnd frɛʃ mɪlk/",
+      "text_native": "Ensuite, il s'est dirigé vers le rayon des produits laitiers pour trouver du lait frais."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He compared the prices on the shelf tags before deciding.",
+      "phonetic": "/hiː kəmˈpeəd ðə ˈpraɪsɪz ɒn ðə ʃɛlf tæɡz bɪˈfɔːr dɪˈsaɪdɪŋ/",
+      "text_native": "Il a comparé les prix sur les étiquettes des rayonnages avant de se décider."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "One brand was too expensive, so he picked a cheaper alternative.",
+      "phonetic": "/wʌn brænd wɒz tuː ɪkˈspɛnsɪv, səʊ hiː pɪkt ə ˈtʃiːpər ɔːlˈtɜːnətɪv/",
+      "text_native": "Une marque était trop chère, alors il a choisi une alternative moins coûteuse."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "His shopping cart was getting quite full and heavy.",
+      "phonetic": "/hɪz ˈʃɒpɪŋ kɑːt wɒz ˈɡɛtɪŋ kwaɪt fʊl ənd ˈhɛvi/",
+      "text_native": "Son chariot de courses devenait assez rempli et lourd."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He walked down another aisle to look for rice and pasta boxes.",
+      "phonetic": "/hiː wɔːkt daʊn əˈnʌðə aɪl tuː lʊk fɔː raɪs ənd ˈpæstə ˈbɒksɪz/",
+      "text_native": "Il a parcouru une autre allée pour chercher du riz et des boîtes de pâtes."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "A friendly employee was restocking the shelves nearby.",
+      "phonetic": "/ə ˈfrɛndli ˌɛmplɔɪˈiː wɒz riːˈstɒkɪŋ ðə ʃɛlvz ˈnɪəbaɪ/",
+      "text_native": "Un employé sympathique remettait du stock dans les rayons à proximité."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Mark smiled and asked him where to find the frozen pizzas.",
+      "phonetic": "/mɑːk smaɪld ənd ɑːskt hɪm wɛə tuː faɪnd ðə ˈfrəʊzən ˈpiːtsəz/",
+      "text_native": "Mark a souri et lui a demandé où trouver les pizzas surgelées."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "After that, he stopped by the local bakery for warm bread.",
+      "phonetic": "/ˈɑːftə ðæt, hiː stɒpt baɪ ðə ˈləʊkəl ˈbeɪkəri fɔː wɔːm brɛd/",
+      "text_native": "Après cela, il est passé par la boulangerie du coin pour acheter du pain chaud."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The nice smell of pastry made him even more hungry.",
+      "phonetic": "/ðə naɪs smɛl ɒv ˈpeɪstri meɪd hɪm ˈiːvən mɔː ˈhʌŋɡri/",
+      "text_native": "La bonne odeur de pâtisserie lui a donné encore plus faim."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Finally, he moved towards the checkout area.",
+      "phonetic": "/ˈfaɪnəli, hiː muːvd təˈwɔːdz ðə ˈtʃɛkaʊt ˈeəriə/",
+      "text_native": "Finalement, il s'est dirigé vers la zone des caisses."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "There was a long queue of people waiting patiently.",
+      "phonetic": "/ðeə wɒz ə lɒŋ kjuː ɒv ˈpiːpəl ˈweɪtɪŋ ˈpeɪʃəntli/",
+      "text_native": "Il y avait une longue file de personnes qui patientaient."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The cashier scanned every item quickly on the metal belt.",
+      "phonetic": "/ðə kæˈʃɪə skænd ˈɛvri ˈaɪtɪm ˈkwɪkli ɒn ðə ˈmɛtəl bɛlt/",
+      "text_native": "La caissière a scanné chaque article rapidement sur le tapis en métal."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Mark paid the total amount using his bank card.",
+      "phonetic": "/mɑːk peɪd ðə ˈtəʊtəl əˈmaʊnt ˈjuːzɪŋ hɪz bæŋk kɑːd/",
+      "text_native": "Mark a réglé le montant total avec sa carte bancaire."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He carefully packed his heavy bags with plastic handles.",
+      "phonetic": "/hiː ˈkeəfʊli pækt hɪz ˈhɛvi bæɡz wɪð ˈplæstɪk ˈhændəlz/",
+      "text_native": "Il a rangé soigneusement ses sacs lourds dotés de poignées en plastique."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "When he exited the shop, heavy rain started falling.",
+      "phonetic": "/wɛn hiː ˈɛksɪtɪd ðə ʃɒp, ˈhɛvi reɪn ˈstɑːtɪd ˈfɔːlɪŋ/",
+      "text_native": "Lorsqu'il est sorti du magasin, une forte pluie a commencé à tomber."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He quickly opened his large umbrella to stay dry.",
+      "phonetic": "/hiː ˈkwɪkli ˈəʊpənd hɪz lɑːrdʒ ʌmˈbrɛlə tuː steɪ draɪ/",
+      "text_native": "Il a rapidement ouvert son grand parapluie pour rester au sec."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Safely back home, he began to cook his delicious dinner.",
+      "phonetic": "/ˈseɪfli bæk həʊm, hiː bɪˈɡæn tuː kʊk hɪz dɪˈlɪʃəs ˈdɪnə/",
+      "text_native": "De retour chez lui en toute sécurité, il a commencé à cuisiner son délicieux dîner."
+    }
+  ]
+}

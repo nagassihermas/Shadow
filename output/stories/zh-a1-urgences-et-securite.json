@@ -1,0 +1,217 @@
+{
+  "title": "小明的紧急情况",
+  "new_vocabulary": [
+    "今天",
+    "在家",
+    "做饭",
+    "不小心",
+    "手",
+    "流血",
+    "很",
+    "疼",
+    "他",
+    "打",
+    "给",
+    "妈妈",
+    "喂",
+    "听到",
+    "哭",
+    "问",
+    "怎么了",
+    "回答",
+    "我",
+    "受伤",
+    "别",
+    "怕",
+    "马上",
+    "回来",
+    "看见",
+    "开车",
+    "送",
+    "医生",
+    "看",
+    "好"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天小明在家做饭。",
+      "phonetic": "Jīntiān Xiǎomíng zài jiā zuò fàn.",
+      "text_native": "Aujourd'hui, Xiaoming cuisine à la maison."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他很不小心。",
+      "phonetic": "Tā hěn bù xiǎoxīn.",
+      "text_native": "Il fait preuve d'inattention."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "他的手流血了。",
+      "phonetic": "Tā de shǒu liú xiě le.",
+      "text_native": "Sa main saigne."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "手很疼。",
+      "phonetic": "Shǒu hěn téng.",
+      "text_native": "Sa main lui fait très mal."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "这是一次危险的情况。",
+      "phonetic": "Zhè shì yī cì wēixiǎn de qíngkuàng.",
+      "text_native": "C'est une situation critique."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他拿起电话。",
+      "phonetic": "Tā ná qǐ diànhuà.",
+      "text_native": "Il prend le téléphone."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "他打电话给妈妈。",
+      "phonetic": "Tā dǎ diànhuà gěi māmā.",
+      "text_native": "Il appelle sa maman."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "妈妈喂了一声。",
+      "phonetic": "Māmā wèi le yī shēng.",
+      "text_native": "Maman répond « Allô »."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "妈妈听到小明哭。",
+      "phonetic": "Māmā tīngdào Xiǎomíng kū.",
+      "text_native": "Maman entend Xiaoming pleurer."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "妈妈问他怎么了。",
+      "phonetic": "Māmā wèn tā zěnme le.",
+      "text_native": "Maman lui demande ce qui se passe."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "小明回答。",
+      "phonetic": "Xiǎomíng huídá.",
+      "text_native": "Xiaoming répond."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我的手受伤了。",
+      "phonetic": "Wǒ de shǒu shòushāng le.",
+      "text_native": "Je me suis blessé à la main."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "妈妈说别怕。",
+      "phonetic": "Māmā shuō bié pà.",
+      "text_native": "Maman lui dit de ne pas avoir peur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "妈妈马上回来。",
+      "phonetic": "Māmā mǎshàng huílái.",
+      "text_native": "Maman rentre tout de suite."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "妈妈快开车回家。",
+      "phonetic": "Māmā kuài kāichē huí jiā.",
+      "text_native": "Maman prend sa voiture pour rentrer en toute hâte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "妈妈到家了。",
+      "phonetic": "Māmā dào jiā le.",
+      "text_native": "Maman est arrivée à la maison."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "妈妈看见血。",
+      "phonetic": "Māmā kànjiàn xiě.",
+      "text_native": "Maman voit le sang."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "妈妈很着急。",
+      "phonetic": "Māmā hěn zháojí.",
+      "text_native": "Maman est très inquiète."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "妈妈带小明走出门。",
+      "phonetic": "Māmā dài Xiǎomíng zǒu chū mén.",
+      "text_native": "Maman emmène Xiaoming hors de la maison."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他们要去医院。",
+      "phonetic": "Tāmen yào qù yīyuàn.",
+      "text_native": "Ils doivent aller à l'hôpital."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "妈妈开车送他去。",
+      "phonetic": "Māmā kāichē sòng tā qù.",
+      "text_native": "Maman l'y emmène en voiture."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "路上警察看见他们开得很快。",
+      "phonetic": "Lùshang jǐngchá kànjiàn tāmen kāi de hěn kuài.",
+      "text_native": "Sur la route, un policier les voit rouler très vite."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "警察问情况。",
+      "phonetic": "Jǐngchá wèn qíngkuàng.",
+      "text_native": "Le policier demande ce qui se passe."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "妈妈说孩子受伤了。",
+      "phonetic": "Māmā shuō háizi shòushāng le.",
+      "text_native": "Maman explique que son enfant est blessé."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "警察说快去医院吧。",
+      "phonetic": "Jǐngchá shuō kuài qù yīyuàn ba.",
+      "text_native": "Le policier leur dit de se dépêcher d'aller à l'hôpital."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "他们到了医院。",
+      "phonetic": "Tāmen dào le yīyuàn.",
+      "text_native": "Ils sont arrivés à l'hôpital."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "医生来看小明的手。",
+      "phonetic": "Yīshēng lái kàn Xiǎomíng de shǒu.",
+      "text_native": "Le médecin vient examiner la main de Xiaoming."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "医生把伤口包扎好了。",
+      "phonetic": "Yīshēng bǎ shāngkǒu bāozhā hǎo le.",
+      "text_native": "Le médecin a soigneusement pansé la blessure."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "小明的手不流血了。",
+      "phonetic": "Xiǎomíng de shǒu bù liú xiě le.",
+      "text_native": "La main de Xiaoming ne saigne plus."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在好多了。",
+      "phonetic": "Xiànzài hǎo duō le.",
+      "text_native": "Maintenant, ça va beaucoup mieux."
+    }
+  ]
+}

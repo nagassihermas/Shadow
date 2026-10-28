@@ -1,0 +1,217 @@
+{
+  "title": "A Dangerous Night",
+  "new_vocabulary": [
+    "night",
+    "dark",
+    "walk",
+    "home",
+    "suddenly",
+    "someone",
+    "shout",
+    "fear",
+    "hide",
+    "behind",
+    "wall",
+    "try",
+    "breathe",
+    "quietly",
+    "reach",
+    "device",
+    "press",
+    "button",
+    "emergency",
+    "service",
+    "operator",
+    "explain",
+    "situation",
+    "officer",
+    "patrol",
+    "quickly",
+    "catch",
+    "thief",
+    "finally",
+    "relief"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is a very dark night in the city.",
+      "phonetic": "/ɪt ɪz ə ˈvɛri dɑːrk naɪt ɪn ðə ˈsɪti/",
+      "text_native": "C'est une nuit très sombre dans la ville."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "A young man walks home alone.",
+      "phonetic": "/ə jʌŋ mæn wɔːks hoʊm əˈloʊn/",
+      "text_native": "Un jeune homme rentre chez lui à pied tout seul."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He wants to arrive safely.",
+      "phonetic": "/hi wɑːnts tuː əˈraɪv ˈseɪfli/",
+      "text_native": "Il veut arriver sain et sauf."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Suddenly, he hears a loud noise in the street.",
+      "phonetic": "/ˈsʌdənli, hi hɪərz ə laʊd nɔɪz ɪn ðə striːt/",
+      "text_native": "Soudain, il entend un grand bruit dans la rue."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Someone shouts for help very loudly.",
+      "phonetic": "/ˈsʌmwʌn ʃaʊts fɔːr hɛlp ˈvɛri ˈlaʊdli/",
+      "text_native": "Quelqu'un appelle à l'aide très fort."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The man stops and looks around him.",
+      "phonetic": "/ðə mæn stɑːps ænd lʊks əˈraʊnd ɪm/",
+      "text_native": "L'homme s'arrête et regarde autour de lui."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He feels great fear because of the danger.",
+      "phonetic": "/hi fiːlz greɪt fɪər bɪˈkʌz əv ðə ˈdeɪndʒər/",
+      "text_native": "Il ressent une grande peur à cause du danger."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He needs to hide quickly.",
+      "phonetic": "/hi niːdz tuː haɪd ˈkwɪkli/",
+      "text_native": "Il doit se cacher rapidement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He moves behind a tall brick wall.",
+      "phonetic": "/hi muːvz bɪˈhaɪnd ə tɔːl brɪk wɔːl/",
+      "text_native": "Il se met à l'abri derrière un grand mur en briques."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He tries to breathe very quietly.",
+      "phonetic": "/hi traɪz tuː briːð ˈvɛri ˈkwaɪətli/",
+      "text_native": "Il essaie de respirer très discrètement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "His heart beats fast in his chest.",
+      "phonetic": "/hɪz hɑːrt biːts fɑːst ɪn hɪz tʃɛst/",
+      "text_native": "Son cœur bat la chamade dans sa poitrine."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He puts his hand inside his pocket.",
+      "phonetic": "/hi pʊts hɪz hænd ɪnˈsaɪd hɪz ˈpɑːkɪt/",
+      "text_native": "Il met la main dans sa poche."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He reaches for his phone.",
+      "phonetic": "/hi ˈriːtʃɪz fɔːr hɪz foʊn/",
+      "text_native": "Il attrape son téléphone."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He presses the emergency button.",
+      "phonetic": "/hi ˈprɛsɪz ði ɪˈmɜːrdʒənsi ˈbʌtən/",
+      "text_native": "Il appuie sur le bouton d'urgence."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He calls the correct emergency number.",
+      "phonetic": "/hi kɔːlz ðə kəˈrɛkt ɪˈmɜːrdʒənsi ˈnʌmbər/",
+      "text_native": "Il compose le bon numéro d'urgence."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "A professional operator answers the call.",
+      "phonetic": "/ə prəˈfɛʃənl ˈɑːpəreɪtər ˈænsərz ðə kɔːl/",
+      "text_native": "Un(e) opérateur(trice) professionnel(le) répond à l'appel."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The man speaks in slow English.",
+      "phonetic": "/ðə mæn spiːks ɪn sloʊ ˈɪŋglɪʃ/",
+      "text_native": "L'homme parle anglais lentement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He explains the dangerous situation clearly.",
+      "phonetic": "/hi ɪkˈspleɪnz ðə ˈdeɪndʒərəs ˌsɪtʃuˈeɪʃən ˈklɪrli/",
+      "text_native": "Il explique clairement la situation dangereuse."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The operator tells him to wait a minute.",
+      "phonetic": "/ði ˈɑːpəreɪtər tɛlz hɪm tuː weɪt ə ˈmɪnɪt/",
+      "text_native": "L'opérateur lui demande de patienter un instant."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He waits quietly behind the wall.",
+      "phonetic": "/hi weɪts ˈkwaɪətli bɪˈhaɪnd ðə wɔːl/",
+      "text_native": "Il attend tranquillement derrière le mur."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "After a short time, he sees bright lights.",
+      "phonetic": "/ˈæftər ə ʃɔːrt taɪm, hi siːz braɪt laɪts/",
+      "text_native": "Après un court instant, il aperçoit des lumières vives."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Red and blue lights flash in the dark street.",
+      "phonetic": "/rɛd ænd bluː laɪts flæʃ ɪn ðə dɑːrk striːt/",
+      "text_native": "Des gyrophares rouges et bleus clignotent dans la rue sombre."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Police cars arrive very fast.",
+      "phonetic": "/pəˈliːs kɑːrz əˈraɪv ˈvɛri fɑːst/",
+      "text_native": "Les voitures de police arrivent très vite."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Police officers get out of the vehicle.",
+      "phonetic": "/pəˈliːs ˈɔːfɪsərz gɛt aʊt əv ðə ˈviːhɪkl/",
+      "text_native": "Les agents de police sortent du véhicule."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "They look around the area carefully.",
+      "phonetic": "/ðeɪ lʊk əˈraʊnd ði ˈɛriə ˈkɛrfli/",
+      "text_native": "Ils inspectent les environs avec attention."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The man steps out and speaks to an officer.",
+      "phonetic": "/ðə mæn stɛps aʊt ænd spiːks tuː ən ˈɔːfɪsər/",
+      "text_native": "L'homme sort de sa cachette et parle à un agent."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The police catch the thief.",
+      "phonetic": "/ðə pəˈliːs kætʃ ðə θiːf/",
+      "text_native": "La police attrape le voleur."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Finally, the danger goes away.",
+      "phonetic": "/ˈfaɪnəli, ðə ˈdeɪndʒər goʊz əˈweɪ/",
+      "text_native": "Finalement, le danger est écarté."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The man feels a great sense of relief.",
+      "phonetic": "/ðə mæn fiːlz ə greɪt sɛns əv rɪˈliːf/",
+      "text_native": "L'homme ressent un immense soulagement."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Now he is completely safe at home.",
+      "phonetic": "/naʊ hi ɪz kəmˈpliːtli seɪf æt hoʊm/",
+      "text_native": "Maintenant, il est totalement en sécurité chez lui."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "买东西",
+  "new_vocabulary": [
+    "买",
+    "超",
+    "市",
+    "苹",
+    "果",
+    "水",
+    "钱"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我 去 超 市。",
+      "phonetic": "Wǒ qù chāo shì.",
+      "text_native": "Je vais au supermarché."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "超 市 很 大。",
+      "phonetic": "Chāo shì hěn dà.",
+      "text_native": "Le supermarché est grand."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我 要 买 苹 果。",
+      "phonetic": "Wǒ yào mǎi píng guǒ.",
+      "text_native": "Je veux acheter des pommes."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "苹 果 在 这 里。",
+      "phonetic": "Píng guǒ zài zhè lǐ.",
+      "text_native": "Les pommes sont ici."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "这 是 苹 果。",
+      "phonetic": "Zhè shì píng guǒ.",
+      "text_native": "Ce sont des pommes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我 要 一 个。",
+      "phonetic": "Wǒ yào yī gè.",
+      "text_native": "J'en veux une."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "苹 果 很 红。",
+      "phonetic": "Píng guǒ hěn hóng.",
+      "text_native": "La pomme est bien rouge."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我 要 水。",
+      "phonetic": "Wǒ yào shuǐ.",
+      "text_native": "Je veux de l'eau."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "水 在 那 里。",
+      "phonetic": "Shuǐ zài nà lǐ.",
+      "text_native": "L'eau est là-bas."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "这 是 水。",
+      "phonetic": "Zhè shì shuǐ.",
+      "text_native": "Voici de l'eau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我 要 两 瓶。",
+      "phonetic": "Wǒ yào liǎng píng.",
+      "text_native": "J'en veux deux bouteilles."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "水 很 冷。",
+      "phonetic": "Shuǐ hěn lěng.",
+      "text_native": "L'eau est fraîche."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我 去 付 钱。",
+      "phonetic": "Wǒ qù fù qián.",
+      "text_native": "Je vais payer."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "钱 在 这 里。",
+      "phonetic": "Qián zài zhè lǐ.",
+      "text_native": "L'argent est là."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我 有 钱。",
+      "phonetic": "Wǒ yǒu qián.",
+      "text_native": "J'ai de l'argent."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这 是 钱。",
+      "phonetic": "Zhè shì qián.",
+      "text_native": "Voilà l'argent."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "买 好 了。",
+      "phonetic": "Mǎi hǎo le.",
+      "text_native": "Les achats sont faits."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我 回 家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre à la maison."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "title": "身体",
+  "new_vocabulary": [
+    "身体",
+    "头",
+    "头发",
+    "脸",
+    "眼睛",
+    "鼻子",
+    "口",
+    "牙",
+    "耳",
+    "手",
+    "手指",
+    "足",
+    "心",
+    "肚子"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是身体。",
+      "phonetic": "Zhè shì shēn tǐ.",
+      "text_native": "C'est le corps."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有身体。",
+      "phonetic": "Wǒ yǒu shēn tǐ.",
+      "text_native": "J'ai un corps."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "看这个头。",
+      "phonetic": "Kàn zhè gè tóu.",
+      "text_native": "Regarde cette tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "头很大。",
+      "phonetic": "Tóu hěn dà.",
+      "text_native": "La tête est grande."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "头发很黑。",
+      "phonetic": "Tóu fǎ hěn hēi.",
+      "text_native": "Les cheveux sont noirs."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "摸摸头发。",
+      "phonetic": "Mō mō tóu fǎ.",
+      "text_native": "Touche les cheveux."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "这是脸。",
+      "phonetic": "Zhè shì liǎn.",
+      "text_native": "C'est le visage."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "脸很白。",
+      "phonetic": "Liǎn hěn bái.",
+      "text_native": "Le visage est blanc."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "洗洗脸。",
+      "phonetic": "Xǐ xǐ liǎn.",
+      "text_native": "Lave le visage."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "看两只眼睛。",
+      "phonetic": "Kàn liǎng zhī yǎn jīng.",
+      "text_native": "Regarde les deux yeux."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "眼睛很大。",
+      "phonetic": "Yǎn jīng hěn dà.",
+      "text_native": "Les yeux sont grands."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "闭上眼睛。",
+      "phonetic": "Bì shàng yǎn jīng.",
+      "text_native": "Ferme les yeux."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "这是鼻子。",
+      "phonetic": "Zhè shì bí zi.",
+      "text_native": "C'est le nez."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "鼻子很小。",
+      "phonetic": "Bí zi hěn xiǎo.",
+      "text_native": "Le nez est petit."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "闻一闻气。",
+      "phonetic": "Wén yì wén qì.",
+      "text_native": "Sens l'air."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "张开口。",
+      "phonetic": "Zhāng kāi kǒu.",
+      "text_native": "Ouvre la bouche."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "口很红。",
+      "phonetic": "Kǒu hěn hóng.",
+      "text_native": "La bouche est rouge."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "看白牙。",
+      "phonetic": "Kàn bái yá.",
+      "text_native": "Regarde les dents blanches."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "刷牙齿。",
+      "phonetic": "Shuā yá chǐ.",
+      "text_native": "Brosse les dents."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "听听声音。",
+      "phonetic": "Tīng tīng shēng yīn.",
+      "text_native": "Écoute les sons."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "用耳朵听。",
+      "phonetic": "Yòng ěr duǒ tīng.",
+      "text_native": "Écoute avec les oreilles."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "举起双手。",
+      "phonetic": "Jǔ qǐ shuāng shǒu.",
+      "text_native": "Lève les deux mains."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "手有十指。",
+      "phonetic": "Shǒu yǒu shí zhǐ.",
+      "text_native": "Les mains ont dix doigts."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "拍拍手。",
+      "phonetic": "Pāi pāi shǒu.",
+      "text_native": "Tape dans les mains."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "摸摸肚子。",
+      "phonetic": "Mō mō dù zi.",
+      "text_native": "Touche le ventre."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "肚子很圆。",
+      "phonetic": "Dù zi hěn yuán.",
+      "text_native": "Le ventre est rond."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "心在跳。",
+      "phonetic": "Xīn zài tiào.",
+      "text_native": "Le cœur bat."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "用足走路。",
+      "phonetic": "Yòng zú zǒu lù.",
+      "text_native": "Marche avec les pieds."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "身体很好。",
+      "phonetic": "Shēn tǐ hěn hǎo.",
+      "text_native": "Le corps va bien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我爱身体。",
+      "phonetic": "Wǒ ài shēn tǐ.",
+      "text_native": "J'aime mon corps."
+    }
+  ]
+}

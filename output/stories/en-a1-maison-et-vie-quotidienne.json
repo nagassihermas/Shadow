@@ -1,0 +1,217 @@
+{
+  "title": "A normal morning at home",
+  "new_vocabulary": [
+    "alarm",
+    "clock",
+    "sounds",
+    "bedroom",
+    "feet",
+    "floor",
+    "cold",
+    "walk",
+    "living",
+    "window",
+    "look",
+    "outside",
+    "sunny",
+    "day",
+    "return",
+    "fridge",
+    "bread",
+    "butter",
+    "plate",
+    "knife",
+    "cut",
+    "eat",
+    "breakfast",
+    "coffee",
+    "maker",
+    "hot",
+    "drink",
+    "finish",
+    "coat",
+    "ready"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The alarm clock sounds early.",
+      "phonetic": "/ði əˈlɑːm klɒk saʊnds ˈɜːli/",
+      "text_native": "Le réveil sonne tôt."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I get up from my bed.",
+      "phonetic": "/aɪ ɡɛt ʌp frɒm maɪ bɛd/",
+      "text_native": "Je me lève de mon lit."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My feet touch the cold floor.",
+      "phonetic": "/maɪ fiːt tʌtʃ ðə kəʊld flɔː/",
+      "text_native": "Mes pieds touchent le sol froid."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I walk out of the bedroom.",
+      "phonetic": "/aɪ wɔːk aʊt ɒv ðə ˈbɛdruːm/",
+      "text_native": "Je sors de la chambre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I go to the living room.",
+      "phonetic": "/aɪ ɡəʊ tuː ðə ˈlɪvɪŋ ruːm/",
+      "text_native": "Je vais au salon."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I open the window.",
+      "phonetic": "/aɪ ˈəʊpən ðə ˈwɪndəʊ/",
+      "text_native": "J'ouvre la fenêtre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I look outside.",
+      "phonetic": "/aɪ lʊk ˌaʊtˈsaɪd/",
+      "text_native": "Je regarde dehors."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "It is a sunny day.",
+      "phonetic": "/ɪt ɪz ə ˈsʌni deɪ/",
+      "text_native": "C'est une journée ensoleillée."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I return to the kitchen.",
+      "phonetic": "/aɪ rɪˈtɜːn tuː ðə ˈkɪtʃɪn/",
+      "text_native": "Je retourne dans la cuisine."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I wash my face with water.",
+      "phonetic": "/aɪ wɒʃ maɪ feɪs wɪð ˈwɔːtə/",
+      "text_native": "Je me lave le visage à l'eau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I look at the clock on the wall.",
+      "phonetic": "/aɪ lʊk æt ðə klɒk ɒn ðə wɔːl/",
+      "text_native": "Je regarde l'horloge sur le mur."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "It is time for work.",
+      "phonetic": "/ɪt ɪz taɪm fɔː wɜːk/",
+      "text_native": "C'est l'heure d'aller travailler."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I open the big fridge.",
+      "phonetic": "/aɪ ˈəʊpən ðə bɪɡ frɪdʒ/",
+      "text_native": "J'ouvre le grand frigo."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I take some milk and bread.",
+      "phonetic": "/aɪ teɪk sʌm mɪlk ænd brɛd/",
+      "text_native": "Je prends du lait et du pain."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I put butter on the bread.",
+      "phonetic": "/aɪ pʊt ˈbʌtər ɒn ðə brɛd/",
+      "text_native": "Je mets du beurre sur le pain."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I place it on a plate.",
+      "phonetic": "/aɪ pleɪs ɪt ɒn ə pleɪt/",
+      "text_native": "Je le pose sur une assiette."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I use a knife to cut it.",
+      "phonetic": "/aɪ juːz ə naɪf tuː kʌt ɪt/",
+      "text_native": "J'utilise un couteau pour le couper."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I sit at the table.",
+      "phonetic": "/aɪ sɪt æt ðə ˈteɪbl/",
+      "text_native": "Je m'assieds à table."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I sit on a comfortable chair.",
+      "phonetic": "/aɪ sɪt ɒn ə ˈkʌmfətəbl tʃeə/",
+      "text_native": "Je m'assieds sur une chaise confortable."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I eat my breakfast slowly.",
+      "phonetic": "/aɪ iːt maɪ ˈbrɛkfəst ˈsləʊli/",
+      "text_native": "Je prends mon petit-déjeuner lentement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I pour milk into a cup.",
+      "phonetic": "/aɪ pɔː mɪlk ˈɪntuː ə kʌp/",
+      "text_native": "Je verse du lait dans une tasse."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I turn on the coffee maker.",
+      "phonetic": "/aɪ tɜːn ɒn ðə ˈkɒfi ˈmeɪkə/",
+      "text_native": "J'allume la cafetière."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The coffee is very hot.",
+      "phonetic": "/ðə ˈkɒfi ɪz ˈvɛri hɒt/",
+      "text_native": "Le café est très chaud."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I drink my hot drink.",
+      "phonetic": "/aɪ drɪŋk maɪ hɒt drɪŋk/",
+      "text_native": "Je bois ma boisson chaude."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I finish my meal.",
+      "phonetic": "/aɪ ˈfɪnɪʃ maɪ miːl/",
+      "text_native": "Je termine mon repas."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I take my bag and phone.",
+      "phonetic": "/aɪ teɪk maɪ bæɡ ænd fəʊn/",
+      "text_native": "Je prends mon sac et mon téléphone."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I wear my warm coat.",
+      "phonetic": "/aɪ weə maɪ wɔːm kəʊt/",
+      "text_native": "Je mets mon manteau chaud."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I grab the door key.",
+      "phonetic": "/aɪ ɡræb ðə dɔː kiː/",
+      "text_native": "Je prends la clé de la porte."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I open the house door.",
+      "phonetic": "/aɪ ˈəʊpən ðə haʊs dɔː/",
+      "text_native": "J'ouvre la porte d'entrée."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I am ready to go.",
+      "phonetic": "/aɪ æm ˈrɛdi tuː ɡəʊ/",
+      "text_native": "Je suis prêt à partir."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "title": "A Day at Work",
+  "new_vocabulary": [
+    "morning", "alarm", "clock", "rings", "bed",
+    "wakes", "up", "opens", "looks", "mirror",
+    "teeth", "brush", "uses", "toothbrush", "toothpaste",
+    "washes", "soap", "bathroom", "breakfast", "eats",
+    "bread", "drinks", "coffee", "cup", "leaves",
+    "door", "walks", "work", "office", "desk"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The morning alarm clock rings very loudly.",
+      "phonetic": "/ðə ˈmɔːrnɪŋ əˈlɑːrm klɑːk rɪŋz ˈvɛri ˈlaʊdli/",
+      "text_native": "Le réveil matin sonne très fort."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom opens his eyes in his warm bed.",
+      "phonetic": "/tɑːm ˈoʊpənz hɪz ˈaɪz ɪn hɪz wɔːrm bɛd/",
+      "text_native": "Tom ouvre les yeux dans son lit chaud."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He wakes up and sits on the edge.",
+      "phonetic": "/hi weɪks ˈʌp ænd sɪts ɑːn ðə ɛdʒ/",
+      "text_native": "Il se réveille et s'assied sur le bord du lit."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "His head feels a little tired today.",
+      "phonetic": "/hɪz hɛd fiːlz ə ˈlɪtəl ˈtaɪərd təˈdeɪ/",
+      "text_native": "Il se sent un peu fatigué aujourd'hui."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He stands up slowly on his feet.",
+      "phonetic": "/hi stændz ˈʌp ˈsloʊli ɑːn hɪz fiːt/",
+      "text_native": "Il se lève lentement sur ses pieds."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "His knees bend as he steps onto the floor.",
+      "phonetic": "/hɪz niːz bɛnd æz hi stɛps ˈɑːntuː ðə flɔːr/",
+      "text_native": "Ses genoux se plient lorsqu'il pose le pied sur le sol."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He walks to the small bathroom in his house.",
+      "phonetic": "/hi wɔːks tuː ðə smɔːl ˈbæθruːm ɪn hɪz haʊs/",
+      "text_native": "Il marche vers la petite salle de bains de sa maison."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom looks at his tired face in the mirror.",
+      "phonetic": "/tɑːm lʊks æt hɪz ˈtaɪərd feɪs ɪn ðə ˈmɪrər/",
+      "text_native": "Tom regarde son visage fatigué dans le miroir."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "His hair is messy from a long night of sleep.",
+      "phonetic": "/hɪz hɛr ɪz ˈmɛsi frʌm ə lɔːŋ naɪt ʌv sliːp/",
+      "text_native": "Ses cheveux sont ébouriffés après une longue nuit de sommeil."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He takes his toothbrush in his right hand.",
+      "phonetic": "/hi teɪks hɪz ˈtuːθbrʌʃ ɪn hɪz raɪt hænd/",
+      "text_native": "Il prend sa brosse à dents dans sa main droite."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He puts some white toothpaste on the brush.",
+      "phonetic": "/hi pʊts sʌm waɪt ˈtuːθpeɪst ɑːn ðə brʌʃ/",
+      "text_native": "Il met du dentifrice blanc sur la brosse."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He carefully brushes his teeth.",
+      "phonetic": "/hi ˈkɛrfəli ˈbrʌʃɪz hɪz tiːθ/",
+      "text_native": "Il se brosse soigneusement les dents."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Then he washes his face with water.",
+      "phonetic": "/ðɛn hi ˈwɑːʃɪz hɪz feɪs wɪð ˈwɔːtər/",
+      "text_native": "Ensuite, il se lave le visage à l'eau."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He uses soft soap for his skin.",
+      "phonetic": "/hi ˈjuːzɪz sɔːft soʊp fɔːr hɪz skɪn/",
+      "text_native": "Il utilise un savon doux pour sa peau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Water drops fall from his chin down his neck.",
+      "phonetic": "/ˈwɔːtər drɑːps fɔːl frʌm hɪz tʃɪn daʊn hɪz nɛk/",
+      "text_native": "Des gouttes d'eau tombent de son menton le long de son cou."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He dries his arms and hands with a towel.",
+      "phonetic": "/hi draɪz hɪz ɑːrmz ænd hændz wɪð ə ˈtaʊəl/",
+      "text_native": "Il se sèche les bras et les mains avec une serviette."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom rolls his shoulders and stretches his fingers.",
+      "phonetic": "/tɑːm roʊlz hɪz ˈʃoʊldərz ænd ˈstrɛtʃɪz hɪz ˈfɪŋɡərz/",
+      "text_native": "Tom fait rouler ses épaules et étire ses doigts."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He goes to the kitchen to get some food.",
+      "phonetic": "/hi ɡoʊz tuː ðə ˈkɪtʃən tuː ɡɛt sʌm fuːd/",
+      "text_native": "Il va dans la cuisine pour manger quelque chose."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "His stomach feels empty this morning.",
+      "phonetic": "/hɪz ˈstʌmək fiːlz ˈɛmpti ðɪs ˈmɔːrnɪŋ/",
+      "text_native": "Il a l'estomac vide ce matin."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He cuts a slice of brown bread for breakfast.",
+      "phonetic": "/hi kʌts ə slaɪs ʌv braʊn brɛd fɔːr ˈbrɛkfəst/",
+      "text_native": "Il coupe une tranche de pain complet pour le petit-déjeuner."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He holds a warm cup of coffee in his hands.",
+      "phonetic": "/hi hoʊldz ə wɔːrm kʌp ʌv ˈkɑːfi ɪn hɪz hændz/",
+      "text_native": "Il tient une tasse de café chaud dans ses mains."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He feels energized after the hot drink.",
+      "phonetic": "/hi fiːlz ˈɛnərdʒaɪzd ˈæftər ðə hɑːt drɪŋk/",
+      "text_native": "Il se sent revigoré après cette boisson chaude."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He puts his shoes on before he leaves.",
+      "phonetic": "/hi pʊts hɪz ʃuːz ɑːn bɪˈfɔːr hi liːvz/",
+      "text_native": "Il met ses chaussures avant de partir."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He opens the front door of his apartment.",
+      "phonetic": "/hi ˈoʊpənz ðə frʌnt dɔːr ʌv hɪz əˈpɑːrtmənt/",
+      "text_native": "Il ouvre la porte d'entrée de son appartement."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom walks fast down the street to catch the bus.",
+      "phonetic": "/tɑːm wɔːks fæst daʊn ðə striːt tuː kætʃ ðə bʌs/",
+      "text_native": "Tom marche d'un bon pas dans la rue pour attraper le bus."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He walks quickly through the busy town.",
+      "phonetic": "/hi wɔːks ˈkwɪkli θruː ðə ˈbɪzi taʊn/",
+      "text_native": "Il marche rapidement à travers la ville animée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He arrives at his office building.",
+      "phonetic": "/hi əˈraɪvz æt hɪz ˈɔːfɪs ˈbɪldɪŋ/",
+      "text_native": "Il arrive à son immeuble de bureaux."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He sits down at his large wooden desk.",
+      "phonetic": "/hi sɪts daʊn æt hɪz lɑːrdʒ ˈwʊdən dɛsk/",
+      "text_native": "Il s'assied à son grand bureau en bois."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He gets ready to start his workday.",
+      "phonetic": "/hi ɡɛts ˈrɛdi tuː stɑːrt hɪz ˈwɜːrkdeɪ/",
+      "text_native": "Il se prépare à commencer sa journée de travail."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He is ready to tackle his professional tasks.",
+      "phonetic": "/hi ɪz ˈrɛdi tuː ˈtækəl hɪz prəˈfɛʃənəl tæsks/",
+      "text_native": "Il est prêt à s'attaquer à ses tâches professionnelles."
+    }
+  ]
+}

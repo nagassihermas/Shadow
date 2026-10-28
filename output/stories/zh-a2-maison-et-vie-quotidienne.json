@@ -1,0 +1,207 @@
+{
+  "title": "我的周末生活",
+  "new_vocabulary": [
+    "周末",
+    "房间",
+    "打扫",
+    "干净",
+    "衣服",
+    "洗衣机",
+    "阳台",
+    "晒",
+    "午饭",
+    "朋友",
+    "客厅",
+    "沙发",
+    "聊天",
+    "水果",
+    "茶",
+    "晚上",
+    "散步",
+    "公园",
+    "高兴",
+    "累"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是周末，我不用去公司工作。",
+      "phonetic": "Jīntiān shì zhōumò, wǒ bú yòng qù gōngsī gōngzuò.",
+      "text_native": "Aujourd'hui c'est le week-end, je n'ai pas besoin d'aller travailler au bureau."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "早上七点半，我按时起床。",
+      "phonetic": "Zǎoshang qī diǎn bàn, wǒ ànshí qǐchuáng.",
+      "text_native": "À sept heures et demie du matin, je me lève à l'heure."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我先去卫生间刷牙和洗脸。",
+      "phonetic": "Wǒ xiān qù wèishēngjiān shuāyá hé xǐliǎn.",
+      "text_native": "Je vais d'abord dans la salle de bains pour me brosser les dents et me laver le visage."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "然后，我在厨房准备简单的早餐。",
+      "phonetic": "Ránhòu, wǒ zài chúfáng zhǔnbèi jiǎndān de zǎocān.",
+      "text_native": "Ensuite, je prépare un petit déjeuner simple dans la cuisine."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我一边喝热咖啡，一边看桌上的报纸。",
+      "phonetic": "Wǒ yìbiān hē rè kāfēi, yìbiān kàn zhuō shàng de bàozhǐ.",
+      "text_native": "Je bois du café chaud tout en lisant le journal sur la table."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "吃完饭以后，我开始打扫房间。",
+      "phonetic": "Chī wán fàn yǐhòu, wǒ kāishǐ dǎsǎo fángjiān.",
+      "text_native": "Après avoir fini de manger, je commence à faire le ménage dans la chambre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "卧室的床整理好了，被子叠得很整齐。",
+      "phonetic": "Wòshì de chuáng zhěnglǐ hǎo le, bèizi dié de hěn zhěngqí.",
+      "text_native": "Le lit de la chambre est fait, la couette est pliée bien proprement."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "客厅的桌子上有厚厚的灰尘。",
+      "phonetic": "Kètīng de zhuōzi shàng yǒu hòuhòu de huīchén.",
+      "text_native": "Il y a une épaisse couche de poussière sur la table du salon."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我用湿布认真地擦桌子和椅子。",
+      "phonetic": "Wǒ yòng shī bù rènzhēn de cā zhuōzi hé yǐzi.",
+      "text_native": "J'essuie consciencieusement la table et les chaises avec un chiffon humide."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "地面很脏，我拿扫帚把地扫干净。",
+      "phonetic": "Dìmian hěn zāng, wǒ ná sàozhǒu bǎ dì sǎo gānjìng.",
+      "text_native": "Le sol est très sale, je prends le balai pour le balayer."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "接着，我又用拖把拖了一遍地。",
+      "phonetic": "Jiēzhe, wǒ yòu yòng tuōbǎ tuō le yí biàn dì.",
+      "text_native": "Ensuite, j'ai également passé la serpillière sur tout le sol."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "家里所有的房间现在都非常干净。",
+      "phonetic": "Jiāli suǒyǒu de fángjiān xiànzài dōu fēicháng gānjìng.",
+      "text_native": "Toutes les pièces de la maison sont maintenant impeccables."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我看了一下衣柜，里面有很多脏衣服。",
+      "phonetic": "Wǒ kàn le yí xià yīguì, lǐmiàn yǒu hěn duō zāng yīfu.",
+      "text_native": "Je jette un œil à l'armoire, il y a beaucoup de vêtements sales à l'intérieur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我把衣服分类放进洗衣机里。",
+      "phonetic": "Wǒ bǎ yīfu fènlèi fàng jìn xǐyījī lǐ.",
+      "text_native": "Je trie les vêtements et les mets dans la machine à laver."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "洗好衣服后，我拿到阳台上晾起来。",
+      "phonetic": "Xǐ hǎo yīfu hòu, wǒ ná dào yángtái shàng liàng qǐlái.",
+      "text_native": "Une fois le linge lavé, je l'emporte sur le balcon pour le faire sécher."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "外面太阳很大，风也很舒服。",
+      "phonetic": "Wàimiàn tàiyáng hěn dà, fēng yě hěn shūfu.",
+      "text_native": "Dehors, le soleil tape fort et la brise est très agréable."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "忙了一个上午，肚子觉得有点饿了。",
+      "phonetic": "Máng le yí gè shàngwǔ, dùzi juéde yǒudiǎn è le.",
+      "text_native": "Après avoir été occupé toute la matinée, je commence à avoir un peu faim."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "中午十二点，我开始在厨房做饭。",
+      "phonetic": "Zhōngwǔ shí'èr diǎn, wǒ kāishǐ zài chúfáng zuò fàn.",
+      "text_native": "À midi, je commence à cuisiner dans la cuisine."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我做了两道简单又美味的菜。",
+      "phonetic": "Wǒ zuò le liǎng dào jiǎndān yòu měiwèi de cài.",
+      "text_native": "J'ai préparé deux plats simples et délicieux."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "下午两点，我的好朋友来我家玩。",
+      "phonetic": "Xiàwǔ liǎng diǎn, wǒ de hǎo péngyǒu lái wǒ jiā wán.",
+      "text_native": "À quatorze heures, un bon ami vient à la maison."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我们一起坐在客厅的沙发上。",
+      "phonetic": "Wǒmen yìqǐ zuò zài kètīng de shāfā shàng.",
+      "text_native": "Nous nous asseyons ensemble sur le canapé du salon."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我切了一些新鲜的水果招待他。",
+      "phonetic": "Wǒ qiē le yìxiē xīnxiān de shuǐguǒ zhāodài tā.",
+      "text_native": "Je coupe quelques fruits frais pour le recevoir."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我们一边喝茶一边开心地聊天。",
+      "phonetic": "Wǒmen yìbiān hē chá yìbiān kāixīn de liáotiān.",
+      "text_native": "Nous buvons du thé tout en discutant joyeusement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "聊累了的时候，我们打开电视看电影。",
+      "phonetic": "Liáo lèi le de shíhou, wǒmen dǎkāi diànshì kàn diànyǐng.",
+      "text_native": "Quand nous sommes fatigués de parler, nous allumons la télévision pour regarder un film."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "时间过得很快，转眼就到晚上了。",
+      "phonetic": "Shíjiān guò de hěn kuài, zhuǎnyǎn jiù dào wǎnshang le.",
+      "text_native": "Le temps passe très vite, et en un clin d'œil, c'est le soir."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "朋友回家以后，我一个人出门去散步。",
+      "phonetic": "Péngyǒu huí jiā yǐhòu, wǒ yí gè rén chūmén qù sànbù.",
+      "text_native": "Une fois mon ami rentré chez lui, je sors faire une promenade en solitaire."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "附近的公园里有很多散步的人。",
+      "phonetic": "Fùjìn de gōngyuán lǐ yǒu hěn duō sànbù de rén.",
+      "text_native": "Il y a beaucoup de promeneurs dans le parc à proximité."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "晚风吹在身上非常舒服，心情特别高兴。",
+      "phonetic": "Wǎn fēng chuī zài shēnshang fēicháng shūfu, xīnqíng tèbié gāoxìng.",
+      "text_native": "La brise du soir est très agréable, je suis de très bonne humeur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "回到家里，我觉得身体有点累。",
+      "phonetic": "Huí dào jiāli, wǒ juéde shēntǐ yǒudiǎn lèi.",
+      "text_native": "De retour à la maison, je sens que mon corps est un peu fatigué."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "洗完澡后，我躺在舒服的床上安心睡觉。",
+      "phonetic": "Xǐ wán zǎo hòu, wǒ tǎng zài shūfu de chuáng shàng ānxīn shuìjiào.",
+      "text_native": "Après avoir pris une douche, je m'allonge dans mon lit confortable pour m'endormir paisiblement."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "My Presentation",
+  "new_vocabulary": ["presentation", "speak", "people", "ready", "nervous", "paper", "slide", "look", "smile", "start", "topic", "hello", "good morning", "class", "colleagues", "desk", "stand", "hand", "voice", "clear", "slowly", "water", "drink", "time", "finish", "thank you", "good", "happy", "seat", "claps"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Hello, my name is Tom.",
+      "phonetic": "/həˈloʊ maɪ neɪm ɪz tɑm/",
+      "text_native": "Bonjour, je m'appelle Tom."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Good morning, colleagues.",
+      "phonetic": "/ɡʊd ˈmɔrnɪŋ ˈkɑliɡz/",
+      "text_native": "Bonjour, chers collègues."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Today is my presentation.",
+      "phonetic": "/təˈdeɪ ɪz maɪ ˌprɛzənˈteɪʃən/",
+      "text_native": "Aujourd'hui, c'est ma présentation."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I stand by my desk.",
+      "phonetic": "/aɪ stænd baɪ maɪ dɛsk/",
+      "text_native": "Je me tiens près de mon bureau."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I have my paper.",
+      "phonetic": "/aɪ hæv maɪ ˈpeɪpər/",
+      "text_native": "J'ai mes notes sur papier."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I look at the people.",
+      "phonetic": "/aɪ lʊk æt ðə ˈpipəl/",
+      "text_native": "Je regarde les gens."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I am a bit nervous.",
+      "phonetic": "/aɪ æm ə bɪt ˈnɜrvəs/",
+      "text_native": "Je suis un peu nerveux."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I take a deep breath.",
+      "phonetic": "/aɪ teɪk ə dip brɛθ/",
+      "text_native": "Je prends une grande inspiration."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I drink some water.",
+      "phonetic": "/aɪ drɪŋk sʌm ˈwɑtər/",
+      "text_native": "Je bois un peu d'eau."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I am ready now.",
+      "phonetic": "/aɪ æm ˈrɛdi naʊ/",
+      "text_native": "Je suis prêt maintenant."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I start to speak.",
+      "phonetic": "/aɪ stɑrt tu spik/",
+      "text_native": "Je commence à parler."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "My voice is clear.",
+      "phonetic": "/maɪ vɔɪs ɪz klɪr/",
+      "text_native": "Ma voix est claire."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I speak slowly.",
+      "phonetic": "/aɪ spik ˈsloʊli/",
+      "text_native": "Je parle lentement."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I present my topic.",
+      "phonetic": "/aɪ prɪˈzɛnt maɪ ˈtɑpɪk/",
+      "text_native": "Je présente mon sujet."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I look at the first slide.",
+      "phonetic": "/aɪ lʊk æt ðə fɜrst slaɪd/",
+      "text_native": "Je regarde la première diapositive."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The information is correct.",
+      "phonetic": "/ði ˌɪnfərˈmeɪʃən ɪz kəˈrɛkt/",
+      "text_native": "Les informations sont correctes."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I raise my hand.",
+      "phonetic": "/aɪ reɪz maɪ hænd/",
+      "text_native": "Je lève la main."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I show a big picture.",
+      "phonetic": "/aɪ ʃoʊ ə bɪg ˈpɪktʃər/",
+      "text_native": "Je montre une grande image."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "People listen to me.",
+      "phonetic": "/ˈpipəl ˈlɪsən tu mi/",
+      "text_native": "Les gens m'écoutent."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Nobody is sleeping.",
+      "phonetic": "/ˈnoʊˌbɑdi ɪz ˈslipɪŋ/",
+      "text_native": "Personne ne dort."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I smile at them.",
+      "phonetic": "/aɪ smaɪl æt ðɛm/",
+      "text_native": "Je leur souris."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Time passes very fast.",
+      "phonetic": "/taɪm ˈpæsəz ˈvɛri fæst/",
+      "text_native": "Le temps passe très vite."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I reach the final point.",
+      "phonetic": "/aɪ rich ðə ˈfaɪnəl pɔɪnt/",
+      "text_native": "J'arrive au point final."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I make my conclusion.",
+      "phonetic": "/aɪ meɪk maɪ kənˈkluʒən/",
+      "text_native": "Je fais ma conclusion."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "My presentation is finished.",
+      "phonetic": "/maɪ ˌprɛzənˈteɪʃən ɪz ˈfɪnɪʃt/",
+      "text_native": "Ma présentation est terminée."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk ju/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "People clap their hands.",
+      "phonetic": "/ˈpipəl klæp ðɛr hændz/",
+      "text_native": "Les gens applaudissent."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I feel very happy.",
+      "phonetic": "/aɪ fil ˈvɛri ˈhæpi/",
+      "text_native": "Je me sens très heureux."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I walk back to my seat.",
+      "phonetic": "/aɪ wɔk bæk tu maɪ sit/",
+      "text_native": "Je retourne m'asseoir à ma place."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "It is a good day.",
+      "phonetic": "/ɪt ɪz ə gʊd deɪ/",
+      "text_native": "C'est une bonne journée."
+    }
+  ]
+}

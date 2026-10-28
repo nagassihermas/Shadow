@@ -1,0 +1,207 @@
+{
+  "title": "身体不舒服",
+  "new_vocabulary": [
+    "身体",
+    "今天",
+    "感觉",
+    "发烧",
+    "咳嗽",
+    "医生",
+    "医院",
+    "坐",
+    "车",
+    "去",
+    "看",
+    "吃",
+    "饭",
+    "多",
+    "喝",
+    "热",
+    "休息",
+    "小时",
+    "早",
+    "上"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我感觉身体不太好。",
+      "phonetic": "Jīntiān wǒ gǎnjué shēntǐ bù tài hǎo.",
+      "text_native": "Aujourd'hui, je ne me sens pas très bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我的头很痛。",
+      "phonetic": "Wǒ de tóu hěn tòng.",
+      "text_native": "J'ai très mal à la tête."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我觉得很累。",
+      "phonetic": "Wǒ juéde hěn lèi.",
+      "text_native": "Je me sens très fatigué."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我还发烧了。",
+      "phonetic": "Wǒ hái fāshāo le.",
+      "text_native": "J'ai aussi de la fièvre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "早上我一直咳嗽。",
+      "phonetic": "Zǎoshang wǒ yìzhí késòu.",
+      "text_native": "J'ai toussé sans arrêt ce matin."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我不想去上班。",
+      "phonetic": "Wǒ bù xiǎng qù shàngbān.",
+      "text_native": "Je ne veux pas aller travailler."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我决定留在家里。",
+      "phonetic": "Wǒ juédìng liú zài jiālǐ.",
+      "text_native": "Je décide de rester à la maison."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我走回了自己的房间。",
+      "phonetic": "Wǒ zǒu huí le zìjǐ de fángjiān.",
+      "text_native": "Je retourne dans ma chambre."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我躺在床上。",
+      "phonetic": "Wǒ tǎng zài chuáng shàng.",
+      "text_native": "Je m'allonge sur le lit."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我觉得浑身发烫。",
+      "phonetic": "Wǒ juéde húnshēn fātàng.",
+      "text_native": "Mon corps est brûlant."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "妈妈来看我。",
+      "phonetic": "Māma lái kàn wǒ.",
+      "text_native": "Maman vient me voir."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "她问我怎么样。",
+      "phonetic": "Tā wèn wǒ zěnmeyàng.",
+      "text_native": "Elle me demande comment ça va."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我跟妈妈说话。",
+      "phonetic": "Wǒ gēn māma shuōhuà.",
+      "text_native": "Je parle à maman."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我告诉她我很不舒服。",
+      "phonetic": "Wǒ gàosù tā wǒ hěn bù shūfu.",
+      "text_native": "Je lui dis que je ne me sens pas bien du tout."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "妈妈说我们要去医院。",
+      "phonetic": "Māma shuō wǒmen yào qù yīyuàn.",
+      "text_native": "Maman dit que nous devons aller à l'hôpital."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我们坐车去。",
+      "phonetic": "Wǒmen zuò chē qù.",
+      "text_native": "Nous y allons en voiture."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "到了医院以后，",
+      "phonetic": "Dào le yīyuàn yǐhòu,",
+      "text_native": "Après notre arrivée à l'hôpital,"
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我见到了医生。",
+      "phonetic": "Wǒ jiàn dào le yīshēng.",
+      "text_native": "J'ai vu le médecin."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "医生给我检查了身体。",
+      "phonetic": "Yīshēng gěi wǒ jiǎnchá le shēntǐ.",
+      "text_native": "Le médecin m'a examiné."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "他给我开了一些药。",
+      "phonetic": "Tā gěi wǒ kāi le yìxiē yào.",
+      "text_native": "Il m'a prescrit des médicaments."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "医生的语气很温柔。",
+      "phonetic": "Yīshēng de yǔqì hěn wēnróu.",
+      "text_native": "Le ton du médecin est très doux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "他叫我多喝水。",
+      "phonetic": "Tā jiào wǒ duō hē shuǐ.",
+      "text_native": "Il me dit de boire beaucoup d'eau."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我们回家了。",
+      "phonetic": "Wǒmen huí jiā le.",
+      "text_native": "Nous sommes rentrés à la maison."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我吃了药。",
+      "phonetic": "Wǒ chī le yào.",
+      "text_native": "J'ai pris les médicaments."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我没有胃口吃饭。",
+      "phonetic": "Wǒ méiyǒu wèikǒu chī fàn.",
+      "text_native": "Je n'ai pas d'appétit pour manger."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "妈妈端来一杯热水。",
+      "phonetic": "Māma duān lái yì bēi rè shuǐ.",
+      "text_native": "Maman apporte une tasse d'eau chaude."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我喝了热水。",
+      "phonetic": "Wǒ hē le rè shuǐ.",
+      "text_native": "J'ai bu l'eau chaude."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我又上床休息。",
+      "phonetic": "Wǒ yòu shàng chuáng xiūxí.",
+      "text_native": "Je retourne me reposer sur le lit."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "几个小时以后，",
+      "phonetic": "Jǐ gè xiǎoshí yǐhòu,",
+      "text_native": "Quelques heures plus tard,"
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我觉得好多了。",
+      "phonetic": "Wǒ juéde hǎo duō le.",
+      "text_native": "Je me sens beaucoup mieux."
+    }
+  ]
+}

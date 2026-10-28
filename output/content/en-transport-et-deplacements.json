@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "I take the bus to work every morning.",
+    "phonetic": "/aɪ teɪk ðə bʊs tuː wɜːk ˈɛvri ˈmɔːnɪŋ/",
+    "text_native": "Je prends le bus pour aller au travail tous les matins.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Where is the nearest subway station?",
+    "phonetic": "/wɛər ɪz ðə ˈnɪərɪst ˈsʌbweɪ ˈsteɪʃən/",
+    "text_native": "Où se trouve la station de métro la plus proche ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "How much is a ticket to the city center?",
+    "phonetic": "/haʊ mʌtʃ ɪz ə ˈtɪkɪt tuː ðə ˈsɪti ˈsɛntər/",
+    "text_native": "C'est combien un billet pour le centre-ville ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "You need to change trains at the next stop.",
+    "phonetic": "/juː niːd tuː tʃeɪndʒ treɪnz æt ðə nɛkst stɒp/",
+    "text_native": "Tu dois changer de train au prochain arrêt.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "My train was delayed by twenty minutes.",
+    "phonetic": "/maɪ treɪn wɒz dɪˈleɪd baɪ ˈtwɛnti ˈmɪnɪts/",
+    "text_native": "Mon train a eu vingt minutes de retard.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Excuse me, does this bus go to the beach?",
+    "phonetic": "/ɪkˈskjuːz miː, dʌz ðɪs bʊs gəʊ tuː ðə biːtʃ/",
+    "text_native": "Excusez-moi, est-ce que ce bus va à la plage ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "It is faster to go there by bicycle.",
+    "phonetic": "/ɪt ɪz ˈfɑːstər tuː gəʊ ðɛər baɪ ˈbaɪsɪkl/",
+    "text_native": "C'est plus rapide d'y aller en vélo.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Let us walk, it is only a ten-minute stroll.",
+    "phonetic": "/lɛt ʌs wɔːk, ɪt ɪz ˈəʊnli ə tɛn ˈmɪnɪt strəʊl/",
+    "text_native": "Marchons, c'est à dix minutes à pied seulement.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Traffic is really heavy during rush hour.",
+    "phonetic": "/ˈtræfɪk ɪz ˈriːəli ˈhɛvi ˈdjʊərɪŋ rʌʃ ˈaʊər/",
+    "text_native": "Il y a vraiment beaucoup de circulation aux heures de pointe.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can you call a cab for me, please?",
+    "phonetic": "/kæn juː kɔːl ə kæb fɔː miː, pliːz/",
+    "text_native": "Tu peux m'appeler un taxi s'il te plaît ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "I always miss my morning connection.",
+    "phonetic": "/aɪ ˈɔːlweɪz mɪs maɪ ˈmɔːnɪŋ kəˈnɛkʃən/",
+    "text_native": "Je rate toujours ma correspondance du matin.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do I need to validate my ticket before getting on?",
+    "phonetic": "/duː aɪ niːd tuː ˈvælɪdeɪt maɪ ˈtɪkɪt bɪˈfɔːr ˈgɛtɪŋ ɒn/",
+    "text_native": "Est-ce que je dois composter mon ticket avant de monter ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "She prefers driving because she hates public transport.",
+    "phonetic": "/ʃiː prɪˈfɜːz ˈdraɪvɪŋ bɪˈkɒz ʃiː heɪts ˈpʌblɪk ˈtrænspɔːt/",
+    "text_native": "Elle préfère conduire parce qu'elle déteste les transports en commun.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Turn left at the traffic lights, then go straight.",
+    "phonetic": "/tɜːn lɛft æt ðə ˈtræfɪk laɪts, ðɛn gəʊ streɪt/",
+    "text_native": "Tourne à gauche au feu tricolore, puis va tout droit.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Parking spaces are impossible to find around here.",
+    "phonetic": "/ˈpɑːkɪŋ speɪsɪz ɑːr ɪmˈpɒsɪbl tuː faɪnd əˈraʊnd hɪər/",
+    "text_native": "C'est impossible de trouver une place pour se garer par ici.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Which platform does the London train leave from?",
+    "phonetic": "/wɪtʃ ˈplætfɔːm dʌz ðə ˈlʌndən treɪn liːv frɒm/",
+    "text_native": "De quel quai part le train pour Londres ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "We got lost because the street signs were unclear.",
+    "phonetic": "/wiː gɒt lɒst bɪˈkɒz ðə striːt saɪnz wɜːr ʌnˈklɪər/",
+    "text_native": "On s'est perdus parce que les panneaux de rue n'étaient pas clairs.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "I usually book my flights online a month early.",
+    "phonetic": "/aɪ ˈjuːʒuəli bʊk maɪ flaɪts ˈɒnˌlaɪn ə mʌnθ ˈɜːli/",
+    "text_native": "D'habitude, je réserve mes billets d'avion en ligne un mois à l'avance.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "Remember to fasten your seatbelt before we start driving.",
+    "phonetic": "/rɪˈmɛmbər tuː ˈfɑːsən jɔːr ˈsiːtbɛlt bɪˈfɔːr wiː stɑːt ˈdraɪvɪŋ/",
+    "text_native": "N'oublie pas de mettre ta ceinture de sécurité avant qu'on ne parte.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  },
+  {
+    "text_target": "How long does the ferry ride to the island take?",
+    "phonetic": "/haʊ lɒŋ dʌz ðə ˈfɛri raɪd tuː ðə ˈaɪlənd teɪk/",
+    "text_native": "Combien de temps dure la traversée en ferry jusqu'à l'île ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A2"
+  }
+]

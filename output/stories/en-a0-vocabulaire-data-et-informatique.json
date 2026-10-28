@@ -1,0 +1,195 @@
+{
+  "title": "My New Computer",
+  "new_vocabulary": [
+    "computer",
+    "screen",
+    "mouse",
+    "keyboard",
+    "file",
+    "folder",
+    "data",
+    "password"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "This is a computer.",
+      "phonetic": "/ðɪs ɪz ə kəmˈpjuːtər/",
+      "text_native": "Ceci est un ordinateur."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The computer is black.",
+      "phonetic": "/ðə kəmˈpjuːtər ɪz blæk/",
+      "text_native": "L'ordinateur est noir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I look at the screen.",
+      "phonetic": "/aɪ lʊk æt ðə skriːn/",
+      "text_native": "Je regarde l'écran."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The screen is big.",
+      "phonetic": "/ðə skriːn ɪz bɪɡ/",
+      "text_native": "L'écran est grand."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I touch the mouse.",
+      "phonetic": "/aɪ tʌtʃ ðə maʊs/",
+      "text_native": "Je touche la souris."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The mouse is grey.",
+      "phonetic": "/ðə maʊs ɪz ɡreɪ/",
+      "text_native": "La souris est grise."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I see the keyboard.",
+      "phonetic": "/aɪ siː ðə ˈkiːbɔːrd/",
+      "text_native": "Je vois le clavier."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The keyboard has letters.",
+      "phonetic": "/ðə ˈkiːbɔːrd hæz ˈlɛtərz/",
+      "text_native": "Le clavier a des lettres."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I press a key.",
+      "phonetic": "/aɪ prɛs ə kiː/",
+      "text_native": "J'appuie sur une touche."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The computer turns on.",
+      "phonetic": "/ðə kəmˈpjuːtər tɜːrnz ɒn/",
+      "text_native": "L'ordinateur s'allume."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I wait one minute.",
+      "phonetic": "/aɪ weɪt wʌn ˈmɪnɪt/",
+      "text_native": "J'attends une minute."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The system starts.",
+      "phonetic": "/ðə ˈsɪstəm stɑːrts/",
+      "text_native": "Le système démarre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I type my password.",
+      "phonetic": "/aɪ taɪp maɪ ˈpæswɜːrd/",
+      "text_native": "Je tape mon mot de passe."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The password is correct.",
+      "phonetic": "/ðə ˈpæswɜːrd ɪz kəˈrɛkt/",
+      "text_native": "Le mot de passe est correct."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I open a folder.",
+      "phonetic": "/aɪ ˈoʊpən ə ˈfoʊldər/",
+      "text_native": "J'ouvre un dossier."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The folder is empty.",
+      "phonetic": "/ðə ˈfoʊldər ɪz ˈɛmpti/",
+      "text_native": "Le dossier est vide."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I create a new file.",
+      "phonetic": "/aɪ kriˈeɪt ə nuː faɪl/",
+      "text_native": "Je crée un nouveau fichier."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The file is small.",
+      "phonetic": "/ðə faɪl ɪz smɔːl/",
+      "text_native": "Le fichier est petit."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I write my data.",
+      "phonetic": "/aɪ raɪt maɪ ˈdeɪtə/",
+      "text_native": "J'écris mes données."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The data is important.",
+      "phonetic": "/ðə ˈdeɪtə ɪz ɪmˈpɔːrtənt/",
+      "text_native": "Les données sont importantes."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I save the file.",
+      "phonetic": "/aɪ seɪv ðə faɪl/",
+      "text_native": "J'enregistre le fichier."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The green light blinks.",
+      "phonetic": "/ðə ɡriːn laɪt blɪŋks/",
+      "text_native": "Le voyant vert clignote."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I send an email.",
+      "phonetic": "/aɪ sɛnd ən ˈiːmeɪl/",
+      "text_native": "J'envoie un e-mail."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "The email goes fast.",
+      "phonetic": "/ðə ˈiːmeɪl ɡoʊz fæst/",
+      "text_native": "L'e-mail part vite."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I close the program.",
+      "phonetic": "/aɪ kloʊz ðə ˈproʊɡræm/",
+      "text_native": "Je ferme le programme."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The desktop is clean.",
+      "phonetic": "/ðə ˈdɛsktɑːp ɪz kliːn/",
+      "text_native": "Le bureau est propre."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I click on shut down.",
+      "phonetic": "/aɪ klɪk ɒn ʃʌt daʊn/",
+      "text_native": "Je clique sur arrêter."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The computer turns off.",
+      "phonetic": "/ðə kəmˈpjuːtər tɜːrnz ɒf/",
+      "text_native": "L'ordinateur s'éteint."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The room is quiet.",
+      "phonetic": "/ðə ruːm ɪz ˈkwaɪət/",
+      "text_native": "La pièce est calme."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "My work is finished.",
+      "phonetic": "/maɪ wɜːrk ɪz ˈfɪnɪʃt/",
+      "text_native": "Mon travail est terminé."
+    }
+  ]
+}

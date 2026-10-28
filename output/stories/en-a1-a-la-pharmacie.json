@@ -1,0 +1,212 @@
+{
+  "title": "At the Pharmacy",
+  "new_vocabulary": [
+    "open",
+    "door",
+    "morning",
+    "street",
+    "inside",
+    "people",
+    "queue",
+    "wait",
+    "turn",
+    "pharmacist",
+    "man",
+    "woman",
+    "health",
+    "problem",
+    "throat",
+    "nose",
+    "cold",
+    "tablets",
+    "box",
+    "price",
+    "card",
+    "pay",
+    "bag",
+    "thank",
+    "goodbye"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The pharmacy is open on the street.",
+      "phonetic": "ðə ˈfɑːməsi ɪz ˈəʊpən ɒn ðə striːt.",
+      "text_native": "La pharmacie est ouverte dans la rue."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "A man walks to the door.",
+      "phonetic": "ə mæn wɔːks tuː ðə dɔː.",
+      "text_native": "Un homme marche vers la porte."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "It is a cold morning today.",
+      "phonetic": "ɪt ɪz ə kəʊld ˈmɔːnɪŋ təˈdeɪ.",
+      "text_native": "C'est un matin froid aujourd'hui."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He goes inside the shop.",
+      "phonetic": "hiː ɡəʊz ˈɪnsaɪd ðə ʃɒp.",
+      "text_native": "Il entre dans la boutique."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "Other people are waiting there.",
+      "phonetic": "ˈʌðə ˈpiːpl ɑː ˈweɪtɪŋ ðeə.",
+      "text_native": "D'autres personnes attendent là-bas."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He sees a queue near the desk.",
+      "phonetic": "hiː siːz ə kjuː nɪə ðə dɛsk.",
+      "text_native": "Il voit une queue près du comptoir."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "The man stands in the queue.",
+      "phonetic": "ðə mæn stændz ɪn ðə kjuː.",
+      "text_native": "L'homme fait la queue."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He has a bad cold today.",
+      "phonetic": "hiː hæz ə bæd kəʊld təˈdeɪ.",
+      "text_native": "Il a un gros rhume aujourd'hui."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "His throat hurts very much.",
+      "phonetic": "hɪz θrəʊt hɜːts ˈvɛri mʌtʃ.",
+      "text_native": "Sa gorge lui fait très mal."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He also has a bad cough.",
+      "phonetic": "hiː ˈɔːlsəʊ hæz ə bæd kɒf.",
+      "text_native": "Il a aussi une mauvaise toux."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "His nose is stuffy.",
+      "phonetic": "hɪz nəʊz ɪz ˈstʌfi.",
+      "text_native": "Il a le nez pris."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He feels very unwell now.",
+      "phonetic": "hiː fiːlz ˈvɛri ʌnˈwɛl naʊ.",
+      "text_native": "Il se sent très mal maintenant."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Now it is his turn.",
+      "phonetic": "naʊ ɪt ɪz hɪz tɜːn.",
+      "text_native": "Maintenant c'est son tour."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "A woman pharmacist speaks to him.",
+      "phonetic": "ə ˈwʊmən ˈfɑːməsɪst spiːks tuː hɪm.",
+      "text_native": "Une pharmacienne lui parle."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "She asks how he is feeling.",
+      "phonetic": "ʃiː ɑːsks haʊ hiː ɪz ˈfiːlɪŋ.",
+      "text_native": "Elle lui demande comment il se sent."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He explains his health problem.",
+      "phonetic": "hiː ɪkˈspleɪnz hɪz hɛlθ ˈprɒbləm.",
+      "text_native": "Il explique son problème de santé."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "She asks for his prescription.",
+      "phonetic": "ʃiː ɑːsks fɔː hɪz prɪˈskrɪpʃən.",
+      "text_native": "Elle lui demande son ordonnance."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She reads the prescription carefully.",
+      "phonetic": "ʃiː riːdz ðə prɪˈskrɪpʃən ˈkeəfʊli.",
+      "text_native": "Elle lit l'ordonnance attentivement."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "She looks for the medicine on the shelf.",
+      "phonetic": "ʃiː lʊks fɔː ðə ˈmɛdɪsɪn ɒn ðə ʃɛlf.",
+      "text_native": "Elle cherche le médicament sur l'étagère."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "She brings a box of tablets.",
+      "phonetic": "ʃiː brɪŋz ə bɒks ɒv ˈtæblɪts.",
+      "text_native": "Elle apporte une boîte de comprimés."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "She also suggests some syrup for his cough.",
+      "phonetic": "ʃiː ˈɔːlsəʊ səɡˈʤɛsts sʌm ˈsɪrəp fɔː hɪz kɒf.",
+      "text_native": "Elle suggère aussi du sirop pour sa toux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The man asks about the price.",
+      "phonetic": "ðə mæn ɑːsks əˈbaʊt ðə praɪs.",
+      "text_native": "L'homme demande le prix."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "She tells him the total cost.",
+      "phonetic": "ʃiː tɛlz hɪm ðə ˈtəʊtəl kɒst.",
+      "text_native": "Elle lui indique le montant total."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He takes his bank card out.",
+      "phonetic": "hiː teɪks hɪz bæŋk kɑːd aʊt.",
+      "text_native": "Il sort sa carte bancaire."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He pays for the medicine now.",
+      "phonetic": "hiː peɪz fɔː ðə ˈmɛdɪsɪn naʊ.",
+      "text_native": "Il paie les médicaments maintenant."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "She puts everything in a bag.",
+      "phonetic": "ʃiː pʊts ˈɛvriθɪŋ ɪn ə bæɡ.",
+      "text_native": "Elle met tout dans un sac."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He takes the bag with him.",
+      "phonetic": "hiː teɪks ðə bæɡ wɪð hɪm.",
+      "text_native": "Il prend le sac avec lui."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He will follow the treatment for a few days.",
+      "phonetic": "hiː wɪl ˈfɒləʊ ðə ˈtriːtmənt fɔː ə fjuː deɪz.",
+      "text_native": "Il suivra le traitement pendant quelques jours."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He says thank you to her.",
+      "phonetic": "hiː sɛz θæŋk juː tuː hɜː.",
+      "text_native": "Il la remercie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "She smiles and says goodbye.",
+      "phonetic": "ʃiː smaɪlz ænd sɛz ˌɡʊdˈbaɪ.",
+      "text_native": "Elle sourit et dit au revoir."
+    }
+  ]
+}

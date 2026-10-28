@@ -1,0 +1,217 @@
+{
+  "title": "A Family Dinner",
+  "new_vocabulary": [
+    "dinner",
+    "evening",
+    "prepare",
+    "kitchen",
+    "help",
+    "table",
+    "plate",
+    "glass",
+    "spoon",
+    "fork",
+    "knife",
+    "food",
+    "chicken",
+    "salad",
+    "potato",
+    "water",
+    "juice",
+    "hungry",
+    "thirsty",
+    "sit",
+    "chair",
+    "listen",
+    "story",
+    "laugh",
+    "smile",
+    "evening",
+    "together",
+    "enjoy",
+    "wash",
+    "clean"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The evening arrives and the family meets in the kitchen.",
+      "phonetic": "/ði ˈiːvnɪŋ əˈraɪvz ænd ðə ˈfæmɪli miːts ɪn ðə ˈkɪtʃɪn/",
+      "text_native": "La soirée arrive et la famille se retrouve dans la cuisine."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The mother and the father prepare a big dinner.",
+      "phonetic": "/ðə ˈmʌðər ænd ðə ˈfɑːðər prɪˈpeər ə bɪg ˈdɪnər/",
+      "text_native": "La mère et le père préparent un grand dîner."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The sister helps her mother wash the fresh salad.",
+      "phonetic": "/ðə ˈsɪstər hɛlps hɜːr ˈmʌðər wɒʃ ðə frɛʃ ˈsæləd/",
+      "text_native": "La sœur aide sa mère à laver la salade fraîche."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The brother cuts the potatoes with a sharp knife.",
+      "phonetic": "/ðə ˈbrʌðər kʌts ðə pəˈteɪtəʊz wɪð ə ʃɑːrp naɪf/",
+      "text_native": "Le frère coupe les pommes de terre avec un couteau bien aiguisé."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "They cook some delicious chicken in the oven.",
+      "phonetic": "/ðeɪ kʊk sʌm dɪˈlɪʃəs ˈtʃɪkɪn ɪn ði ˈʌvən/",
+      "text_native": "Ils font cuire un délicieux poulet dans le four."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The grandmother sets the table for all the people.",
+      "phonetic": "/ðə ˈgrændˌmʌðər sɛts ðə ˈteɪbəl fɔːr ɔːl ðə ˈpiːpəl/",
+      "text_native": "La grand-mère met la table pour tout le monde."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "She puts a white plate in front of every chair.",
+      "phonetic": "/ʃiː pʊts ə waɪt pleɪt ɪn frʌnt ɒv ˈɛvri tʃeər/",
+      "text_native": "Elle place une assiette blanche devant chaque chaise."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Next to each plate, she places a fork and a spoon.",
+      "phonetic": "/nɛkst tuː iːtʃ pleɪt, ʃiː ˈpleɪsɪz ə fɔːrk ænd ə spuːn/",
+      "text_native": "À côté de chaque assiette, elle place une fourchette et une cuillère."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The young children bring the glasses for the drinks.",
+      "phonetic": "/ðə jʌŋ ˈtʃɪldrən brɪŋ ðə ˈglɑːsɪz fɔːr ðə drɪŋks/",
+      "text_native": "Les jeunes enfants apportent les verres pour les boissons."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Everyone is very hungry after a long day at work.",
+      "phonetic": "/ˈɛvriˌwʌn ɪz ˈvɛri ˈhʌŋgri ˈɑːftər ə lɒŋ deɪ æt wɜːrk/",
+      "text_native": "Tout le monde a très faim après une longue journée de travail."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The grandfather is very thirsty and drinks some cold water.",
+      "phonetic": "/ðə ˈgrændˌfɑːðər ɪz ˈvɛri ˈθɜːsti ænd drɪŋks sʌm kəʊld ˈwɔːtər/",
+      "text_native": "Le grand-père a très soif et boit de l'eau fraîche."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The baby smiles at his aunt and his uncle.",
+      "phonetic": "/ðə ˈbeɪbi smaɪlz æt hɪz ɑːnt ænd hɪz ˈʌŋkl/",
+      "text_native": "Le bébé sourit à sa tante et à son oncle."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The cousin tells a funny story about his new job.",
+      "phonetic": "/ðə ˈkʌzən tɛlz ə ˈfʌni ˈstɔːri əˈbaʊt hɪz njuː dʒɒb/",
+      "text_native": "Le cousin raconte une histoire drôle sur son nouveau travail."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "All the family members laugh together at the table.",
+      "phonetic": "/ɔːl ðə ˈfæmɪli ˈmɛmbərz lɑːf təˈgɛðər æt ðə ˈteɪbəl/",
+      "text_native": "Tous les membres de la famille rient ensemble à table."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The food smells really good and makes them happy.",
+      "phonetic": "/ðə fuːd smɛlz ˈriːəli gʊd ænd meɪks ðɛm ˈhæpi/",
+      "text_native": "La nourriture sent vraiment bon et les met en joie."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The mother serves the hot chicken on each plate.",
+      "phonetic": "/ðə ˈmʌðər sɜːvz ðə hɒt ˈtʃɪkɪn ɒn iːtʃ pleɪt/",
+      "text_native": "La mère sert le poulet chaud dans chaque assiette."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The father pours red juice into the glasses.",
+      "phonetic": "/ðə ˈfɑːðər pɔːrz rɛd dʒuːs ˈɪntuː ðə ˈglɑːsɪz/",
+      "text_native": "Le père verse du jus de fruits rouge dans les verres."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "They eat the nice meal and talk about their week.",
+      "phonetic": "/ðeɪ iːt ðə naɪs miːl ænd tɔːk əˈbaʊt ðɛər wiːk/",
+      "text_native": "Ils mangent ce bon repas tout en parlant de leur semaine."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The grandfather listens to his grandchildren with kindness.",
+      "phonetic": "/ðə ˈgrændˌfɑːðər ˈlɪsənz tuː hɪz ˈgrændˌtʃɪldrən wɪð ˈkaɪndnɪs/",
+      "text_native": "Le grand-père écoute ses petits-enfants avec bienveillance."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The aunt explains her interesting daily life.",
+      "phonetic": "/ði ɑːnt ɪkˈspleɪnz hɜːr ˈɪntrəstɪŋ ˈdeɪli laɪf/",
+      "text_native": "La tante raconte sa vie quotidienne intéressante."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The small boy eats all his potatoes very fast.",
+      "phonetic": "/ðə smɔːl bɔɪ iːts ɔːl hɪz pəˈteɪtəʊz ˈvɛri fɑːst/",
+      "text_native": "Le petit garçon mange toutes ses pommes de terre très vite."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "The young girl drinks her sweet juice slowly.",
+      "phonetic": "/ðə jʌŋ gɜːl drɪŋks hɜːr swiːt dʒuːs ˈsləʊli/",
+      "text_native": "La jeune fille boit son jus sucré lentement."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The parents look at their children with deep love.",
+      "phonetic": "/ðə ˈpeərənts lʊk æt ðɛər ˈtʃɪldrən wɪð diːp lʌv/",
+      "text_native": "Les parents regardent leurs enfants avec un amour profond."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Everyone enjoys the quiet evening in the warm house.",
+      "phonetic": "/ˈɛvriˌwʌn ɪnˈdʒɔɪz ðə ˈkwaɪət ˈiːvnɪŋ ɪn ðə wɔːrm haʊs/",
+      "text_native": "Tout le monde profite de cette soirée calme dans la maison chaleureuse."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "After the meal, the family helps clean the dirty plates.",
+      "phonetic": "/ˈɑːftər ðə miːl, ðə ˈfæmɪli hɛlp kliːn ðə ˈdɜːti pleɪts/",
+      "text_native": "Après le repas, la famille aide à nettoyer les assiettes sales."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The brother washes the forks and the spoons.",
+      "phonetic": "/ðə ˈbrʌðər ˈwɒʃɪz ðə fɔːrks ænd ðə spuːnz/",
+      "text_native": "Le frère lave les fourchettes et les cuillères."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "The sister dries the glasses with a clean towel.",
+      "phonetic": "/ðə ˈsɪstər draɪz ðə ˈglɑːsɪz wɪð ə kliːn ˈtaʊəl/",
+      "text_native": "La sœur essuie les verres avec un torchon propre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The grandmother puts the food back in the cold fridge.",
+      "phonetic": "/ðə ˈgrændˌmʌðər pʊts ðə fuːd bæk ɪn ðə kəʊld frɪdʒ/",
+      "text_native": "La grand-mère remet les restes de nourriture dans le réfrigérateur."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The relatives say goodbye and walk back to their homes.",
+      "phonetic": "/ðə ˈrɛlətɪvz seɪ gʊdˈbaɪ ænd wɔːk bæk tuː ðɛər həʊmz/",
+      "text_native": "Les proches se disent au revoir et rentrent chez eux."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "It was a wonderful weekend night for this big family.",
+      "phonetic": "/ɪt wɒz ə ˈwʌndərfʊl ˈwiːkˌɛnd naɪt fɔːr ðɪs bɪg ˈfæmɪli/",
+      "text_native": "C'était une magnifique soirée de week-end pour cette grande famille."
+    }
+  ]
+}

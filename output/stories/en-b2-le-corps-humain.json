@@ -1,0 +1,217 @@
+{
+  "title": "A Demanding Routine",
+  "new_vocabulary": [
+    "posture",
+    "stiff",
+    "joints",
+    "ligaments",
+    "strain",
+    "metabolism",
+    "glucose",
+    "digestion",
+    "absorption",
+    "circulate",
+    "vessels",
+    "pulse",
+    "sweat",
+    "glands",
+    "hydration",
+    "exhaustion",
+    "fatigue",
+    "posture",
+    "spine",
+    "tension",
+    "relieve",
+    "recharge",
+    "function",
+    "maintain",
+    "performance",
+    "vitality",
+    "balance",
+    "routine",
+    "habit",
+    "system"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Mark wakes up early when his alarm clock rings loudly in the morning.",
+      "phonetic": "/mɑːrk weɪks ʌp ˈɜːrli wɛn hɪz əˈlɑːrm klɑːk rɪŋz ˈlaʊdli ɪn ðə ˈmɔːrnɪŋ/",
+      "text_native": "Mark se réveille tôt lorsque son réveil sonne fort le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He opens his eyes slowly and looks at himself in the mirror.",
+      "phonetic": "/hi ˈoʊpənz hɪz aɪz ˈsloʊli ənd lʊks ət hɪmˈsɛlf ɪn ðə ˈmɪrər/",
+      "text_native": "Il ouvre lentement les yeux et se regarde dans le miroir."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "His posture feels somewhat stiff because he slept poorly.",
+      "phonetic": "/hɪz ˈpɑːstʃər fiːlz ˈsʌmwʌt stɪf bɪˈkɒz hi slɛpt ˈpʊrli/",
+      "text_native": "Sa posture semble un peu raide parce qu'il a mal dormi."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He stands beside the bed and stretches his arms above his head.",
+      "phonetic": "/hi stændz bɪˈsaɪd ðə bɛd ənd ˈstrɛtʃɪz hɪz ɑːrmz əˈbʌv hɪz hɛd/",
+      "text_native": "Il se tient à côté du lit et étire ses bras au-dessus de sa tête."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "All his joints and ligaments crack as he moves his body.",
+      "phonetic": "/ɔːl hɪz dʒɔɪnts ənd ˈlɪɡəmənts kræk æz hi muːvz hɪz ˈbɑːdi/",
+      "text_native": "Toutes ses articulations et ses ligaments craquent lorsqu'il bouge son corps."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He walks carefully to the bathroom to brush his teeth with toothpaste.",
+      "phonetic": "/hi wɔːks ˈkɛrfəli tuː ðə ˈbæθruːm tuː brʌʃ hɪz tiːθ wɪð ˈtuːθpeɪst/",
+      "text_native": "Il marche prudemment vers la salle de bains pour se brosser les dents avec du dentifrice."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Then he washes his face thoroughly with cool water and soap.",
+      "phonetic": "/ðɛn hi ˈwɑːʃɪz hɪz feɪs ˈθɜːrəli wɪð kuːl ˈwɔːtər ənd soʊp/",
+      "text_native": "Ensuite, il se lave soigneusement le visage à l'eau fraîche et au savon."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "His brain starts to activate as he thinks about today's schedule.",
+      "phonetic": "/hɪz breɪn stɑːrts tuː ˈæktɪveɪt æz hi θɪŋks əˈbaʊt təˈdeɪz ˈskɛdʒuːl/",
+      "text_native": "Son cerveau commence à s'activer alors qu'il pense au programme d'aujourd'hui."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He eats a nutritious breakfast and drinks a warm cup of coffee.",
+      "phonetic": "/hi iːts ə nuˈtrɪʃəs ˈbrɛkfəst ənd drɪŋks ə wɔːrm kʌp ʌv ˈkɑːfi/",
+      "text_native": "Il mange un petit-déjeuner nutritif et boit une tasse de café chaud."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The food enters his stomach where digestion and absorption begin.",
+      "phonetic": "/ðə fuːd ˈɛntərz hɪz ˈstʌmək wɛr daɪˈdʒɛstʃən ənd əbˈzɔːrpʃən bɪˈɡɪn/",
+      "text_native": "La nourriture entre dans son estomac où la digestion et l'absorption commencent."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Glucose converts into energy to support his physical metabolism.",
+      "phonetic": "/ˈɡluːkoʊs kənˈvɜːrts ˈɪntuː ˈɛnərdʒi tuː səˈpɔːrt hɪz ˈfɪzɪkl məˈtæbəlɪzəm/",
+      "text_native": "Le glucose se convertit en énergie pour soutenir son métabolisme physique."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "His heart pumps blood through various vessels across his chest.",
+      "phonetic": "/hɪz hɑːrt pʌmps blʌd θruː ˈvɛriəs ˈvɛsəlz əˈkrɒs hɪz tʃɛst/",
+      "text_native": "Son cœur pompe le sang à travers divers vaisseaux dans sa poitrine."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "His pulse accelerates slightly as he leaves the house.",
+      "phonetic": "/hɪz pʌls ækˈsɛləreɪts ˈslaɪtli æz hi liːvz ðə haʊs/",
+      "text_native": "Son pouls s'accélère légèrement lorsqu'il quitte la maison."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He takes a deep breath of fresh air into his lungs outside.",
+      "phonetic": "/hi teɪks ə diːp brɛθ ʌv frɛʃ ɛr ˈɪntuː hɪz lʌŋz ˈaʊtsaɪd/",
+      "text_native": "Il prend une profonde inspiration d'air frais dans ses poumons dehors."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He walks to work, moving his legs and knees with steady steps.",
+      "phonetic": "/hi wɔːks tuː wɜːrk, ˈmuːvɪŋ hɪz lɛɡz ənd niːz wɪð ˈstɛdi stɛps/",
+      "text_native": "Il marche pour aller travailler, bougeant ses jambes et ses genoux à pas réguliers."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "At the office, he sits at his desk in front of a computer screen.",
+      "phonetic": "/æt ði ˈɔːfɪs, hi sɪts æt hɪz dɛsk ɪn frʌnt ʌv ə kəmˈpjuːtər skriːn/",
+      "text_native": "Au bureau, il s'assoit à son bureau devant un écran d'ordinateur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He blinks frequently because his eyes feel dry from the light.",
+      "phonetic": "/hi blɪŋks ˈfriːkwəntli bɪˈkɒz hɪz aɪz fiːl draɪ frɒm ðə laɪt/",
+      "text_native": "Il cligne des yeux fréquemment parce que ses yeux sont secs à cause de la lumière."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He swallows some water from a glass to soothe his throat.",
+      "phonetic": "/hi ˈswɑːloʊz sʌm ˈwɔːtər frɒm ə ɡlæs tuː suːð hɪz θroʊt/",
+      "text_native": "Il avale un peu d'eau d'un verre pour apaiser sa gorge."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Busy meetings and phone calls create mental tension all morning.",
+      "phonetic": "/ˈbɪzi ˈmiːtɪŋz ənd foʊn kɔːlz kriˈeɪt ˈmɛntl ˈtɛnʃən ɔːl ˈmɔːrnɪŋ/",
+      "text_native": "Des réunions chargées et des appels téléphoniques créent une tension mentale toute la matinée."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "That stress puts extra strain on his neck and shoulders.",
+      "phonetic": "/ðæt strɛs pʊts ˈɛkstrə streɪn ɒn hɪz nɛk ənd ˈʃoʊldərz/",
+      "text_native": "Ce stress exerce une tension supplémentaire sur son cou et ses épaules."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "By afternoon, mild fatigue begins to affect his daily performance.",
+      "phonetic": "/baɪ ˌæftərˈnuːn, maɪld fəˈtiːɡ bɪˈɡɪnz tuː əˈfɛkt hɪz ˈdeɪli pərˈfɔːrməns/",
+      "text_native": "L'après-midi venu, une légère fatigue commence à affecter ses performances quotidiennes."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "His sweat glands react when the office temperature rises slightly.",
+      "phonetic": "/hɪz swɛt ɡlændz riˈækt wɛn ði ˈɔːfɪs ˈtɛmprətʃər ˈraɪzɪz ˈslaɪtli/",
+      "text_native": "Ses glandes sudoripares réagissent lorsque la température du bureau monte légèrement."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Proper hydration helps maintain his overall wellness and vitality.",
+      "phonetic": "/ˈprɑːpər haɪˈdreɪʃən hɛlps mɛnˈteɪn hɪz ˈoʊvərɔːl ˈwɛlnəs ənd vəˈtæləti/",
+      "text_native": "Une hydratation adéquate aide à maintenir son bien-être général et sa vitalité."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He exercises after work to maintain his strength and fitness.",
+      "phonetic": "/hi ˈɛksərsaɪzɪz ˈæftər wɜːrk tuː mɛnˈteɪn hɪz strɛŋθ ənd ˈfɪtnəs/",
+      "text_native": "Il fait de l'exercice après le travail pour maintenir sa force et sa forme physique."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Physical activity improves his health and prevents physical exhaustion.",
+      "phonetic": "/ˈfɪzɪkl ækˈtɪvəti ɪmˈpruːvz hɪz hɛlθ ənd prɪˈvɛnts ˈfɪzɪkl ɪɡˈzɔːstʃən/",
+      "text_native": "L'activité physique améliore sa santé et prévient l'épuisement physique."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He takes a healthy diet with vitamins to aid tissue healing.",
+      "phonetic": "/hi teɪks ə ˈhɛlθi ˈdaɪət wɪð ˈvaɪtəmɪnz tuː eɪd ˈtɪʃuː ˈhiːlɪŋ/",
+      "text_native": "Il adopte une alimentation saine avec des vitamines pour aider à la guérison des tissus."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Back home, he stretches his back and hips to relieve sore muscles.",
+      "phonetic": "/bæk hoʊm, hi ˈstrɛtʃɪz hɪz bæk ənd hɪps tuː rɪˈliːv sɔːr ˈmʌsəlz/",
+      "text_native": "De retour à la maison, il étire son dos et ses hanches pour soulager ses muscles endoloris."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He needs good sleep and rest to recharge his nervous system.",
+      "phonetic": "/hi niːdz ɡʊd sliːp ənd rɛst tuː ˌriːˈtʃɑːrdʒ hɪz ˈnɜːrvəs ˈsɪstəm/",
+      "text_native": "Il a besoin d'un bon sommeil et de repos pour recharger son système nerveux."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Rest allows his bones and whole body to recover completely.",
+      "phonetic": "/rɛst əˈlaʊz hɪz boʊnz ənd hoʊl ˈbɑːdi tuː rɪˈkʌvər kəmˈpliːtli/",
+      "text_native": "Le repos permet à ses os et à tout son corps de récupérer complètement."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "By following this balanced routine, he ensures optimal body function.",
+      "phonetic": "/baɪ ˈfɑːloʊɪŋ ðɪs ˈbælənst ruːˈtiːn, hi ɪnˈʃʊrz ˈɑːptɪməl ˈbɑːdi ˈfʌŋkʃən/",
+      "text_native": "En suivant cette routine équilibrée, il assure le fonctionnement optimal de son corps."
+    }
+  ]
+}

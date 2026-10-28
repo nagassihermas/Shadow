@@ -1,0 +1,197 @@
+{
+  "title": "At the Supermarket",
+  "new_vocabulary": [
+    "shopping",
+    "supermarket",
+    "cart",
+    "apple",
+    "bread",
+    "milk",
+    "cheese",
+    "water",
+    "money",
+    "bag"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Saturday morning.",
+      "phonetic": "/ɪt ɪz ˈsætərdeɪ ˈmɔːrnɪŋ/",
+      "text_native": "C'est samedi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I am at home.",
+      "phonetic": "/aɪ æm ət hoʊm/",
+      "text_native": "Je suis à la maison."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I need food.",
+      "phonetic": "/aɪ niːd fuːd/",
+      "text_native": "J'ai besoin de faire des courses."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I go to the supermarket.",
+      "phonetic": "/aɪ ɡoʊ tuː ðə ˈsuːpərmɑːrkɪt/",
+      "text_native": "Je vais au supermarché."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I see the building.",
+      "phonetic": "/aɪ siː ðə ˈbɪldɪŋ/",
+      "text_native": "Je vois le bâtiment."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I open the door.",
+      "phonetic": "/aɪ ˈoʊpən ðə dɔːr/",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I walk inside.",
+      "phonetic": "/aɪ wɔːk ɪnˈsaɪd/",
+      "text_native": "J'entre à l'intérieur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I take a cart.",
+      "phonetic": "/aɪ teɪk ə kɑːrt/",
+      "text_native": "Je prends un chariot."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The cart is big.",
+      "phonetic": "/ðə kɑːrt ɪz bɪɡ/",
+      "text_native": "Le chariot est grand."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I look at my list.",
+      "phonetic": "/aɪ lʊk æt maɪ lɪst/",
+      "text_native": "Je regarde ma liste."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I need apples.",
+      "phonetic": "/aɪ niːd ˈæpəlz/",
+      "text_native": "J'ai besoin de pommes."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I find the fruit.",
+      "phonetic": "/aɪ faɪnd ðə fruːt/",
+      "text_native": "Je trouve les fruits."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I put red apples in the cart.",
+      "phonetic": "/aɪ pʊt rɛd ˈæpəlz ɪn ðə kɑːrt/",
+      "text_native": "Je mets des pommes rouges dans le chariot."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Next, I need bread.",
+      "phonetic": "/nɛkst, aɪ niːd brɛd/",
+      "text_native": "Ensuite, j'ai besoin de pain."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I walk to the bakery.",
+      "phonetic": "/aɪ wɔːk tuː ðə ˈbeɪkəri/",
+      "text_native": "Je vais vers le rayon boulangerie."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I take one bread.",
+      "phonetic": "/aɪ teɪk wʌn brɛd/",
+      "text_native": "Je prends une baguette."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Then I want milk.",
+      "phonetic": "/ðɛn aɪ wɑːnt mɪlk/",
+      "text_native": "Ensuite, je veux du lait."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I go to the fridge.",
+      "phonetic": "/aɪ ɡoʊ tuː ðə frɪdʒ/",
+      "text_native": "Je vais au rayon frais."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I take cold milk.",
+      "phonetic": "/aɪ teɪk koʊld mɪlk/",
+      "text_native": "Je prends du lait frais."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I see cheese.",
+      "phonetic": "/aɪ siː tʃiːz/",
+      "text_native": "Je vois du fromage."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "I take cheese too.",
+      "phonetic": "/aɪ teɪk tʃiːz tuː/",
+      "text_native": "Je prends du fromage aussi."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I need water.",
+      "phonetic": "/aɪ niːd ˈwɔːtər/",
+      "text_native": "J'ai besoin d'eau."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I put water in the cart.",
+      "phonetic": "/aɪ pʊt ˈwɔːtər ɪn ðə kɑːrt/",
+      "text_native": "Je mets de l'eau dans le chariot."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "My cart is full.",
+      "phonetic": "/maɪ kɑːrt ɪz fʊl/",
+      "text_native": "Mon chariot est plein."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "I go to the cashier.",
+      "phonetic": "/aɪ ɡoʊ tuː ðə kæˈʃɪr/",
+      "text_native": "Je vais à la caisse."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I put my food on the table.",
+      "phonetic": "/aɪ pʊt maɪ fuːd ɑːn ðə ˈteɪbəl/",
+      "text_native": "Je pose mes courses sur le tapis."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I pay money.",
+      "phonetic": "/aɪ peɪ ˈmʌni/",
+      "text_native": "Je paie."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "I put food in a bag.",
+      "phonetic": "/aɪ pʊt fuːd ɪn ə bæɡ/",
+      "text_native": "Je mets les courses dans un sac."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk juː/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I walk back home.",
+      "phonetic": "/aɪ wɔːk bæk hoʊm/",
+      "text_native": "Je rentre à la maison à pied."
+    }
+  ]
+}

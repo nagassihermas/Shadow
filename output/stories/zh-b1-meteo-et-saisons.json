@@ -1,0 +1,189 @@
+{
+  "title": "小明的周末计划",
+  "new_vocabulary": [
+    "周末", "计划", "打算", "决定", "邀请", "朋友", "一起", "爬山", "风景", "出发",
+    "背包", "里面", "矿泉水", "面包", "手机", "拍照", "气象", "预报", "运动服", "毛衣"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天是星期六，天气非常晴朗。",
+      "phonetic": "Jīntiān shì xīngqīliù, tiānqì fēicháng qíngláng.",
+      "text_native": "Aujourd'hui, c'est samedi, le temps est magnifique."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "小明早早地起床了。",
+      "phonetic": "Xiǎomíng zǎozǎo de qǐchuáng le.",
+      "text_native": "Xiaoming s'est levé tôt ce matin."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "他一边吃早饭，一边看手机上的气象预报。",
+      "phonetic": "Tā yìbiān chī zǎofàn, yìbiān kàn shǒujī shàng de qìxiàng yùbào.",
+      "text_native": "Il prend son petit-déjeuner tout en consultant les prévisions météo sur son téléphone."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "预报说下午可能会刮大风，气温会下降。",
+      "phonetic": "Yùbào shuō xiàwǔ kěnéng huì guā dà fēng, qìwēn huì xiàjiàng.",
+      "text_native": "Les prévisions annoncent du vent fort et une baisse des températures pour l'après-midi."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "但是他已经做好了周末的计划。",
+      "phonetic": "Dànshì tā yǐjīng zuò hǎo le zhōumò de jìhuà.",
+      "text_native": "Mais il a déjà prévu son week-end."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他打算和几个好朋友去郊外的山里爬山。",
+      "phonetic": "Tā dǎsuàn hé jǐ gè hǎo péngyǒu qù jiāowài de shān lǐ páshān.",
+      "text_native": "Il a l'intention d'aller faire de la randonnée en montagne dans les environs avec de bons amis."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "大家决定在公园门口集合。",
+      "phonetic": "Dàjiā juédìng zài gōngyuán ménkǒu jíhé.",
+      "text_native": "Tout le monde a décidé de se donner rendez-vous à l'entrée du parc."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "小明穿了一件舒服的运动服。",
+      "phonetic": "Xiǎomíng chuān le yí jiàn shūfu de yùndòngfú.",
+      "text_native": "Xiaoming a enfilé une tenue de sport confortable."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "因为考虑到下午的天气变化，他还带了一把伞和一件厚毛衣。",
+      "phonetic": "Yīnwèi kǎolǜ dào xiàwǔ de tiānqì biànhuà, tā hái dài le yì bǎ sǎn hé yí jiàn hòu máoyī.",
+      "text_native": "Prévoir le changement de temps de l'après-midi, il a aussi pris un parapluie et un gros pull."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他的背包里面装着矿泉水和面包。",
+      "phonetic": "Tā de bèibāo lǐmiàn zhuāngzhe kuàngquánshuǐ hé miànbāo.",
+      "text_native": "Son sac à dos contient de l'eau minérale et du pain."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "早上八点，他高高兴兴地出门了。",
+      "phonetic": "Zǎoshang bā diǎn, tā gāogāoxìngxìng de chūmén le.",
+      "text_native": "À huit heures du matin, il est sorti le cœur joyeux."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "路上有很多行人在散步。",
+      "phonetic": "Lùshang yǒu hěn duō hángrén zài sànbù.",
+      "text_native": "Il y a beaucoup de piétons qui se promènent dans la rue."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "秋天的树叶已经变黄了，落了满地。",
+      "phonetic": "Qiūtiān de shùyè yǐjīng biàn huáng le, luò le mǎndì.",
+      "text_native": "Les feuilles d'automne ont jaunis et tapissent le sol."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "金黄色的风景非常漂亮。",
+      "phonetic": "Jīnhuángsè de fēngjǐng fēicháng piàoliang.",
+      "text_native": "Ce paysage aux teintes dorées est splendide."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他一边走一边用手机拍照。",
+      "phonetic": "Tā yìbiān zǒu yìbiān yòng shǒujī pāizhào.",
+      "text_native": "Il marche tout en prenant des photos avec son téléphone."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "半个小时后，他准时到达了集合地点。",
+      "phonetic": "Bàn gè xiǎoshí hòu, tā zhǔnshí dàodá le jíhé dìdiǎn.",
+      "text_native": "Une demi-heure plus tard, il est arrivé à l'heure au point de rendez-vous."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "朋友们已经在那里等他了。",
+      "phonetic": "Péngyǒumen yǐjīng zài nàlǐ děng tā le.",
+      "text_native": "Ses amis l'attendaient déjà sur place."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "大家见面以后都非常高兴。",
+      "phonetic": "Dàjiā jiànmiàn yǐhòu dōu fēicháng gāoxìng.",
+      "text_native": "Tout le monde était ravi de se retrouver."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "他们一起向山顶出发。",
+      "phonetic": "Tāmen yìqǐ xiàng shāndǐng chūfā.",
+      "text_native": "Ils sont partis ensemble en direction du sommet."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "一路上太阳暖洋洋的，感觉非常舒服。",
+      "phonetic": "Yílùshang tàiyáng nuǎnyángyáng de, gǎnjué fēicháng shūfu.",
+      "text_native": "Tout au long du chemin, le soleil était doux, c'était très agréable."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "爬到半山腰的时候，天色开始变了。",
+      "phonetic": "Pá dào bànshānyāo de shíhou, tiānsè kāishǐ biàn le.",
+      "text_native": "Arrivés à mi-pente, le temps a commencé à changer."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "原本晴朗的天空突然多云了。",
+      "phonetic": "Yuánběn qíngláng de tiānkōng tūrán duōyún le.",
+      "text_native": "Le ciel qui était dégagé s'est soudainement couvert."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "风也开始慢慢变大。",
+      "phonetic": "Fēng yě kāishǐ mànmàn biàn dà.",
+      "text_native": "Le vent a également commencé à souffler plus fort."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "气温比刚才低了好几度。",
+      "phonetic": "Qìwēn bǐ gāngcái dī le hǎojǐ dù.",
+      "text_native": "La température a chuté de plusieurs degrés."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "小明赶紧把背包里的毛衣拿出来穿上。",
+      "phonetic": "Xiǎomíng gǎnjǐn bǎ bèibāo lǐ de máoyī ná chūlái chuān shàng.",
+      "text_native": "Xiaoming s'est dépêché de sortir son pull du sac pour le mettre."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "幸好大家听了气象预报，没有被雨淋湿。",
+      "phonetic": "Xìnghǎo dàjiā tīng le qìxiàng yùbào, méiyǒu bèi yǔ lín shī.",
+      "text_native": "Heureusement, tout le monde avait écouté les prévisions météo et personne n'a été mouillé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "虽然没有看到山顶的太阳，但是这次登山很有意思。",
+      "phonetic": "Suīrán méiyǒu kàn dào shāndǐng de tàiyáng, dànshì zhè cì dēngshān hěn yǒu yìsi.",
+      "text_native": "Même s'ils n'ont pas vu le soleil au sommet, cette randonnée était passionnante."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "下午晚些时候，他们安全地回到了家。",
+      "phonetic": "Xiàwǔ wǎn xiē shíhou, tāmen ānquán de huí dào le jiā.",
+      "text_native": "En fin d'après-midi, ils sont rentrés chez eux sains et saufs."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "喝了一杯热茶之后，小明坐在沙发上好好休息。",
+      "phonetic": "Hē le yì bēi rè chá zhīhòu, xiǎomíng zuò zài shāfā shàng hǎohǎo xiūxī.",
+      "text_native": "Après avoir bu une tasse de thé chaud, Xiaoming s'est installé dans le canapé pour se reposer."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "他觉得周末的生活真是丰富多彩。",
+      "phonetic": "Tā juéde zhōumò de shēnghuó zhēn shì fēngfù duōcǎi.",
+      "text_native": "Il trouve que la vie du week-end est vraiment bien remplie et variée."
+    }
+  ]
+}

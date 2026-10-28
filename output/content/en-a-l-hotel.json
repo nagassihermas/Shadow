@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Hi, I have a booking under the name Smith.",
+    "phonetic": "/haɪ aɪ hæv ə ˈbʊkɪŋ ˈʌndər ðə neɪm smɪθ/",
+    "text_native": "Bonjour, j'ai une réservation au nom de Smith.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Here is my passport and a credit card.",
+    "phonetic": "/hɪər ɪz maɪ ˈpɑːspɔːrt ænd ə ˈkredɪt kɑːrd/",
+    "text_native": "Voici mon passeport et une carte bancaire.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Is breakfast included in the room rate?",
+    "phonetic": "/ɪz ˈbrekfəst ɪnˈkluːdɪd ɪn ðə ruːm reɪt/",
+    "text_native": "Est-ce que le petit-déjeuner est compris dans le prix de la chambre ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could you write down the Wi-Fi password for me?",
+    "phonetic": "/kʊd juː raɪt daʊn ðə ˈwaɪ faɪ ˈpæswɜːrd fɔːr miː/",
+    "text_native": "Pourriez-vous m'écrire le mot de passe du Wi-Fi ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Which floor is my room on?",
+    "phonetic": "/wɪtʃ flɔːr ɪz maɪ ruːm ɑːn/",
+    "text_native": "À quel étage se trouve ma chambre ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Where should I leave the key when I go out?",
+    "phonetic": "/wɛər ʃʊd aɪ liːv ðə kiː wɛn aɪ ɡoʊ aʊt/",
+    "text_native": "Où est-ce que je dois laisser la clé quand je sors ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "The lift seems to be out of order right now.",
+    "phonetic": "/ðə lɪft siːmz tuː biː aʊt ʌv ˈɔːrdər raɪt naʊ/",
+    "text_native": "L'ascenseur a l'air d'être en panne en ce moment.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Excuse me, my room key card isn't working.",
+    "phonetic": "/ɪkˈskjuːz miː maɪ ruːm kiː kɑːrd ˈɪzənt ˈwɜːrkɪŋ/",
+    "text_native": "Excusez-moi, la carte de ma chambre ne fonctionne pas.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could I get an extra pillow and a blanket, please?",
+    "phonetic": "/kʊd aɪ ɡɛt ən ˈekstrə ˈpɪloʊ ænd ə ˈblæŋkɪt pliːz/",
+    "text_native": "Pourrais-je avoir un oreiller en plus et une couverture, s'il vous plaît ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "The hot water isn't running in my bathroom.",
+    "phonetic": "/ðə hɑːt ˈwɔːtər ˈɪzənt ˈrʌnɪŋ ɪn maɪ ˈbɑːθruːm/",
+    "text_native": "Il n'y a pas d'eau chaude dans ma salle de bains.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Is it possible to change to a quieter room?",
+    "phonetic": "/ɪz ɪt ˈpɑːsəbl tuː tʃeɪndʒ tuː ə ˈkwaɪətər ruːm/",
+    "text_native": "Est-il possible de changer pour une chambre plus calme ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can you recommend a good local restaurant nearby?",
+    "phonetic": "/kæn juː ˌrekəˈmend ə ɡʊd ˈloʊkl ˈrestrɑːnt ˈnɪərbaɪ/",
+    "text_native": "Pouvez-vous me conseiller un bon restaurant sympa dans les environs ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "How much does a taxi to the airport cost from here?",
+    "phonetic": "/haʊ mʌtʃ dʌz ə ˈtæksi tuː ði ˈɛrpɔːrt kɔːst frʌm hɪər/",
+    "text_native": "Combien coûte une course en taxi pour l'aéroport d'ici ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could someone help me bring my heavy bags down?",
+    "phonetic": "/kʊd ˈsʌmwʌn hɛlp miː brɪŋ maɪ ˈhɛvi bæɡz daʊn/",
+    "text_native": "Est-ce que quelqu'un pourrait m'aider à descendre mes gros sacs ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "We need to check out early tomorrow morning, around six.",
+    "phonetic": "/wiː niːd tuː tʃɛk aʊt ˈɜːrli təˈmɑːroʊ ˈmɔːrnɪŋ əˈraʊnd sɪks/",
+    "text_native": "Nous devons libérer la chambre tôt demain matin, vers six heures.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Is it safe to leave our valuables in the room safe?",
+    "phonetic": "/ɪz ɪt seɪf tuː liːv ˈaʊər ˈvæljuəblz ɪn ðə ruːm seɪf/",
+    "text_native": "Est-ce qu'on peut laisser nos objets de valeur dans le coffre de la chambre sans risque ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can we store our luggage here for a few hours after checking out?",
+    "phonetic": "/kæn wiː stɔːr ˈaʊər ˈlʌɡɪdʒ hɪər fɔːr ə fjuː ˈaʊərz ˈæftər ˈtʃekɪŋ aʊt/",
+    "text_native": "Peut-on laisser nos bagages ici quelques heures après avoir rendu la chambre ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do you offer a laundry service for clothes?",
+    "phonetic": "/duː juː ˈɔːfər ə ˈlɔːndri ˈsɜːrvɪs fɔːr kloʊðz/",
+    "text_native": "Proposez-vous un service de blanchisserie pour les vêtements ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could you book a reliable taxi for us for tomorrow at seven?",
+    "phonetic": "/kʊd juː bʊk ə rɪˈlaɪəbl ˈtæksi fɔːr ʌs fɔːr təˈmɑːroʊ æt ˈsevən/",
+    "text_native": "Pourriez-vous nous réserver un taxi fiable pour demain à sept heures ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "I'd like to pay the final bill with my credit card, please.",
+    "phonetic": "/aɪd laɪk tuː peɪ ðə ˈfaɪnl bɪl wɪð maɪ ˈkredɪt kɑːrd pliːz/",
+    "text_native": "Je voudrais régler la facture finale avec ma carte bancaire, s'il vous plaît.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  }
+]

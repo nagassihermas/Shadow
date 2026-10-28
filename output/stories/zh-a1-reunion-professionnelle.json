@@ -1,0 +1,210 @@
+{
+  "title": "公司开会",
+  "new_vocabulary": [
+    "今天",
+    "上午",
+    "十点",
+    "大家",
+    "来",
+    "办公室",
+    "坐",
+    "经理",
+    "说话",
+    "听",
+    "看",
+    "文件",
+    "问题",
+    "回答",
+    "对",
+    "好",
+    "工作",
+    "项目",
+    "时间",
+    "半",
+    "结束",
+    "谢谢",
+    "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天上午十点，公司有一个会。",
+      "phonetic": "Jīntiān shàngwǔ shí diǎn, gōngsī yǒu yí gè huì.",
+      "text_native": "Ce matin à dix heures, il y a une réunion dans l'entreprise."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "大家来到办公室。",
+      "phonetic": "Dàjiā lái dào bàngōngshì.",
+      "text_native": "Tout le monde arrive au bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "房间里有很多桌子和椅子。",
+      "phonetic": "Fángjiān lǐ yǒu hěn duō zhuōzi hé yǐzi.",
+      "text_native": "Il y a beaucoup de tables et de chaises dans la pièce."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "人很多，大家坐下。",
+      "phonetic": "Rén hěn duō, dàjiā zuò xia.",
+      "text_native": "Il y a beaucoup de monde, tout le monde s'assoit."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "桌子上有电脑、纸和笔。",
+      "phonetic": "Zhuōzi shàng yǒu diànnǎo, zhǐ hé bǐ.",
+      "text_native": "Il y a un ordinateur, du papier et des stylos sur la table."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "经理走进办公室。",
+      "phonetic": "Jīnglǐ zǒu jìn bàngōngshì.",
+      "text_native": "Le directeur entre dans le bureau."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "经理坐在中间的椅子上。",
+      "phonetic": "Jīnglǐ zuò zài zhōngjiān de yǐzi shàng.",
+      "text_native": "Le directeur s'assoit sur la chaise du milieu."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "大家看着经理。",
+      "phonetic": "Dàjiā kàn zhe jīnglǐ.",
+      "text_native": "Tout le monde regarde le directeur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "经理开始说话。",
+      "phonetic": "Jīnglǐ kāishǐ shuōhuà.",
+      "text_native": "Le directeur commence à parler."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "大家认真听经理说话。",
+      "phonetic": "Dàjiā rènzhēn tīng jīnglǐ shuōhuà.",
+      "text_native": "Tout le monde écoute attentivement le directeur."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "经理手里有一份文件。",
+      "phonetic": "Jīnglǐ shǒulǐ yǒu yí fèn wénjiàn.",
+      "text_native": "Le directeur a un document dans la main."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "每个人也看自己的纸。",
+      "phonetic": "Měi gè rén yě kàn zìjǐ de zhǐ.",
+      "text_native": "Chacun regarde aussi ses propres notes."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "文件上有很多工作内容。",
+      "phonetic": "Wénjiàn shàng yǒu hěn duō gōngzuò nèiróng.",
+      "text_native": "Le document contient de nombreux détails sur le travail."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "这是一个新的项目。",
+      "phonetic": "Zhè shì yí gè xīn de xiàngmù.",
+      "text_native": "C'est un nouveau projet."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "经理问大家一个问题。",
+      "phonetic": "Jīnglǐ wèn dàjiā yí gè wèntí.",
+      "text_native": "Le directeur pose une question à tout le monde."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "一个人举手。",
+      "phonetic": "Yí gè rén jǔ shǒu.",
+      "text_native": "Quelqu'un lève la main."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "这个人回答经理的问题。",
+      "phonetic": "Zhè gè rén huídá jīnglǐ de wèntí.",
+      "text_native": "Cette personne répond à la question du directeur."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "经理点头说对。",
+      "phonetic": "Jīnglǐ diǎntóu shuō duì.",
+      "text_native": "Le directeur hoche la tête et dit que c'est exact."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "另外一个人用电脑看资料。",
+      "phonetic": "Lìngwài yí gè rén yòng diànnǎo kàn zīliào.",
+      "text_native": "Une autre personne consulte des documents sur son ordinateur."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "大家用笔写下重要的东西。",
+      "phonetic": "Dàjiā yòng bǐ xiě xià zhòngyào de dōngxī.",
+      "text_native": "Tout le monde note les points importants."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "会议室里非常安静。",
+      "phonetic": "Huìyìshì lǐ fēicháng ānjìng.",
+      "text_native": "La salle de réunion est très calme."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "大家讨论得很好。",
+      "phonetic": "Dàjiā tǎolùn de hěn hǎo.",
+      "text_native": "La discussion se déroule très bien."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "时间过得很快。",
+      "phonetic": "Shíjiān guò de hěn kuài.",
+      "text_native": "Le temps passe très vite."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "现在十一点半了。",
+      "phonetic": "Xiànzài shíyī diǎn bàn le.",
+      "text_native": "Il est maintenant onze heures et demie."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "经理说今天的会到这里。",
+      "phonetic": "Jīnglǐ shuō jīntiān de huì dào zhèlǐ.",
+      "text_native": "Le directeur annonce que la réunion d'aujourd'hui s'arrête ici."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "会议结束了。",
+      "phonetic": "Huìyì jiéshù le.",
+      "text_native": "La réunion est terminée."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "经理谢谢大家。",
+      "phonetic": "Jīnglǐ xièxiè dàjiā.",
+      "text_native": "Le directeur remercie tout le monde."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "大家收拾桌子上的纸和笔。",
+      "phonetic": "Dàjiā shōushí zhuōzi shàng de zhǐ hé bǐ.",
+      "text_native": "Tout le monde range ses papiers et ses stylos."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "人们关上电脑离开房间。",
+      "phonetic": "Rénmen guān shàng diànnǎo líkāi fángjiān.",
+      "text_native": "Les participants éteignent leurs ordinateurs et quittent la pièce."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "大家互相说再见。",
+      "phonetic": "Dàjiā hùxiāng shuō zàijiàn.",
+      "text_native": "Tout le monde se dit au revoir."
+    }
+  ]
+}

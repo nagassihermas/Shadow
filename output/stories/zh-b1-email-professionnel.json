@@ -1,0 +1,217 @@
+{
+  "title": "处理重要邮件",
+  "new_vocabulary": [
+    "重要",
+    "部门",
+    "主管",
+    "必须",
+    "尽快",
+    "处理",
+    "问题",
+    "报告",
+    "数据",
+    "准确",
+    "认真",
+    "仔细",
+    "确认",
+    "意见",
+    "建议",
+    "讨论",
+    "同事们",
+    "大家",
+    "方向",
+    "目标",
+    "顺利",
+    "推进",
+    "进展",
+    "情况",
+    "随时",
+    "保持",
+    "沟通",
+    "期待",
+    "结果",
+    "结束"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早上我来到办公室，打开电脑准备工作。",
+      "phonetic": "Jīntiān zǎoshang wǒ láidào bàngōngshì, dǎkāi diànnǎo zhǔnbèi gōngzuò.",
+      "text_native": "Ce matin, je suis arrivé au bureau et j'ai ouvert mon ordinateur pour travailler."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我看到收件箱里有一封非常重要的邮件。",
+      "phonetic": "Wǒ kàndào shōujiànxiāng lǐ yǒuyì fēng fēicháng zhòngyào de yóujiàn.",
+      "text_native": "J'ai vu qu'il y avait un e-mail très important dans ma boîte de réception."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "发件人是我们部门的主管。",
+      "phonetic": "Fàjiànrén shì wǒmen bùmén de zhǔguǎn.",
+      "text_native": "L'expéditeur est le responsable de notre département."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "主管在信里说，我们必须尽快处理一个新问题。",
+      "phonetic": "Zhǔguǎn zài xìn lǐ shuō, wǒmen bìxū jǐnkuài chǔlǐ yígè xīn wèntí.",
+      "text_native": "Le responsable a dit dans son message que nous devons traiter un nouveau problème dès que possible."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "客户对上次的项目报告有一些疑问。",
+      "phonetic": "Kèhù duì shàng cì de xiàngmù bàogào yǒu yīxiē yíwèn.",
+      "text_native": "Le client a quelques questions sur le rapport de projet de la dernière fois."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "邮件的附件里有客户的具体意见。",
+      "phonetic": "Yóujiàn de fùjiàn lǐ yǒu kèhù de jùtǐ yìjiàn.",
+      "text_native": "Il y a les avis précis du client dans la pièce jointe de l'e-mail."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我仔细看了文件里面的所有数据。",
+      "phonetic": "Wǒ zìxì kànle wénjiàn lǐmiàn de suǒyǒu shùjù.",
+      "text_native": "J'ai regardé attentivement toutes les données à l'intérieur du document."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我发现几个数字不够准确。",
+      "phonetic": "Wǒ fāxiàn jǐ gè shùzì bú gòu zhǔnquè.",
+      "text_native": "J'ai trouvé que quelques chiffres n'étaient pas assez précis."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "为了不犯错误，我认真修改了这份文件。",
+      "phonetic": "Wèile bù fàn cuòwù, wǒ rènzhēn xiūgǎile zhè fèn wénjiàn.",
+      "text_native": "Pour ne pas faire d'erreurs, j'ai modifié soigneusement ce document."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "修改完以后，我又检查了一遍。",
+      "phonetic": "Xiūgǎi wán yǐhòu, wǒ yòu jiǎnchá le yí biàn.",
+      "text_native": "Une fois les modifications terminées, je l'ai vérifié à nouveau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "现在这份计划已经非常完美了。",
+      "phonetic": "Xiànzài zhè fèn jìhuà yǐjīng fēicháng wánměi le.",
+      "text_native": "Maintenant, ce plan est absolument parfait."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我决定给同事们写一封回信商量一下。",
+      "phonetic": "Wǒ juédìng gěi tóngshìmen xiě yì fēng huíxìn shāngliang yíxià.",
+      "text_native": "J'ai décidé d'écrire une réponse à mes collègues pour en discuter un peu."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我在信里写上了我的建议。",
+      "phonetic": "Wǒ zài xìn lǐ xiě shàng le wǒ de jiànyì.",
+      "text_native": "J'ai écrit mes suggestions dans le message."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "大家看了我的邮件都表示同意。",
+      "phonetic": "Dàjiā kànle wǒ de yóujiàn dōu biǎoshì tóngyì.",
+      "text_native": "Tout le monde a lu mon e-mail et a exprimé son accord."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "主管也觉得这个方向很正确。",
+      "phonetic": "Zhǔguǎn yě juéde zhè gè fāngxiàng hěn zhèngquè.",
+      "text_native": "Le responsable trouve aussi que cette orientation est très correcte."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "下午两点，我们开了一个短会。",
+      "phonetic": "Xiàwǔ liǎng diǎn, wǒmen kāile yígè duǎn huì.",
+      "text_native": "À quatorze heures, nous avons tenu une brève réunion."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我们在会议上确定了最终的目标。",
+      "phonetic": "Wǒmen zài huìyì shàng quèdìng le zuìzhōng de mùbiāo.",
+      "text_native": "Nous avons déterminé l'objectif final lors de la réunion."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "大家都希望项目能够顺利推进。",
+      "phonetic": "Dàjiā dōu xīwàng xiàngmù nénggòu shùnlì tuījìn.",
+      "text_native": "Tout le monde espère que le projet pourra progresser sans encombres."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "明天的安排已经通过通知发给大家了。",
+      "phonetic": "Míngtiān de ānpái yǐjīng tōngguò tōngzhī fā gěi dàjiā le.",
+      "text_native": "Le planning de demain a déjà été communiqué à tout le monde par avis."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "客户发来消息说他们收到了文件。",
+      "phonetic": "Kèhù fā lái xiāoxi shuō tāmen shōudào le wénjiàn.",
+      "text_native": "Le client a envoyé un message pour dire qu'ils avaient bien reçu le document."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他们对我们的工作进度很满意。",
+      "phonetic": "Tāmen duì wǒmen de gōngzuò jìndù hěn mǎnyì.",
+      "text_native": "Ils sont très satisfaits de notre rythme de travail."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "为了保持联系，我存了他们的电话号码。",
+      "phonetic": "Wèile bǎochí liánxì, wǒ cún le tāmen de diànhuà hàomǎ.",
+      "text_native": "Pour garder le contact, j'ai enregistré leur numéro de téléphone."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "如果有新的情况，我们会随时沟通。",
+      "phonetic": "Rúguǒ yǒu xīn de qíngkuàng, wǒmen huì suíshí gōutōng.",
+      "text_native": "S'il y a du nouveau, nous communiquerons sans tarder."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "这份报告的细节需要打印出来签字。",
+      "phonetic": "Zhè fèn bàogào de xìjié xūyào dǎyìn chūlái qiānzì.",
+      "text_native": "Les détails de ce rapport doivent être imprimés pour être signés."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我走到打印机旁边拿好了纸。",
+      "phonetic": "Wǒ zǒu dào dǎyìnjī pángbiān ná hǎo le zhǐ.",
+      "text_native": "Je suis allé près de l'imprimante pour préparer le papier."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "大家都很期待最后的好结果。",
+      "phonetic": "Dàjiā dōu hěn qīdài zuìhòu de hǎo jiéguǒ.",
+      "text_native": "Tout le monde attend avec impatience le résultat final."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "今天的工作任务终于快要完成了。",
+      "phonetic": "Jīntiān de gōngzuò rènwù zhōngyú kuàiyào wánchéng le.",
+      "text_native": "La tâche de travail d'aujourd'hui est enfin sur le point d'être achevée."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我关上电脑准备离开办公室。",
+      "phonetic": "Wǒ guānshàng diànnǎo zhǔnbèi líkāi bàngōngshì.",
+      "text_native": "J'ai éteint l'ordinateur en me préparant à quitter le bureau."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这是一次非常成功的工作体验。",
+      "phonetic": "Zhè shì yí cì fēicháng chénggōng de gōngzuò tǐyàn.",
+      "text_native": "C'est une expérience de travail très réussie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "明天我将继续处理剩下的邮件。",
+      "phonetic": "Míngtiān wǒ jiāng jìxù chǔlǐ shèngxià de yóujiàn.",
+      "text_native": "Demain, je continuerai à traiter les e-mails restants."
+    }
+  ]
+}

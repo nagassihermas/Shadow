@@ -1,0 +1,193 @@
+{
+  "title": "看医生",
+  "new_vocabulary": [
+    "医生",
+    "医院",
+    "头",
+    "肚子",
+    "药",
+    "钱"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我是马克。",
+      "phonetic": "Wǒ shì Mǎkè.",
+      "text_native": "Je suis Marc."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我不好。",
+      "phonetic": "Wǒ bù hǎo.",
+      "text_native": "Je ne vais pas bien."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我头疼。",
+      "phonetic": "Wǒ tóu téng.",
+      "text_native": "J'ai mal à la tête."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我肚子疼。",
+      "phonetic": "Wǒ dùzi téng.",
+      "text_native": "J'ai mal au ventre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我去医院。",
+      "phonetic": "Wǒ qù yīyuàn.",
+      "text_native": "Je vais à l'hôpital."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "医院很大。",
+      "phonetic": "Yīyuàn hěn dà.",
+      "text_native": "L'hôpital est grand."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我进去。",
+      "phonetic": "Wǒ jìn qù.",
+      "text_native": "J'entre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我坐下。",
+      "phonetic": "Wǒ zuò xià.",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我等一下。",
+      "phonetic": "Wǒ děng yíxià.",
+      "text_native": "J'attends un moment."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "医生来了。",
+      "phonetic": "Yīshēng lái le.",
+      "text_native": "Le médecin arrive."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "医生好。",
+      "phonetic": "Yīshēng hǎo.",
+      "text_native": "Bonjour docteur."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我是病人。",
+      "phonetic": "Wǒ shì bìngrén.",
+      "text_native": "Je suis le patient."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "医生看我。",
+      "phonetic": "Yīshēng kàn wǒ.",
+      "text_native": "Le médecin me regarde."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "医生问我。",
+      "phonetic": "Yīshēng wèn wǒ.",
+      "text_native": "Le médecin me demande."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我说头疼。",
+      "phonetic": "Wǒ shuō tóu téng.",
+      "text_native": "Je dis que j'ai mal à la tête."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "医生点头。",
+      "phonetic": "Yīshēng diǎn tóu.",
+      "text_native": "Le médecin hoche la tête."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "医生检查。",
+      "phonetic": "Yīshēng jiǎnchá.",
+      "text_native": "Le médecin examine."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "肚子很疼。",
+      "phonetic": "Dùzi hěn téng.",
+      "text_native": "Le ventre fait très mal."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "医生给药。",
+      "phonetic": "Yīshēng gěi yào.",
+      "text_native": "Le médecin donne des médicaments."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "药是白色。",
+      "phonetic": "Yào shì báisè.",
+      "text_native": "Le médicament est blanc."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我有药.",
+      "phonetic": "Wǒ yǒu yào.",
+      "text_native": "J'ai les médicaments."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "药很多。",
+      "phonetic": "Yào hěn duō.",
+      "text_native": "Il y a beaucoup de médicaments."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我付钱。",
+      "phonetic": "Wǒ fù qián.",
+      "text_native": "Je paie."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "钱不多。",
+      "phonetic": "Qián bù duō.",
+      "text_native": "Ce n'est pas cher."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "谢谢医生。",
+      "phonetic": "Xièxie yīshēng.",
+      "text_native": "Merci docteur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "医生再见。",
+      "phonetic": "Yīshēng zàijiàn.",
+      "text_native": "Au revoir docteur."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我出去。",
+      "phonetic": "Wǒ chū qù.",
+      "text_native": "Je sors."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我回家。",
+      "phonetic": "Wǒ huí jiā.",
+      "text_native": "Je rentre à la maison."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我吃药。",
+      "phonetic": "Wǒ chī yào.",
+      "text_native": "Je prends les médicaments."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我很好。",
+      "phonetic": "Wǒ hěn hǎo.",
+      "text_native": "Je vais très bien."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "A Dangerous Shift",
+  "new_vocabulary": [
+    "shift",
+    "manager",
+    "lock",
+    "vault",
+    "deposit",
+    "alarm",
+    "trigger",
+    "intruder",
+    "mask",
+    "weapon",
+    "threaten",
+    "cash",
+    "drawer",
+    "demand",
+    "cooperate",
+    "silent",
+    "code",
+    "counter",
+    "escape",
+    "alley",
+    "vehicle",
+    "pursuit",
+    "perimeter",
+    "contain",
+    "surround",
+    "surrender",
+    "handcuff",
+    "detain",
+    "rescue",
+    "exhausted"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Mark finished his late shift as the manager of the local bank.",
+      "phonetic": "/mɑːrk ˈfɪnɪʃt hɪz leɪt ʃɪft æz ðə ˈmænɪdʒər ʌv ðə ˈloʊkəl bæŋk/",
+      "text_native": "Mark a terminé son service de nuit en tant que directeur de la banque locale."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He prepared to lock the heavy vault after the daily deposit.",
+      "phonetic": "/hiː prɪˈpɛrd tuː lɑːk ðə ˈhɛvi vɔːlt ˈæftər ðə ˈdeɪli dɪˈpɑːzɪt/",
+      "text_native": "Il se préparait à fermer le lourd coffre-fort après le dépôt quotidien."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Suddenly, a loud alarm began to ring throughout the entire building.",
+      "phonetic": "/ˈsʌdənli, ə laʊd əˈlɑːrm bɪˈɡæn tuː rɪŋ θruːˈaʊt ði ɪnˈtaɪər ˈbɪldɪŋ/",
+      "text_native": "Soudain, une forte alarme a retenti dans tout le bâtiment."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Someone had triggered the security system near the back entrance.",
+      "phonetic": "/ˈsʌmwʌn hæd ˈtrɪɡərd ðə sɪˈkjʊrɪti ˈsɪstəm nɪr ðə bæk ˈɛntrəns/",
+      "text_native": "Quelqu'un avait déclenché le système de sécurité près de l'entrée arrière."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "An intruder wearing a dark mask stepped into the main office.",
+      "phonetic": "/ən ɪnˈtruːdər ˈwɛrɪŋ ə dɑːrk mæsk stɛpt ˈɪntuː ðə meɪn ˈɔfɪs/",
+      "text_native": "Un intrus portant un masque sombre est entré dans le bureau principal."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The man was holding a dangerous weapon and demanding money.",
+      "phonetic": "/ðə mæn wʌz ˈhoʊldɪŋ ə ˈdeɪndʒərəs ˈwɛpən ənd dɪˈmændɪŋ ˈmʌni/",
+      "text_native": "L'homme tenait une arme dangereuse et réclamait de l'argent."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Mark felt intense fear, but he remembered his safety training.",
+      "phonetic": "/mɑːrk fɛlt ɪnˈtɛns fɪr, bʌt hiː rɪˈmɛmbərd hɪz ˈseɪfti ˈtreɪnɪŋ/",
+      "text_native": "Mark a ressenti une peur intense, mais il s'est rappelé sa formation à la sécurité."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He knew he had to cooperate and avoid any sudden movements.",
+      "phonetic": "/hiː nuː hiː hæd tuː koʊˈɑːrəˌpeɪt ənd əˈvɔɪd ˈɛni ˈsʌdən ˈmuːvmənts/",
+      "text_native": "Il savait qu'il devait coopérer et éviter tout mouvement brusque."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The criminal shouted at him to open the cash drawer immediately.",
+      "phonetic": "/ðə ˈkrɪmɪnəl ˈʃaʊtɪd æt hɪm tuː ˈoʊpən ðə kæʃ drɔːər ɪˈmiːdiətli/",
+      "text_native": "Le criminel lui a crié d'ouvrir immédiatement le tiroir-caisse."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "While opening the register, Mark discreetly pressed a silent alarm code.",
+      "phonetic": "/waɪl ˈoʊpənɪŋ ðə ˈrɛdʒɪstər, mɑːrk dɪˈskriːtli prɛst ə ˈsaɪlənt əˈlɑːrm koʊd/",
+      "text_native": "Tout en ouvrant la caisse, Mark a discrètement composé un code d'alarme silencieux."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The alert went directly to the police department downtown.",
+      "phonetic": "/ði əˈlɜːrt wɛnt dɪˈrɛktli tuː ðə pəˈliːs dɪˈpɑːrtmənt ˈdaʊnˌtaʊn/",
+      "text_native": "L'alerte a été transmise directement au commissariat du centre-ville."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Officers in a nearby patrol car heard the urgent dispatch.",
+      "phonetic": "/ˈɔfɪsərz ɪn ə ˈnɪrbi pəˈtroʊl kɑːr hɜːrd ði ˈɜːrdʒənt dɪˈspætʃ/",
+      "text_native": "Des agents à bord d'une voiture de patrouille proche ont entendu l'appel urgent."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "They drove very fast toward the financial district with flashing lights.",
+      "phonetic": "/ðeɪ droʊv ˈvɛri fæst təˈwɔːrd ðə fəˈnænʃəl ˈdɪstrɪkt wɪð ˈflæʃɪŋ laɪts/",
+      "text_native": "Ils ont foncé vers le quartier financier gyrophores allumés."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Inside the bank, the thief grabbed the money and tried to escape.",
+      "phonetic": "/ɪnˈsaɪd ðə bæŋk, ðə θiːf ɡræbd ðə ˈmʌni ənd traɪd tuː ɪˈskeɪp/",
+      "text_native": "À l'intérieur de la banque, le voleur s'est emparé de l'argent et a tenté de s'enfuir."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He ran toward the back door that led into a dark alley.",
+      "phonetic": "/hiː ræn təˈwɔːrd ðə bæk dɔːr ðæt lɛd ˈɪntuː ə dɑːrk ˈæli/",
+      "text_native": "Il a couru vers la porte de derrière qui menait à une ruelle sombre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "However, the first police cruiser arrived just as he stepped outside.",
+      "phonetic": "/haʊˈɛvər, ðə fɜːrst pəˈliːs ˈkruːzər əˈraɪvd dʒʌst æz hiː stɛpt ˈaʊtˈsaɪd/",
+      "text_native": "Cependant, la première voiture de patrouille est arrivée au moment même où il sortait."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The officers quickly secured the perimeter to prevent any escape.",
+      "phonetic": "/ði ˈɔfɪsərz ˈkwɪkli sɪˈkjʊrd ðə pəˈrɪmɪtər tuː prɪˈvɛnt ˈɛni ɪˈskeɪp/",
+      "text_native": "Les policiers ont rapidement bouclé le périmètre pour empêcher toute fuite."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "More units joined the scene and surrounded the entire building.",
+      "phonetic": "/mɔːr ˈjuːnɪts dʒɔɪnd ðə siːn ənd səˈraʊndɪd ði ɪnˈtaɪər ˈbɪldɪŋ/",
+      "text_native": "D'autres unités sont arrivées en renfort et ont encerclé tout le bâtiment."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The dispatcher updated the team through their radio devices.",
+      "phonetic": "/ðə dɪˈspætʃər ˈʌpˌdeɪtɪd ðə tiːm θruː ðɛr ˈreɪdiˌoʊ dɪˈvaɪsɪz/",
+      "text_native": "Le répartiteur a fait le point avec l'équipe via leurs radios."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "A police officer used a loudspeaker to order the suspect to surrender.",
+      "phonetic": "/ə pəˈliːs ˈɔfɪsər juːzd ə ˈlaʊdˌspiːkər tuː ˈɔrdər ðə ˈsʌspɛkt tuː səˈrɛndər/",
+      "text_native": "Un agent de police a utilisé un haut-parleur pour sommer le suspect de se rendre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The criminal realized he was trapped and could not run away.",
+      "phonetic": "/ðə ˈkrɪmɪnəl ˈriːəˌlaɪzd hiː wʌz træpt ənd kʊd nɑːt rʌn əˈweɪ/",
+      "text_native": "Le criminel a réalisé qu'il était piégé et ne pouvait plus s'enfuir."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Slowly, he dropped his weapon and walked out with his hands up.",
+      "phonetic": "/ˈsloʊli, hiː drɑːpt hɪz ˈwɛpən ənd wɔːkt aʊt wɪð hɪz hændz ʌp/",
+      "text_native": "Lentement, il a lâché son arme et est sorti les mains en l'air."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The officers moved in fast to detain him without further risk.",
+      "phonetic": "/ði ˈɔfɪsərz muːvd ɪn fæst tuː dɪˈteɪn hɪm wɪˈðaʊt ˈfɜːrðər rɪsk/",
+      "text_native": "Les policiers ont foncées pour l'interpeller sans prendre de risques supplémentaires."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "They handcuffed the thief securely and placed him in the patrol car.",
+      "phonetic": "/ðeɪ ˈhændˌkʌft ðə θiːf sɪˈkjʊrli ənd pleɪst hɪm ɪn ðə pəˈtroʊl kɑːr/",
+      "text_native": "Ils ont solidement menotté le voleur et l'ont fait monter dans la voiture de patrouille."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Another officer checked on Mark inside to ensure he was safe.",
+      "phonetic": "/əˈnʌðər ˈɔfɪsər tʃɛkt ɑːn mɑːrk ɪnˈsaɪd tuː ɪnˈʃʊr hiː wʌz seɪf/",
+      "text_native": "Un autre agent est allé voir Mark à l'intérieur pour s'assurer qu'il allait bien."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Paramedics arrived shortly after to provide medical support if needed.",
+      "phonetic": "/ˌpærəˈmɛdɪks əˈraɪvd ˈʃɔrtli ˈæftər tuː prəˈvaɪd ˈmɛdɪkəl səˈpɔːrt ɪf ˈniːdɪd/",
+      "text_native": "Des secouristes sont arrivés peu après pour lui prodiguer des soins si nécessaire."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Mark felt extremely exhausted, but the dangerous situation was finally resolved.",
+      "phonetic": "/mɑːrk fɛlt ɪkˈstriːmli ɪɡˈzɔstɪd, bʌt ðə ˈdeɪndʒərəs ˌsɪtʃuˈeɪʃən wʌz ˈfaɪnəli rɪˈzɑːlvd/",
+      "text_native": "Mark se sentait extrêmement épuisé, mais cette situation périlleuse était enfin résolue."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Witnesses gave their statements to the detectives investigating the crime scene.",
+      "phonetic": "/ˈwɪtnəsɪz ɡeɪv ðɛr ˈsteɪtmənts tuː ðə dɪˈtɛktɪvz ɪnˈvɛstɪɡeɪtɪŋ ðə kraɪm siːn/",
+      "text_native": "Des témoins ont fait leurs dépositions aux enquêteurs dépêchés sur la scène de crime."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The professional responders handled the emergency calmly and efficiently.",
+      "phonetic": "/ðə prəˈfɛʃənəl rɪˈspɑːndərz ˈhændəld ði ˈɜːrdʒənsi ˈkɑːmli ənd ɪˈfɪʃəntli/",
+      "text_native": "Les secours professionnels ont géré l'urgence avec calme et efficacité."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "After a long night, Mark returned home knowing the neighborhood was secure again.",
+      "phonetic": "/ˈæftər ə lɔːŋ naɪt, mɑːrk rɪˈtɜːrnd hoʊm ˈnoʊɪŋ ðə ˈneɪbərˌhʊd wʌz sɪˈkjʊr əˈɡɛn/",
+      "text_native": "Après une longue nuit, Mark est rentré chez lui en sachant que le quartier était à nouveau en sécurité."
+    }
+  ]
+}

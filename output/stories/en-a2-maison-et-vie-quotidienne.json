@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Morning",
+  "new_vocabulary": [
+    "apartment",
+    "floor",
+    "stairs",
+    "living room",
+    "sofa",
+    "television",
+    "lamp",
+    "shelf",
+    "book",
+    "desk",
+    "computer",
+    "paper",
+    "pen",
+    "notebook",
+    "bathroom",
+    "shower",
+    "soap",
+    "towel",
+    "mirror",
+    "hairbrush",
+    "wardrobe",
+    "shirt",
+    "pants",
+    "shoes",
+    "jacket",
+    "umbrella",
+    "front door",
+    "lock",
+    "street",
+    "bus"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom lives in a small apartment on the second floor.",
+      "phonetic": "/tɒm lɪvz ɪn ə smɔːl əˈpɑːtmənt ɒn ðə ˈsɛkənd flɔː/",
+      "text_native": "Tom vit dans un petit appartement au deuxième étage."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He wakes up when the alarm clock sounds.",
+      "phonetic": "/hiː weɪks ʌp wɛn ði əˈlɑːm klɒk saʊndz/",
+      "text_native": "Il se réveille quand le réveil sonne."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He gets out of bed and puts his feet on the cold floor.",
+      "phonetic": "/hiː gɛts aʊt ɒv bɛd ænd pʊts hɪz fiːt ɒn ðə kəʊld flɔː/",
+      "text_native": "Il sort du lit et pose ses pieds sur le sol froid."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He walks out of the bedroom and goes down the stairs.",
+      "phonetic": "/hiː wɔːks aʊt ɒv ðə ˈbɛdruːm ænd gəʊz daʊn ðə stɛəz/",
+      "text_native": "Il sort de la chambre et descend les escaliers."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He enters the living room and looks at the big window.",
+      "phonetic": "/hiː ˈɛntəz ðə ˈlɪvɪŋ ruːm ænd lʊks æt ðə bɪg ˈwɪndəʊ/",
+      "text_native": "Il entre dans le salon et regarde la grande fenêtre."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The weather outside is very sunny today.",
+      "phonetic": "/ðə ˈwɛðə ˈaʊtsaɪd ɪz ˈvɛri ˈsʌni təˈdeɪ/",
+      "text_native": "Il fait très beau dehors aujourd'hui."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "There is a green sofa and a small wooden table near the wall.",
+      "phonetic": "/ðɛr ɪz ə griːn ˈsəʊfə ænd ə smɔːl ˈwʊdən ˈteɪbl nɪə ðə wɔːl/",
+      "text_native": "Il y a un canapé vert et une petite table en bois près du mur."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "A tall lamp stands behind the sofa.",
+      "phonetic": "/ə tɔːl læmp stændz bɪˈhaɪnd ðə ˈsəʊfə/",
+      "text_native": "Un grand lampadaire se dresse derrière le canapé."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He sees many interesting books on the wooden shelf.",
+      "phonetic": "/hiː siːz ˈmɛni ˈɪntrɪstɪŋ bʊks ɒn ðə ˈwʊdən ʃɛlf/",
+      "text_native": "Il voit de nombreux livres intéressants sur l'étagère en bois."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Next to the shelf, his computer is on the clean desk.",
+      "phonetic": "/nɛkst tuː ðə ʃɛlf, hɪz kəmˈpjuːtə ɪz ɒn ðə kliːn dɛsk/",
+      "text_native": "À côté de l'étagère, son ordinateur est posé sur le bureau propre."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He leaves some paper and a pen beside the computer.",
+      "phonetic": "/hiː liːvz sʌm ˈpeɪpər ænd ə pɛn bɪˈsaɪd ðə kəmˈpjuːtə/",
+      "text_native": "Il laisse du papier et un stylo à côté de l'ordinateur."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Then he walks into the modern kitchen to make breakfast.",
+      "phonetic": "/ðɛn hiː wɔːks ˈɪntuː ðə ˈmɒdən ˈkɪtʃɪn tuː meɪk ˈbrɛkfəst/",
+      "text_native": "Ensuite, il va dans la cuisine moderne pour préparer le petit-déjeuner."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He opens the fridge and takes out the milk and butter.",
+      "phonetic": "/hiː ˈəʊpənz ðə frɪdʒ ænd teɪks aʊt ðə mɪlk ænd ˈbʌtə/",
+      "text_native": "Il ouvre le réfrigérateur et sort le lait et le beurre."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He uses a sharp knife to cut some fresh bread.",
+      "phonetic": "/hiː ˈjuːzɪz ə ʃɑːp naɪf tuː kʌt sʌm frɛʃ brɛd/",
+      "text_native": "Il utilise un couteau bien aiguisé pour couper du pain frais."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "He puts the bread on a white plate.",
+      "phonetic": "/hiː pʊts ðə brɛd ɒn ə waɪt pleɪt/",
+      "text_native": "Il met le pain sur une assiette blanche."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The coffee maker prepares a hot cup of coffee quickly.",
+      "phonetic": "/ðə ˈkɒfi ˈmeɪkə prɪˈpɛəz ə hɒt kʌp ɒv ˈkɒfi ˈkwɪkli/",
+      "text_native": "La cafetière prépare rapidement une tasse de café chaud."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He sits on a comfortable chair and eats his meal.",
+      "phonetic": "/hiː sɪts ɒn ə ˈkʌmfətəbl tʃɛər ænd iːts hɪz miːl/",
+      "text_native": "Il s'assoit sur une chaise confortable et prend son repas."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "When he finishes eating, he goes to the bathroom.",
+      "phonetic": "/wɛn hiː ˈfɪnɪʃɪz ˈiːtɪŋ, hiː gəʊz tuː ðə ˈbɑːθruːm/",
+      "text_native": "Quand il a fini de manger, il va dans la salle de bains."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He takes a quick shower with warm water and nice soap.",
+      "phonetic": "/hiː teɪks ə kwɪk ˈʃaʊə wɪð wɔːm ˈwɔːtər ænd naɪs səʊp/",
+      "text_native": "Il prend une douche rapide avec de l'eau tiède et du bon savon."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He dries his face and body with a soft towel.",
+      "phonetic": "/hiː draɪz hɪz feɪs ænd ˈbɒdi wɪð ə sɒft ˈtaʊəl/",
+      "text_native": "Il s'essuie le visage et le corps avec une serviette douce."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He looks in the mirror and brushes his short hair.",
+      "phonetic": "/hiː lʊks ɪn ðə ˈmɪrər ænd ˈbrʌʃɪz hɪz ʃɔːt hɛə/",
+      "text_native": "Il se regarde dans le miroir et se brosse les cheveux courts."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Then he returns to the bedroom to open his large wardrobe.",
+      "phonetic": "/ðɛn hiː rɪˈtɜːnz tuː ðə ˈbɛdruːm tuː ˈəʊpən hɪz lɑːrdʒ ˈwɔːdrəʊb/",
+      "text_native": "Ensuite, il retourne dans la chambre pour ouvrir sa grande armoire."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He chooses a clean blue shirt and dark pants.",
+      "phonetic": "/hiː ˈtʃuːzɪz ə kliːn bluː ʃɜːt ænd dɑːk pænts/",
+      "text_native": "Il choisit une chemise bleue propre et un pantalon foncé."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He puts on his shoes and wears his warm winter jacket.",
+      "phonetic": "/hiː pʊts ɒn hɪz ʃuːz ænd wɛəz hɪz wɔːm ˈwɪntə ˈdʒækɪt/",
+      "text_native": "Il met ses chaussures et enfile sa veste d'hiver bien chaude."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He checks the time on the clock on the wall.",
+      "phonetic": "/hiː tʃɛks ðə taɪm ɒn ðə klɒk ɒn ðə wɔːl/",
+      "text_native": "Il regarde l'heure sur l'horloge au mur."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He takes his phone, his keys, and a black umbrella.",
+      "phonetic": "/hiː teɪks hɪz fəʊn, hɪz kiːz, ænd ə blæk ʌmˈbrɛlə/",
+      "text_native": "Il prend son téléphone, ses clés et un parapluie noir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He walks to the front door and turns the metal lock.",
+      "phonetic": "/hiː wɔːks tuː ðə frʌnt dɔːr ænd tɜːnz ðə ˈmɛtl lɒk/",
+      "text_native": "Il marche jusqu'à la porte d'entrée et tourne la serrure."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He steps outside onto the busy street.",
+      "phonetic": "/hiː stɛps ˈaʊtsaɪd ˈɒntuː ðə ˈbɪzi striːt/",
+      "text_native": "Il sort dans la rue animée."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He locks the heavy door carefully behind him.",
+      "phonetic": "/hiː lɒks ðə ˈhɛvi dɔː ˈkɛəfʊli bɪˈhaɪnd hɪm/",
+      "text_native": "Il ferme soigneusement la lourde porte derrière lui."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He walks quickly to the corner to catch the morning bus.",
+      "phonetic": "/hiː wɔːks ˈkwɪkli tuː ðə ˈkɔːnə tuː kætʃ ðə ˈmɔːnɪŋ bʌs/",
+      "text_native": "Il marche d'un pas vif vers le coin de la rue pour prendre le bus du matin."
+    }
+  ]
+}

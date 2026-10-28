@@ -1,0 +1,264 @@
+{
+  "title": "A Dangerous Evening",
+  "new_vocabulary": [
+    "evening",
+    "neighborhood",
+    "return",
+    "grocery",
+    "bag",
+    "heavy",
+    "corner",
+    "shadow",
+    "suspicious",
+    "individual",
+    "follow",
+    "faster",
+    "heart",
+    "beat",
+    "fear",
+    "increase",
+    "decide",
+    "enter",
+    "convenience",
+    "store",
+    "clerk",
+    "notice",
+    "pale",
+    "face",
+    "immediately",
+    "understand",
+    "threat",
+    "lock",
+    "front",
+    "door",
+    "secure",
+    "premises",
+    "guidance",
+    "instruct",
+    "stay",
+    "away",
+    "glass",
+    "window",
+    "retrieve",
+    "cellular",
+    "dial",
+    "direct",
+    "connection",
+    "dispatcher",
+    "report",
+    "incident",
+    "provide",
+    "location",
+    "description",
+    "suspect",
+    "reassure",
+    "dispatch",
+    "units",
+    "investigate",
+    "sound",
+    "sirens",
+    "approach",
+    "area",
+    "presence",
+    "deter",
+    "criminal",
+    "dissipate",
+    "patrol",
+    "shop",
+    "verify",
+    "identity",
+    "witness",
+    "statement",
+    "process",
+    "conclude",
+    "tension",
+    "subside",
+    "gratitude",
+    "professionalism",
+    "responders",
+    "resolve",
+    "issue"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It was a quiet Tuesday evening in the residential neighborhood.",
+      "phonetic": "/ɪt wɒz ə ˈkwaɪət ˈtjuːzdeɪ ˈiːvnɪŋ ɪn ðə ˌrɛzɪˈdɛnʃəl ˈneɪbəhʊd/",
+      "text_native": "C'était un mardi soir calme dans le quartier résidentiel."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Sarah was returning home from the local grocery store.",
+      "phonetic": "/ˈsærə wɒz rɪˈtɜːnɪŋ həʊm frɒm ðə ˈləʊkəl ˈɡrəʊsəri stɔː/",
+      "text_native": "Sarah rentrait chez elle de l'épicerie du coin."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "She carried two heavy shopping bags in her hands.",
+      "phonetic": "/ʃiː ˈkærid tuː ˈhɛvi ˈʃɒpɪŋ bæɡz ɪn hɜː hændz/",
+      "text_native": "Elle portait deux lourds sacs de courses dans les mains."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "As she turned the corner, she noticed a shadow moving behind her.",
+      "phonetic": "/æz ʃiː tɜːnd ðə ˈkɔːnə, ʃiː ˈnəʊtɪst ə ˈʃædəʊ ˈmuːvɪŋ bɪˈhaɪnd hɜː/",
+      "text_native": "En tournant l'angle de la rue, elle remarqua une ombre qui bougeait derrière elle."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A suspicious individual seemed to follow her every step.",
+      "phonetic": "/ə səˈspɪʃəs ˌɪndɪˈvɪdjʊəl siːmd tuː ˈfɒləʊ hɜː ˈɛvri stɛp/",
+      "text_native": "Un individu suspect semblait suivre le moindre de ses pas."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "She started to walk much faster along the dark street.",
+      "phonetic": "/ʃiː ˈstɑːtɪd tuː wɔːk mʌtʃ ˈfɑːstə əˈlɒŋ ðə dɑːk striːt/",
+      "text_native": "Elle se mit à marcher beaucoup plus vite le long de la rue sombre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Her heart began to beat very fast inside her chest.",
+      "phonetic": "/hɜː hɑːt bɪˈɡæn tuː biːt ˈvɛri fɑːst ɪnˈsaɪd hɜː tʃɛst/",
+      "text_native": "Son cœur se mit à battre très vite dans sa poitrine."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Panic and fear increased with every second that passed.",
+      "phonetic": "/ˈpænɪk ænd fɪər ɪnˈkriːst wɪð ˈɛvri ˈsɛkənd ðæt pɑːst/",
+      "text_native": "La panique et la peur grandissaient à chaque seconde qui s'écoulait."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "She decided to enter a bright convenience store nearby.",
+      "phonetic": "/ʃiː dɪˈsaɪdɪd tuː ˈɛntə ə braɪt kənˈviːniəns stɔː ˈnɪəbaɪ/",
+      "text_native": "Elle décida d'entrer dans une supérette bien éclairée à proximité."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The shop clerk looked at her pale face with concern.",
+      "phonetic": "/ðə ʃɒp klɑːk lʊkt æt hɜː peɪl feɪs wɪð kənˈsɜːn/",
+      "text_native": "L'employé de la boutique observa son visage pâle avec inquiétude."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He understood immediately that she was in a dangerous situation.",
+      "phonetic": "/hiː ˌʌndəˈstʊd ɪˈmiːdiətli ðæt ʃiː wɒz ɪn ə ˈdeɪndʒərəs ˌsɪtjʊˈeɪʃən/",
+      "text_native": "Il comprit immédiatement qu'elle se trouvait dans une situation dangereuse."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Without waiting, he locked the front glass door securely.",
+      "phonetic": "/wɪðˈaʊt ˈweɪtɪŋ, hiː lɒkt ðə frʌnt ɡlɑːs dɔː sɪˈkjʊəli/",
+      "text_native": "Sans attendre, il verrouilla solidement la porte vitrée de l'entrée."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He gave her clear instructions to stay away from the windows.",
+      "phonetic": "/hiː ɡeɪv hɜː klɪə ɪnˈstrʌkʃənz tuː steɪ əˈweɪ frɒm ðə ˈwɪndəʊz/",
+      "text_native": "Il lui donna des instructions claires pour s'éloigner des fenêtres."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Sarah reached into her pocket and retrieved her mobile phone.",
+      "phonetic": "/ˈsærə riːtʃt ˈɪntuː hɜː ˈpɒkɪt ænd rɪˈtriːvd hɜː ˈməʊbaɪl fəʊn/",
+      "text_native": "Sarah fouilla dans sa poche et sortit son téléphone portable."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "She dialed the emergency number with trembling fingers.",
+      "phonetic": "/ʃiː ˈdaɪəld ði ɪˈmɜːdʒənsi ˈnʌmbə wɪð ˈtrɛmbəlɪŋ ˈfɪŋɡəz/",
+      "text_native": "Elle composa le numéro d'urgence d'une main tremblante."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The phone connected quickly to the local police dispatch.",
+      "phonetic": "/ðə fəʊn kəˈnɛktɪd ˈkwɪkli tuː ðə ˈləʊkəl pəˈliːs dɪˈspætʃ/",
+      "text_native": "L'appel fut rapidement mis en relation avec le centre de répartition de la police locale."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "A calm operator answered and asked her what was wrong.",
+      "phonetic": "/ə kɑːm ˈɒpəreɪtə ˈɑːnsəd ænd ɑːskt hɜː wɒt wɒz rɒŋ/",
+      "text_native": "Un opérateur au ton calme décrocha et lui demanda ce qui n'allait pas."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She tried to speak clearly and explained the incident.",
+      "phonetic": "/ʃiː traɪd tuː spiːk ˈklɪəli ænd ɪksˈpleɪnd ði ˈɪnsɪdənt/",
+      "text_native": "Elle s'efforça de parler clairement et expliqua l'incident."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The professional operator listened carefully and asked for her location.",
+      "phonetic": "/ðə prəˈfɛʃənl ˈɒpəreɪtə ˈlɪsnɪd ˈkeəfʊli ænd ɑːskt fɔː hɜː ləʊˈkeɪʃən/",
+      "text_native": "L'opérateur professionnel écouta attentivement et lui demanda sa position."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "She gave the exact address of the small shop.",
+      "phonetic": "/ʃiː ɡeɪv ði ɪɡˈzækt əˈdrɛs ɒv ðə smɔːl ʃɒp/",
+      "text_native": "Elle lui indiqua l'adresse exacte de la petite boutique."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The operator reassured her that help was already on the way.",
+      "phonetic": "/ðə ˈɒpəreɪtə ˌriːəˈʃʊəd hɜː ðæt hɛlp wɒz ɔːˈrɛdi ɒn ðə weɪ/",
+      "text_native": "L'opérateur la rassura en lui affirmant que des secours étaient déjà en route."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Police units were immediately sent to investigate the area.",
+      "phonetic": "/pəˈliːs ˈjuːnɪts wɜːr ɪˈmiːdiətli sɛnt tuː ɪnˈvɛstɪɡeɪt ði ˈeəriə/",
+      "text_native": "Des patrouilles de police furent immédiatement envoyées pour inspecter les environs."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "A few minutes later, the loud noise of sirens was heard.",
+      "phonetic": "/ə fjuː ˈmɪnɪts ˈleɪtə, ðə laʊd nɔɪz ɒv ˈsaɪrənz wɒz hɜːd/",
+      "text_native": "Quelques minutes plus tard, le hurlement de sirènes se fit entendre."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "A police car arrived quickly with flashing blue and red lights.",
+      "phonetic": "/ə pəˈliːs kɑːr əˈraɪvd ˈkwɪkli wɪð ˈflæʃɪŋ bluː ænd rɛd laɪts/",
+      "text_native": "Une voiture de police arriva en trombe, gyrophares bleus et rouges allumés."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The officers stepped out and looked around the quiet street.",
+      "phonetic": "/ði ˈɒfɪsəz stɛpt aʊt ænd lʊkt əˈraʊnd ðə ˈkwaɪət striːt/",
+      "text_native": "Les agents descendirent du véhicule et inspectèrent la rue calme."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The suspicious person had already disappeared into the dark night.",
+      "phonetic": "/ðə səˈspɪʃəs ˈpɜːsn hæd ɔːˈrɛdi ˌdɪsəˈpɪəd ɪntuː ðə dɑːk naɪt/",
+      "text_native": "L'individu suspect avait déjà disparu dans la nuit noire."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Sarah finally felt safe when she spoke with the police officers.",
+      "phonetic": "/ˈsærə ˈfaɪnəli fɛlt seɪf wɛn ʃiː spəʊk wɪð ðə pəˈliːs ˈɒfɪsəz/",
+      "text_native": "Sarah finit par se sentir en sécurité lorsqu'elle put parler aux policiers."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "She answered their questions and described the unknown man.",
+      "phonetic": "/ʃiː ˈɑːnsəd ðɛə ˈkwɛstʃənz ænd dɪˈskraɪbd ði ˈʌnnəʊn mæn/",
+      "text_native": "Elle répondit à leurs questions et fit la description de cet homme."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The officers wrote down her statement in an official notebook.",
+      "phonetic": "/ði ˈɒfɪsəz rəʊt daʊn hɜː ˈsteɪtmənt ɪn ən əˈfɪʃəl ˈnəʊtbʊk/",
+      "text_native": "Les agents consignèrent sa déposition dans leur carnet officiel."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "They offered to drive her safely back to her home address.",
+      "phonetic": "/ðeɪ ˈɒfəd tuː draɪv hɜː ˈseɪfli bæk tuː hɜː həʊm əˈdrɛs/",
+      "text_native": "Ils lui proposèrent de la raccompagner chez elle en toute sécurité."
+    }
+  ]
+}

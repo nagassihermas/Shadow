@@ -1,0 +1,188 @@
+{
+  "title": "在药店买药",
+  "new_vocabulary": [
+    "感冒", "发烧", "咳嗽", "药片", "水", "一天", "三次", "两粒", "饭后", "温水", "休息", "在家", "身体", "不舒服", "医生", "建议", "药", "多少钱", "元", "找钱", "收据", "营业员", "请问", "口罩", "消毒", "纸巾", "体温计", "护士", "医院", "症状", "严重", "开水", "出门", "戴上", "注意", "健康", "谢谢", "再见", "慢走"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我的身体很不舒服。",
+      "phonetic": "Jīntiān wǒ de shēntǐ hěn bù shūfu.",
+      "text_native": "Aujourd'hui, je ne me sens pas du tout bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我有点发烧和咳嗽。",
+      "phonetic": "Wǒ yǒudiǎn fāshāo hé késòu.",
+      "text_native": "J'ai un peu de fièvre et je tousse."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我觉得自己可能感冒了。",
+      "phonetic": "Wǒ juéde zìjǐ kěnéng gǎnmào le.",
+      "text_native": "Je pense que j'ai probablement attrapé un rhume."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我需要去买一点药。",
+      "phonetic": "Wǒ xūyào qù mǎi yìdiǎn yào.",
+      "text_native": "J'ai besoin d'aller acheter des médicaments."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我走出家门去附近的药店。",
+      "phonetic": "Wǒ zǒuchū jiāmén qù fùjìn de yàodiàn.",
+      "text_native": "Je sors de chez moi pour aller à la pharmacie proche."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "走到药店门口时我戴上了口罩。",
+      "phonetic": "Zǒu dào yàodiàn ménkǒu shí wǒ dài shàng le kǒuzhào.",
+      "text_native": "En arrivant à l'entrée de la pharmacie, j'ai mis un masque."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我推开门走进明亮的药店。",
+      "phonetic": "Wǒ tuī kāi mén zǒujìn míngliàng de yàodiàn.",
+      "text_native": "Je pousse la porte et entre dans la pharmacie bien éclairée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "营业员微笑着问我需要什么帮助。",
+      "phonetic": "Yíngyèyuán wēixiàozhe wèn wǒ xūyào shénme bāngzhù.",
+      "text_native": "L'employé(e) me sourit et me demande si j'ai besoin d'aide."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我对营业员说我发烧和咳嗽。",
+      "phonetic": "Wǒ duì yíngyèyuán shuō wǒ fāshāo hé késòu.",
+      "text_native": "Je dis à l'employé(e) que j'ai de la fièvre et de la toux."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "营业员听了以后去拿感冒药。",
+      "phonetic": "Yíngyèyuán tīng le yǐhòu qù ná gǎnmàoyào.",
+      "text_native": "L'employé(e) écoute et va chercher des médicaments pour le rhume."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "她拿出一盒药放在柜台上。",
+      "phonetic": "Tā ná chū yì hé yào fàng zài guìtái shàng.",
+      "text_native": "Il/Elle sort une boîte de médicaments et la pose sur le comptoir."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我看着这种药问怎么吃。",
+      "phonetic": "Wǒ kànzhe zhè zhǒng yào wèn zěnme chī.",
+      "text_native": "Je regarde ce type de médicament et demande comment le prendre."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "营业员认真地告诉我吃药的方法。",
+      "phonetic": "Yíngyèyuán rènzhēn de gàosù wǒ chī yào de fāngfǎ.",
+      "text_native": "L'employé(e) m'explique sérieusement la posologie."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "一天要吃三次这种药片。",
+      "phonetic": "Yìtiān yào chī sān cì zhè zhǒng yàopiàn.",
+      "text_native": "Il faut prendre ces comprimés trois fois par jour."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "每次需要吃两粒药片。",
+      "phonetic": "Měi cì xūyào chī liǎng lì yàopiàn.",
+      "text_native": "Il faut en prendre deux à chaque fois."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "最好在饭后吃比较好。",
+      "phonetic": "最好在饭后吃。",
+      "text_native": "Il est préférable de les prendre après les repas."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "吃药的时候要多喝温水。",
+      "phonetic": "Chī yào de shíhòu yào duō hē wēnshuǐ.",
+      "text_native": "Il faut boire beaucoup d'eau tiède en prenant les médicaments."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我认真听着并记住了这些话。",
+      "phonetic": "Wǒ rènzhēn tīngzhe bìng jì zhù le zhèxiē huà.",
+      "text_native": "J'écoute attentivement et retiens ces instructions."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我问营业员这些药多少钱。",
+      "phonetic": "Wǒ wèn yíngyèyuán zhèxiē yào duōshǎo qián.",
+      "text_native": "Je demande à l'employé(e) combien coûtent ces médicaments."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "营业员回答一共是五十元。",
+      "phonetic": "Yíngyèyuán huídá yí gòng shì wǔshí yuán.",
+      "text_native": "L'employé(e) répond que cela fait cinquante yuans au total."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我从钱包里拿出钱给营业员。",
+      "phonetic": "Wǒ cóng qiánbāo lǐ ná chū qián gěi yíngyèyuán.",
+      "text_native": "Je sors l'argent de mon portefeuille et le donne à l'employé(e)."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "营业员收下钱并找给我零钱。",
+      "phonetic": "Yíngyèyuán shōuxia qián bìng zhǎo gěi wǒ língqián.",
+      "text_native": "L'employé(e) encaisse l'argent et me rend la monnaie."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我拿好药和收据放进包里。",
+      "phonetic": "Wǒ ná hǎo yào hé shōujù fàng jìn bāo lǐ.",
+      "text_native": "Je prends les médicaments ainsi que le reçu et les mets dans mon sac."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我对营业员说谢谢你的帮助。",
+      "phonetic": "Wǒ duì yíngyèyuán shuō xièxie nǐ de bāngzhù.",
+      "text_native": "Je dis à l'employé(e) : « Merci pour votre aide. »"
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "营业员微笑着祝我早日康复。",
+      "phonetic": "Yíngyèyuán wēixiàozhe zhù wǒ zǎorì kāngfù.",
+      "text_native": "L'employé(e) sourit et me souhaite un prompt rétablissement."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我拿着药高兴地离开药店。",
+      "phonetic": "Wǒ názhe yào gāoxìng de líkāi yàodiàn.",
+      "text_native": "Je quitte la pharmacie d'un bon pas avec mes médicaments."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "回到家里我立刻去洗手。",
+      "phonetic": "Huí dào jiālǐ wǒ lìkè qù xǐshǒu.",
+      "text_native": "De retour à la maison, je vais immédiatement me laver les mains."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "然后我按照要求喝了一杯温水吃药。",
+      "phonetic": "Ránhòu wǒ ànzhào yāoqiú hē le yì bēi wēnshuǐ chī yào.",
+      "text_native": "Ensuite, j'ai pris mes médicaments avec un verre d'eau tiède selon les instructions."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "现在我需要躺在床上好好休息。",
+      "phonetic": "Xiànzài wǒ xūyào tǎng zài chuángshàng hǎohǎo xiūxī.",
+      "text_native": "Maintenant, j'ai besoin de m'allonger pour bien me reposer."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "希望我的身体明天就能完全好起来。",
+      "phonetic": "Xīwàng wǒ de shēntǐ míngtiān jiù néng wánquán hǎo qǐlái.",
+      "text_native": "J'espère que je serai complètement guéri(e) dès demain."
+    }
+  ]
+}

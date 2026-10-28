@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Excuse me, where is the nearest chemist's?",
+    "phonetic": "/ɪkˈskjuːz miː, wer ɪz ðə ˈnɪərɪst ˈkemɪsts/",
+    "text_native": "Excusez-moi, où se trouve la pharmacie la plus proche ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Is this pharmacy open on Sundays?",
+    "phonetic": "/ɪz ðɪs ˈfɑːrməsi ˈəʊpən ɒn ˈsʌndeɪz/",
+    "text_native": "Est-ce que cette pharmacie est ouverte le dimanche ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Hi, I need something for a bad headache.",
+    "phonetic": "/haɪ, aɪ niːd ˈsʌmθɪŋ fɔːr ə bæd ˈhedeɪk/",
+    "text_native": "Bonjour, j'ai besoin de quelque chose pour un gros mal de tête.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "My throat hurts a lot when I swallow.",
+    "phonetic": "/maɪ θrəʊt hɜːrts ə lɒt wen aɪ ˈswɒləʊ/",
+    "text_native": "J'ai très mal à la gorge quand j'avale.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "I've got a terrible runny nose since yesterday.",
+    "phonetic": "/aɪv ɡɒt ə ˈterəbl ˈrʌni nəʊz sɪns ˈjestərdeɪ/",
+    "text_native": "J'ai le nez qui coule énormément depuis hier.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Have you got anything for a dry cough?",
+    "phonetic": "/hæv juː ɡɒt ˈeniθɪŋ fɔːr ə draɪ kɒf/",
+    "text_native": "Vous avez quelque chose contre la toux sèche ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "I feel really dizzy and slightly sick.",
+    "phonetic": "/aɪ fiːl ˈriːəli ˈdɪzi ænd ˈslaɪtli sɪk/",
+    "text_native": "Je me sens vraiment étourdi et un peu nauséeux.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can you recommend a good cream for itchy skin?",
+    "phonetic": "/kæn juː ˌrekəˈmend ə ɡʊd kriːm fɔːr ˈɪtʃi skɪn/",
+    "text_native": "Vous pouvez me conseiller une bonne crème pour les démangeaisons ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "I need some painkillers, please.",
+    "phonetic": "/aɪ niːd sʌm ˈpeɪnkɪlərz, pliːz/",
+    "text_native": "Il me faudrait des antidouleurs, s'il vous plaît.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do I need a doctor's prescription for these drops?",
+    "phonetic": "/duː aɪ niːd ə ˈdɒktərz prɪˈskrɪpʃn fɔːr ðiːz drɒps/",
+    "text_native": "Il me faut une ordonnance pour ces gouttes ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Here is the prescription from my general practitioner.",
+    "phonetic": "/hɪər ɪz ðə prɪˈskrɪpʃn frɒm maɪ ˈdʒenərəl prəˈkɪʃənər/",
+    "text_native": "Voici l'ordonnance de mon médecin généraliste.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "How many times a day should I take these pills?",
+    "phonetic": "/haʊ ˈmeni taɪmz ə deɪ ʃʊd aɪ teɪk ðiːz pɪlz/",
+    "text_native": "Je dois prendre ces cachets combien de fois par jour ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Should I take them before or after eating?",
+    "phonetic": "/ʃʊd aɪ teɪk ðəm bɪˈfɔːr ɔːr ˈɑːftər ˈiːtɪŋ/",
+    "text_native": "Je dois les prendre avant ou après les repas ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can I take this medicine if I am pregnant?",
+    "phonetic": "/kæn aɪ teɪk ðɪs ˈmedsn ɪf aɪ æm ˈpreɡnənt/",
+    "text_native": "Est-ce que je peux prendre ce médicament si je suis enceinte ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Are there any side effects with this syrup?",
+    "phonetic": "/ɑːr ðer ˈeni saɪd ɪˈfekts wɪð ðɪs ˈsɪrəp/",
+    "text_native": "Il y a des effets secondaires avec ce sirop ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could you wrap this ice pack for me, please?",
+    "phonetic": "/kʊd juː ræp ðɪs aɪs pæk fɔːr miː, pliːz/",
+    "text_native": "Vous pourriez m'emballer cette poche de glace, s'il vous plaît ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Where can I find some waterproof plasters?",
+    "phonetic": "/wer kæn aɪ faɪnd sʌm ˈwɔːtəruːf ˈplɑːstərz/",
+    "text_native": "Où est-ce que je peux trouver des pansements résistants à l'eau ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do you sell digital thermometers here?",
+    "phonetic": "/duː juː sel ˈdɪdʒɪtl θəˈmɒmɪtərz hɪər/",
+    "text_native": "Vous vendez des thermomètres électroniques ici ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can I pay by contactless card, please?",
+    "phonetic": "/kæn aɪ peɪ baɪ ˈkɒntæktləs kɑːrd, pliːz/",
+    "text_native": "Je peux payer sans contact, s'il vous plaît ?",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  },
+  {
+    "text_target": "Thanks a lot for your help, have a nice day.",
+    "phonetic": "/θæŋks ə lɒt fɔːr jʊər help, hæv ə naɪs deɪ/",
+    "text_native": "Merci beaucoup pour votre aide, bonne journée.",
+    "language": "EN",
+    "category": "santé",
+    "level": "A2"
+  }
+]

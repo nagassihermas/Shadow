@@ -1,0 +1,217 @@
+{
+  "title": "恼人的流感",
+  "new_vocabulary": [
+    "连续",
+    "持续",
+    "恶心",
+    "浑身",
+    "酸痛",
+    "测量",
+    "体温计",
+    "夹",
+    "稍候",
+    "呈",
+    "阳性",
+    "流感",
+    "病毒",
+    "近期",
+    "肆虐",
+    "建议",
+    "输液",
+    "补充",
+    "水分",
+    "清淡",
+    "饮食",
+    "避免",
+    "辛辣",
+    "油腻",
+    "遵照",
+    "医嘱",
+    "疗程",
+    "痊愈",
+    "复原",
+    "虚脱"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我连续三天感觉身体很不舒服，今天不得不再次去医院看病。",
+      "phonetic": "Wǒ liánxù sān tiān gǎnjué shēntǐ hěn bù shūfu, jīntiān bùdébù zài cì qù yīyuàn kànbìng.",
+      "text_native": "Je me sens très mal depuis trois jours consécutifs, et aujourd'hui je dois de nouveau aller à l'hôpital pour voir un médecin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "早晨醒来的时候，我发现自己的头痛和咳嗽症状更加严重了。",
+      "phonetic": "Zǎochén xǐnglái de shíhòu, wǒ fāxiàn zìjǐ de tóutòng hé késòu zhèngzhuàng gèngjiā yánzhòng le.",
+      "text_native": "En me réveillant ce matin, j'ai constaté que mes symptômes de mal de tête et de toux s'étaient encore aggravés."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "因为提前在手机上做好了预约，所以我到达大楼时没有等候太久。",
+      "phonetic": "Yīnwèi tíqián zài shǒujī shàng zuò hǎo le yùyuē, suǒyǐ wǒ dàodá dàlóu shí méiyǒu děnghòu tài jiǔ.",
+      "text_native": "Comme j'avais pris rendez-vous à l'avance sur mon téléphone, je n'ai pas attendu très longtemps en arrivant au bâtiment."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "护士请我进房间坐在椅子上，并帮我测量了血压和体温。",
+      "phonetic": "Hùshì qǐng wǒ jìn fángjiān zuò zài yǐzi shàng, bìng bāng wǒ cèliáng le xuèyā hé tǐwēn.",
+      "text_native": "L'infirmière m'a invité à entrer dans la pièce pour m'asseoir sur la chaise, et m'a pris la tension et la température."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "她拿出体温计让我夹在胳膊下面，叮嘱我稍候几分钟再拿出来。",
+      "phonetic": "Tā ná chū tǐwēn-jì ràng wǒ jiā zài gēbó xiàmiàn, dīngzhǔ wǒ shāohòu jǐ fēnzhōng zài ná chūlái.",
+      "text_native": "Elle a sorti un thermomètre pour que je le coince sous mon bras, en me recommandant d'attendre quelques minutes avant de le ressortir."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "医生看着我的检查结果，皱着眉头问我是否还有其他不适的感觉。",
+      "phonetic": "Yīshēng kànzhe wǒ de jiǎnchá jiéguǒ, zhòuzhe méitóu wèn wǒ shìfǒu hái yǒu qítā bùshì de gǎnjué.",
+      "text_native": "Le médecin a regardé mes résultats d'examen, a froncé les sourcils et m'a demandé si j'avais d'autres sensations d'inconfort."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我回答说不仅全身酸痛，而且从昨天晚上开始就一直觉得很恶心。",
+      "phonetic": "Wǒ huídá shuō bùjǐn quánshēn suāntòng, érqiě cóng zuótiān wǎnshang kāishǐ jiù yìzhí juéde hěn ěxīn.",
+      "text_native": "J'ai répondu que non seulement j'avais des courbatures dans tout le corps, mais qu'en plus je me sentais constamment nauséeux depuis hier soir."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "医生听了我的描述，严肃地说最近这种流感病毒传染性非常强。",
+      "phonetic": "Yīshēng tīng le wǒ de miáoshù, yánsù de shuō zuìjìn zhè zhǒng liúgǎn bìngdú chuánránxìng fēicháng qiáng.",
+      "text_native": "En écoutant ma description, le médecin a dit d'un air grave que ce type de virus de la grippe était extrêmement contagieux ces derniers temps."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "为了确诊，他建议我去做一个咽拭子化验，看看是否感染了病毒。",
+      "phonetic": "Wèile quèzhěn, tā jiànyì wǒ qù zuò yí gè yànshìzi huàyàn, kànkan shìfǒu gǎnrǎn le bìngdú.",
+      "text_native": "Afin de poser un diagnostic sûr, il m'a conseillé d'aller faire un prélèvement pharyngé pour voir si j'étais infecté par le virus."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我拿着医生开的单子去走廊另一头的化验室排队。",
+      "phonetic": "Wǒ názhe yīshēng kāi de dānzi qù zǒuláng lìng yì tóu de huàyànshì páiduì.",
+      "text_native": "J'ai pris l'ordonnance prescrite par le médecin pour aller faire la queue au laboratoire d'analyses à l'autre bout du couloir."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "护士动作很快，采完样后告诉我结果大约需要等待半个小时。",
+      "phonetic": "Hùshì dòngzuò hěn kuài, cǎi wán yàng hòu gàosù wǒ jiéguǒ dàyuē xūyào děngdài bàn gè xiǎoshí.",
+      "text_native": "L'infirmière a été très efficace, et après avoir fait le prélèvement, elle m'a dit qu'il faudrait attendre environ une demi-heure pour les résultats."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我坐在候诊室的椅子上，只觉得头重脚轻，精神状态非常虚弱。",
+      "phonetic": "Wǒ zuò zài hòuzhěngshì de yǐzi shàng, zhǐ juéde tóu zhòng jiǎo qīng, jīngshén zhuàngtài fēicháng xūruò.",
+      "text_native": "Assis sur la chaise de la salle d'attente, je me sentais pris de vertiges et mon état général était extrêmement affaibli."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "半小时后，我再次回到医生的办公室查看化验单。",
+      "phonetic": "Bàn xiǎoshí hòu, wǒ zài cì huí dào yīshēng de bàngōngshì chákàn huàyàn dān.",
+      "text_native": "Une demi-heure plus tard, je suis retourné au bureau du médecin pour consulter le bulletin d'analyse."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "医生指着报告上的数据说：“你看，流感病毒呈阳性。”",
+      "phonetic": "Yīshēng zhǐzhe bàogào shàng de shùjù shuō: “Nǐ kàn, liúgǎn bìngdú chéng yángxìng.”",
+      "text_native": "Le médecin a pointé les données du rapport en disant : « Regardez, le test du virus de la grippe est positif. »"
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "听到这个诊断结果，我叹了口气，心想难怪自己这么难受。",
+      "phonetic": "Tīng dào zhège zhěnduàn jiéguǒ, wǒ tàn le kǒu qì, xīn xiǎng nánguài zìjǐ zhème nánshòu.",
+      "text_native": "En entendant ce diagnostic, j'ai poussé un soupir, me disant qu'il n'était pas étonnant que je souffre autant."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "医生安慰我说不用太担心，只要按照处方按时吃药就能康复。",
+      "phonetic": "Yīshēng ānwèi wǒ shuō búyòng tài dānxīn, zhǐyào ànzhào chǔfāng ànshí chī yào jiù néng kāngfù.",
+      "text_native": "Le médecin m'a rassuré en me disant de ne pas trop m'inquiéter, qu'il suffisait de prendre les médicaments à l'heure selon l'ordonnance pour guérir."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "考虑到我发烧比较严重，他建议我在医院打一针退烧针并输液。",
+      "phonetic": "Kǎolǜ dào wǒ fāshāo bǐjiào yánzhòng, tā jiànyì wǒ zài yīyuàn dǎ yì zhēn tuìshāo zhēn bìng shūyè.",
+      "text_native": "Considérant que ma fièvre était assez élevée, il m'a suggéré de faire une piqûre antipyrétique et une perfusion ici à l'hôpital."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "护士推来治疗车，熟练地帮我扎上了针，并调节了液体滴落的速度。",
+      "phonetic": "Hùshì tuī lái zhìliáo chē, shùliàn de bāng wǒ zhā shàng le zhēn, bìng tiáojié le yètǐ dīluò de sùdù.",
+      "text_native": "L'infirmière a poussé le chariot de soins, m'a posé la perfusion avec dextérité et a réglé la vitesse du goutte-à-goutte."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "在输液的过程中，我靠在椅子上闭目养神，疲惫感渐渐减轻了。",
+      "phonetic": "Zài shūyè de guòchéng zhōng, wǒ kào zài yǐzi shàng bìmùyǎngshén, píbèi gǎn jiànjiàn jiǎnqīng le.",
+      "text_native": "Pendant la perfusion, je me suis adossé à la chaise pour fermer les yeux et me reposer, et la fatigue s'est progressivement atténuée."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "输液结束后，医生重新帮我测量了一次体温，发现温度已经下降了。",
+      "phonetic": "Shūyè jiéshù hòu, yīshēng chóngxīn bāng wǒ cèliáng le yí cì tǐwēn, fāxiàn wēndù yǐjīng xiàjiàng le.",
+      "text_native": "Une fois la perfusion terminée, le médecin a pris de nouveau ma température et a constaté qu'elle avait baissé."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他一边写着药方一边叮嘱我回家后一定要多喝温水。",
+      "phonetic": "Tā yìbiān xiě zhe yàofāng yìbiān dīngzhǔ wǒ huí jiā hòu yídìng yào duō hē wēnshuǐ.",
+      "text_native": "Tout en rédigeant l'ordonnance, il m'a recommandé de bien boire de l'eau tiède une fois rentré chez moi."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "处方上不仅有感冒药，还有保护胃黏膜和补充体力的维生素。",
+      "phonetic": "Chǔfāng shàng bùjǐn yǒu gǎnmào yào, hái yǒu bǎohù wèi niánmó hé bǔchōng tǐlì de wéishēngsù.",
+      "text_native": "Sur l'ordonnance, il n'y avait pas seulement des médicaments contre le rhume, mais aussi des vitamines pour protéger la muqueuse gastrique et reprendre des forces."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我拿着处方走到一楼大厅的药房窗口，把单子递给药剂师付钱取药。",
+      "phonetic": "Wǒ názhe chǔfāng zǒu dào yì lóu dàtīng de yàofáng chuāngkǒu, bǎ dānzi dì gěi yàojìshī fù qián qǔ yào.",
+      "text_native": "J'ai pris l'ordonnance pour aller jusqu'au guichet de la pharmacie dans le grand hall du rez-de-chaussée, et j'ai remis le bon au pharmacien pour payer et récupérer les médicaments."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "药剂师耐心地向我交代每种药物的服用方法和一天几次的剂量。",
+      "phonetic": "Yàojìshī nàixīn de xiàng wǒ jiāodai měi zhǒng yàowù de fúyòng fāngfǎ hé yì tiān jǐ cì de jìliàng.",
+      "text_native": "Le pharmacien m'a expliqué patiemment la posologie de chaque médicament et la fréquence des prises quotidiennes."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "离开医院前，我想起经理昨天在办公室发来的微信问候。",
+      "phonetic": "Líkāi yīyuàn qián, wǒ xiǎng qǐ jīnglǐ zuótiān zài bàngōngshì fā lái de wēixìn wènhòu.",
+      "text_native": "Avant de quitter l'hôpital, je me suis rappelé le message de prompt rétablissement que le directeur m'avait envoyé la veille sur WeChat."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "于是我给同事发了一条请假信息，说明自己需要在家休息几天。",
+      "phonetic": "Yúshì wǒ gěi tóngshì fā le yì tiáo qǐngjià xìnxī, shuōmíng zìjǐ xūyào zài jiā xiūxī jǐ tiān.",
+      "text_native": "J'ai donc envoyé un message de demande de congé à mon collègue pour lui expliquer que j'aurais besoin de me reposer chez moi pendant quelques jours."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "同事回复说不用担心工作上的事情，让我在家好好照顾自己。",
+      "phonetic": "Tóngshì huífù shuō búyòng dānxīn gōngzuò shàng de shìqíng, ràng wǒ zài jiā hǎohǎo zhàogù zìjǐ.",
+      "text_native": "Mon collègue a répondu de ne pas m'inquiéter pour le travail et m'a dit de bien prendre soin de moi à la maison."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "回到家后，我按照医嘱吃了一次药，然后躺在床上盖好被子睡觉。",
+      "phonetic": "Huí dào jiā hòu, wǒ ànzhào yīzhǔ chī le yí cì yào, ránhòu tǎng zài chuáng shàng gài hǎo bèizi shuìjiào.",
+      "text_native": "De retour à la maison, j'ai pris une dose de médicaments selon les instructions du médecin, puis je me suis couché en me couvrant bien avec la couette pour dormir."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "经过连续两天的彻底休息，我的精神状态终于明显好转了。",
+      "phonetic": "Jīngguò liánxù liǎng tiān de chèdǐ xiūxī, wǒ de jīngshén zhuàngtài zhōngyú míngxiǎn hǎozhuǎn le.",
+      "text_native": "Après deux jours consécutifs de repos complet, mon état général s'est enfin nettement amélioré."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "希望下周一去医院复查时，医生能宣布我已经完全康复了。",
+      "phonetic": "Xīwàng xià zhōuyī qù yīyuàn fùchá shí, yīshēng néng xuānbù wǒ yǐjīng wánquán kāngfù le.",
+      "text_native": "J'espère que lors de ma visite de contrôle à l'hôpital lundi prochain, le médecin pourra m'annoncer que je suis complètement guéri."
+    }
+  ]
+}

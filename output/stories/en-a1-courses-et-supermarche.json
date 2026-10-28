@@ -1,0 +1,222 @@
+{
+  "title": "At the Supermarket",
+  "new_vocabulary": [
+    "morning",
+    "day",
+    "hungry",
+    "kitchen",
+    "fridge",
+    "empty",
+    "door",
+    "street",
+    "walk",
+    "shop",
+    "enter",
+    "metal",
+    "push",
+    "aisle",
+    "shelf",
+    "fruit",
+    "vegetable",
+    "tomato",
+    "banana",
+    "meat",
+    "chicken",
+    "fish",
+    "rice",
+    "pasta",
+    "box",
+    "bottle",
+    "person",
+    "cashier",
+    "pay",
+    "card",
+    "receipt",
+    "thank",
+    "exit",
+    "home",
+    "cook"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Saturday morning.",
+      "phonetic": "/ɪt ɪz ˈsætədi ˈmɔːnɪŋ/",
+      "text_native": "C'est samedi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Tom wakes up early today.",
+      "phonetic": "/tɒm weɪks ʌp ˈɜːli təˈdeɪ/",
+      "text_native": "Tom se réveille tôt aujourd'hui."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He is very hungry.",
+      "phonetic": "/hi ɪz ˈvɛri ˈhʌŋɡri/",
+      "text_native": "Il a très faim."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He goes into the kitchen.",
+      "phonetic": "/hi ɡəʊz ˈɪntə ðə ˈkɪtʃɪn/",
+      "text_native": "Il va dans la cuisine."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He opens the fridge.",
+      "phonetic": "/hi ˈəʊpənz ðə frɪdʒ/",
+      "text_native": "Il ouvre le frigo."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The fridge is completely empty.",
+      "phonetic": "/ðə frɪdʒ ɪz kəmˈpliːtli ˈɛmpti/",
+      "text_native": "Le frigo est complètement vide."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "He needs food for the week.",
+      "phonetic": "/hi niːdz fuːd fɔː ðə wiːk/",
+      "text_native": "Il a besoin de nourriture pour la semaine."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom takes his jacket and keys.",
+      "phonetic": "/tɒm teɪks hɪz ˈdʒækɪt ænd kiːz/",
+      "text_native": "Tom prend sa veste et ses clés."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He walks out the door.",
+      "phonetic": "/hi wɔːks aʊt ðə dɔː/",
+      "text_native": "Il franchit la porte."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He walks down the street.",
+      "phonetic": "/hi wɔːks daʊn ðə striːt/",
+      "text_native": "Il descend la rue en marchant."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He arrives at the local supermarket.",
+      "phonetic": "/hi əˈraɪvz æt ðə ˈləʊkl ˈsuːpəmɑːkɪt/",
+      "text_native": "Il arrive au supermarché du coin."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He takes a metal shopping cart.",
+      "phonetic": "/hi teɪks ə ˈmɛtl ˈʃɒpɪŋ kɑːt/",
+      "text_native": "Il prend un caddie en métal."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He pushes the cart inside.",
+      "phonetic": "/hi ˈpʊʃɪz ðə kɑːt ɪnˈsaɪd/",
+      "text_native": "Il pousse le caddie à l'intérieur."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He enters the first aisle.",
+      "phonetic": "/hi ˈɛntəz ðə fɜːst aɪl/",
+      "text_native": "Il entre dans la première allée."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The shelves have fresh fruit.",
+      "phonetic": "/ðə ʃɛlvz hæv frɛʃ fruːt/",
+      "text_native": "Les étagères proposent des fruits frais."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He puts bananas and red apples in the cart.",
+      "phonetic": "/hi pʊts bəˈnɑːnəz ænd rɛd ˈæplz ɪn ðə kɑːt/",
+      "text_native": "Il met des bananes et des pommes rouges dans le caddie."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Next, he looks for vegetables.",
+      "phonetic": "/nɛkst, hi lʊks fɔː ˈvɛdʒtəblz/",
+      "text_native": "Ensuite, il cherche des légumes."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He selects nice tomatoes.",
+      "phonetic": "/hi sɪˈlɛkts naɪs təˈmɑːtəʊz/",
+      "text_native": "Il choisit de belles tomates."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "He walks to the bakery section.",
+      "phonetic": "/hi wɔːks tuː ðə ˈbeɪkəri ˈsɛkʃən/",
+      "text_native": "Il se dirige vers le rayon boulangerie."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He grabs a big loaf of bread.",
+      "phonetic": "/hi ɡræbz ə bɪɡ ləʊf ɒv brɛd/",
+      "text_native": "Il attrape une grande miche de pain."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Then he visits the dairy aisle.",
+      "phonetic": "/ðɛn hi ˈvɪzɪts ðə ˈdeəri aɪl/",
+      "text_native": "Puis il va dans le rayon des produits laitiers."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He adds cold milk and cheese to his basket.",
+      "phonetic": "/hi ædz kəʊld mɪlk ænd tʃiːz tuː hɪz ˈbɑːskɪt/",
+      "text_native": "Il ajoute du lait frais et du fromage à son caddie."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He also needs clean water.",
+      "phonetic": "/hi ˈɔːlsəʊ niːdz kliːn ˈwɔːtə/",
+      "text_native": "Il a aussi besoin d'eau potable."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He puts a large bottle of water in.",
+      "phonetic": "/hi pʊts ə lɑːdʒ ˈbɒtl ɒv ˈwɔːtə ɪn/",
+      "text_native": "Il y ajoute une grande bouteille d'eau."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Finally, he goes to the cashier.",
+      "phonetic": "/ˈfaɪnəli, hi ɡəʊz tuː ðə kæˈʃɪə/",
+      "text_native": "Enfin, il se dirige vers la caisse."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He places all his groceries on the desk.",
+      "phonetic": "/hi ˈpleɪsɪz ɔːl hɪz ˈɡrəʊsəriz ɒn ðə kʌʊntə/",
+      "text_native": "Il dépose toutes ses courses sur le comptoir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He pays with his bank card.",
+      "phonetic": "/hi peɪz wɪð hɪz bæŋk kɑːd/",
+      "text_native": "Il paie avec sa carte bancaire."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "The cashier gives him the receipt.",
+      "phonetic": "/ðə kæˈʃɪə ɡɪvz hɪm ðə rɪˈsiːt/",
+      "text_native": "La caissière lui remet le ticket de caisse."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom puts the items into a strong bag.",
+      "phonetic": "/tɒm pʊts ði ˈaɪtəmz ˈɪntə ə strɒŋ bæɡ/",
+      "text_native": "Tom range ses achats dans un sac solide."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He smiles and walks back home.",
+      "phonetic": "/hi smaɪlz ænd wɔːks bæk həʊm/",
+      "text_native": "Il sourit et rentre chez lui à pied."
+    }
+  ]
+}

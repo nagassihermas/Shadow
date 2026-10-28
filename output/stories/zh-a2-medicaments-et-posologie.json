@@ -1,0 +1,217 @@
+{
+  "title": "感冒药的说明书",
+  "new_vocabulary": [
+    "说明书",
+    "读",
+    "懂",
+    "盒",
+    "里面",
+    "药片",
+    "片",
+    "白色",
+    "温开水",
+    "送服",
+    "症状",
+    "发烧",
+    "头痛",
+    "严重",
+    "医院",
+    "看",
+    "护士",
+    "量",
+    "体温",
+    "度",
+    "高",
+    "开",
+    "处方",
+    "小时",
+    "注意",
+    "饮食",
+    "清淡",
+    "希望",
+    "快点",
+    "康复"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "张华今天感冒了，很不舒服。",
+      "phonetic": "Zhāng Huá jīntiān gǎnmǎole, hěn bù shūfu.",
+      "text_native": "Zhang Hua a attrapé un rhume aujourd'hui et ne se sent pas du tout bien."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "他在药店买了一盒感冒药。",
+      "phonetic": "Tā zài yàodiàn mǎile yī hé gǎnmǎoyào.",
+      "text_native": "Il a acheté une boîte de médicaments contre le rhume à la pharmacie."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "回家以后，他坐在桌子旁边。",
+      "phonetic": "Huí jiā yǐhòu, tā zuò zài zhuōzi pángbiān.",
+      "text_native": "De retour à la maison, il s'est assis à côté de la table."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他打开盒子，拿出了说明书。",
+      "phonetic": "Tā dǎkāi hézi, ná chūle shuōmíngshū.",
+      "text_native": "Il a ouvert la boîte et a sorti la notice."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "他认真地读上面的字。",
+      "phonetic": "Tā rènzhēn de dú shàngmiàn de zì.",
+      "text_native": "Il a lu attentivement les caractères écrits dessus."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "说明书告诉他怎么吃这种药。",
+      "phonetic": "Shuōmíngshū gàosù tā zěnme chī zhè zhǒng yào.",
+      "text_native": "La notice lui indique comment prendre ce médicament."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "里面写着每天吃三次。",
+      "phonetic": "Lǐmiàn xiězhe měitiān chī sān cì.",
+      "text_native": "Il y est écrit d'en prendre trois fois par jour."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "每次吃两片白色的药片。",
+      "phonetic": "Měi cì chī liǎng piàn báisè de yàopiàn.",
+      "text_native": "Il faut prendre deux comprimés blancs à chaque fois."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "饭后吃药对身体更好。",
+      "phonetic": "Fàn hòu chī yào duì shēntǐ gèng hǎo.",
+      "text_native": "Prendre les médicaments après les repas est meilleur pour la santé."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "他去厨房倒了一杯温开水。",
+      "phonetic": "Tā qù chúfáng dǎole yī bēi wēn kāishuǐ.",
+      "text_native": "Il est allé dans la cuisine pour se verser une tasse d'eau tiède."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "他用温水把药片送服下去。",
+      "phonetic": "Tā yòng wēnshuǐ bǎ yàopiàn sòngfú xiàqù.",
+      "text_native": "Il a avalé les comprimés avec de l'eau tiède."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "吃完药以后，他觉得有点累。",
+      "phonetic": "Chī wán yào yǐhòu, tā juéde yǒudiǎn lèi.",
+      "text_native": "Après avoir pris les médicaments, il s'est senti un peu fatigué."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他在床上躺着休息了一会儿。",
+      "phonetic": "Tā zài chuángshàng tǎngzhe xiūxile yīhuǐ'er.",
+      "text_native": "Il s'est étendu sur le lit pour se reposer un moment."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "可是他的症状没有变好。",
+      "phonetic": "Kěshì tā de zhèngzhuàng méiyǒu biàn hǎo.",
+      "text_native": "Mais ses symptômes ne se sont pas améliorés."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他开始发烧，头也非常痛。",
+      "phonetic": "Tā kāishǐ fāshāo, tóu yě fēicháng tòng.",
+      "text_native": "Il a commencé à avoir de la fièvre et a eu très mal à la tête."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "病情看起来有一点严重。",
+      "phonetic": "Bìngqíng kàn qǐlái yǒu yīdiǎn yánzhòng.",
+      "text_native": "Son état de santé avait l'air un peu grave."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "他的朋友决定带他去医院。",
+      "phonetic": "Tā de péngyǒu juédìng dài tā qù yīyuàn.",
+      "text_native": "Son ami a décidé de l'emmener à l'hôpital."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "到了医院，护士帮他量体温。",
+      "phonetic": "Dàole yīyuàn, hùshi bāng tā liáng tǐwēn.",
+      "text_native": "Arrivé à l'hôpital, l'infirmière lui a pris sa température."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "体温计显示度数很高。",
+      "phonetic": "Tǐwēnjì xiǎnshì dùshù hěn gāo.",
+      "text_native": "Le thermomètre affichait une température très élevée."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "医生仔细检查了他的身体。",
+      "phonetic": "Yīshēng zìxì jiǎnchále tā de shēntǐ.",
+      "text_native": "Le médecin l'a examiné attentivement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "医生问他每天吃什么药。",
+      "phonetic": "Yīshēng wèn tā měitiān chī shénme yào.",
+      "text_native": "Le médecin lui a demandé quel médicament il prenait."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "张华拿出了那盒药给医生看。",
+      "phonetic": "Zhāng Huá ná chūle nà hé yào gěi yīshēng kàn.",
+      "text_native": "Zhang Hua a sorti la boîte de médicaments pour la montrer au médecin."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "医生点头说这个药可以用。",
+      "phonetic": "Yīshēng diǎntóu shuō zhège yào kěyǐ yòng.",
+      "text_native": "Le médecin a hoché la tête en disant que ce médicament convenait."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "但是医生重新开了一张处方。",
+      "phonetic": "Dànshì yīshēng chóngxīn kāile yī zhāng chǔfāng.",
+      "text_native": "Cependant, le médecin lui a prescrit une nouvelle ordonnance."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "医生告诉他每隔四个小时吃一次。",
+      "phonetic": "Yīshēng gàosù tā měi gé sì gè xiǎoshí chī yī cì.",
+      "text_native": "Le médecin lui a dit d'en prendre une fois toutes les quatre heures."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "医生还嘱咐他注意饮食清淡。",
+      "phonetic": "Yīshēng hái zhǔfù tā zhùyì yǐnshí qīngdàn.",
+      "text_native": "Le médecin lui a également recommandé d'avoir une alimentation légère."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "谢谢医生以后，他们回到了家。",
+      "phonetic": "Xièxie yīshēng yǐhòu, tāmen huídàole jiā.",
+      "text_native": "Après avoir remercié le médecin, ils sont rentrés chez eux."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "按照新的方法，他认真吃药。",
+      "phonetic": "ànzhào xīn de fāngfǎ, tā rènzhēn chī yào.",
+      "text_native": "Conformément à la nouvelle posologie, il a pris ses médicaments sérieusement."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "大家都希望他快点康复。",
+      "phonetic": "Dàjiā dōu xīwàng tā kuài diǎn kāngfù.",
+      "text_native": "Tout le monde espère qu'il guérira vite."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "他的身体一天比一天好了。",
+      "phonetic": "Tā de shēntǐ yī tiān bǐ yī tiān hǎole.",
+      "text_native": "Son état de santé s'améliore de jour en jour."
+    }
+  ]
+}

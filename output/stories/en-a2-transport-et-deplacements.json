@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Journey to the Office",
+  "new_vocabulary": [
+    "alarm",
+    "clock",
+    "sound",
+    "bed",
+    "get",
+    "up",
+    "kitchen",
+    "make",
+    "coffee",
+    "eat",
+    "toast",
+    "put",
+    "coat",
+    "wear",
+    "shoes",
+    "lock",
+    "front",
+    "run",
+    "catch",
+    "crowded",
+    "stand",
+    "read",
+    "smartphone",
+    "pass",
+    "bridge",
+    "river",
+    "cross",
+    "office",
+    "desk",
+    "computer"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The alarm clock sounds early in the morning.",
+      "phonetic": "/ði əˈlɑːm klɒk saʊndz ˈɜːli ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Le réveil sonne tôt le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Mark wakes up in his warm bed.",
+      "phonetic": "/mɑːk weɪks ʌp ɪn hɪz wɔːm bɛd/",
+      "text_native": "Mark se réveille dans son lit chaud."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He gets up quickly because he has a lot of work today.",
+      "phonetic": "/hi gɛts ʌp ˈkwɪkli bɪˈkɒz hi hæz ə lɒt ɒv wɜːk təˈdeɪ/",
+      "text_native": "Il se lève rapidement car il a beaucoup de travail aujourd'hui."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He walks to the small kitchen.",
+      "phonetic": "/hi wɔːks tuː ðə smɔːl ˈkɪtʃɪn/",
+      "text_native": "Il se dirige vers la petite cuisine."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He makes a hot cup of coffee.",
+      "phonetic": "/hi meɪks ə hɒt kʌp ɒv ˈkɒfi/",
+      "text_native": "Il se prépare une tasse de café chaud."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He eats some simple toast with butter.",
+      "phonetic": "/hi iːts sʌm ˈsɪmpl təʊst wɪð ˈbʌtə/",
+      "text_native": "Il mange des toasts simples avec du beurre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Then he puts on his heavy winter coat.",
+      "phonetic": "/ðɛn hi pʊts ɒn hɪz ˈhɛvi ˈwɪntə kəʊt/",
+      "text_native": "Ensuite, il enfile son lourd manteau d'hiver."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He puts on his comfortable brown shoes.",
+      "phonetic": "/hi pʊts ɒn hɪz ˈkʌmfətəbl braʊn ʃuːz/",
+      "text_native": "Il met ses chaussures marron confortables."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He leaves his home and closes the door.",
+      "phonetic": "/hi liːvz hɪz həʊm ænd ˈkləʊzɪz ðə dɔː/",
+      "text_native": "Il quitte son domicile et ferme la porte."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He locks the front door securely.",
+      "phonetic": "/hi lɒks ðə frʌnt dɔː sɪˈkjʊəli/",
+      "text_native": "Il verrouille soigneusement la porte d'entrée."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "He walks fast down the wet street.",
+      "phonetic": "/hi wɔːks fɑːst daʊn ðə wɛt striːt/",
+      "text_native": "Il marche d'un pas vif dans la rue mouillée."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He reaches the corner near the busy bus stop.",
+      "phonetic": "/hi ˈriːtʃɪz ðə ˈkɔːnə nɪə ðə ˈbɪzi bʌs stɒp/",
+      "text_native": "Il arrive au coin de la rue, près de l'arrêt de bus très fréquenté."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Many people are waiting for public transport.",
+      "phonetic": "/ˈmɛni ˈpiːpl ɑː ˈweɪtɪŋ fɔː ˈpʌblɪk ˈtrænspɔːt/",
+      "text_native": "Beaucoup de gens attendent les transports en commun."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He waits only a minute for the bus.",
+      "phonetic": "/hi weɪts ˈəʊnli ə ˈmɪnɪt fɔː ðə bʌs/",
+      "text_native": "Il n'attend qu'une minute le bus."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The large red bus arrives on time.",
+      "phonetic": "/ðə lɑːdʒ rɛd bʌs əˈraɪvz ɒn taɪm/",
+      "text_native": "Le grand bus rouge arrive à l'heure."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The driver opens the front doors.",
+      "phonetic": "/ðə ˈdraɪvə ˈəʊpənz ðə frʌnt dɔːz/",
+      "text_native": "Le conducteur ouvre les portes avant."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Mark steps inside and pays with his contactless card.",
+      "phonetic": "/mɑːk stɛps ˈɪnsaɪd ænd peɪz wɪð hɪz ˈkɒntæktlɪs kɑːd/",
+      "text_native": "Mark monte à bord et paie avec sa carte sans contact."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The bus is very crowded this morning.",
+      "phonetic": "/ðə bʌs ɪz ˈvɛri ˈkraʊdɪd ðɪs ˈmɔːnɪŋ/",
+      "text_native": "Le bus est très bondé ce matin."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "There are no free seats left.",
+      "phonetic": "/ðeər ɑː nəʊ friː siːts lɛft/",
+      "text_native": "Il ne reste aucun siège libre."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He stands near the window.",
+      "phonetic": "/hi stændz nɪə ðə ˈwɪndəʊ/",
+      "text_native": "Il se tient debout près de la fenêtre."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "He looks outside at the heavy traffic.",
+      "phonetic": "/hi lʊks ˈaʊtsaɪd æt ðə ˈhɛvi ˈtræfɪk/",
+      "text_native": "Il regarde dehors, observant la circulation dense."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Cars and bikes move slowly in the rain.",
+      "phonetic": "/kɑːz ænd baɪks muːv ˈsləʊli ɪn ðə reɪn/",
+      "text_native": "Les voitures et les vélos avancent lentement sous la pluie."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Raindrops fall against the cold glass.",
+      "phonetic": "/ˈreɪndrɒps fɔːl əˈgɛnst ðə kəʊld glɑːs/",
+      "text_native": "Des gouttes de pluie frappent la vitre froide."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He takes his smartphone out of his pocket.",
+      "phonetic": "/hi teɪks hɪz ˈsmɑːtfəʊn aʊt ɒv hɪz ˈpɒkɪt/",
+      "text_native": "Il sort son smartphone de sa poche."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He reads a few important messages.",
+      "phonetic": "/hi riːdz ə fjuː ɪmˈpɔːtənt ˈmɛsɪʤɪz/",
+      "text_native": "Il lit quelques messages importants."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The bus turns right and crosses a long bridge.",
+      "phonetic": "/ðə bʌs tɜːnz raɪt ænd ˈkrɒsɪz ə lɒŋ brɪʤ/",
+      "text_native": "Le bus tourne à droite et traverse un long pont."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "They cross the wide river safely.",
+      "phonetic": "/ðeɪ krɒs ðə waɪd ˈrɪvə ˈseɪfli/",
+      "text_native": "Ils traversent la large rivière en toute sécurité."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Finally, the next stop is his destination.",
+      "phonetic": "/ˈfaɪnəli, ðə nɛkst stɒp ɪz hɪz ˌdɛstɪˈneɪʃən/",
+      "text_native": "Enfin, l'arrêt suivant est sa destination."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He steps down onto the pavement.",
+      "phonetic": "/hi stɛps daʊn ˈɒntuː ðə ˈpeɪvmənt/",
+      "text_native": "Il descend sur le trottoir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Mark walks to his office to start working at his desk.",
+      "phonetic": "/mɑːk wɔːks tuː hɪz ˈɒfɪs tuː stɑːt ˈwɜːkɪŋ æt hɪz dɛsk/",
+      "text_native": "Mark marche jusqu'à son bureau pour commencer à travailler."
+    }
+  ]
+}

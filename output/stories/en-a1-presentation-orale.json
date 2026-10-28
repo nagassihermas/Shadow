@@ -1,0 +1,186 @@
+{
+  "title": "My Presentation Today",
+  "new_vocabulary": ["morning", "wear", "shirt", "blue", "shoes", "black", "bag", "take", "folder", "open", "door", "walk", "room", "friend", "say", "hello", "project", "computer", "click", "screen", "picture", "show", "point", "explain", "business", "plan", "understand", "answer", "question", "job"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is morning.",
+      "phonetic": "/ɪt ɪz ˈmɔːrnɪŋ/",
+      "text_native": "C'est le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I wear a blue shirt.",
+      "phonetic": "/aɪ wɛr ə bluː ʃɜːrt/",
+      "text_native": "Je porte une chemise bleue."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "I wear black shoes.",
+      "phonetic": "/aɪ wɛr blæk ʃuːz/",
+      "text_native": "Je porte des chaussures noires."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I take my bag.",
+      "phonetic": "/aɪ teɪk maɪ bæɡ/",
+      "text_native": "Je prends mon sac."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "I have a paper folder.",
+      "phonetic": "/aɪ hæv ə ˈpeɪpər ˈfoʊldər/",
+      "text_native": "J'ai un dossier en papier."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "I am ready.",
+      "phonetic": "/aɪ æm ˈrɛdi/",
+      "text_native": "Je suis prêt."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I open the door.",
+      "phonetic": "/aɪ ˈoʊpən ðə dɔːr/",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I walk into the room.",
+      "phonetic": "/aɪ wɔːk ˈɪntuː ðə ruːm/",
+      "text_native": "J'entre dans la pièce."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "I see my colleagues.",
+      "phonetic": "/aɪ siː maɪ ˈkɑːliːɡz/",
+      "text_native": "Je vois mes collègues."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I see a good friend.",
+      "phonetic": "/aɪ siː ə ɡʊd frɛnd/",
+      "text_native": "Je vois un bon ami."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I say hello.",
+      "phonetic": "/aɪ seɪ həˈloʊ/",
+      "text_native": "Je dis bonjour."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I smile.",
+      "phonetic": "/aɪ smaɪl/",
+      "text_native": "Je souris."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I stand at my desk.",
+      "phonetic": "/aɪ stænd æt maɪ dɛsk/",
+      "text_native": "Je me tiens à mon bureau."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I am a little nervous.",
+      "phonetic": "/aɪ æm ə ˈlɪtəl ˈnɜːrvəs/",
+      "text_native": "Je suis un peu nerveux."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "I start the presentation.",
+      "phonetic": "/aɪ stɑːrt ðə ˌprɛzənˈteɪʃən/",
+      "text_native": "Je commence la présentation."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I speak about the topic.",
+      "phonetic": "/aɪ spiːk əˈbaʊt ðə ˈtɑːpɪk/",
+      "text_native": "Je parle du sujet."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I talk about our new project.",
+      "phonetic": "/aɪ tɔːk əˈbaʊt ˈaʊər nuː ˈprɑːdʒɛkt/",
+      "text_native": "Je parle de notre nouveau projet."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I use the computer.",
+      "phonetic": "/aɪ juːz ðə kəmˈpjuːtər/",
+      "text_native": "J'utilise l'ordinateur."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I click on the slide.",
+      "phonetic": "/aɪ klɪk ɑːn ðə slaɪd/",
+      "text_native": "Je clique sur la diapositive."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "People look at the screen.",
+      "phonetic": "/ˈpiːpəl lʊk æt ðə skriːn/",
+      "text_native": "Les gens regardent l'écran."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The screen shows a picture.",
+      "phonetic": "/ðə skriːn ʃoʊz ə ˈpɪktʃər/",
+      "text_native": "L'écran montre une photo."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I point at the business plan.",
+      "phonetic": "/aɪ pɔɪnt æt ðə ˈbɪznɪs plæn/",
+      "text_native": "Je pointe vers le plan d'affaires."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I explain slowly.",
+      "phonetic": "/aɪ ɪkˈspleɪn ˈsloʊli/",
+      "text_native": "J'explique lentement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "My voice is clear.",
+      "phonetic": "/maɪ vɔɪs ɪz klɪr/",
+      "text_native": "Ma voix est claire."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "People understand.",
+      "phonetic": "/ˈpiːpəl ˌʌndərˈstænd/",
+      "text_native": "Les gens comprennent."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I answer a question.",
+      "phonetic": "/aɪ ˈænsər ə ˈkwɛstʃən/",
+      "text_native": "Je réponds à une question."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "It is time to finish.",
+      "phonetic": "/ɪt ɪz taɪm tuː ˈfɪnɪʃ/",
+      "text_native": "Il est temps de terminer."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "People clap.",
+      "phonetic": "/ˈpiːpəl klæp/",
+      "text_native": "Les gens applaudissent."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I say thank you.",
+      "phonetic": "/aɪ seɪ θæŋk juː/",
+      "text_native": "Je dis merci."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "It is a good job.",
+      "phonetic": "/ɪt ɪz ə ɡʊd dʒɑːb/",
+      "text_native": "C'est du bon travail."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "An Unforgettable Dining Experience",
+  "new_vocabulary": [
+    "experience",
+    "atmosphere",
+    "dimly",
+    "lit",
+    "ambiance",
+    "greeted",
+    "warmly",
+    "escorted",
+    "spacious",
+    "booth",
+    "peruse",
+    "extensive",
+    "wine list",
+    "attentive",
+    "knowledgeable",
+    "appetizer",
+    "delicate",
+    "flavor",
+    "satisfaction",
+    "compliment",
+    "chef",
+    "generous",
+    "portion",
+    "room",
+    "digest",
+    "request",
+    "split",
+    "generously",
+    "farewell",
+    "return"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Last Friday evening, I wanted to try a brand new restaurant downtown.",
+      "phonetic": "/lɑːst ˈfraɪdeɪ ˈiːvnɪŋ, aɪ ˈwɒntɪd tuː traɪ ə brænd njuː ˈrɛstrɒnt ˈdaʊntaʊn/",
+      "text_native": "Vendredi soir dernier, je voulais essayer un tout nouveau restaurant au centre-ville."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "The establishment boasted a remarkably sophisticated atmosphere.",
+      "phonetic": "/ði ɪˈstæblɪʃmənt bəʊstɪd ə rɪˈmɑːkəbli səˈfɪstɪkeɪtɪd ˈætməsfɪə/",
+      "text_native": "L'établissement affichait une atmosphère remarquablement sophistiquée."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "Walking through the entrance, I appreciated the softly lit interior.",
+      "phonetic": "/ˈwɔːkɪŋ θruː ði ˈɛntrəns, aɪ əˈpriːʃieɪtɪd ðə ˈsɒftli lɪt ɪnˈtɪərɪə/",
+      "text_native": "En franchissant l'entrée, j'ai apprécié l'intérieur doucement éclairé."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The charming host immediately acknowledged my prior reservation.",
+      "phonetic": "/ðə ˈʧɑːmɪŋ həʊst ɪˈmiːdiətli əkˈnɒlɪʤd maɪ ˈpraɪə ˌrɛzəˈveɪʃən/",
+      "text_native": "L'hôte charmant a immédiatement pris en compte ma réservation préalable."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "She smiled warmly and escorted me to a comfortable corner booth.",
+      "phonetic": "/ʃi smaɪld ˈwɔːmli ənd ɪˈskɔːtɪd mi tuː ə ˈkʌmfətəbl ˈkɔːnə buːθ/",
+      "text_native": "Elle a souri chaleureusement et m'a escorté jusqu'à une banquette d'angle confortable."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "Settling into the plush chair, I took a moment to observe the pleasant ambiance.",
+      "phonetic": "/ˈsɛt(ə)lɪŋ ˈɪntuː ðə plʌʃ ʧeə, aɪ tʊk ə ˈməʊmənt tuː əbˈzɜːv ðə ˈplɛznt ˈæmbɪəns/",
+      "text_native": "M'installant dans le fauteuil moelleux, j'ai pris un moment pour observer l'ambiance agréable."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "A polite waiter approached the table promptly with a leather-bound menu.",
+      "phonetic": "/ə pəˈlaɪt ˈweɪtə əˈprəʊʧt ðə ˈteɪbl ˈprɒmptli wɪð ə ˈlɛðə-baʊnd ˈmɛnjuː/",
+      "text_native": "Un serveur poli s'est approché rapidement de la table avec un menu relié de cuir."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I opened the pages to peruse the extensive list of culinary specialties.",
+      "phonetic": "/aɪ ˈəʊpənd ðə ˈpeɪʤɪz tuː pəˈruːz ði ɪkˈstɛnsɪv lɪst ɒv ˈkʌlɪnəri ˈspɛʃəltiz/",
+      "text_native": "J'ai ouvert les pages pour parcourir la liste exhaustive des spécialités culinaires."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Since I was feeling quite thirsty, I first ordered a glass of chilled sparkling water.",
+      "phonetic": "/sɪns aɪ wɒz ˈfiːlɪŋ kwaɪt ˈθɜːsti, aɪ fɜːst ˈɔːdəd ə glɑːs ɒv ʧɪld ˈspɑːklɪŋ ˈwɔːtə/",
+      "text_native": "Puisque j'avais assez soif, j'ai d'abord commandé un verre d'eau gazeuse bien fraîche."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The staff proved exceptionally knowledgeable regarding the daily seasonal selections.",
+      "phonetic": "/ðə stɑːf pruːvd ɪkˈsɛpʃənəli ˈnɒlɪʤəbl rɪˈgɑːdɪŋ ðə ˈdeɪli ˈsiːzənəl sɪˈlɛkʃənz/",
+      "text_native": "Le personnel s'est avéré exceptionnellement compétent concernant les sélections de saison du jour."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Following his expert suggestion, I selected a gourmet mushroom soup as my starter.",
+      "phonetic": "/ˈfɒləʊɪŋ hɪz ˈɛkspɜːt səgˈʤɛstʃən, aɪ səˈlɛktɪd ə ˈgʊəmeɪ ˈmʌʃrʊm suːp æz maɪ ˈstɑːtə/",
+      "text_native": "Suivant sa suggestion experte, j'ai choisi une soupe aux champignons gastronomique comme entrée."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The steaming bowl arrived shortly, releasing an extraordinarily rich aroma.",
+      "phonetic": "/ðə ˈstiːmɪŋ bəʊl əˈraɪvd ˈʃɔːtli, rɪˈliːsɪŋ ən ɪkˈstrɔːdnərɪli rɪʧ əˈrəʊmə/",
+      "text_native": "Le bol fumant est arrivé peu après, dégageant un arôme extraordinairement riche."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Every single spoonful delivered a delicate balance of earthy flavors.",
+      "phonetic": "/ˈɛvri ˈsɪŋgl ˈspuːnfʊl dɪˈlɪvəd ə ˈdɛlɪkət ˈbæləns ɒv ˈɜːθi ˈfleɪvəz/",
+      "text_native": "Chaque cuillère offrait un équilibre délicat de saveurs terreuses."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "After clearing my empty plate, the diligent server checked if I needed anything else.",
+      "phonetic": "/ˈɑːftə ˈklɪərɪŋ maɪ ˈɛmpti pleɪt, ðə ˈdɪlɪʤənt ˈsɜːvə ʧɛkt ɪf aɪ ˈniːdɪd ˈɛnɪθɪŋ ɛls/",
+      "text_native": "Après avoir débarrassé mon assiette vide, le serveur consciencieux a vérifié si j'avais besoin d'autre chose."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "For the main course, I opted for a roasted chicken breast served with steamed vegetables.",
+      "phonetic": "/fɔː ðə meɪn kɔːs, aɪ ˈɒptɪd fɔː ə ˈrəʊstɪd ˈʧɪkɪn brɛst sɜːvd wɪð stiːmd ˈvɛʤtəblz/",
+      "text_native": "Pour le plat principal, j'ai opté pour un suprême de poulet rôti servi avec des légumes vapeur."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The portion was surprisingly generous, perfectly cooked without losing its moisture.",
+      "phonetic": "/ðə ˈpɔːʃən wɒz səˈpraɪzɪŋli ˈʤɛnərəs, ˈpɜːfɪktli kʊkt wɪˈaʊt ˈluːzɪŋ ɪts ˈmɔɪsʧə/",
+      "text_native": "La portion était étonnamment généreuse, parfaitement cuite sans perdre son moelleux."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I paired the meal with a glass of robust red wine recommended on the board.",
+      "phonetic": "/aɪ peəd ðə miːl wɪð ə glɑːs ɒv rəʊˈbʌst rɛd waɪn ˈrɛkəmɛndɪd ɒn ðə bɔːd/",
+      "text_native": "J'ai accompagné le repas d'un verre de vin rouge corsé recommandé sur l'ardoise."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Surrounding diners engaged in quiet conversation while enjoying their own dishes.",
+      "phonetic": "/səˈraʊndɪŋ ˈdaɪnəz ɪnˈgeɪʤd ɪn ˈkwaɪət ˌkɒnvəˈseɪʃən waɪl ɪnˈʤɔɪɪŋ ðeər əʊn ˈdɪʃɪz/",
+      "text_native": "Les clients autour engageaient une conversation calme tout en savourant leurs propres plats."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Although I was getting quite full, I simply could not resist the dessert trolley.",
+      "phonetic": "/ɔːlˈðəʊ aɪ wɒz ˈgɛtɪŋ kwaɪt fʊl, aɪ ˈsɪmpli kʊd nɒt rɪˈzɪst ðə dɪˈzɜːt ˈtrɒli/",
+      "text_native": "Bien que je commence à être bien rassasié, je ne pouvais tout simplement pas résister au chariot de desserts."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I decided to sample a rich chocolate cake accompanied by vanilla ice cream.",
+      "phonetic": "/aɪ dɪˈsaɪdɪd tuː ˈsɑːmpl ə rɪʧ ˈʧɒkəlɪt keɪk əˈkʌmpənɪd baɪ vəˈnɪlə aɪs kriːm/",
+      "text_native": "J'ai décidé de goûter à un riche gâteau au chocolat accompagné de glace à la vanille."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The sweet combination provided ultimate satisfaction after such a heavy meal.",
+      "phonetic": "/ðə swiːt ˌkɒmbɪˈneɪʃən prəˈvaɪdɪd ˈʌltɪmɪt ˌsætɪsˈfækʃən ˈɑːftə sʌʧ ə ˈhɛvi miːl/",
+      "text_native": "Cette douce combinaison a procuré une satisfaction ultime après un tel repas copieux."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "When the waiter returned, I asked him to pass my compliments directly to the talented chef.",
+      "phonetic": "/wɛn ðə ˈweɪtə rɪˈtɜːnd, aɪ ɑːskt hɪm tuː pɑːs maɪ ˈkɒmplɪmənts daɪˈrɛktli tuː ðə ˈtæləntɪd ʧɛf/",
+      "text_native": "Quand le serveur est revenu, je lui ai demandé de transmettre mes compliments directement au chef talentueux."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "He smiled broadly and thanked me on behalf of the entire kitchen crew.",
+      "phonetic": "/hi smaɪld ˈbrɔːdli ənd ʧæŋkt mi ɒn bɪˈhɑːf ɒv ði ɪnˈtaɪə ˈkɪʧɪn kruː/",
+      "text_native": "Il a souri largement et m'a remercié au nom de toute l'équipe de cuisine."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Eventually, I requested the final bill to settle my account for the evening.",
+      "phonetic": "/ɪˈvɛntʃuəli, aɪ rɪˈkwɛstɪd ðə ˈfaɪnəl bɪl tuː ˈsɛtl maɪ əˈkaʊnt fɔː ði ˈiːvnɪŋ/",
+      "text_native": "Finalement, j'ai demandé l'addition pour régler mes dépenses de la soirée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Since I was dining alone, I paid the bill myself.",
+      "phonetic": "/sɪns aɪ wɒz ˈdaɪnɪŋ əˈləʊn, aɪ peɪd ðə bɪl maɪˈsɛlf/",
+      "text_native": "Comme je dinais seul, j'ai réglé l'addition moi-même."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "I paid my share using a bank card instead of carrying paper money.",
+      "phonetic": "/aɪ peɪd maɪ ʃeə ˈjuːzɪŋ ə bæŋk kɑːd ɪnˈstɛd ɒv ˈkæriɪŋ ˈpeɪpə ˈmʌni/",
+      "text_native": "J'ai payé avec une carte bancaire au lieu d'avoir de l'argent liquide sur moi."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "We left a generous tip on the table to reward the exceptional customer service.",
+      "phonetic": "/wi lɛft ə ˈʤɛnərəs tɪp ɒn ðə ˈteɪbl tuː rɪˈwɔːd ði ɪkˈsɛpʃənəl ˈkʌstəmə ˈsɜːvɪs/",
+      "text_native": "J'ai laissé un pourboire généreux sur la table pour récompenser le service exceptionnel."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Putting on my heavy coat, I headed towards the exit feeling completely satisfied.",
+      "phonetic": "/ˈpʊtɪŋ ɒn maɪ ˈhɛvi kəʊt, aɪ ˈhɛdɪd təˈwɔːdz ði ˈɛksɪt ˈfiːlɪŋ kəmˈpliːtli ˈsætɪsfaɪd/",
+      "text_native": "En enfilant mon manteau épais, je me suis dirigé vers la sortie en me sentant complètement satisfait."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "The host bade us a polite farewell as we stepped back out into the chilly night air.",
+      "phonetic": "/ðə həʊst beɪd ʌs ə pəˈlaɪt ˌfɛəˈwɛl æz wi stɛpt bæk aʊt ˈɪntuː ðə ˈʧɪli naɪt eə/",
+      "text_native": "L'hôte m'a fait de polis adieux alors que je ressortais dans l'air frais de la nuit."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I promised myself that I would definitely return to this wonderful establishment soon.",
+      "phonetic": "/aɪ ˈprɒmɪst maɪˈsɛlf ðæt aɪ wʊd ˈdɛfɪnɪtli rɪˈtɜːn tuː ðɪs ˈwʌndəfʊl ɪˈstæblɪʃmənt suːn/",
+      "text_native": "Je me suis promis que je reviendrais certainement bientôt dans cet établissement merveilleux."
+    }
+  ]
+}

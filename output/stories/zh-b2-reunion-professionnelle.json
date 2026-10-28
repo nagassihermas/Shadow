@@ -1,0 +1,218 @@
+{
+  "title": "市场部危机应对会议",
+  "new_vocabulary": [
+    "危机", "应对", "紧急", "召集", "核心", "成员", "分析", "原因", "竞争对手", "降价", "导致", "销量", "下降", "采取", "措施", "恢复", "份额", "推迟", "原定", "发布会", "集中", "精力", "优化", "用户", "体验", "客服", "部门", "配合", "挽回", "损失"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "面对突如其来的市场危机，经理决定马上召开紧急会议。",
+      "phonetic": "Miàn duì tū rú qí lái de shì chǎng wēi jī, jīng lǐ jué dìng mǎ shàng zhāo kāi jǐn jí huì yì.",
+      "phonetic_tones": "Miàn duì tū rú qí lái de shì chǎng wēi jī, jīng lǐ jué dìng mǎ shàng zhāo kāi jǐn jí huì yì.",
+      "text_native": "Face à la crise soudaine du marché, le manager a décidé de convoquer immédiatement une réunion d'urgence."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "大家迅速走进办公室，表情显得十分严肃。",
+      "phonetic": "Dà jiā xùn sù zǒu jìn bàn gōng shì, biǎo qíng xiǎn dé shí fēn yán sù.",
+      "phonetic_tones": "Dà jiā xùn sù zǒu jìn bàn gōng shì, biǎo qíng xiǎn dé shí fēn yán sù.",
+      "text_native": "Tout le monde est entré rapidement dans le bureau, l'air très sérieux."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "作为市场部的核心成员，王先生首先拿出了详细的数据分析。",
+      "phonetic": "Zuò wéi shì chǎng bù de hé xīn chéng yuán, wáng xiān shēng shǒu xiān ná chū le xiáng xì de shù jù fēn xī.",
+      "phonetic_tones": "Zuò wéi shì chǎng bù de hé xīn chéng yuán, wáng xiān shēng shǒu xiān ná chū le xiáng xì de shù jù fēn xī.",
+      "text_native": "En tant que membre clé du département marketing, M. Wang a d'abord présenté une analyse de données détaillée."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "他指着大屏幕上的图表，向领导解释这次销售滑坡的原因。",
+      "phonetic": "Tā zhǐ zhe dà píng mù shàng de tú biǎo, xiàng lǐng dǎo jiě shì zhè cì xiāo shòu huá pō de yuán yīn.",
+      "phonetic_tones": "Tā zhǐ zhe dà píng mù shàng de tú biǎo, xiàng lǐng dǎo jiě shì zhè cì xiāo shòu huá pō de yuán yīn.",
+      "text_native": "Il a pointé du doigt les graphiques sur grand écran pour expliquer aux dirigeants les raisons de cette baisse des ventes."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "主要竞争对手上个月突然实施了大幅降价策略。",
+      "phonetic": "Zhǔ yào jìng zhēng duì shǒu shàng gè yuè tū rán shí shī le dà fú jiàng jià cè lüè.",
+      "phonetic_tones": "Zhǔ yào jìng zhēng duì shǒu shàng gè yuè tū rán shí shī le dà fú jiàng jià cè lüè.",
+      "text_native": "Le principal concurrent a soudainement mis en œuvre une importante stratégie de réduction des prix le mois dernier."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "这一举动直接导致了我们产品在网上的销量明显下降。",
+      "phonetic": "Zhè yī jǔ dòng zhí jiē dǎo zhì le wǒ men chǎn pǐn zài wǎng shàng de xiāo liàng míng xiǎn xià jiàng.",
+      "phonetic_tones": "Zhè yī jǔ dòng zhí jiē dǎo zhì le wǒ men chǎn pǐn zài wǎng shàng de xiāo liàng míng xiǎn xià jiàng.",
+      "text_native": "Cette mesure a directement entraîné une baisse visible des ventes de nos produits en ligne."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "听到这里，坐在角落里的李小姐皱起了眉头。",
+      "phonetic": "Tīng dào zhè lǐ, zuò zài jiǎo luò lǐ de lǐ xiǎo jiě zhòu qǐ le méi tóu.",
+      "phonetic_tones": "Tīng dào zhè lǐ, zuò zài jiǎo luò lǐ de lǐ xiǎo jiě zhòu qǐ le méi tóu.",
+      "text_native": "En entendant cela, Mlle Li, assise dans le coin, a froncé les sourcils."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "她认为公司必须立刻采取有效的应对措施。",
+      "phonetic": "Tā rèn wéi gōng sī bì xū lì kè cǎi qǔ yǒu xiào de yìng duì cuò shī.",
+      "phonetic_tones": "Tā rèn wéi gōng sī bì xū lì kè cǎi qǔ yǒu xiào de yìng duì cuò shī.",
+      "text_native": "Elle estime que l'entreprise doit immédiatement prendre des mesures correctives efficaces."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "单纯依靠打价格战并不是长久之计。",
+      "phonetic": "Dān chún yī kào dǎ jià gé zhàn bìng bú shì cháng jiǔ zhī jì.",
+      "phonetic_tones": "Dān chún yī kào dǎ jià gé zhàn bìng bú shì cháng jiǔ zhī jì.",
+      "text_native": "Compter uniquement sur une guerre des prix n'est pas une solution à long terme."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我们需要重新评估目前的市场定位。",
+      "phonetic": "Wǒ men xū yào chóng xīn píng gū mù qián de shì chǎng dìng wèi.",
+      "phonetic_tones": "Wǒ men xū yào chóng xīn píng gū mù qián de shì chǎng dìng wèi.",
+      "text_native": "Nous devons réévaluer notre positionnement actuel sur le marché."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "经理点点头，同意她的看法并请大家提出具体的建议。",
+      "phonetic": "Jīng lǐ diǎn diǎn tóu, tóng yì tā de kàn fǎ bìng qǐng dà jiā tí chū jù tǐ de jiàn yì.",
+      "phonetic_tones": "Jīng lǐ diǎn diǎn tóu, tóng yì tā de kàn fǎ bìng qǐng dà jiā tí chū jù tǐ de jiàn yì.",
+      "text_native": "Le manager a hoché la tête, a approuvé son point de vue et a invité tout le monde à formuler des suggestions concrètes."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "经过半个小时的热烈讨论，团队终于达成了一致意见。",
+      "phonetic": "Jīng guò bàn gè xiǎo shí de rè liè tǎo lùn, tuán duì zhōng yú dá chéng le yī zhì yì jiàn.",
+      "phonetic_tones": "Jīng guò bàn gè xiǎo shí de rè liè tǎo lùn, tuán duì zhōng yú dá chéng le yī zhì yì jiàn.",
+      "text_native": "Après une demi-heure de discussion animée, l'équipe est enfin parvenue à un consensus."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "首先，我们必须把失去的市场份额慢慢恢复过来。",
+      "phonetic": "Shǒu xiān, wǒ men bì xū bǎ shī qù de shì chǎng fèn é màn màn huī fù guò lái.",
+      "phonetic_tones": "Shǒu xiān, wǒ men bì xū bǎ shī qù de shì chǎng fèn é màn màn huī fù guò lái.",
+      "text_native": "Premièrement, nous devons reconquérir progressivement la part de marché perdue."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "其次，技术部门要抓紧时间优化核心软件的性能。",
+      "phonetic": "Qí cì, jì shù bù mén yào zhuā jǐn shí jiān yōu huà hé xīn ruǎn jiàn de xìng néng.",
+      "phonetic_tones": "Qí cì, jì shù bù mén yào zhuā jǐn shí jiān yōu huà hé xīn ruǎn jiàn de xìng néng.",
+      "text_native": "Deuxièmement, le département technique doit se dépêcher d'optimiser les performances du logiciel principal."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "为了保证质量，原定于下周的新品发布会需要适当推迟。",
+      "phonetic": "Wèi le bǎo zhèng zhì liàng, yuán dìng yú xià zhōu de xīn pǐn fā bù huì xū yào shì dàng tuī chí.",
+      "phonetic_tones": "Wèi le bǎo zhèng zhì liàng, yuán dìng yú xià zhōu de xīn pǐn fā bù huì xū yào shì dàng tuī chí.",
+      "text_native": "Afin de garantir la qualité, la conférence de lancement du nouveau produit initialement prévue la semaine prochaine doit être reportée."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这个决定虽然有些艰难，但对长远发展更加有利。",
+      "phonetic": "Zhè gè jué dìng suī rán yǒu xiē jiān nán, dàn duì cháng yuǎn fā zhǎn gèng jiā yǒu lì.",
+      "phonetic_tones": "Zhè gè jué dìng suī rán yǒu xiē jiān nán, dàn duì cháng yuǎn fā zhǎn gèng jiā yǒu lì.",
+      "text_native": "Cette décision, bien qu'un peu difficile, est plus favorable au développement à long terme."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "会议室里的气氛渐渐从紧张变得充满信心。",
+      "phonetic": "Huì yì shì lǐ de qì fēn jiàn jiàn cóng jǐn zhāng biàn dé chōng mǎn xìn xīn.",
+      "phonetic_tones": "Huì yì shì lǐ de qì fēn jiàn jiàn cóng jǐn zhāng biàn dé chōng mǎn xìn xīn.",
+      "text_native": "L'atmosphère dans la salle de réunion est progressivement passée de la tension à la confiance."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "大家集中精力，把后续的工作任务重新进行了划分。",
+      "phonetic": "Dà jiā jí zhōng jīng lì, bǎ hòu xù de gōng zuò rèn wù chóng xīn jìn xíng le huà fēn.",
+      "phonetic_tones": "Dà jiā jí zhōng jīng lì, bǎ hòu xù de gōng zuò rèn wù chóng xīn jìn xíng le huà fēn.",
+      "text_native": "Tout le monde s'est concentré pour redéfinir les tâches à venir."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "销售团队将负责拜访重要客户并听取他们的真实反馈。",
+      "phonetic": "Xiāo shòu tuán duì jiāng fù zé bài fǎng zhòng yào kè hù bìng tīng qǔ tā men de zhēn shí fǎn kuì.",
+      "phonetic_tones": "Xiāo shòu tuán duì jiāng fù zé bài fǎng zhòng yào kè hù bìng tīng qǔ tā men de zhēn shí fǎn kuì.",
+      "text_native": "L'équipe commerciale sera chargée de rendre visite aux clients importants et de recueillir leurs véritables retours."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "客服部门也要密切配合，随时准备解答用户的各种疑问。",
+      "phonetic": "Kè fú bù mén yě yào mì qiè pèi hé, suí shí zhǔn bèi jiě dá yòng hù de gè zhǒng yí wèn.",
+      "phonetic_tones": "Kè fú bù mén yě yào mì qiè pèi hé, suí shí zhǔn bèi jiě dá yòng hù de gè zhǒng yí wèn.",
+      "text_native": "Le service client devra également coopérer étroitement et se tenir prêt à répondre à toutes les questions des utilisateurs."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "通过提升产品体验，我们一定能慢慢挽回品牌损失。",
+      "phonetic": "Tōng guò tí shēng chǎn pǐn tǐ yàn, wǒ men yī dìng néng màn màn wǎn huí pǐn pái sǔn shī.",
+      "phonetic_tones": "Tōng guò tí shēng chǎn pǐn tǐ yàn, wǒ men yī dìng néng màn màn wǎn huí pǐn pái sǔn shī.",
+      "text_native": "En améliorant l'expérience utilisateur, nous parviendrons certainement à rattraper peu à peu les pertes de la marque."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "小张在笔记本上认真记录下了每一个关键的决议。",
+      "phonetic": "Xiǎo zhāng zài bǐ jì běn shàng rèn zhēn jì lù xià le měi yī gè guān jiàn de jué yì.",
+      "phonetic_tones": "Xiǎo zhāng zài bǐ jì běn shàng rèn zhēn jì lù xià le měi yī gè guān jiàn de jué yì.",
+      "text_native": "Xiao Zhang a noté consciencieusement chaque résolution clé dans son carnet."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "他会在今天下午下班之前把会议纪要发给所有人。",
+      "phonetic": "Tā huì zài jīn tiān xià wǔ xià bān zhī qián bǎ huì yì jì yào fā gěi suǒ yǒu rén.",
+      "phonetic_tones": "Tā huì zài jīn tiān xià wǔ xià bān zhī qián bǎ huì yì jì yào fā gěi suǒ yǒu rén.",
+      "text_native": "Il enverra le compte-rendu de la réunion à tout le monde avant la fin de la journée cet après-midi."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "经理看了一下手表，发现时间已经快到中午十二点半了。",
+      "phonetic": "Jīng lǐ kàn le yī xià shǒu biǎo, fā xiàn shí jiān yǐ jīng kuài dào zhōng wǔ shí èr diǎn bàn le.",
+      "phonetic_tones": "Jīng lǐ kàn le yī xià shǒu biǎo, fā xiàn shí jiān yǐ jīng kuài dào zhōng wǔ shí èr diǎn bàn le.",
+      "text_native": "Le manager a jeté un coup d'œil à sa montre et a constaté qu'il était presque midi et demi."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "他总结说，虽然面临不小的挑战，但团队的凝聚力依然很强。",
+      "phonetic": "Tā zǒng jié shuō, suī rán miàn lín bù xiǎo de tiǎo zhàn, dàn tuán duì de níng jù lì yī rán hěn qiáng.",
+      "phonetic_tones": "Tā zǒng jié shuō, suī rán miàn lín bù xiǎo de tiǎo zhàn, dàn tuán duì de níng jù lì yī rán hěn qiáng.",
+      "text_native": "Il a conclu en disant que, malgré des défis considérables, la cohésion de l'équipe restait très forte."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "希望大家在接下来的工作中保持高效的沟通状态。",
+      "phonetic": "Xī wàng dà jiā zài jiē xià lái de gōng zuò zhōng bǎo chí gāo xiào de gōu tōng zhuàng tài.",
+      "phonetic_tones": "Xī wàng dà jiā zài jiē xià lái de gōng zuò zhōng bǎo chí gāo xiào de gōu tōng zhuàng tài.",
+      "text_native": "Il espère que tout le monde maintiendra une communication efficace dans le travail à venir."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "如果有任何突发情况，必须第一时间向部门领导汇报。",
+      "phonetic": "Rú guǒ yǒu rèn hé tū fā qíng kuàng, bì xū dì yī shí jiān xiàng bù mén lǐng dǎo huì bào.",
+      "phonetic_tones": "Rú guǒ yǒu rèn hé tū fā qíng kuàng, bì xū dì yī shí jiān xiàng bù mén lǐng dǎo huì bào.",
+      "text_native": "S'il y a le moindre imprévu, il faut en faire immédiatement rapport aux responsables du département."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "散会前，大家相互交换了鼓励的眼神，压力似乎减轻了许多。",
+      "phonetic": "Sàn huì qián, dà jiā xiāng hù jiāo huàn le gǔ lì de yǎn shén, yā lì sì hū jiǎn qīng le xǔ duō.",
+      "phonetic_tones": "Sàn huì qián, dà jiā xiāng hù jiāo huàn le gǔ lì de yǎn shén, yā lì sì hū jiǎn qīng le xǔ duō.",
+      "text_native": "Avant la levée de la séance, tout le monde a échangé des regards encourageants, et la pression semblait s'être allégée."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这次有效的危机会议为公司指明了清晰的解决方向。",
+      "phonetic": "Zhè cì yǒu xiào de wēi jī huì yì wèi gōng sī zhǐ míng le qīng xī de jiě jué fāng xiàng.",
+      "phonetic_tones": "Zhè cì yǒu xiào de wēi jī huì yì wèi gōng sī zhǐ míng le qīng xī de jiě jué fāng xiàng.",
+      "text_native": "Cette réunion de crise efficace a tracé une direction claire pour l'entreprise."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "参会人员陆续离开房间，准备投入到紧张的新战斗中去。",
+      "phonetic": "Cān huì rén yuán lù xù lí kāi fáng jiān, zhǔn bèi tóu rù dào jǐn zhāng de xīn zhàn dòu zhōng qù.",
+      "phonetic_tones": "Cān huì rén yuán lù xù lí kāi fáng jiān, zhǔn bèi tóu rù dào jǐn zhāng de xīn zhàn dòu zhōng qù.",
+      "text_native": "Les participants ont quitté la salle tour à tour, prêts à s'investir dans ce nouveau combat."
+    }
+  ]
+}

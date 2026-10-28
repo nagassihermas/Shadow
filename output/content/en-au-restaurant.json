@@ -1,0 +1,163 @@
+[
+  {
+    "text_target": "Hi, a table for two, please.",
+    "phonetic": "/haɪ ə ˈteɪbl fɔːr tuː pliːz/",
+    "text_native": "Bonjour, une table pour deux s'il vous plaît.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can we sit by the window?",
+    "phonetic": "/kæn wiː sɪt baɪ ðə ˈwɪndoʊ/",
+    "text_native": "On peut s'asseoir près de la fenêtre ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could we see the menu, please?",
+    "phonetic": "/kʊd wiː siː ðə ˈmɛnuː pliːz/",
+    "text_native": "Est-ce qu'on pourrait voir la carte, s'il vous plaît ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do you have any local specials today?",
+    "phonetic": "/duː juː hæv ˈɛni ˈloʊkl ˈspɛʃəlz təˈdeɪ/",
+    "text_native": "Vous avez des spécialités du coin aujourd'hui ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "What do you usually recommend here?",
+    "phonetic": "/wɒt duː juː ˈjuːʒuəli ˌrɛkəˈmɛnd hɪər/",
+    "text_native": "Qu'est-ce que vous conseillez en général ici ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "I'm not super hungry, just a light snack.",
+    "phonetic": "/aɪm nɒt ˈsuːpər ˈhʌŋɡri ʤʌst ə laɪt snæk/",
+    "text_native": "Je n'ai pas très faim, juste un petit truc léger.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Is this dish very spicy?",
+    "phonetic": "/ɪz ðɪs dɪʃ ˈvɛri ˈspaɪsi/",
+    "text_native": "Ce plat est très relevé ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "I have a nut allergy, so I must be careful.",
+    "phonetic": "/aɪ hæv ə nʌt ˈæləʤi soʊ aɪ mʌst biː ˈkɛrfl/",
+    "text_native": "Je fais une allergie aux cacahuètes, du coup je dois faire gaffe.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Can I get the burger without cheese?",
+    "phonetic": "/kæn aɪ gɛt ðə ˈbɜːrɡər wɪˈðaʊt ʧiːz/",
+    "text_native": "Je peux avoir le burger sans fromage ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "We are ready to order now.",
+    "phonetic": "/wiː ɑːr ˈrɛdi tuː ˈɔːrdər naʊ/",
+    "text_native": "On est prêts à commander maintenant.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "To start, I'll take the tomato soup.",
+    "phonetic": "/tuː stɑːrt aɪl teɪk ðə təˈmɑːtoʊ suːp/",
+    "text_native": "Pour commencer, je vais prendre la soupe à la tomate.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "For the main, I'll go with the grilled chicken.",
+    "phonetic": "/fɔːr ðə meɪn aɪl ɡoʊ wɪð ðə ɡrɪld ˈʧɪkɪn/",
+    "data-level": "A2",
+    "text_native": "En plat principal, je vais opter pour le poulet grillé.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "How would you like your steak cooked?",
+    "phonetic": "/haʊ wʊd juː laɪk jɔːr steɪk kʊkt/",
+    "text_native": "Vous souhaitez votre steak comment ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Medium rare, please, with fries.",
+    "phonetic": "/ˈmiːdiəm rɛr pliːz wɪð fraɪz/",
+    "text_native": "À point, s'il vous plaît, avec des frites.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could we get another pitcher of tap water?",
+    "phonetic": "/kʊd wiː gɛt əˈnʌðər ˈpɪtʃər ɒv tæp ˈwɔːtər/",
+    "text_native": "On pourrait avoir une autre pichet d'eau du robinet ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Everything tastes amazing, thanks!",
+    "phonetic": "/ˈɛvriθɪŋ teɪsts əˈmeɪzɪŋ θæŋks/",
+    "text_native": "Tout est super bon, merci !",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Excuse me, could you clear these plates?",
+    "phonetic": "/ɪkˈskjuːz miː kʊd juː klɪər ðiːz pleɪts/",
+    "text_native": "Excusez-moi, vous pouvez débarrasser ces assiettes ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "I'm too full for dessert, just a coffee.",
+    "phonetic": "/aɪm tuː fʊl fɔːr dɪˈzɜːrt ʤʌst ə ˈkɒfi/",
+    "text_native": "Je n'ai plus de place pour le dessert, juste un café.",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Could we have the bill, please?",
+    "phonetic": "/kʊd wiː hæv ðə bɪl pliːz/",
+    "text_native": "On peut avoir l'addition, s'il vous plaît ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "Do you take contactless card payments?",
+    "phonetic": "/duː juː teɪk ˈkɒntæktləs kɑːrd ˈpeɪmʌnts/",
+    "text_native": "Vous acceptez le paiement par carte sans contact ?",
+    "language": "EN",
+    "category": "voyage",
+    "level": "A2"
+  }
+]

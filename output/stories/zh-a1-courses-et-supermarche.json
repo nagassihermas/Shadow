@@ -1,0 +1,222 @@
+{
+  "title": "去超市买东西",
+  "new_vocabulary": [
+    "去",
+    "东西",
+    "今天",
+    "我",
+    "要",
+    "大",
+    "商",
+    "店",
+    "推",
+    "车",
+    "拿",
+    "红",
+    "色",
+    "几",
+    "个",
+    "牛奶",
+    "面包",
+    "冷",
+    "藏",
+    "柜",
+    "香",
+    "蕉",
+    "黄",
+    "蔬菜",
+    "肉",
+    "多",
+    "少",
+    "元",
+    "给",
+    "收",
+    "银",
+    "员",
+    "谢",
+    "回",
+    "家"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天我要去超市买东西。",
+      "phonetic": "Jītiān wǒ yào qù chāoshì mǎi dōngxī.",
+      "text_native": "Aujourd'hui, je vais au supermarché pour faire des courses."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "这个超市很大。",
+      "phonetic": "Zhège chāoshì hěn dà.",
+      "text_native": "Ce supermarché est très grand."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我走进大门。",
+      "phonetic": "Wǒ zǒu jìn dàmén.",
+      "text_native": "Je franchis la grande porte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我推一台小车。",
+      "phonetic": "Wǒ tuī yì tái xiǎochē.",
+      "text_native": "Je pousse un petit chariot."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我要买很多水和苹果。",
+      "phonetic": "Wǒ yào mǎi hěn duō shuǐ hé píngguǒ.",
+      "text_native": "Je veux acheter beaucoup d'eau et des pommes."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我先拿几个红苹果。",
+      "phonetic": "Wǒ xiān ná jǐ gè hóng píngguǒ.",
+      "text_native": "Je prends d'abord quelques pommes rouges."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "苹果看起来很好。",
+      "phonetic": "Píngguǒ kàn qǐlái hěn hǎo.",
+      "text_native": "Les pommes ont l'air très bien."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我把苹果放在车里。",
+      "phonetic": "Wǒ bǎ píngguǒ fàng zài chē lǐ.",
+      "text_native": "Je mets les pommes dans le chariot."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "然后我去找牛奶。",
+      "phonetic": "Ránhòu wǒ qù zhǎo niúnǎi.",
+      "text_native": "Ensuite, je vais chercher du lait."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "牛奶在冷藏柜旁边。",
+      "phonetic": "Niúnǎi zài lěngcángguì pángbiān.",
+      "text_native": "Le lait est à côté du rayon frais."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我拿一瓶牛奶。",
+      "phonetic": "Wǒ ná yì píng niúnǎi.",
+      "text_native": "Je prends une bouteille de lait."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我也想吃面包。",
+      "phonetic": "Wǒ yě xiǎng chī miànbāo.",
+      "text_native": "Je veux aussi manger du pain."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "面包很新鲜。",
+      "phonetic": "Miànbāo hěn xīnxiān.",
+      "text_native": "Le pain est très frais."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我看到黄色的香蕉。",
+      "phonetic": "Wǒ kàn dào huángsè de xiāngjiāo.",
+      "text_native": "Je vois des bananes jaunes."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "香蕉很甜。",
+      "phonetic": "Xiāngjiāo hěn tián.",
+      "text_native": "Les bananes sont très sucrées."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我放三个香蕉在车里。",
+      "phonetic": "Wǒ fàng sān gè xiāngjiāo zài chē lǐ.",
+      "text_native": "Je mets trois bananes dans le chariot."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我还买了一些绿蔬菜。",
+      "phonetic": "Wǒ hái mǎi le yìxiē lǜ shūcài.",
+      "text_native": "J'ai aussi acheté quelques légumes verts."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "蔬菜很健康。",
+      "phonetic": "Shūcài hěn jiànkāng.",
+      "text_native": "Les légumes sont très sains."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "肉类在另一边。",
+      "phonetic": "Ròulèi zài lìng yì biān.",
+      "text_native": "La viande est de l'autre côté."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我不买肉。",
+      "phonetic": "Wǒ bù mǎi ròu.",
+      "text_native": "Je n'achète pas de viande."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我的车满了。",
+      "phonetic": "Wǒ de chē mǎn le.",
+      "text_native": "Mon chariot est plein."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我走到收银台。",
+      "phonetic": "Wǒ zǒu dào shōuyíntái.",
+      "text_native": "Je marche jusqu'à la caisse."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "前面有几个人在排队。",
+      "phonetic": "Qiánmiàn yǒu jǐ gè rén zài páiduì.",
+      "text_native": "Il y a quelques personnes qui font la queue devant."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "轮到我了。",
+      "phonetic": "Lún dào wǒ le.",
+      "text_native": "C'est mon tour."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "收银员看我的东西。",
+      "phonetic": "Shōuyínyuán kàn wǒ de dōngxī.",
+      "text_native": "Le caissier regarde mes articles."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "一共多少钱？",
+      "phonetic": "Yígòng duōshǎo qián?",
+      "text_native": "Combien ça coûte en tout ?"
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我付了很多钱。",
+      "phonetic": "Wǒ fù le hěn duō qián.",
+      "text_native": "J'ai payé."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我拿好袋子。",
+      "phonetic": "Wǒ ná hǎo dàizi.",
+      "text_native": "Je prends bien mon sac."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我对收银员说谢谢。",
+      "phonetic": "Wǒ duì shōuyínyuán shuō xièxiè.",
+      "text_native": "Je dis merci au caissier."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在我回家了。",
+      "phonetic": "Xiànzài wǒ huí jiā le.",
+      "text_native": "Maintenant, je rentre à la maison."
+    }
+  ]
+}

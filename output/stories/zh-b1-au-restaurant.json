@@ -1,0 +1,217 @@
+{
+  "title": "晚餐的误会",
+  "new_vocabulary": [
+    "预订",
+    "姓名",
+    "手机",
+    "号码",
+    "确认",
+    "稍等",
+    "带路",
+    "窗户",
+    "风景",
+    "推荐",
+    "招牌",
+    "豆腐",
+    "蔬菜",
+    "服务",
+    "态度",
+    "满意",
+    "账单",
+    "现金",
+    "刷卡",
+    "发票",
+    "经理",
+    "道歉",
+    "打折",
+    "下次",
+    "光临",
+    "愉快",
+    "味道",
+    "肚子",
+    "口渴",
+    "决定"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天晚上我和同事决定去一家新开的饭馆吃晚饭。",
+      "phonetic": "Jītiān wǎnshang wǒ hé tóngshì juédìng qù yī jiā xīn kāi de fánguǎnr chī wǎnfàn.",
+      "text_native": "Ce soir, mon collègue et moi avons décidé d'aller dîner dans un nouveau restaurant."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "因为我肚子很饿而且有点口渴，所以我们走得很快。",
+      "phonetic": "Yīnwèi wǒ dùzi hěn è érqiě yǒudiǎn kǒukě, suǒyǐ wǒmen zǒu de hěn kuài.",
+      "text_native": "Comme j'avais très faim et un peu soif, nous avons marché très vite."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "走到门口的时候，服务员热情地欢迎我们进去。",
+      "phonetic": "Zǒu dào ménkǒu de shíhou, fúwùyuán rèqíng de huānyíng wǒmen jìnqù.",
+      "text_native": "En arrivant à l'entrée, le serveur nous a accueillis chaleureusement pour entrer."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "服务员问我们有没有提前预订位子。",
+      "phonetic": "Fúwùyuán wèn wǒmen yǒu méiyǒu tíqián yùdìng wèizi.",
+      "text_native": "Le serveur nous a demandé si nous avions réservé une table à l'avance."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我告诉他我的姓名和手机号码。",
+      "phonetic": "Wǒ gàosù tā wǒ de xìngmíng hé shǒujī hàomǎ.",
+      "text_native": "Je lui ai communiqué mon nom et mon numéro de téléphone portable."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他在电脑上确认了一下，然后请我们稍等。",
+      "phonetic": "Tā zài diànnǎo shàng quèrèn le yīxià, ránhòu qǐng wǒmen shāoděng.",
+      "text_native": "Il a vérifié sur l'ordinateur, puis nous a demandé de patienter un instant."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "另一位服务员走过来带路，把我们带到一张干净的桌子旁边。",
+      "phonetic": "Lìng yī wèi fúwùyuán zǒu guòlái dàilù, bǎ wǒmen dài dào yī zhāng gānjìng de zhuōzi pángbiān.",
+      "text_native": "Un autre serveur est venu nous guider et nous a conduits près d'une table propre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这张桌子在窗户旁边，可以看到外面的风景。",
+      "phonetic": "Zhè zhāng zhuōzi zài chuānghù pángbiān, kěyǐ kàn dào wàimiàn de fēngjǐng.",
+      "text_native": "Cette table était près de la fenêtre, ce qui permettait de voir le paysage extérieur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "坐下以后，服务员拿来了一本菜单和两杯热茶。",
+      "phonetic": "Zuò xià yǐhòu, fúwùyuán ná lái le yī běn càidān hé liǎng bēi rè chá.",
+      "text_native": "Une fois assis, le serveur a apporté un menu et deux tasses de thé chaud."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "我先喝了一口茶，感觉非常舒服。",
+      "phonetic": "Wǒ xiān hē le yī kǒu chá, gǎnjué fēicháng shūfu.",
+      "text_native": "J'ai d'abord pris une gorgée de thé, ce qui m'a fait beaucoup de bien."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我们打开菜单，看看今天有什么特色菜。",
+      "phonetic": "Wǒmen dǎkāi càidān, kànkan jīntiān yǒu shénme tèsè cài.",
+      "text_native": "Nous avons ouvert le menu pour voir quelles étaient les spécialités du jour."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "服务员向我们推荐了这里的招牌豆腐和牛肉面。",
+      "phonetic": "Fúwùyuán xiàng wǒmen tuījiàn le zhèlǐ de zhāopái dòufu hé niúròu miàn.",
+      "text_native": "Le serveur nous a recommandé le tofu signature et les nouilles au bœuf de l'établissement."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "同事喜欢吃辣的鱼，所以点了一盘辣鱼。",
+      "phonetic": "Tóngshì xǐhuan chī là de yú, suǒyǐ diǎn le yī pán là yú.",
+      "text_native": "Mon collègue aime manger du poisson piquant, il a donc commandé un plat de poisson épicé."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "我还想吃一点蔬菜，就点了一盘炒青菜和一碗热汤。",
+      "phonetic": "Wǒ hái xiǎng chī yīdiǎn shūcài, jiù diǎn le yī pán chǎo qīngcài hé yī wǎn rè tāng.",
+      "text_native": "Je voulais aussi manger un peu de légumes, alors j'ai commandé une assiette de légumes sautés et un bol de soupe chaude."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "点好菜之后，我们一边聊天一边等候上菜。",
+      "phonetic": "Diǎn hǎo cài zhīhòu, wǒmen yībiān liáotiān yībiān děnghòu shàng cài.",
+      "text_native": "Après avoir passé commande, nous avons discuté tout en attendant les plats."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "厨房上菜的速度很快，没过十分钟盘子就端上来了。",
+      "phonetic": "Chúfáng shàng cài de sùdù hěn kuài, méi guò shí fēnzhōng pánzi jiù duān shànglái le.",
+      "text_native": "La cuisine a servi très rapidement, et en moins de dix minutes, les assiettes ont été apportées."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我们尝了尝那块豆腐，发现味道真不错。",
+      "phonetic": "Wǒmen cháng le cháng nà kuài dòufu, fāxiàn wèidao zhēn bùcuò.",
+      "text_native": "Nous avons goûté ce tofu et avons trouvé que le goût était vraiment bon."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "鱼肉也很新鲜，一点也没有腥味。",
+      "phonetic": "Yú ròu yě hěn xīnxiān, yīdiǎn yě méiyǒu xīngwèi.",
+      "text_native": "La chair du poisson était également très fraîche, sans aucune odeur de rance ou de poisson (de fadeur/de vase)."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "吃饭的过程中，服务员过来询问我们的菜品合不合口味。",
+      "phonetic": "Chīfàn de guòchéngzhōng, fúwùyuán guòlái xúnwèn wǒmen de càipǐn hé bù hé kǒuwèi.",
+      "text_native": "Pendant le repas, le serveur est venu nous demander si les plats étaient à notre goût."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我们对这里的饭菜和服务都感到很满意。",
+      "phonetic": "Wǒmen duì zhèlǐ de fàncài hé fúwù dōu gǎndào hěn mǎnyì.",
+      "text_native": "Nous étions très satisfaits de la cuisine et du service ici."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "吃得差不多了以后，我又点了一瓶可乐。",
+      "phonetic": "Chī de chàbuduō le yǐhòu, wǒ yòu diǎn le yī píng kělè.",
+      "text_native": "Une fois que j'ai eu presque fini de manger, j'ai commandé une bouteille de Coca-Cola."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我们吃完以后，请服务员过来买单。",
+      "phonetic": "Wǒmen chī wán yǐhòu, qǐng fúwùyuán guòlái mǎidān.",
+      "text_native": "Une fois notre repas terminé, nous avons demandé au serveur de venir pour l'addition."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "服务员拿来了一张账单，上面写着总共多少钱。",
+      "phonetic": "Fúwùyuán ná lái le yī zhāng zhàngdān, shàngmiàn xiě zhe zǒnggòng duōshǎo qián.",
+      "text_native": "Le serveur nous a apporté une addition indiquant le montant total."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "因为周末有活动，饭馆给我们打折了。",
+      "phonetic": "Yīnwèi zhōumò yǒu huódòng, fánguǎnr gěi wǒmen dǎzhé le.",
+      "text_native": "Comme il y avait une promotion pour le week-end, le restaurant nous a fait une réduction."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我问能不能刷卡，他说可以。",
+      "phonetic": "Wǒ wèn néng bù néng shuākǎ, tā shuō kěyǐ.",
+      "text_native": "J'ai demandé si l'on pouvait payer par carte, il a répondu que c'était possible."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "付完钱之后，我问服务员需不需要开发票。",
+      "phonetic": "Fù wán qián zhīhòu, wǒ wèn fúwùyuán xū bù xūyào kāi fāpiào.",
+      "text_native": "Après avoir payé, j'ai demandé au serveur s'il était possible d'avoir une facture."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "服务员说可以，并很快帮我打印好了。",
+      "phonetic": "Fúwùyuán shuō kěyǐ, bìng hěn kuài bāng wǒ dǎyìn hǎo le.",
+      "text_native": "Le serveur a dit oui et me l'a rapidement imprimée."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "经理微笑着把收据交给我，并送我们到门口。",
+      "phonetic": "Jīnglǐ wēixiào zhe bǎ shōujù jiāo gěi wǒ, bìng sòng wǒmen dào ménkǒu.",
+      "text_native": "Le directeur m'a remis le reçu avec le sourire et nous a raccompagnés jusqu'à la porte."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "他说欢迎我们下次再来光临。",
+      "phonetic": "Tā shuō huānyíng wǒmen xià cì zài lái guānglín.",
+      "text_native": "Il a dit qu'ils nous invitaient à revenir la prochaine fois."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "今天晚上的聚会真愉快，我们高兴地离开了。",
+      "phonetic": "Jītiān wǎnshang de jùhuì zhēn yúkuài, wǒmen gāoxìng de líkāi le.",
+      "text_native": "La soirée d'aujourd'hui a été vraiment agréable, et nous sommes repartis joyeusement."
+    }
+  ]
+}

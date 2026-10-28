@@ -1,0 +1,256 @@
+{
+  "title": "A Bad Tuesday",
+  "new_vocabulary": [
+    "Tuesday",
+    "morning",
+    "alarm",
+    "clock",
+    "sound",
+    "stop",
+    "eyes",
+    "open",
+    "heavy",
+    "blanket",
+    "cold",
+    "room",
+    "floor",
+    "feet",
+    "steps",
+    "bathroom",
+    "mirror",
+    "pale",
+    "face",
+    "skin",
+    "nose",
+    "tissue",
+    "box",
+    "living",
+    "room",
+    "sofa",
+    "pillow",
+    "blanket",
+    "tea",
+    "cup",
+    "lemon",
+    "honey",
+    "spoon",
+    "kitchen",
+    "kettle",
+    "boil",
+    "sound",
+    "steam",
+    "rise",
+    "cupboard",
+    "shelf",
+    "sugar",
+    "packet",
+    "bottle",
+    "syrup",
+    "taste",
+    "sweet",
+    "relief",
+    "window",
+    "outside",
+    "rain",
+    "fall",
+    "street",
+    "grey",
+    "sky",
+    "hour",
+    "pass",
+    "clock",
+    "tick",
+    "sigh",
+    "rest",
+    "mind",
+    "quiet",
+    "moment",
+    "peace",
+    "soon",
+    "health",
+    "return",
+    "smile"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Last Tuesday, my alarm clock started to sound very early.",
+      "phonetic": "/lɑːst ˈtjuːzdeɪ maɪ əˈlɑːm klɒk ˈstɑːtɪd tuː saʊnd ˈvɛri ˈɜːli/",
+      "text_native": "Mardi dernier, mon réveil a commencé à sonner très tôt."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "I tried to stop it with my hand.",
+      "phonetic": "/aɪ ˈtraɪd tuː stɒp ɪt wɪð maɪ hænd/",
+      "text_native": "J'ai essayé de l'arrêter avec ma main."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "My eyes were heavy and I felt very tired.",
+      "phonetic": "/maɪ aɪz wɜː ˈhɛvi ænd aɪ fɛlt ˈvɛri ˈtaɪəd/",
+      "text_native": "Mes yeux étaient lourds et je me sentais très fatigué."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "I stayed under the warm blanket for a few minutes.",
+      "phonetic": "/aɪ steɪd ˈʌndə ðə wɔːm ˈblæŋkɪt fɔːr ə fjuː ˈmɪnɪts/",
+      "text_native": "Je suis resté sous la couverture chaude pendant quelques minutes."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "When I got up, the room felt very cold.",
+      "phonetic": "/wɛn aɪ gɒt ʌp ðə ruːm fɛlt ˈvɛri kəʊld/",
+      "text_native": "Quand je me suis levé, la pièce semblait très froide."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "My feet touched the cold floor.",
+      "phonetic": "/maɪ fiːt tʌtʃt ðə kəʊld flɔː/",
+      "text_native": "Mes pieds ont touché le sol froid."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "I took slow steps toward the bathroom.",
+      "phonetic": "/aɪ tʊk sləʊ stɛps təˈwɔːd ðə ˈbɑːθruːm/",
+      "text_native": "J'ai fait des pas lents vers la salle de bains."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "I looked in the mirror above the sink.",
+      "phonetic": "/aɪ lʊkt ɪn ðə ˈmɪrə əˈbʌv ðə sɪŋk/",
+      "text_native": "J'ai regardé dans le miroir au-dessus du lavabo."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "My face looked very pale.",
+      "phonetic": "/maɪ feɪs lʊkt ˈvɛri peɪl/",
+      "text_native": "Mon visage avait l'air très pâle."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "I had a bad cough and a running nose.",
+      "phonetic": "/aɪ hæd ə bæd kɒf ænd ə ˈrʌnɪŋ nəʊz/",
+      "text_native": "J'avais une mauvaise toux et le nez qui coulait."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "I grabbed a paper tissue from the small box.",
+      "phonetic": "/aɪ græbd ə ˈpeɪpə ˈtɪʃuː frɒm ðə smɔːl bɒks/",
+      "text_native": "J'ai attrapé un mouchoir en papier dans la petite boîte."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I knew I caught a bad cold.",
+      "phonetic": "/aɪ njuː aɪ kɔːt ə bæd kəʊld/",
+      "text_native": "Je savais que j'avais attrapé un mauvais rhume."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "I walked slowly into the kitchen to find some relief.",
+      "phonetic": "/aɪ wɔːkt ˈsləʊli ˈɪntuː ðə ˈkɪtʃɪn tuː faɪnd sʌm rɪˈliːf/",
+      "text_native": "J'ai marché lentement vers la cuisine pour trouver un peu de soulagement."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "I placed the kettle on the stove to boil water.",
+      "phonetic": "/aɪ pleɪst ðə ˈkɛtl ɒn ðə stəʊv tuː bɔɪl ˈwɔːtə/",
+      "text_native": "J'ai posé la bouilloire sur la cuisinière pour faire bouillir de l'eau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "While waiting, I took a clean glass and a ceramic cup.",
+      "phonetic": "/waɪl ˈweɪtɪŋ aɪ tʊk ə kliːn glɑːs ænd ə sɪˈræmɪk kʌp/",
+      "text_native": "En attendant, j'ai pris un verre propre et une tasse en céramique."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "I opened the high cupboard to check the shelves.",
+      "phonetic": "/aɪ ˈəʊpənd ðə haɪ ˈkʌbəd tuː tʃɛk ðə ʃɛlvz/",
+      "text_native": "J'ai ouvert le placard en hauteur pour vérifier les étagères."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "I found a bottle of sweet honey.",
+      "phonetic": "/aɪ faʊnd ə ˈbɒtl ɒv swiːt ˈhʌni/",
+      "text_native": "J'ai trouvé un flacon de miel doux."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "I cut a fresh lemon with a sharp knife.",
+      "phonetic": "/aɪ kʌt ə frɛʃ ˈlɛmən wɪð ə ʃɑːp naɪf/",
+      "text_native": "J'ai coupé un citron frais avec un couteau bien aiguisé."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I poured the hot water into the cup.",
+      "phonetic": "/aɪ pɔːd ðə hɒt ˈwɔːtə ˈɪntuː ðə kʌp/",
+      "text_native": "J'ai versé l'eau chaude dans la tasse."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "I mixed the lemon juice and honey with a small spoon.",
+      "phonetic": "/aɪ mɪkst ðə ˈlɛmən dʒuːs ænd ˈhʌni wɪð ə smɔːl spuːn/",
+      "text_native": "J'ai mélangé le jus de citron et le miel avec une petite cuillère."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The warm drink felt very good in my sore throat.",
+      "phonetic": "/ðə wɔːm drɪŋk fɛlt ˈvɛri gʊd ɪn maɪ sɔː θrəʊt/",
+      "text_native": "La boisson chaude a fait beaucoup de bien à ma gorge irritée."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I carried my warm cup into the living room.",
+      "phonetic": "/aɪ ˈkærid maɪ wɔːm kʌp ˈɪntuː ðə ˈlɪvɪŋ ruːm/",
+      "text_native": "J'ai porté ma tasse chaude dans le salon."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "I lay down on the long sofa and used a soft pillow.",
+      "phonetic": "/aɪ leɪ daʊn ɒn ðə lɒŋ ˈsəʊfə ænd juːzd ə sɒft ˈpɪləʊ/",
+      "text_native": "Je me suis allongé sur le long canapé et j'ai utilisé un oreiller moelleux."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Outside the window, the grey rain was falling steadily.",
+      "phonetic": "/ˌaʊtˈsaɪd ðə ˈwɪndə ðə greɪ reɪn wɒz ˈfɔːlɪŋ ˈstɛdɪli/",
+      "text_native": "Dehors, à travers la fenêtre, la pluie grise tombait régulièrement."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Many quiet hours passed slowly while I rested.",
+      "phonetic": "/ˈmɛni ˈkwaɪət ˈaʊəz pɑːst ˈsləʊli waɪl aɪ ˈrɛstɪd/",
+      "text_native": "De nombreuses heures calmes ont défilé lentement pendant que je me reposais."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "My body felt weak, so I took some simple medicine.",
+      "phonetic": "/maɪ ˈbɒdi fɛlt wiːk səʊ aɪ tʊk sʌm ˈsɪmpl ˈmɛdsɪn/",
+      "text_native": "Mon corps se sentait faible, alors j'ai pris un médicament simple."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I did not look at my phone or think about my work.",
+      "phonetic": "/aɪ dɪd nɒt lʊk æt maɪ fəʊn ɔː θɪŋk əˈbaʊt maɪ wɜːk/",
+      "text_native": "Je n'ai pas regardé mon téléphone et je n'ai pas pensé à mon travail."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "By the evening, my high fever started to go down.",
+      "phonetic": "/baɪ ði ˈiːvnɪŋ maɪ haɪ ˈfiːvə ˈstɑːtɪd tuː gəʊ daʊn/",
+      "text_native": "Vers le soir, ma forte fièvre a commencé à baisser."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I drank another large glass of fresh water before sleeping.",
+      "phonetic": "/aɪ dræŋk əˈnʌðə lɑːdʒ glɑːs ɒv frɛʃ ˈwɔːtə bɪˈfɔːr ˈsliːpɪŋ/",
+      "text_native": "J'ai bu un autre grand verre d'eau fraîche avant de dormir."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "I hoped tomorrow would bring better health.",
+      "phonetic": "/aɪ həʊpt təˈmɒrəʊ wʊd brɪŋ ˈbɛtə hɛlθ/",
+      "text_native": "J'espérais que demain m'apporterait une meilleure santé."
+    }
+  ]
+}

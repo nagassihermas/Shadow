@@ -1,0 +1,186 @@
+{
+  "title": "A Professional Meeting",
+  "new_vocabulary": ["morning", "time", "ready", "person", "group", "room", "floor", "window", "light", "project", "work", "team", "goal", "plan", "step", "idea", "question", "answer", "problem", "solution", "ready", "smart", "busy", "quiet", "speak", "listen", "start", "stop", "think", "agree"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "It is Monday morning.",
+      "phonetic": "/ɪt ɪz ˈmʌndeɪ ˈmɔːrnɪŋ/",
+      "text_native": "C'est lundi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "It is time for work.",
+      "phonetic": "/ɪt ɪz taɪm fɔːr wɜːrk/",
+      "text_native": "C'est l'heure de travailler."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The office is very busy today.",
+      "phonetic": "/ði ˈɔːfɪs ɪz ˈvɛri ˈbɪzi təˈdeɪ/",
+      "text_native": "Le bureau est très animé aujourd'hui."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom walks to the meeting room.",
+      "phonetic": "/tɒm wɔːks tuː ðə ˈmiːtɪŋ ruːm/",
+      "text_native": "Tom se dirige vers la salle de réunion."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He opens the heavy door.",
+      "phonetic": "/hiː ˈəʊpənz ðə ˈhɛvi dɔːr/",
+      "text_native": "Il ouvre la lourde porte."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The room is large and quiet.",
+      "phonetic": "/ðə ruːm ɪz lɑːrdʒ ænd ˈkwaɪət/",
+      "text_native": "La pièce est grande et calme."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Bright light comes through the window.",
+      "phonetic": "/braɪt laɪt kʌmz θruː ðə ˈwɪndəʊ/",
+      "text_native": "Une lumière vive entre par la fenêtre."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "A big table stands in the middle.",
+      "phonetic": "/ə bɪɡ ˈteɪbəl stændz ɪn ðə ˈmɪdəl/",
+      "text_native": "Une grande table se trouve au milieu."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "Many chairs wait around the table.",
+      "phonetic": "/ˈmɛni tʃɛərz weɪt əˈraʊnd ðə ˈteɪbəl/",
+      "text_native": "De nombreuses chaises attendent autour de la table."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The boss sits at the front.",
+      "phonetic": "/ðə bɒs sɪts æt ðə frʌnt/",
+      "text_native": "Le patron s'assoit au bout de la table."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Another colleague enters the room.",
+      "phonetic": "/əˈnʌðər ˈkɒliːɡ ˈɛntərz ðə ruːm/",
+      "text_native": "Un autre collègue entre dans la pièce."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "Everyone takes a comfortable seat.",
+      "phonetic": "/ˈɛvriwʌn teɪks ə ˈkʌmfərtəbəl siːt/",
+      "text_native": "Tout le monde s'installe confortablement."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom puts his computer on the wood.",
+      "phonetic": "/tɒm pʊts hɪz kəmˈpjuːtər ɒn ðə wʊd/",
+      "text_native": "Tom pose son ordinateur sur la table."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He has a paper and a pen ready.",
+      "phonetic": "/hiː hæz ə ˈpeɪpər ænd ə pɛn ˈrɛdi/",
+      "text_native": "Il a du papier et un stylo prêts."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The team starts the important meeting.",
+      "phonetic": "/ðə tiːm stɑːrts ði ɪmˈpɔːrtənt ˈmiːtɪŋ/",
+      "text_native": "L'équipe commence cette réunion importante."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The boss speaks about a new project.",
+      "phonetic": "/ðə bɒs spiːks əˈbaʊt ə njuː ˈprɒdʒɛkt/",
+      "text_native": "Le patron parle d'un nouveau projet."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Everyone listens to him carefully.",
+      "phonetic": "/ˈɛvriwʌn ˈlɪsənz tuː hɪm ˈkɛrfəli/",
+      "text_native": "Tout le monde l'écoute attentivement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "They look at the main goal.",
+      "phonetic": "/ðeɪ lʊk æt ðə meɪn ɡəʊl/",
+      "text_native": "Ils examinent l'objectif principal."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Tom thinks about a smart plan.",
+      "phonetic": "/tɒm θɪŋks əˈbaʊt ə smɑːrt plæn/",
+      "text_native": "Tom réfléchit à un plan ingénieux."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He shares his smart idea now.",
+      "phonetic": "/hiː ʃɛərz hɪz smɑːrt aɪˈdɪə naʊ/",
+      "text_native": "Il partage sa bonne idée maintenant."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "A colleague asks a difficult question.",
+      "phonetic": "/ə ˈkɒliːɡ ɑːsks ə ˈdɪfɪkəlt ˈkwɛstʃən/",
+      "text_native": "Un collègue pose une question difficile."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "They talk about a small problem.",
+      "phonetic": "/ðeɪ tɔːk əˈbaʊt ə smɔːl ˈprɒbləm/",
+      "text_native": "Ils discutent d'un petit problème."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "Tom finds a good solution quickly.",
+      "phonetic": "/tɒm faɪndz ə ɡʊd səˈluːʃən ˈkwɪkli/",
+      "text_native": "Tom trouve rapidement une bonne solution."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "All workers agree with his plan.",
+      "phonetic": "/ɔːl ˈwɜːrkərz əˈɡriː wɪð hɪz plæn/",
+      "text_native": "Tous les collaborateurs approuvent son plan."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "They write the next step down.",
+      "phonetic": "/ðeɪ raɪt ðə nɛkst stɛp daʊn/",
+      "text_native": "Ils notent la prochaine étape."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The meeting finishes on time.",
+      "phonetic": "/ðə ˈmiːtɪŋ ˈfɪnɪʃɪz ɒn taɪm/",
+      "text_native": "La réunion se termine à l'heure."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "People pack their things up.",
+      "phonetic": "/ˈpiːpəl pæk ðɛər θɪŋz ʌp/",
+      "text_native": "Chacun range ses affaires."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom closes his computer screen.",
+      "phonetic": "/tɒm ˈkləʊzɪz hɪz kəmˈpjuːtər skriːn/",
+      "text_native": "Tom ferme son ordinateur portable."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "They leave the room together.",
+      "phonetic": "/ðeɪ liːv ðə ruːm təˈɡɛðər/",
+      "text_native": "Ils quittent la pièce ensemble."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Hard work continues outside.",
+      "phonetic": "/hɑːrd wɜːrk kənˈtɪnjuːz ˌaʊtˈsaɪd/",
+      "text_native": "Le travail reprend de plus belle."
+    }
+  ]
+}

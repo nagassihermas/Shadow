@@ -1,0 +1,217 @@
+{
+  "title": "A Safe Treatment Plan",
+  "new_vocabulary": [
+    "treatment",
+    "plan",
+    "schedule",
+    "interval",
+    "quantity",
+    "side effect",
+    "drowsiness",
+    "safety",
+    "guideline",
+    "prescription",
+    "pharmacist",
+    "warning",
+    "precaution",
+    "recovery",
+    "progress",
+    "improvement",
+    "consultation",
+    "appointment",
+    "frequency",
+    "duration",
+    "strength",
+    "mg",
+    "milliliter",
+    "administration",
+    "patient",
+    "record",
+    "completion",
+    "balance",
+    "habit",
+    "routine"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom returned home with a new treatment plan from his doctor.",
+      "phonetic": "/tɒm rɪˈtɜːnd həʊm wɪð ə njuː ˈtriːtmənt plæn frɒm hɪz ˈdɒktə/",
+      "text_native": "Tom est rentré chez lui avec un nouveau plan de traitement prescrit par son médecin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He placed the prescription paper on the kitchen table.",
+      "phonetic": "/hiː pleɪst ðə prɪˈskrɪpʃən ˈpeɪpə ɒn ðə ˈkɪtʃɪn ˈteɪbl/",
+      "text_native": "Il a posé l'ordonnance sur la table de la cuisine."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The doctor explained the exact schedule for his medicine.",
+      "phonetic": "/ðə ˈdɒktə ɪkˈspleɪnd ði ɪɡˈzækt ˈʃɛdjuːl fɔː hɪz ˈmɛdɪsn/",
+      "text_native": "Le médecin lui avait expliqué le calendrier exact pour la prise de ses médicaments."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Tom needed to understand every single rule on the label.",
+      "phonetic": "/tɒm ˈniːdɪd tuː ˌʌndəˈstænd ˈɛvri ˈsɪŋɡl ruːl ɒn ðə ˈleɪbl/",
+      "text_native": "Tom devait comprendre chaque consigne figurant sur l'étiquette."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He checked the correct dose and the specific interval between pills.",
+      "phonetic": "/hiː ʧɛkt ðə kəˈrɛkt dəʊs ænd ðə spəˈsɪfɪk ˈɪntəvəl bɪˈtwiːn pɪlz/",
+      "text_native": "Il a vérifié la dose exacte et l'intervalle spécifique entre chaque comprimé."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The pharmacist had already highlighted the important warnings.",
+      "phonetic": "/ðə ˈfɑːməsɪst hæd ɔːlˈrɛdi ˈhaɪlaɪtɪd ði ɪmˈpɔːtənt ˈwɔːnɪŋz/",
+      "text_native": "Le pharmacien avait déjà surligné les avertissements importants."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "One major precaution was to avoid taking the tablets on an empty stomach.",
+      "phonetic": "/wʌn ˈmeɪʤə prɪˈkɔːʃən wɒz tuː əˈvɔɪd ˈteɪkɪŋ ðə ˈtæblɪts ɒn ən ˈɛmpti ˈstʌmək/",
+      "text_native": "L'une des précautions majeures était d'éviter de prendre les comprimés l'estomac vide."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Therefore, Tom prepared a light meal with some warm soup.",
+      "phonetic": "/ˈðɛəfɔː, tɒm prɪˈpɛəd ə laɪt miːl wɪð sʌm wɔːm suːp/",
+      "text_native": "Par conséquent, Tom s'est préparé un repas léger avec un peu de soupe chaude."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "After eating, he opened the new box very carefully.",
+      "phonetic": "/ˈɑːftər ˈiːtɪŋ, hiː ˈəʊpənd ðə njuː bɒks ˈvɛri ˈkɛəfʊli/",
+      "text_native": "Après avoir mangé, il a ouvert la nouvelle boîte avec beaucoup de précaution."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He took out the small plastic bottle and read the instructions again.",
+      "phonetic": "/hiː tʊk aʊt ðə smɔːl ˈplæstɪk ˈbɒtl ænd riːd ðə ɪnˈstrʌkʃənz əˈɡɛn/",
+      "text_native": "Il a sorti le petit flacon en plastique et a relu la notice."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "The strength of each tablet was clearly written as 500 mg.",
+      "phonetic": "/ðə strɛŋθ ɒv iːʧ ˈtæblɪt wɒz ˈklɪəli ˈrɪtn æz ˈfaɪv ˈhʌndrəd ˌɛmˈʤiː/",
+      "text_native": "Le dosage de chaque comprimé était clairement indiqué à 500 mg."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He measured the liquid syrup using the special small cap.",
+      "phonetic": "/hiː ˈmɛʒəd ðə ˈlɪkwɪd ˈsɪrəp ˈjuːzɪŋ ðə ˈspɛʃəl smɔːl kæp/",
+      "text_native": "Il a mesuré le sirop à l'aide du petit bouchon doseur spécial."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "The exact quantity was ten milliliters for an adult dose.",
+      "phonetic": "/ði ɪɡˈzækt ˈkwɒntɪti wɒz tɛn ˈmɪlɪliːtəz fɔːr ən ˈædʌlt dəʊs/",
+      "text_native": "La quantité exacte était de dix millilitres pour une dose adulte."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He swallowed the medicine quickly with a large glass of water.",
+      "phonetic": "/hiː ˈswɒləʊd ðə ˈmɛdɪsn ˈkwɪkli wɪð ə lɑːʤ ɡlɑːs ɒv ˈwɔːtə/",
+      "text_native": "Il a avalé le médicament rapidement avec un grand verre d'eau."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "A common side effect of this drug might be mild drowsiness.",
+      "phonetic": "/ə ˈkɒmən saɪd ɪˈfɛkt ɒv ðɪs drʌɡ maɪt biː maɪld ˈdraʊzɪnɪs/",
+      "text_native": "Un effet secondaire courant de ce médicament peut être une légère somnolence."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "Knowing this, Tom decided to relax quietly on the living room sofa.",
+      "phonetic": "/ˈnəʊɪŋ ðɪs, tɒm dɪˈsaɪdɪd tuː rɪˈlæks ˈkwaɪətli ɒn ðə ˈlɪvɪŋ ruːm ˈsəʊfə/",
+      "text_native": "Sachant cela, Tom a décidé de se détendre tranquillement sur le canapé du salon."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He covered himself with a warm blanket because he felt slightly weak.",
+      "phonetic": "/hiː ˈkʌvəd hɪmˈsɛlf wɪð ə wɔːm ˈblæŋkɪt bɪˈkɒz hiː fɛlt ˈslaɪtli wiːk/",
+      "text_native": "Il s'est enveloppé dans une couverture chaude car il se sentait un peu faible."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "The frequency of administration was strictly every eight hours.",
+      "phonetic": "/ðə ˈfriːkwənsi ɒv ədˌmɪnɪˈstreɪʃən wɒz ˈstrɪktli ˈɛvri eɪt ˈaʊəz/",
+      "text_native": "La fréquence d'administration était fixée strictement à toutes les huit heures."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "To maintain this routine, he set an alarm on his phone.",
+      "phonetic": "/tuː meɪnˈteɪn ðɪs ruːˈtiːn, hiː sɛt ən əˈlɑːm ɒn hɪz fəʊn/",
+      "text_native": "Pour respecter cette routine, il a programmé une alarme sur son téléphone."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "Good medication habits help accelerate the overall recovery process.",
+      "phonetic": "/ɡʊd ˌmɛdɪˈkeɪʃən ˈhæbɪts hɛlp əkˈsɛləreɪt ði ˈəʊvərɔːl rɪˈkʌvəri ˈprəʊsɛs/",
+      "text_native": "De bonnes habitudes médicamenteuses aident à accélérer le processus global de guérison."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Tom noted his daily progress in a small personal notebook.",
+      "phonetic": "/tɒm ˈnəʊtɪd hɪz ˈdeɪli ˈprəʊɡrəs ɪn ə smɔːl ˈpɜːsnəl ˈnəʊtbʊk/",
+      "text_native": "Tom a noté ses progrès quotidiens dans un petit carnet personnel."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "His severe headache started to fade away by late afternoon.",
+      "phonetic": "/hɪz sɪˈvɪə ˈhɛdeɪk ˈstɑːtɪd tuː feɪd əˈweɪ baɪ leɪt ˈɑːftənuːn/",
+      "text_native": "Son violent mal de tête a commencé à s'atténuer en fin d'après-midi."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "His temperature dropped back down to a normal healthy level.",
+      "phonetic": "/hɪz ˈtɛmprɪʧə drɒpt bæk daʊn tuː ə ˈnɔːməl ˈhɛlθi ˈlɛvəl/",
+      "text_native": "Sa température est redescendue à un niveau normal."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "He followed every safety guideline without making any mistakes.",
+      "phonetic": "/hiː ˈfɒləʊd ˈɛvri ˈseɪfti ˈɡaɪdlaɪn wɪˈðaʊt ˈmeɪkɪŋ ˈɛni mɪsˈteɪks/",
+      "text_native": "Il a suivi toutes les consignes de sécurité sans commettre la moindre erreur."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "The patient record showed a very positive response to the drugs.",
+      "phonetic": "/ðə ˈpeɪʃənt ˈrɛkɔːd ʃəʊd ə ˈvɛri ˈpɒzətɪv rɪˈspɒns tuː ðə drʌɡz/",
+      "text_native": "Le dossier médical a montré une réponse très positive aux médicaments."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "He understood why the duration of the cycle was a full week.",
+      "phonetic": "/hiː ˌʌndəˈstʊd waɪ ðə djʊˈreɪʃən ɒv ðə ˈsaɪkl wɒz ə fʊl wiːk/",
+      "text_native": "Il a compris pourquoi la durée du traitement était d'une semaine complète."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Stopping early could bring back the pain and the heavy cough.",
+      "phonetic": "/ˈstɒpɪŋ ˈɜːli kʊd brɪŋ bæk ðə peɪn ænd ðə ˈhɛvi kɒf/",
+      "text_native": "Arrêter trop tôt risquait de faire the return de la douleur et de la toux."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Therefore, the full completion of the treatment remained essential.",
+      "phonetic": "/ˈðɛəfɔː, ðə fʊl kəmˈpliːʃən ɒv ðə ˈtriːtmənt rɪˈmeɪnd ɪˈsɛnʃəl/",
+      "text_native": "Par conséquent, l'achèvement complet du traitement restait essentiel."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Tom felt much better and was ready for a good night of sleep.",
+      "phonetic": "/tɒm fɛlt mʌtʃ ˈbɛtə ænd wɒz ˈrɛdi fɔːr ə ɡʊd naɪt ɒv sliːp/",
+      "text_native": "Tom se sentait beaucoup mieux et était prêt à passer une bonne nuit de sommeil."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "His good health was finally returning thanks to careful discipline.",
+      "phonetic": "/hɪz ɡʊd hɛlθ wɒz ˈfaɪnəli rɪˈtɜːnɪŋ θæŋks tuː ˈkɛəfʊl ˈdɪsɪplɪn/",
+      "text_native": "Il retrouvait enfin la santé grâce à une discipline rigoureuse."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "A Busy Day at Work",
+  "new_vocabulary": ["spreadsheet", "column", "row", "cell", "backup", "email", "send", "receive", "attachment", "update", "software", "system", "error", "message", "fix", "printer", "paper", "print", "copy", "paste", "delete", "undo", "restore", "store", "secure", "safe", "office", "desk", "colleague", "boss"],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom arrives at his office in the morning.",
+      "phonetic": "/tɒm əˈraɪvz ət hɪz ˈɒfɪs ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Tom arrive à son bureau le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He sits down at his wooden desk.",
+      "phonetic": "/hiː sɪts daʊn ət hɪz ˈwʊdn dɛsk/",
+      "text_native": "Il s'assoit à son bureau en bois."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He opens his laptop and enters his password.",
+      "phonetic": "/hiː ˈəʊpənz hɪz ˈlæptɒp ənd ˈɛntərz hɪz ˈpɑːswɜːd/",
+      "text_native": "Il ouvre son ordinateur portable et entre son mot de passe."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "The desktop appears on the bright screen.",
+      "phonetic": "/ðə ˈdɛsktɒp əˈpɪəz ɒn ðə braɪt skriːn/",
+      "text_native": "Le bureau apparaît sur l'écran lumineux."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He checks his new email inbox.",
+      "phonetic": "/hiː tʃɛks hɪz njuː ˈiːmeɪl ˈɪnbɒks/",
+      "text_native": "Il vérifie sa nouvelle boîte de réception d'e-mails."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A colleague sends an important message.",
+      "phonetic": "/ə ˈkɒliːɡ sɛndz ən ɪmˈpɔːtənt ˈmɛsɪdʒ/",
+      "text_native": "Un collègue envoie un message important."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "There is a digital attachment in the message.",
+      "phonetic": "/ðeər ɪz ə ˈdɪdʒɪtəl əˈtætʃmənt ɪn ðə ˈmɛsɪdʒ/",
+      "text_native": "Il y a une pièce jointe dans le message."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "Tom opens a large spreadsheet file.",
+      "phonetic": "/tɒm ˈəʊpənz ə lɑːrdʒ ˈspriːdʃiːt faɪl/",
+      "text_native": "Tom ouvre un grand fichier de tableur."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The table has many rows and columns.",
+      "phonetic": "/ðə ˈteɪbl hæz ˈmɛni rəʊz ənd ˈkɒləmz/",
+      "text_native": "Le tableau comporte de nombreuses lignes et colonnes."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "He types numbers into every single cell.",
+      "phonetic": "/hiː taɪps ˈnʌmbərz ˈɪntuː ˈɛvri ˈsɪŋɡl sɛl/",
+      "text_native": "Il tape des chiffres dans chaque cellule."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Suddenly, a strange error appears.",
+      "phonetic": "/ˈsʌdənli, ə streɪndʒ ˈɛrər əˈpɪəz/",
+      "text_native": "Soudain, une étrange erreur apparaît."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "The software system stops working properly.",
+      "phonetic": "/ðə ˈsɒftwɛər ˈsɪstəm stɒps ˈwɜːkɪŋ ˈprɒpəli/",
+      "text_native": "Le système logiciel cesse de fonctionner correctement."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Tom clicks on the undo button quickly.",
+      "phonetic": "/tɒm klɪks ɒn ði ʌnˈduː ˈbʌtn ˈkwɪkli/",
+      "text_native": "Tom clique rapidement sur le bouton annuler."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He decides to delete the bad data.",
+      "phonetic": "/hiː dɪˈsaɪdz tuː dɪˈliːt ðə bæd ˈdeɪtə/",
+      "text_native": "Il décide de supprimer les données erronées."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Then he copies information from a secure folder.",
+      "phonetic": "/ðɛn hiː ˈkɒpiz ˌɪnfəˈmeɪʃən frəm ə sɪˈkjʊə ˈfəʊldər/",
+      "text_native": "Ensuite, il copie des informations depuis un dossier sécurisé."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "He pastes the correct numbers in the table.",
+      "phonetic": "/hiː peɪsts ðə kəˈrɛkt ˈnʌmbərz ɪn ðə ˈteɪbl/",
+      "text_native": "Il colle les bons chiffres dans le tableau."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "He saves the document to keep it safe.",
+      "phonetic": "/hiː seɪvz ðə ˈdɒkjʊmənt tuː kiːp ɪt seɪf/",
+      "text_native": "Il enregistre le document pour le mettre en sûreté."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "He makes a backup copy on the network.",
+      "phonetic": "/hiː meɪks ə ˈbækʌp ˈkɒpi ɒn ðə ˈnɛtwɜːk/",
+      "text_native": "Il fait une copie de sauvegarde sur le réseau."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "The boss walks by his desk and smiles.",
+      "phonetic": "/ðə bɒs wɔːks baɪ hɪz dɛsk ənd smaɪlz/",
+      "text_native": "Le patron passe près de son bureau et sourit."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The manager wants a physical paper report.",
+      "phonetic": "/ðə ˈmænɪdʒər wɒnts ə ˈfɪzɪkəl ˈpeɪpər rɪˈpɔːt/",
+      "text_native": "Le manager souhaite un rapport imprimé sur papier."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Tom connects his laptop to the printer.",
+      "phonetic": "/tɒm kəˈnɛkts hɪz ˈlæptɒp tuː ðə ˈprɪntə/",
+      "text_native": "Tom connecte son ordinateur portable à l'imprimante."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "He clicks on the print icon.",
+      "phonetic": "/hiː klɪks ɒn ðə prɪnt ˈaɪkɒn/",
+      "text_native": "Il clique sur l'icône d'impression."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The machine starts to make noise.",
+      "phonetic": "/ðə məˈʃiːn stɑːts tuː meɪk nɔɪz/",
+      "text_native": "La machine commence à faire du bruit."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "White paper comes out very fast.",
+      "phonetic": "/waɪt ˈpeɪpər kʌmz aʊt ˈvɛri fɑːst/",
+      "text_native": "Du papier blanc sort très rapidement."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "He walks to the machine and takes the pages.",
+      "phonetic": "/hiː wɔːks tuː ðə məˈʃiːn ənd teɪks ðə ˈpeɪdʒɪz/",
+      "text_native": "Il s'approche de la machine et prend les pages."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Later, an update notification pops up.",
+      "phonetic": "/ˈleɪtər, ən ˈʌpdeɪt ˌnəʊtɪfɪˈkeɪʃən pɒps ʌp/",
+      "text_native": "Plus tard, une notification de mise à jour s'affiche."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "He reads the text carefully on the screen.",
+      "phonetic": "/hiː riːdz ðə tɛkst ˈkɛəfʊli ɒn ðə skriːn/",
+      "text_native": "Il lit attentivement le texte sur l'écran."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "He uses his mouse to close the window.",
+      "phonetic": "/hiː ˈjuːzɪz hɪz maʊs tuː kləʊz ðə ˈwɪndəʊ/",
+      "text_native": "Il utilise sa souris pour fermer la fenêtre."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He finishes his daily computer work.",
+      "phonetic": "/hiː ˈfɪnɪʃɪz hɪz ˈdeɪli kəmˈpjuːtər wɜːk/",
+      "text_native": "Il termine son travail informatique quotidien."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Then he shuts down the machine and leaves.",
+      "phonetic": "/ðɛn hiː ʃʌts daʊn ðə məˈʃiːn ənd liːvz/",
+      "text_native": "Ensuite, il éteint l'ordinateur et s'en va."
+    }
+  ]
+}

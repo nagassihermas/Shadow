@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我家在这边。",
+    "phonetic": "wǒ jiā zài zhè biān.",
+    "text_native": "Ma maison est par ici.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "这是我的房间。",
+    "phonetic": "zhè shì wǒ de fáng jiān.",
+    "text_native": "C'est ma chambre.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "房间里面有一张床。",
+    "phonetic": "fáng jiān lǐ miàn yǒu yì zhāng chuáng.",
+    "text_native": "Il y a un lit dans la chambre.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "桌子上有台电脑。",
+    "phonetic": "zhuō zi shàng yǒu tái diàn nǎo.",
+    "text_native": "Il y a un ordinateur sur la table.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我每天早上很早起床。",
+    "phonetic": "wǒ měi tiān zǎo shàng hěn zǎo qǐ chuáng.",
+    "text_native": "Je me lève très tôt tous les matins.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "起床以后先喝杯水。",
+    "phonetic": "qǐ chuáng yǐ hòu xiān hē bēi shuǐ.",
+    "text_native": "Je bois d'abord un verre d'eau après m'être levé.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我在厨房做早饭。",
+    "phonetic": "wǒ zài chú fáng zuò zǎo fàn.",
+    "text_native": "Je prépare le petit-déjeuner dans la cuisine.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "冰箱里有牛奶和鸡蛋。",
+    "phonetic": "bīng xiāng lǐ yǒu niú nǎi hé jī dàn.",
+    "text_native": "Il y du lait et des œufs dans le frigo.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "客厅的沙发很舒服。",
+    "phonetic": "kè tīng de shā fā hěn shū fu.",
+    "text_native": "Le canapé du salon est très confortable.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "猫在椅子下面睡觉。",
+    "phonetic": "māo zài yǐ zi xià miàn shuì jiào.",
+    "text_native": "Le chat dort sous la chaise.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "下午我要打扫卫生。",
+    "phonetic": "xià wǔ wǒ yào dǎ sǎo wèi shēng.",
+    "text_native": "Cet après-midi, je dois faire le ménage.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "衣服脏了要洗一洗。",
+    "phonetic": "yī fú zāng le yào xǐ yì xǐ.",
+    "text_native": "Quand les vêtements sont sales, il faut les laver.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "洗衣机在阳台上。",
+    "phonetic": "xǐ yī jī zài yáng tái shàng.",
+    "text_native": "La machine à laver est sur le balcon.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "天气很好，我把衣服晒在外面。",
+    "phonetic": "tiān qì hěn hǎo, wǒ bǎ yī fú shài zài wài miàn.",
+    "text_native": "Il fait beau, je mets le linge à sécher dehors.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我出门去买点儿菜。",
+    "phonetic": "wǒ chū mén qù mǎi diǎn r cài.",
+    "text_native": "Je sors pour acheter un peu de provisions.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "超市离这里走路五分钟。",
+    "phonetic": "chāo shì lí zhè lǐ zǒu lù wǔ fēn zhōng.",
+    "text_native": "Le supermarché est à cinq minutes à pied d'ici.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "晚饭我们吃米饭和炒菜。",
+    "phonetic": "wǎn fàn wǒ men chī mǐ fàn hé chǎo cài.",
+    "text_native": "Ce soir, nous mangeons du riz et des plats sautés.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "吃完饭我习惯看一会儿电视。",
+    "phonetic": "chī wán fàn wǒ xí guàn kàn yí huì ér diàn shì.",
+    "text_native": "Après dîner, j'ai l'habitude de regarder un peu la télévision.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "晚上十点半我准备睡觉。",
+    "phonetic": "wǎn shàng shí diǎn bàn wǒ zhǔn bèi shuì jiào.",
+    "text_native": "Je me prépare à aller dormir à vingt-deux heures et demie.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "记得睡觉前把灯关上。",
+    "phonetic": "jì de shuì jiào qián bǎ dēng guān shàng.",
+    "text_native": "Pense à éteindre la lumière avant de te coucher.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

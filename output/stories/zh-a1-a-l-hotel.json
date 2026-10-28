@@ -1,0 +1,188 @@
+{
+  "title": "在大酒店",
+  "new_vocabulary": [
+    "大", "住", "人", "前台", "你好", "我", "要", "预订", "一个", "单人间", "谢谢", "请", "看", "护照", "给", "你", "这是", "好", "晚安", "明天", "见", "早", "吃", "饭", "咖啡", "茶", "行", "再见"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "这是一个大酒店。",
+      "phonetic": "Zhè shì yí gè dà jiǔdiàn.",
+      "text_native": "C'est un grand hôtel."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我来这里住。",
+      "phonetic": "Wǒ lái zhè li zhù.",
+      "text_native": "Je viens y séjourner."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "前台有一个人。",
+      "phonetic": "Qiántái yǒu yí gè rén.",
+      "text_native": "Il y a quelqu'un à la réception."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我对他说你好。",
+      "phonetic": "Wǒ duì tā shuō nǐ hǎo.",
+      "text_native": "Je lui dis bonjour."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "他说你好。",
+      "phonetic": "Tā shuō nǐ hǎo.",
+      "text_native": "Il me dit bonjour."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我要一个房间。",
+      "phonetic": "Wǒ yào yí gè fángjiān.",
+      "text_native": "Je voudrais une chambre."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我预订了单人间。",
+      "phonetic": "Wǒ yùdìng le dānrénjiān.",
+      "text_native": "J'ai réservé une chambre simple."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "服务员说请等一下。",
+      "phonetic": "Fúwùyuán shuō qǐng děng yí xià.",
+      "text_native": "L'employé dit d'attendre un instant."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我看前台的桌子。",
+      "phonetic": "Wǒ kàn qiántái de zhuōzi.",
+      "text_native": "Je regarde le comptoir de la réception."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "桌子上面有一盏灯。",
+      "phonetic": "Zhuōzi shàngmiàn yǒu yì zhǎn dēng.",
+      "text_native": "Il y a une lampe sur le bureau."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "灯光很亮。",
+      "phonetic": "Dēngguāng hěn liàng.",
+      "text_native": "La lumière est très vive."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "他问我要护照。",
+      "phonetic": "Tā wèn wǒ yào hùzhào.",
+      "text_native": "Il me demande mon passeport."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我给他看护照。",
+      "phonetic": "Wǒ gěi tā kàn hùzhào.",
+      "text_native": "Je lui montre mon passeport."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "他说谢谢。",
+      "phonetic": "Tā shuō xièxie.",
+      "text_native": "Il dit merci."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他给我一把钥匙。",
+      "phonetic": "Tā gěi wǒ yì bǎ yàoshi.",
+      "text_native": "Il me donne une clé."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这是我的钥匙。",
+      "phonetic": "Zhè shì wǒ de yàoshi.",
+      "text_native": "Voici ma clé."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "房间在二楼。",
+      "phonetic": "Fángjiān zài èr lóu.",
+      "text_native": "La chambre est au deuxième étage."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我开门进去。",
+      "phonetic": "Wǒ kāi mén jìn qù.",
+      "text_native": "J'ouvre la porte et j'entre."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "房间里有一张床。",
+      "phonetic": "Fángjiān lǐ yǒu yì zhāng chuáng.",
+      "text_native": "Il y a un lit dans la chambre."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "床边有一把椅子。",
+      "phonetic": "Chuáng biān yǒu yì bǎ yǐzi.",
+      "text_native": "Il y a une chaise près du lit."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "桌子上有水和杯子。",
+      "phonetic": "Zhuōzi shàng yǒu shuǐ hé bēizi.",
+      "text_native": "Il y a de l'eau et un verre sur la table."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "我喝了一杯水。",
+      "phonetic": "Wǒ hē le yì bēi shuǐ.",
+      "text_native": "J'ai bu un verre d'eau."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我觉得很累。",
+      "phonetic": "Wǒ juéde hěn lèi.",
+      "text_native": "Je me sens très fatigué."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我在床上睡觉。",
+      "phonetic": "Wǒ zài chuáng shàng shuìjiào.",
+      "text_native": "Je dors sur le lit."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "再见，大酒店。",
+      "phonetic": "Zàijiàn, dà jiǔdiàn.",
+      "text_native": "Bonne nuit, l'hôtel."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "第二天早上好。",
+      "phonetic": "Dì èr tiān zǎoshang hǎo.",
+      "text_native": "Bonjour le lendemain matin."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我要吃早饭。",
+      "phonetic": "Wǒ yào chī zǎofàn.",
+      "text_native": "Je veux prendre le petit-déjeuner."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我喝一杯咖啡。",
+      "phonetic": "Wǒ hē yì bēi kāfēi.",
+      "text_native": "Je bois une tasse de café."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "退房真快。",
+      "phonetic": "Tuì fáng zhēn kuài.",
+      "text_native": "Le départ est vraiment rapide."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "再见，大酒店。",
+      "phonetic": "Zàijiàn, dà jiǔdiàn.",
+      "text_native": "Au revoir, le grand hôtel."
+    }
+  ]
+}

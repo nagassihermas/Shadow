@@ -1,0 +1,197 @@
+{
+  "title": "在饭馆",
+  "new_vocabulary": [
+    "饭馆",
+    "服务员",
+    "菜单",
+    "水",
+    "茶",
+    "米饭",
+    "肉",
+    "苹果",
+    "钱",
+    "谢谢"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "我去饭馆。",
+      "phonetic": "Wǒ qù fàn guǎn.",
+      "text_native": "Je vais au restaurant."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我坐下。",
+      "phonetic": "Wǒ zuò xià.",
+      "text_native": "Je m'assois."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "服务员来。",
+      "phonetic": "Fú wù yuán lái.",
+      "text_native": "Le serveur arrive."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我看菜单。",
+      "phonetic": "Wǒ kàn cài dān.",
+      "text_native": "Je regarde le menu."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "我要水。",
+      "phonetic": "Wǒ yào shuǐ.",
+      "text_native": "Je veux de l'eau."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "服务员给水。",
+      "phonetic": "Fú wù yuán gěi shuǐ.",
+      "text_native": "Le serveur donne de l'eau."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我喝水。",
+      "phonetic": "Wǒ hē shuǐ.",
+      "text_native": "Je bois de l'eau."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "水很好。",
+      "phonetic": "Shuǐ hěn hǎo.",
+      "text_native": "L'eau est bonne."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我要茶。",
+      "phonetic": "Wǒ yào chá.",
+      "text_native": "Je veux du thé."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "服务员给茶。",
+      "phonetic": "Fú wù yuán gěi chá.",
+      "text_native": "Le serveur donne du thé."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "我喝茶。",
+      "phonetic": "Wǒ hē chá.",
+      "text_native": "Je bois du thé."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "茶很热。",
+      "phonetic": "Chá hěn rè.",
+      "text_native": "Le thé est chaud."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我要米饭。",
+      "phonetic": "Wǒ yào mǐ fàn.",
+      "text_native": "Je veux du riz."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "服务员给米饭。",
+      "phonetic": "Fú wù yuán gěi mǐ fàn.",
+      "text_native": "Le serveur donne du riz."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "我吃米饭。",
+      "phonetic": "Wǒ chī mǐ fàn.",
+      "text_native": "Je mange du riz."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "米饭很香。",
+      "phonetic": "Mǐ fàn hěn xiāng.",
+      "text_native": "Le riz est parfumé."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我要肉。",
+      "phonetic": "Wǒ yào ròu.",
+      "text_native": "Je veux de la viande."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "服务员给肉。",
+      "phonetic": "Fú wù yuán gěi ròu.",
+      "text_native": "Le serveur donne de la viande."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "我吃肉。",
+      "phonetic": "Wǒ chī ròu.",
+      "text_native": "Je mange de la viande."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "肉很好吃。",
+      "phonetic": "Ròu hěn hǎo chī.",
+      "text_native": "La viande est délicieuse."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "我要苹果。",
+      "phonetic": "Wǒ yào píng guǒ.",
+      "text_native": "Je veux une pomme."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "服务员给苹果。",
+      "phonetic": "Fú wù yuán gěi píng guǒ.",
+      "text_native": "Le serveur donne une pomme."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我吃苹果。",
+      "phonetic": "Wǒ chī píng guǒ.",
+      "text_native": "Je mange une pomme."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "苹果很甜。",
+      "phonetic": "Píng guǒ hěn tián.",
+      "text_native": "La pomme est sucrée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我吃好了。",
+      "phonetic": "Wǒ chī hǎo le.",
+      "text_native": "J'ai fini de manger."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "我要付钱。",
+      "phonetic": "Wǒ yào fù qián.",
+      "text_native": "Je veux payer."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "我给钱。",
+      "phonetic": "Wǒ gěi qián.",
+      "text_native": "Je donne l'argent."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "钱不多。",
+      "phonetic": "Qián bù duō.",
+      "text_native": "Ce n'est pas cher."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "我谢谢他。",
+      "phonetic": "Wǒ xiè xie tā.",
+      "text_native": "Je le remercie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我出饭馆。",
+      "phonetic": "Wǒ chū fàn guǎn.",
+      "text_native": "Je sors du restaurant."
+    }
+  ]
+}

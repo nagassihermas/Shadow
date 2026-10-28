@@ -1,0 +1,217 @@
+{
+  "title": "发邮件",
+  "new_vocabulary": [
+    "早上",
+    "好",
+    "我",
+    "去",
+    "坐",
+    "椅",
+    "子",
+    "开",
+    "启",
+    "屏幕",
+    "打",
+    "字",
+    "问",
+    "候",
+    "同",
+    "事",
+    "请",
+    "问",
+    "你",
+    "忙",
+    "吗",
+    "答",
+    "复",
+    "信",
+    "息",
+    "发",
+    "送",
+    "完",
+    "成",
+    "下"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "早上好。",
+      "phonetic": "zǎo shàng hǎo.",
+      "text_native": "Bonjour."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我去办公室。",
+      "phonetic": "wǒ qù bàn gōng shì.",
+      "text_native": "Je vais au bureau."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我坐椅子。",
+      "phonetic": "wǒ zuò yǐ zi.",
+      "text_native": "Je m'assois sur la chaise."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "我看电脑。",
+      "phonetic": "wǒ kàn diàn nǎo.",
+      "text_native": "Je regarde l'ordinateur."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "电脑屏幕亮了。",
+      "phonetic": "diàn nǎo píng mù liàng le.",
+      "text_native": "L'écran de l'ordinateur s'allume."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我开启工作。",
+      "phonetic": "wǒ kāi qǐ gōng zuò.",
+      "text_native": "Je commence le travail."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "我写邮件。",
+      "phonetic": "wǒ xiě yóu jiàn.",
+      "text_native": "J'écris un e-mail."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "我打字。",
+      "phonetic": "wǒ dǎ zì.",
+      "text_native": "Je tape des caractères."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "我问候同事。",
+      "phonetic": "wǒ wèn hòu tóng shì.",
+      "text_native": "Je salue mon collègue."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "请问你忙吗？",
+      "phonetic": "qǐng wèn nǐ máng ma?",
+      "text_native": "Êtes-vous occupé, s'il vous plaît ?"
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "同事回复。",
+      "phonetic": "tóng shì huí fù.",
+      "text_native": "Le collègue répond."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "我读信息。",
+      "phonetic": "wǒ dú xìn xī.",
+      "text_native": "Je lis le message."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "我发邮件。",
+      "phonetic": "wǒ fā yóu jiàn.",
+      "text_native": "J'envoie l'e-mail."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "邮件发送成功。",
+      "phonetic": "yóu jiàn fā sòng chéng gōng.",
+      "text_native": "L'e-mail a été envoyé avec succès."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "工作完成。",
+      "phonetic": "gōng zuò wán chéng.",
+      "text_native": "Le travail est terminé."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "我关闭电脑。",
+      "phonetic": "wǒ guān bì diàn nǎo.",
+      "text_native": "J'éteins l'ordinateur."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "我站起来。",
+      "phonetic": "wǒ zhàn qǐ lái.",
+      "text_native": "Je me lève."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "我离开办公室。",
+      "phonetic": "wǒ lí kāi bàn gōng shì.",
+      "text_native": "Je quitte le bureau."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "今天很好。",
+      "phonetic": "jīn tiān hěn hǎo.",
+      "text_native": "Aujourd'hui, c'est très bien."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "明天见。",
+      "phonetic": "míng tiān jiàn.",
+      "text_native": "À demain."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "新的一天开始了。",
+      "phonetic": "xīn de yī tiān kāi shǐ le.",
+      "text_native": "Une nouvelle journée commence."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "桌子上有文件。",
+      "phonetic": "zhuō zi shàng yǒu wén jiàn.",
+      "text_native": "Il y a des documents sur la table."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "我喝一杯水。",
+      "phonetic": "wǒ hē yī bēi shuǐ.",
+      "text_native": "Je bois un verre d'eau."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "我打开门。",
+      "phonetic": "wǒ dǎ kāi mén.",
+      "text_native": "J'ouvre la porte."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "太阳出来了。",
+      "phonetic": "tài yáng chū lái le.",
+      "text_native": "Le soleil est sorti."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "大家都很开心。",
+      "phonetic": "dà jiā dōu hěn kāi xīn.",
+      "text_native": "Tout le monde est très heureux."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "时间过得很快。",
+      "phonetic": "shí jiān guò de hěn kuài.",
+      "text_native": "Le temps passe très vite."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "我们继续努力。",
+      "phonetic": "wǒ men jì xù nǔ lì.",
+      "text_native": "Nous continuons à faire des efforts."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "这是一个好习惯。",
+      "phonetic": "zhè shì yī gè hǎo xí guàn.",
+      "text_native": "C'est une bonne habitude."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "现在休息一下。",
+      "phonetic": "xiàn zài xiū xí yī xià.",
+      "text_native": "Maintenant, faisons une petite pause."
+    }
+  ]
+}

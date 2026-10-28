@@ -1,0 +1,217 @@
+{
+  "title": "A Successful Presentation",
+  "new_vocabulary": [
+    "manager",
+    "department",
+    "meeting",
+    "prepare",
+    "thoroughly",
+    "schedule",
+    "discuss",
+    "strategy",
+    "growth",
+    "quarter",
+    "achieve",
+    "goal",
+    "market",
+    "share",
+    "competitor",
+    "analysis",
+    "increase",
+    "revenue",
+    "expense",
+    "reduce",
+    "profit",
+    "improve",
+    "efficiency",
+    "employee",
+    "training",
+    "feedback",
+    "suggestion",
+    "conclude",
+    "summary",
+    "applause"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The manager called a department meeting for Monday morning.",
+      "phonetic": "/ðə ˈmænɪdʒər kɔːld ə dɪˈpɑːrtmənt ˈmiːtɪŋ fɔːr ˈmʌndeɪ ˈmɔːrnɪŋ/",
+      "text_native": "Le manager a convoqué une réunion de service pour lundi matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "Sarah prepared her presentation thoroughly over the weekend.",
+      "phonetic": "/ˈsærə prɪˈpɛrd hɜːr ˌprɛzənˈteɪʃən ˈθɜːrəli ˈoʊvər ðə ˈwiːkɛnd/",
+      "text_native": "Sarah a préparé sa présentation minutieusement pendant le week-end."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "She checked the schedule to confirm the exact time.",
+      "phonetic": "/ʃi tʃɛkt ðə ˈskɛdʒʊl tu kənˈfɜːrm ði ɪɡˈzækt taɪm/",
+      "text_native": "Elle a vérifié le planning pour confirmer l'heure exacte."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Her main objective was to discuss the new company strategy.",
+      "phonetic": "/hɜːr meɪn əbˈdʒɛktɪv wʌz tu dɪˈskʌs ðə nuː ˈkʌmpəni ˈstrætədʒi/",
+      "text_native": "Son objectif principal était de discuter de la nouvelle stratégie de l'entreprise."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "She wanted to highlight the recent growth of the business.",
+      "phonetic": "/ʃi ˈwɑːntɪd tu ˈhaɪlaɪt ðə ˈriːsənt ɡroʊθ ʌv ðə ˈbɪznɪs/",
+      "text_native": "Elle voulait mettre en avant la croissance récente de l'entreprise."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "The first slide showed the results of the previous quarter.",
+      "phonetic": "/ðə fɜːrst slaɪd ʃoʊd ðə rɪˈzʌlts ʌv ðə ˈpriːviəs ˈkwɔːrtər/",
+      "text_native": "La première diapositive montrait les résultats du trimestre précédent."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Colleagues listened carefully as she explained how they achieved their goals.",
+      "phonetic": "/ˈkɑːliːɡz ˈlɪsənd ˈkɛrfəli æz ʃi ɪkˈspleɪnd haʊ ðeɪ əˈtʃiːvd ðɛr ɡoʊlz/",
+      "text_native": "Les collègues ont écouté attentivement lorsqu'elle a expliqué comment ils avaient atteint leurs objectifs."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "She pointed at the chart illustrating the local market share.",
+      "phonetic": "/ʃi ˈpɔɪntɪd æt ðə tʃɑːrt ˈɪləstreɪtɪŋ ðə ˈloʊkəl ˈmɑːrkɪt ʃɛr/",
+      "text_native": "Elle a pointé le graphique illustrant la part de marché locale."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "A detailed competitor analysis was necessary to understand the situation.",
+      "phonetic": "/ə ˈdiːteɪld kəmˈpɛtɪtər əˈnæləsɪs wʌz ˈnɛsəsəri tu ˌʌndərˈstænd ðə ˌsɪtʃuˈeɪʃən/",
+      "text_native": "Une analyse détaillée de la concurrence était nécessaire pour comprendre la situation."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Fortunately, their revenue had increased significantly this year.",
+      "phonetic": "/ˈfɔːrtʃənətli, ðɛr ˈrɛvənuː hæd ˈɪnkriːst sɪɡˈnɪfɪkəntli ðɪs jɪr/",
+      "text_native": "Heureusement, leur chiffre d'affaires avait augmenté de façon significative cette année."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "At the same time, they managed to reduce operational expenses.",
+      "phonetic": "/æt ðə seɪm taɪm, ðeɪ ˈmænɪdʒd tu rɪˈduːs ˌɑːpəˈreɪʃənəl ɪkˈspɛnsɪz/",
+      "text_native": "En même temps, ils ont réussi à réduire les dépenses opérationnelles."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "This smart decision directly improved the overall profit margin.",
+      "phonetic": "/ðɪs smɑːrt dɪˈsɪʒən daɪˈrɛktli ɪmˈpruːvd ði ˈoʊvərɔːl ˈprɑːfɪt ˈmɑːrdʒɪn/",
+      "text_native": "Cette décision judicieuse a directement amélioré la marge bénéficiaire globale."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Efficiency in the office became much better than before.",
+      "phonetic": "/ɪˈfɪʃənsi ɪn ði ˈɔːfɪs bɪˈkeɪm mʌtʃ ˈbɛtər ðæn bɪˈfɔːr/",
+      "text_native": "L'efficacité au bureau s'est nettement améliorée par rapport à avant."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "Every employee received special training during the spring.",
+      "phonetic": "/ˈɛvri ɪmˈplɔɪiː rɪˈsiːvd ˈspɛʃəl ˈtreɪnɪŋ ˈdʊrɪŋ ðə sprɪŋ/",
+      "text_native": "Chaque employé a reçu une formation spécifique au cours du printemps."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Sarah took a short sip of water from her glass.",
+      "phonetic": "/ˈsærə tʊk ə ʃɔːrt sɪp ʌv ˈwɔːtər frʌm hɜːr ɡlæs/",
+      "text_native": "Sarah a pris une petite gorgée d'eau dans son verre."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "She looked around the room to engage with every person.",
+      "phonetic": "/ʃi lʊkt əˈraʊnd ðə ruːm tu ɪnˈɡeɪdʒ wɪð ˈɛvri ˈpɜːrsən/",
+      "text_native": "Elle a balayé la pièce du regard pour s'adresser à tout le monde."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "People nodded in agreement while she spoke clearly.",
+      "phonetic": "/ˈpiːpəl ˈnɑːdɪd ɪn əˈɡriːmənt waɪl ʃi spoʊk ˈklɪrli/",
+      "text_native": "Les gens ont hoché la tête en signe d'approbation pendant qu'elle parlait clairement."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "She welcomed feedback and constructive suggestions from her colleagues.",
+      "phonetic": "/ʃi ˈwɛlkəmd ˈfiːdbæk ænd kənˈstrʌktɪv səˈdʒɛstʃənz frʌm hɜːr ˈkɑːliːɡz/",
+      "text_native": "Elle a accueilli favorablement les retours et les suggestions constructives de ses collègues."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "One colleague raised his hand to ask a relevant question.",
+      "phonetic": "/wʌn ˈkɑːliːɡ reɪzd hɪz hænd tu æsk ə ˈrɛləvənt ˈkwɛstʃən/",
+      "text_native": "Un collègue a levé la main pour poser une question pertinente."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "She answered the inquiry with confidence and a warm smile.",
+      "phonetic": "/ʃi ˈænsərd ði ˈɪŋkwəri wɪð ˈkɑːnfɪdəns ænd ə wɔːrm smaɪl/",
+      "text_native": "Elle a répondu à la question avec assurance et un sourire chaleureux."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The computer screen displayed the final action plan.",
+      "phonetic": "/ðə kəmˈpjuːtər skriːn dɪˈspleɪd ðə ˈfaɪnəl ˈækʃən plæn/",
+      "text_native": "L'écran de l'ordinateur affichait le plan d'action final."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "She clicked the remote control to show the next slide.",
+      "phonetic": "/ʃi klɪkt ðə rɪˈmoʊt kənˈtroʊl tu ʃoʊ ðə nɛkst slaɪd/",
+      "text_native": "Elle a cliqué sur la télécommande pour afficher la diapositive suivante."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The laser pointer highlighted the core elements of the project.",
+      "phonetic": "/ðə ˈleɪzər ˈpɔɪntər ˈhaɪlaɪtɪd ðə kɔːr ˈɛləmənts ʌv ðə ˈprɑːdʒɛkt/",
+      "text_native": "Le pointeur laser a mis en valeur les éléments clés du projet."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Everyone kept their focus on her steady voice.",
+      "phonetic": "/ˈɛvriwʌn kɛpt ðɛr ˈfoʊkəs ɑːn hɜːr ˈstɛdi vɔɪs/",
+      "text_native": "Tout le monde est resté concentré sur sa voix assurée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "She used practical examples to make everything easy to understand.",
+      "phonetic": "/ʃi uːzd ˈpræktɪkəl ɪɡˈzæmpəlz tu meɪk ˈɛvriθɪŋ ˈiːzi tu ˌʌndərˈstænd/",
+      "text_native": "Elle a utilisé des exemples pratiques pour rendre l'ensemble facile à comprendre."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "Before finishing, she provided a short summary of the main points.",
+      "phonetic": "/bɪˈfɔːr ˈfɪnɪʃɪŋ, ʃi prəˈvaɪdɪd ə ʃɔːrt ˈsʌməri ʌv ðə meɪn pɔɪnts/",
+      "text_native": "Avant de terminer, elle a présenté un bref résumé des points principaux."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "She concluded the presentation by thanking everybody for their time.",
+      "phonetic": "/ʃi kənˈkluːdɪd ðə ˌprɛzənˈteɪʃən baɪ ˈθæŋkɪŋ ˈɛvribʌdi fɔːr ðɛr taɪm/",
+      "text_native": "Elle a conclu la présentation en remerciant tout le monde pour leur temps."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Loud applause filled the room as she stepped away from the desk.",
+      "phonetic": "/laʊd əˈplɔːz fɪld ðə ruːm æz ʃi stɛpt əˈweɪ frʌm ðə dɛsk/",
+      "text_native": "Des applaudissements nourris ont rempli la pièce lorsqu'elle s'est éloignée du bureau."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "Her manager looked proud and congratulated her on the great success.",
+      "phonetic": "/hɜːr ˈmænɪdʒər lʊkt praʊd ænd kənˈɡrætʃuˌleɪtɪd hɜːr ɑːn ðə ɡreɪt səkˈsɛs/",
+      "text_native": "Son manager avait l'air fier et l'a félicitée pour ce beau succès."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Sarah returned to her seat feeling happy and fully relaxed.",
+      "phonetic": "/ˈsærə rɪˈtɜːrnd tu hɜːr siːt ˈfiːlɪŋ ˈhæpi ænd ˈfʊli rɪˈlækst/",
+      "text_native": "Sarah est retournée à sa place, heureuse et totalement détendue."
+    }
+  ]
+}

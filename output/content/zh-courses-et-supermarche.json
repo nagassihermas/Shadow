@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "我要去买点菜。",
+    "phonetic": "wǒ yào qù mǎi diǎn cài.",
+    "text_native": "Je vais faire un saut pour acheter deux ou trois bricoles à manger.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "推车在哪里？",
+    "phonetic": "tuīchē zài nǎlǐ?",
+    "text_native": "Où est-ce qu'on attrape un chariot ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "这个多少钱？",
+    "phonetic": "zhège duōshǎo qián?",
+    "text_native": "C'est combien ça ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我想买点水果。",
+    "phonetic": "wǒ xiǎng mǎi diǎn shuǐguǒ.",
+    "text_native": "J'aimerais bien prendre des fruits.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "苹果新鲜吗？",
+    "phonetic": "píngguǒ xīnxiān ma?",
+    "text_native": "Elles sont fraîches, les pommes ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "帮我拿四个橘子。",
+    "phonetic": "bāng wǒ ná sì gè júzi.",
+    "text_native": "Tu me mets quatre mandarines s'il te plaît ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我需要一瓶牛奶。",
+    "phonetic": "wǒ xūyào yì píng niúnǎi.",
+    "text_native": "Il me faut une bouteille de lait.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "面包在哪边？",
+    "phonetic": "miànbāo zài nǎ biān?",
+    "text_native": "C'est par où le rayon pain ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "这瓶水太大了。",
+    "phonetic": "zhè píng shuǐ tài dà le.",
+    "text_native": "Cette bouteille d'eau est trop grande pour moi.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "有没有小一点的？",
+    "phonetic": "yǒu méi yǒu xiǎo yìdiǎn de?",
+    "text_native": "Vous auriez plus petit ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我不吃辣的零食。",
+    "phonetic": "wǒ bù chī là de língshí.",
+    "text_native": "Je ne prends pas de gâteaux apéro épicés.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "鸡蛋打碎了吗？",
+    "phonetic": "jīdàn dǎsuì le ma?",
+    "text_native": "Elles ne sont pas cassées, les pâtes d'œufs ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "这个正在打折。",
+    "phonetic": "zhège zhèngzài dǎzhé.",
+    "text_native": "Celui-là, il est en promo en ce moment.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我不小心拿错了。",
+    "phonetic": "wǒ bù xiǎoxīn ná cuò le.",
+    "text_native": "Oups, je me suis trompé d'article.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "请给我一个塑料袋。",
+    "phonetic": "qǐng gěi wǒ yí gè sùliàodài.",
+    "text_native": "Tu pourrais me donner un sac plastique s'il te plaît ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "结账排这边吗？",
+    "phonetic": "jiézhàng pái zhè biān ma?",
+    "text_native": "C'est bien ici pour faire la queue et payer ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "可以用手机付钱吗？",
+    "phonetic": "kěyǐ yòng shǒujī fù qián ma?",
+    "text_native": "Je peux régler avec mon téléphone ?",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "我没带零钱。",
+    "phonetic": "wǒ méi dài língqián.",
+    "text_native": "J'ai pas de monnaie sur moi.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "不用打印小票了。",
+    "phonetic": "bú yòng dǎyìn xiǎopiào le.",
+    "text_native": "C'est bon, pas besoin d'imprimer le ticket de caisse.",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "谢谢，再见！",
+    "phonetic": "xièxie, zàijiàn!",
+    "text_native": "Merci, bonne journée !",
+    "language": "ZH",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

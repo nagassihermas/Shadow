@@ -1,0 +1,217 @@
+{
+  "title": "A Busy Journey to the Office",
+  "new_vocabulary": [
+    "walk",
+    "fast",
+    "corner",
+    "wait",
+    "minute",
+    "arrive",
+    "next",
+    "door",
+    "open",
+    "step",
+    "inside",
+    "pay",
+    "money",
+    "card",
+    "window",
+    "look",
+    "outside",
+    "rain",
+    "drop",
+    "glass",
+    "traffic",
+    "slow",
+    "car",
+    "road",
+    "turn",
+    "right",
+    "finally",
+    "leave",
+    "walk",
+    "happy"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "Tom wakes up early in the morning.",
+      "phonetic": "/tɒm weɪks ʌp ˈɜːli ɪn ðə ˈmɔːnɪŋ/",
+      "text_native": "Tom se réveille tôt le matin."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "He leaves his home quickly.",
+      "phonetic": "/hi liːvz hɪz həʊm ˈkwɪkli/",
+      "text_native": "Il quitte sa maison rapidement."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "He walks down the quiet street.",
+      "phonetic": "/hi wɔːks daʊn ðə ˈkwaɪət striːt/",
+      "text_native": "Il marche dans la rue calme."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "He turns at the corner.",
+      "phonetic": "/hi tɜːnz æt ðə ˈkɔːnə/",
+      "text_native": "Il tourne au coin de la rue."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "He sees the blue bus stop.",
+      "phonetic": "/hi siːz ðə bluː bʌs stɒp/",
+      "text_native": "Il voit l'arrêt de bus bleu."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "A lot of people wait there.",
+      "phonetic": "/ə lɒt ɒv ˈpiːpl weɪt ðeə/",
+      "text_native": "Beaucoup de gens attendent là."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "Tom looks at his watch for the time.",
+      "phonetic": "/tɒm lʊks æt hɪz wɒtʃ fɔː ðə taɪm/",
+      "text_native": "Tom regarde sa montre pour voir l'heure."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "He waits for five minutes.",
+      "phonetic": "/hi weɪts fɔː faɪv ˈmɪnɪts/",
+      "text_native": "Il attend pendant cinq minutes."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "The big bus arrives.",
+      "phonetic": "/ðə bɪɡ bʌs əˈraɪvz/",
+      "text_native": "Le grand bus arrive."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "The front door opens slowly.",
+      "phonetic": "/ðə frʌnt dɔː ˈəʊpənz ˈsləʊli/",
+      "text_native": "La porte avant s'ouvre lentement."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Tom steps inside the vehicle.",
+      "phonetic": "/tɒm steps ɪnˈsaɪd ðə ˈviːɪkl/",
+      "text_native": "Tom monte à l'intérieur du véhicule."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "He speaks to the friendly driver.",
+      "phonetic": "/hi spiːks tuː ðə ˈfrendli ˈdraɪvə/",
+      "text_native": "Il parle au chauffeur sympathique."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "He pays with his travel card.",
+      "phonetic": "/hi peɪz wɪð hɪz ˈtrævl kɑːd/",
+      "text_native": "Il paie avec sa carte de transport."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "He takes a free seat.",
+      "phonetic": "/hi teɪks ə friː siːt/",
+      "text_native": "Il prend une place libre."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "The engine starts to make noise.",
+      "phonetic": "/ði ˈendʒɪn stɑːts tuː meɪk nɔɪz/",
+      "text_native": "Le moteur commence à faire du bruit."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "The transport enters the big city.",
+      "phonetic": "/ðə ˈtrænspɔːt ˈentəz ðə bɪɡ ˈsɪti/",
+      "text_native": "Le transport entre dans la grande ville."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "Tom looks outside through the glass.",
+      "phonetic": "/tɒm lʊks ˈaʊtsaɪd θruː ðə ɡlɑːs/",
+      "text_native": "Tom regarde dehors à travers la vitre."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "Small raindrops fall now.",
+      "phonetic": "/smɔːl ˈreɪndrɒps fɔːl naʊ/",
+      "text_native": "De petites gouttes de pluie tombent maintenant."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "Many red cars block the road.",
+      "phonetic": "/ˈmeni red kɑːz blɒk ðə rəʊd/",
+      "text_native": "De nombreuses voitures rouges bloquent la route."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "The traffic moves very slowly.",
+      "phonetic": "/ðə ˈtræfɪk muːvz ˈveri ˈsləʊli/",
+      "text_native": "La circulation avance très lentement."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "The bus turns right at the light.",
+      "phonetic": "/ðə bʌs tɜːnz raɪt æt ðə laɪt/",
+      "text_native": "Le bus tourne à droite au feu."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "Other passengers read a paper ticket.",
+      "phonetic": "/ˈʌðə ˈpæsɪndʒəz riːd ə ˈpeɪpə ˈtɪkɪt/",
+      "text_native": "D'autres passagers lisent un ticket en papier."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The vehicle stops near a large station.",
+      "phonetic": "/ðə ˈviːɪkl stɒps nɪə ə lɑːdʒ ˈsteɪʃən/",
+      "text_native": "Le véhicule s'arrête près d'une grande gare."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "Some people get off the bus.",
+      "phonetic": "/sʌm ˈpiːpl ɡet ɒf ðə bʌs/",
+      "text_native": "Certaines personnes descendent du bus."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Tom stays on his comfortable seat.",
+      "phonetic": "/tɒm steɪz ɒn hɪz ˈkʌmfətəbl siːt/",
+      "text_native": "Tom reste sur son siège confortable."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The journey continues for ten minutes.",
+      "phonetic": "/ðə ˈdʒɜːni kənˈtɪnjuːz fɔː ten ˈmɪnɪts/",
+      "text_native": "Le trajet continue pendant dix minutes."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "Finally, the bus reaches his stop.",
+      "phonetic": "/ˈfaɪnəli, ðə bʌs ˈriːtʃɪz hɪz stɒp/",
+      "text_native": "Enfin, le bus arrive à son arrêt."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Tom stands up and says goodbye.",
+      "phonetic": "/tɒm stændz ʌp ænd seɪz ɡʊdˈbaɪ/",
+      "text_native": "Tom se lève et dit au revoir."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "He walks quickly to his office work.",
+      "phonetic": "/hi wɔːks ˈkwɪkli tuː hɪz ˈɒfɪs wɜːk/",
+      "text_native": "Il marche rapidement vers son travail de bureau."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "He arrives happy and ready.",
+      "phonetic": "/hi əˈraɪvz ˈhæpi ænd ˈredi/",
+      "text_native": "Il arrive heureux et prêt."
+    }
+  ]
+}

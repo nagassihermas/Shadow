@@ -1,0 +1,163 @@
+[
+  {
+    "text_target": "你好，我昨天在网上订了一个双人房。",
+    "phonetic": "Nǐ hǎo, wǒ zuótiān zài wǎngshàng dìng le yí gè shuāngrénfáng.",
+    "text_native": "Bonjour, j'ai réservé une chambre double en ligne hier.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "这是我的护照和预订确认单。",
+    "phonetic": "Zhè shì wǒ de hùzhào hé yùdīng quèrèndān.",
+    "text_native": "Voici mon passeport et la confirmation de réservation.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "请问押金需要付多少钱？",
+    "phonetic": "Qǐngwèn yājīn xūyào fù duōshǎo qián?",
+    "text_native": "Combien dois-je verser pour la caution, s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "可以用信用卡或者手机支付吗？",
+    "phonetic": "Kěyǐ yòng xìnyòngkǎ huòzhě shǒujī zhīfù ma?",
+    "text_native": "Est-ce qu'on peut payer par carte bancaire ou avec le téléphone ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我的房间在几楼？",
+    "phonetic": "Wǒ de fángjiān zài jǐ lóu?",
+    "text_native": "Ma chambre est à quel étage ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "电梯在走廊的尽头左边。",
+    "phonetic": "Diàntī zài zǒuláng de jìntóu zuǒbiān.",
+    "text_native": "L'ascenseur est au bout du couloir sur la gauche.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "房间里有免费的瓶装水吗？",
+    "phonetic": "Fángjiān lǐ yǒu miǎnfèi de píngzhuāngshuǐ ma?",
+    "text_native": "Y a-t-il de l'eau en bouteille gratuite dans la chambre ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "请问无线网络密码是多少？",
+    "phonetic": "Qǐngwèn wúxiàn wǎngluò mìmǎ shì duōshǎo?",
+    "text_native": "Quel est le mot de passe pour le Wi-Fi, s'il vous plaît ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "空调好像不太冷，可以帮我看看吗？",
+    "phonetic": "Kōngtiáo hǎoxiàng bú tài lěng, kěyǐ bāng wǒ kàn kan ma?",
+    "text_native": "La climatisation n'a pas l'air de bien refroidir, pourriez-vous venir jeter un œil ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "不好意思，卫生间没有多的毛巾了。",
+    "phonetic": "Bù hǎoyìsi, wèishēngjiān méiyǒu duō de máojīn le.",
+    "native": "Excusez-moi, il n'y a plus assez de serviettes dans la salle de bain.",
+    "text_native": "Excusez-moi, il n'y a plus de serviettes supplémentaires dans la salle de bain.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我想换一间比较安静的房间，靠街太吵了。",
+    "phonetic": "Wǒ xiǎng huàn yì jiān bǐjiào ānjìng de fángjiān, kào jiē tài chǎo le.",
+    "text_native": "Je voudrais changer pour une chambre plus calme, c'est trop bruyant côté rue.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "明天早上我想定一个六点半的叫醒服务。",
+    "phonetic": "Míngtiān zǎoshang wǒ xiǎng dìng yí gè liù diǎn bàn de jiàoxǐng fúwù.",
+    "text_native": "Je voudrais programmer un réveil téléphonique pour demain matin à six heures et demie.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "早餐是从几点开始到几点结束？",
+    "phonetic": "Zǎocān shì cóng jǐ diǎn kāishǐ dào jǐ diǎn jiéshù?",
+    "text_native": "Le petit-déjeuner est servi de quelle heure à quelle heure ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "餐厅在负一层，凭房卡进去吃。",
+    "phonetic": "Cāntīng zài fù yì céng, píng fángkǎ jìnqù chī.",
+    "text_native": "Le restaurant est au sous-sol, il faut présenter la carte de chambre pour entrer.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "如果我晚一点回来，大门会关吗？",
+    "phonetic": "Rúguǒ wǒ wǎn yìdiǎn huílái, dàmén huì guān ma?",
+    "text_native": "Si je rentre un peu tard, est-ce que la porte principale sera fermée ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "请问附近哪里可以租到共享单车？",
+    "phonetic": "Qǐngwèn fùjìn nǎlǐ kěyǐ zū dào gòngxiǎng dānchē?",
+    "text_native": "Où est-ce qu'on peut louer des vélos en libre-service par ici ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我想把这个行李箱寄存在前台一会儿。",
+    "phonetic": "Wǒ xiǎng bǎ zhè gè xínglǐxiāng jìcún zài qiántái yíhuìr.",
+    "text_native": "Je voudrais laisser cette valise à la réception pour un moment.",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "退房的时候，可以直接把房卡放在桌上吗？",
+    "phonetic": "Tuìfáng de shíhòu, kěyǐ zhíjiē bǎ fángkǎ fàng zài zhuō shàng ma?",
+    "text_native": "Au moment du départ, est-ce qu'on peut simplement laisser la carte sur la table ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "我能在手机上看一下我的消费清单吗？",
+    "phonetic": "Wǒ néng zài shǒujī shàng kàn yí xià wǒ de xiāofēi qīngdān ma?",
+    "text_native": "Est-ce que je peux consulter mon récapitulatif de frais sur mon téléphone ?",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  },
+  {
+    "text_target": "这次住宿体验很好，谢谢你们的照顾！",
+    "phonetic": "Zhè cì zhùsù tǐyàn hěn hǎo, xièxie nǐmen de zhàogù!",
+    "text_native": "Mon séjour s'est très bien passé, merci pour votre accueil !",
+    "language": "ZH",
+    "category": "voyage",
+    "level": "A2"
+  }
+]

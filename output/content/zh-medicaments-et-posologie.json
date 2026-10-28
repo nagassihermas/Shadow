@@ -1,0 +1,163 @@
+[
+  {
+    "text_target": "医生给我开了个新药，说是专门针对这种慢性炎症的。",
+    "phonetic": "yīshēng gěi wǒ kāile gè xīnyào, shuō shì zhuānmén zhēnduì zhèzhǒng mànxìng yánzhèng de.",
+    "text_native": "Le médecin m'a prescrit un nouveau médicament, il paraît que c'est spécifiquement ciblé pour ce type d'inflammation chronique.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "药剂师提醒我饭前半小时服用，胃部吸收效果会更好。",
+    "phonetic": "yàojìshī tíxǐng wǒ fàn qián bàn xiǎoshí fúyòng, wèibù xīshōu xiàoguǒ huì gèng hǎo.",
+    "text_native": "Le pharmacien m'a rappelé de le prendre une demi-heure avant les repas, l'absorption gastrique sera meilleure.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "这盒胶囊千万不能嚼碎，必须整颗吞下去。",
+    "phonetic": "zhè hé jiāonáng qiānwàn bùnéng jiáosuì, bìxū zhěng kē tūn xiàqù.",
+    "text_native": "Il ne faut surtout pas croquer ces gélules, il faut les avaler entières.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  }
+  ,
+  {
+    "text_target": "说明书上写着一日三次，每次两片，千万别过量。",
+    "phonetic": "shuōmíngshū shàng xiězhe yī rì sāncì, měicì liǎng piàn, qiānwàn bié guòliàng.",
+    "text_native": "La notice indique trois fois par jour, deux comprimés à chaque fois, attention à ne pas surdoser.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "如果漏服了一次，千万别在下一次吃双倍剂量。",
+    "phonetic": "rúguǒ lòufúle yīcì, qiānwàn bié zài xià yīcì chī shuāngbèi jìliàng.",
+    "text_native": "Si vous oubliez une prise, ne doublez surtout pas la dose la fois suivante.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "这种糖浆打开后得放冰箱冷藏，不然容易变质。",
+    "phonetic": "zhèzhǒng tángjiāng dǎkāihòu děi fàng bīngxiāng lěngcáng, bùrán róngyì biànzhì.",
+    "text_native": "Ce sirop doit être conservé au réfrigérateur après ouverture, sinon il s'altère facilement.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "服药期间绝对不能碰酒精，否则会有肝脏负担。",
+    "phonetic": "fúyào qījiān juéduì bùnéng pèng jiǔjīng, fǒuzé huì yǒu gānzāng fùdān.",
+    "text_native": "Il est strictement interdit de consommer de l'alcool pendant le traitement, sous peine de surcharger le foie.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "外用药膏只准涂在患处，千万别弄到眼睛里。",
+    "phonetic": "wàiyòng yàogāo zhǐ zhǔn tú zài huànchù, qiānwàn bié nòng dào yǎnjīng lǐ.",
+    "text_native": "La pommade à usage externe s'applique uniquement sur la zone touchée, évitez absolument tout contact avec les yeux.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "有些安眠药会上瘾，医生一般不建议长期依赖。",
+    "phonetic": "yǒuxiē ānmiányào huì shàngyǐn, yīshēng yībān bù jiànyì chángqí yīlài.",
+    "text_native": "Certains somnifères créent une dépendance, les médecins ne conseillent généralement pas d'y recourir sur le long terme.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "这副中药得用砂锅小火慢煎四十分钟才行。",
+    "phonetic": "zhè fù zhōngyào děi yòng shāguō xiǎohuǒ màn jiān sìshí fēnzhōng cái xíng.",
+    "text_native": "Cette décoction de pharmacie traditionnelle chinoise doit mijoter à feu doux dans une cocotte en terre pendant quarante minutes.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "吃完抗生素后最好补点益生菌，调理一下肠胃。",
+    "phonetic": "chī wán kàngshēngsù hòu zuìhǎo bǔ diǎn yìshēngjūn, tiáolǐ yīxià chángwèi.",
+    "text_native": "Il est préférable de prendre des probiotiques après une cure d'antibiotiques pour rééquilibrer la flore intestinale.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "我每次坐长途车之前，都得提前备好晕车贴。",
+    "phonetic": "wǒ měicì zuò chángtú chē zhīqián, dōu děi tíqián bèihǎo yùnchētiē.",
+    "text_native": "À chaque fois que je fais un long trajet en voiture, je dois penser à préparer des patchs contre le mal des transports à l'avance.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "这种退烧药起效挺快，不过出汗会比较多。",
+    "phonetic": "zhèzhǒng tuìshāoyào qǐxiào tǐng kuàiguò, bùguò chūhàn huì bǐjiào duō.",
+    "text_native": "Cet antipyrétique agit assez rapidement, mais il provoque pas mal de transpirations.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "药丸有点卡喉咙的话，可以试着就着温开水往下送。",
+    "phonetic": "yàowán yǒudiǎn kǎ hóulóng de huà, kěyǐ shìzhe jiùzhe wēn kāishuǐ wǎng xià sòng.",
+    "text_native": "Si le comprimé a du mal à passer, essayez de l'avaler avec un peu d'eau tiède.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "慢性病患者千万不能自己凭感觉随便断药。",
+    "phonetic": "mànxìngbìng huànzhě qiānwàn bùnéng zìjǐ píng gǎnjué suíbiàn duànyào.",
+    "text_native": "Les personnes atteintes de maladies chroniques ne doivent surtout pas arrêter leur traitement de leur propre chef au ressenti.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "滴眼药水前一定要把手洗干净，免得把细菌带进去。",
+    "phonetic": "dī yǎnyàoshuǐ qián yīdìng yào bǎ shǒu xǐ gānjìng, miǎnde bǎ xìjūn dài jìnqù.",
+    "text_native": "Il faut impérativement se laver les mains avant de mettre des gouttes dans les yeux pour éviter d'y introduire des bactéries.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": " pharmacist 确认了这个药和我的降压药没有冲突。",
+    "phonetic": "yàojìshī quèrènle zhè gè yào hé wǒ de jiàngyāyào méiyǒu chōngtū.",
+    "text_native": "Le pharmacien a vérifié que ce médicament n'interférait pas avec mon traitement contre l'hypertension.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "如果皮肤出现红疹或者瘙痒，要立刻停用这个乳霜。",
+    "phonetic": "rúguǒ pífū chūxiàn hóngzhěn huòzhě sàoyǎng, yào lìkè tíngyòng zhè gè rǔshuāng.",
+    "text_native": "Si des rougeurs ou des démangeaisons apparaissent sur la peau, arrêtez immédiatement l'application de cette crème.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "过期失效的药品千万别乱扔，最好拿去药店集中回收。",
+    "phonetic": "guòqī shīxiào de yàopǐn qiānwàn bié luàn rēng, zuìhǎo ná qù yàodiàn jízhōng huíshōu.",
+    "text_native": "Il ne faut pas jeter n'importe où les médicaments périmés, le mieux est de les rapporter en pharmacie pour un recyclage centralisé.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  },
+  {
+    "text_target": "为了达到最佳疗程效果，一定要按时按量把药吃完。",
+    "phonetic": "wèile dádào zuìjiā liáochéng xiàoguǒ, yīdìng yào ànshí àn liàng bǎ yào chī wán.",
+    "text_native": "Pour garantir l'efficacité optimale du traitement, veillez à bien respecter les horaires et les doses jusqu'à la fin de la boîte.",
+    "language": "ZH",
+    "category": "santé",
+    "level": "B2"
+  }
+]

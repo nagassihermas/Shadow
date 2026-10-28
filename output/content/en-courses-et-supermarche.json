@@ -1,0 +1,162 @@
+[
+  {
+    "text_target": "Where is the milk?",
+    "phonetic": "/wɛər ɪz ðə mɪlk/",
+    "text_native": "Où est le lait ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I need some bread.",
+    "phonetic": "/aɪ niːd sʌm brɛd/",
+    "text_native": "J'ai besoin de pain.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Do you have apples?",
+    "phonetic": "/duː juː hæv ˈæpəlz/",
+    "text_native": "Est-ce que vous avez des pommes ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Look at these tomatoes.",
+    "phonetic": "/lʊk æt ðiːz təˈmɑːtəʊz/",
+    "text_native": "Regarde ces tomates.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Put it in the basket.",
+    "phonetic": "/pʊt ɪt ɪn ðə ˈbɑːskɪt/",
+    "text_native": " Mets ça dans le panier.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "This cheese smells good.",
+    "phonetic": "/ðɪs tʃiːz smɛlz gʊd/",
+    "text_native": "Ce fromage sent bon.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Are these eggs fresh?",
+    "phonetic": "/ɑː ðiːz ɛgz frɛʃ/",
+    "text_native": "Est-ce que ces œufs sont frais ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "We are out of coffee.",
+    "phonetic": "/wiː ɑːr aʊt ɒv ˈkɒfi/",
+    "text_native": "On n'a plus de café.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Grab a cart, please.",
+    "phonetic": "/græb ə kɑːt pliːz/",
+    "text_native": "Prends un chariot, s'il te plaît.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Which juice do you like?",
+    "phonetic": "/wɪtʃ dʒuːs duː juː laɪk/",
+    "text_native": "Quel jus tu aimes ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "The water is on sale.",
+    "phonetic": "/ðə ˈwɔːtər ɪz ɒn seɪl/",
+    "text_native": "L'eau est en promotion.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Pass me that chocolate.",
+    "phonetic": "/pɑːs miː ðæt ˈtʃɒklɪt/",
+    "text_native": "Passe-moi ce chocolat.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "How much is this fish?",
+    "phonetic": "/haʊ mʌtʃ ɪz ðɪs fɪʃ/",
+    "text_native": "C'est combien ce poisson ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Let's check the grocery list.",
+    "phonetic": "/lɛts tʃɛk ðə ˈgρəʊsəri lɪst/",
+    "text_native": "Vérifions la liste de courses.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "I cannot find the pasta.",
+    "phonetic": "/aɪ ˈkænɒt faɪnd ðə ˈpæstə/",
+    "text_native": "Je ne trouve pas les pâtes.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "These bags are too heavy.",
+    "phonetic": "/ðiːz bægz ɑː tuː ˈhɛvi/",
+    "text_native": "Ces sacs sont trop lourds.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Where do we pay here?",
+    "phonetic": "/wɛər duː wiː peɪ hɪər/",
+    "text_native": "On paye où ici ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Can I pay by card?",
+    "phonetic": "/kæn aɪ peɪ baɪ kɑːd/",
+    "text_native": "Je peux payer par carte ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Do you need a paper bag?",
+    "phonetic": "/duː juː niːd ə ˈpeɪpə bæg/",
+    "text_native": "Tu veux un sac en papier ?",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  },
+  {
+    "text_target": "Keep the receipt, thank you.",
+    "phonetic": "/kiːp ðə rɪˈsiːt θæŋk juː/",
+    "text_native": "Gardez le ticket, merci.",
+    "language": "EN",
+    "category": "quotidien",
+    "level": "A1"
+  }
+]

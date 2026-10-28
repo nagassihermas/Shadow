@@ -1,0 +1,224 @@
+{
+  "title": "A Busy Tuesday at Home",
+  "new_vocabulary": [
+    "tenant",
+    "landlord",
+    "renovation",
+    "contract",
+    "estimate",
+    "budget",
+    "schedule",
+    "handyman",
+    "toolbox",
+    "hammer",
+    "screwdriver",
+    "leak",
+    "ceiling",
+    "wall",
+    "paint",
+    "roller",
+    "ladder",
+    "invoice",
+    "payment",
+    "transfer",
+    "appliance",
+    "guarantee",
+    "warranty",
+    "receipt",
+    "delivery",
+    "courier",
+    "signature",
+    "blueprint",
+    "measure",
+    "dimension",
+    "layout",
+    "furniture",
+    "assembly",
+    "instruction",
+    "screw",
+    "bolt",
+    "hinge"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "The landlord telephoned early to discuss the upcoming renovation of the apartment.",
+      "phonetic": "/ðə ˈlændlɔːrd ˈtɛlɪfoʊnd ˈɜːrli tuː dɪˈskʌsk ði ˈʌpkʌmɪŋ ˌrɛnəˈveɪʃən əv ði əˈpɑːrtmənt/",
+      "text_native": "Le propriétaire a téléphoné tôt pour discuter de la prochaine rénovation de l'appartement."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "We needed to review the signed contract before the workers arrived.",
+      "phonetic": "/wiː ˈniːdɪd tuː rɪˈvjuː ðə saɪnd ˈkɑːntrækt bɪˈfɔːr ðə ˈwɜːrkərz əˈraɪvd/",
+      "text_native": "Nous devions examiner le contrat signé avant l'arrivée des ouvriers."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "The total estimate exceeded our original household budget for this project.",
+      "phonetic": "/ðə ˈtoʊtəl ˈɛstɪmɪt ɪkˈsiːdɪd ˈaʊər əˈrɪdʒɪnəl ˈhaʊshoʊld ˈbʌdʒɪt fɔːr ðɪs ˈprɑːdʒɛkt/",
+      "text_native": "L'estimation totale a dépassé notre budget familial initial pour ce projet."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "Fortunately, we managed to adjust the timeline without causing any delays.",
+      "phonetic": "/ˈfɔːrtʃənətli, wiː ˈmænɪdʒɪd tuː əˈdʒʌst ðə ˈtaɪmlaɪn wɪˈaʊt ˈkɔːzɪŋ ˈɛni dɪˈleɪz/",
+      "text_native": "Heureusement, nous avons réussi à ajuster le calendrier sans causer de retards."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "A professional handyman knocked on the front entrance precisely at eight.",
+      "phonetic": "/ə prəˈfɛʃənəl ˈhændimæn nɑːkt ɑːn ðə frʌnt ˈɛntrəns prɪˈsaɪsli æt eɪt/",
+      "text_native": "Un homme à tout faire professionnel a frappé à l'entrée principale précisément à huit heures."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "He placed his heavy metal toolbox directly onto the wooden hallway floor.",
+      "phonetic": "/hiː pleɪst hɪz ˈhɛvi ˈmɛtəl ˈtuːlˌbɑːks daɪˈrɛktli ˈɑːntuː ðə ˈwʊdən ˈhɔːlweɪ flɔːr/",
+      "text_native": "Il a posé sa lourde boîte à outils en métal directement sur le sol en bois du couloir."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "We inspected the small water leak coming through the upstairs ceiling.",
+      "phonetic": "/wiː ɪnˈspɛktɪd ðə smɔːl ˈwɔːtər liːk ˈkʌmɪŋ θruː ði ˈʌpˌstɛrzi ˈsiːlɪŋ/",
+      "text_native": "Nous avons inspecté la petite fuite d'eau provenant du plafond de l'étage."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "The damp wall required several days of drying before any painting could begin.",
+      "phonetic": "/ðə dæmp wɔːl rɪˈkwaɪərd ˈsɛvrəl deɪz əv ˈdraɪɪŋ bɪˈfɔːr ˈɛni ˈpeɪntɪŋ kʊd bɪˈɡɪn/",
+      "text_native": "Le mur humide a nécessité plusieurs jours de séchage avant que toute peinture ne puisse commencer."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "He opened a large bucket of neutral beige paint and grabbed a clean roller.",
+      "phonetic": "/hiː ˈoʊpənd ə lɑːrdʒ ˈbʌkɪt əv ˈnuːtrəl beɪʒ peɪnt ænd ɡræbd ə kliːn ˈroʊlər/",
+      "text_native": "Il a ouvert un grand seau de peinture beige neutre et a attrapé un rouleau propre."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "Climbing up his aluminum ladder, he carefully reached the highest corner.",
+      "phonetic": "/ˈklaɪmɪŋ ʌp hɪz əˈluːmɪnəm ˈlædər, hiː ˈkɛrfəli riːtʃt ðə ˈhaɪɪst ˈkɔːrnər/",
+      "text_native": "En montant sur son échelle en aluminium, il a soigneusement atteint le coin le plus haut."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "Meanwhile, the courier delivered a massive package containing our new bookshelf.",
+      "phonetic": "/ˈmiːnwaɪl, ðə ˈkʊriər dɪˈlɪvərd ə ˈmæsɪv ˈpækɪdʒ kənˈteɪnɪŋ ˈaʊər nuː ˈbʊkˌʃɛlf/",
+      "text_native": "Pendant ce temps, le livreur a livré un énorme colis contenant notre nouvelle bibliothèque."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "I checked the shipping receipt and provided my digital signature on the screen.",
+      "phonetic": "/aɪ tʃɛkt ðə ˈʃɪpɪŋ rɪˈsiːt ænd prəˈvaɪdɪd maɪ ˈdɪdʒɪtəl ˈsɪɡnətʃər ɑːn ðə skriːn/",
+      "text_native": "J'ai vérifié le reçu d'expédition et fourni ma signature numérique sur l'écran."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "Unpacking the cardboard boxes revealed dozens of wooden planks and metal screws.",
+      "phonetic": "/ʌnˈpækɪŋ ðə ˈkɑːrdˌbɔːrd ˈbɑːksɪz rɪˈviːld ˈdʌzənz əv ˈwʊdən plæŋks ænd ˈmɛtəl skruːz/",
+      "text_native": "Le déballage des cartons a révélé des dizaines de planches en bois et de vis en métal."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "The complex furniture assembly required following strict visual instructions.",
+      "phonetic": "/ðə ˈkɑːmplɛks ˈfɜːrnɪtʃər əˈsɛmbli rɪˈkwaɪərd ˈfɑːloʊɪŋ strɪkt ˈvɪʒuəl ɪnˈstrʌkʃənz/",
+      "text_native": "L'assemblage complexe du mobilier nécessitait de suivre des instructions visuelles strictes."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "Every single bolt and tiny hinge had to be fastened with a proper screwdriver.",
+      "phonetic": "/ˈɛvri ˈsɪŋɡəl boʊlt ænd ˈtaɪni hɪndʒ hæd tuː biː ˈfæsənd wɪð ə ˈprɑːpər ˈskruːˌdraɪvər/",
+      "text_native": "Chaque boulon et chaque petite charnière devaient être fixés avec un tournevis approprié."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "We measured the exact room dimensions to ensure the layout would remain functional.",
+      "phonetic": "/wiː ˈmɛʒərd ði ɪɡˈzækt ruːm dɪˈmɛnʃənz tuː ɪnˈʃʊr ðə ˈleɪaʊt wʊd rɪˈmeɪn ˈfʌŋkʃənəl/",
+      "text_native": "Nous avons mesuré les dimensions exactes de la pièce pour nous assurer que l'agencement resterait fonctionnel."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "The blue architectural blueprint helped us visualize the final interior design.",
+      "phonetic": "/ðə bluː ˌɑːrkəˈtɛktʃərəl ˈbluːˌprɪnt hɛlpt ʌs ˈvɪʒuəlaɪz ðə ˈfaɪnəl ɪnˈtɪriər dɪˈzaɪn/",
+      "text_native": "Le plan architectural bleu nous a aidés à visualiser le design d'intérieur final."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "After completing the heavy work, the technician handed over the official invoice.",
+      "phonetic": "/ˈæftər kəmˈpliːtɪŋ ðə ˈhɛvi wɜːrk, ðə tɛkˈnɪʃən ˈhændɪd ˈoʊvər ði əˈfɪʃəl ˈɪnvɔɪs/",
+      "text_native": "Après avoir terminé les travaux de force, le technicien a remis la facture officielle."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "I initiated a quick mobile payment transfer to settle the balance immediately.",
+      "phonetic": "/aɪ ɪˈnɪʃiˌeɪtɪd ə kwɪk ˈmoʊbəl ˈpeɪmənt ˈtrænsfər tuː ˈsɛtəl ðə ˈbæləns ɪˈmiːdiətli/",
+      "text_native": "J'ai initié un virement de paiement mobile rapide pour régler le solde immédiatement."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "He explained the manufacturer warranty terms covering all home appliances.",
+      "phonetic": "/hiː ɪkˈspleɪnd ðə ˌmænjəˈfæktʃərər ˈwɔːrənti tɜːrmz ˈkʌvərɪŋ ɔːl hoʊm əˈplaɪənsɪz/",
+      "text_native": "Il a expliqué les termes de la garantie du fabricant couvrant tous les appareils électroménagers."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "Later that afternoon, the living room smelled faintly of fresh white paint.",
+      "phonetic": "/ˈleɪtər ðæt ˌɑːftərˈnuːn, ðə ˈlɪvɪŋ ruːm smɛld ˈfeɪntli əv frɛʃ waɪt peɪnt/",
+      "text_native": "Plus tard dans l'après-midi, le salon sentait légèrement la peinture blanche fraîche."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "I wiped the dust from the wooden desk and organized my working papers.",
+      "phonetic": "/aɪ waɪpt ðə dʌst frʌm ðə ˈwʊdən dɛsk ænd ˈɔːrɡənaɪzd maɪ ˈwɜːrkɪŋ ˈpeɪpərz/",
+      "text_native": "J'ai essuyé la poussière du bureau en bois et organisé mes papiers professionnels."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "The sunlight streamed warmly through the clean glass living room window.",
+      "phonetic": "/ðə ˈsʌnˌlaɪt striːmd ˈwɔːrmli θruː ðə kliːn ɡlæs ˈlɪvɪŋ ruːm ˈwɪndoʊ/",
+      "text_native": "La lumière du soleil filtrait chaleureusement à travers la fenêtre propre du salon."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "I prepared a hot cup of herbal tea to soothe my tired throat.",
+      "phonetic": "/aɪ prɪˈpɛrd ə hɑːt kʌp əv ˈɜːrbəl tiː tuː suːð maɪ ˈtaɪərd θroʊt/",
+      "text_native": "J'ai préparé une tasse chaude de tisane pour apaiser ma gorge fatiguée."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "Sitting down on the comfortable sofa, I finally checked my emails.",
+      "phonetic": "/ˈsɪtɪŋ daʊn ɑːn ðə ˈkʌmfərtəbəl ˈsoʊfə, aɪ ˈfaɪnəli tʃɛkt maɪ ˈiːˌmeɪlz/",
+      "text_native": "En m'asseyant sur le canapé confortable, j'ai enfin consulté mes e-mails."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "The house felt peaceful now that the daytime renovations had stopped.",
+      "phonetic": "/ðə haʊs fɛlt ˈpiːsfəl naʊ ðæt ðə ˈdeɪˌtaɪm ˌrɛnəˈveɪʃənz hæd stɑːpt/",
+      "text_native": "La maison semblait paisible maintenant que les rénovations de la journée avaient cessé."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "I wrote down a grocery list for tomorrow morning on a clean sheet.",
+      "phonetic": "/aɪ roʊt daʊn ə ˈɡroʊsəri lɪst fɔːr təˈmɑːroʊ ˈmɔːrnɪŋ ɑːn ə kliːn ʃiːt/",
+      "text_native": "J'ai écrit une liste de courses pour demain matin sur une feuille propre."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "Evening approached quickly as the outdoor street lamps started turning on.",
+      "phonetic": "/ˈiːvnɪŋ əˈproʊtʃt ˈkwɪkli æz ði ˈaʊtˌdɔːr striːt læmps ˈstɑːrtɪd ˈtɜːrnɪŋ ɑːn/",
+      "text_native": "La soirée est arrivée rapidement alors que les lampadaires extérieurs commençaient à s'allumer."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "I locked the front door securely and turned off the indoor lights.",
+      "phonetic": "/aɪ lɑːkt ðə frʌnt dɔːr sɪˈkjʊrli ænd tɜːrnd ɔːf ði ˈɪndɔːr laɪts/",
+      "text_native": "J'ai bien verrouillé la porte d'entrée et éteint les lumières intérieures."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "Walking up the stairs to the bedroom, I looked forward to a restful night.",
+      "phonetic": "/ˈwɔːkɪŋ ʌp ðə stɛrz tuː ðə ˈbɛdˌruːm, aɪ lʊkt ˈfɔːrwərd tuː ə ˈrɛstfəl naɪt/",
+      "text_native": "En montant les escaliers vers la chambre, j'attendais avec impatience une nuit réparatrice."
+    }
+  ]
+}

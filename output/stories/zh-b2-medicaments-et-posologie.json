@@ -1,0 +1,232 @@
+{
+  "title": "药品的合理使用",
+  "new_vocabulary": [
+    "合理",
+    "使用",
+    "药师",
+    "交待",
+    "仔细",
+    "核对",
+    "药名",
+    "规格",
+    "有效期",
+    "防止",
+    "过期",
+    "失效",
+    "吞咽",
+    "困难",
+    "胶囊",
+    "温开水",
+    "空腹",
+    "期间",
+    "忌口",
+    "辛辣",
+    "油腻",
+    "食物",
+    "以免",
+    "影响",
+    "吸收",
+    "定时",
+    "定量",
+    "切忌",
+    "擅自",
+    "加量",
+    "漏服",
+    "补上",
+    "双倍",
+    "通常",
+    "期间",
+    "观察",
+    "反应",
+    "如有",
+    "异常",
+    "立即",
+    "停药",
+    "就医",
+    "康复",
+    "档案",
+    "记录"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "张先生拿着医生开的处方，来到了社区医院的药房窗口。",
+      "phonetic": "Zhāng xiānsheng názhe yīshēng kāi de chǔfāng, láidào le shèqū yīyuàn de yàofáng chuāngkǒu.",
+      "text_native": "Monsieur Zhang, tenant l'ordonnance prescrite par le médecin, est arrivé au guichet de la pharmacie de l'hôpital communautaire."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "年轻的药师接过处方，开始仔细核对上面的药名和规格。",
+      "phonetic": "Niánqīng de yàoshī jiēguò chǔfāng, kāishǐ zǐxì héduì shàngmiàn de yàomíng hé guīgé.",
+      "text_native": "Le jeune pharmacien a pris l'ordonnance et a commencé à vérifier soigneusement le nom des médicaments et les dosages indiqués."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "为了防止患者拿到过期的产品，他特意检查了包装上的有效期。",
+      "phonetic": "Wèile fángzhǐ huànzhě názào guòqī de chǎnpǐn, tā tèyì jiǎnchá le bāozhuāng shàng de yǒuxiàoqī.",
+      "text_native": "Afin d'éviter que le patient ne reçoive des produits périmés, il a spécialement vérifié la date de péremption sur l'emballage."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "核对无误后，药师把几盒不同的药整齐地摆放在柜台上。",
+      "phonetic": "Héduì wúwù hòu, yàoshī bǎ jǐ hé bùtóng de yào zhěngqí de bǎifàng zài guìtái shàng.",
+      "text_native": "Après une vérification sans erreur, le pharmacien a disposé soigneusement plusieurs boîtes de médicaments différents sur le comptoir."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "考虑到张先生年纪稍大，他决定详细交待每种药的服用方法。",
+      "phonetic": "Kǎolǜ dào Zhāng xiānsheng niánjì shāo dà, tā juédìng xiángxì jiāodài měi zhǒng yào de fúyòng fāngfǎ.",
+      "text_native": "Considérant que Monsieur Zhang est un peu âgé, il a décidé d'expliquer en détail la méthode de prise pour chaque médicament."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "这盒白色药片需要在饭后半小时服用，主要用于缓解头痛。",
+      "phonetic": "Zhè hé báisè yàopiàn xūyào zài fàn hòu bàn xiǎoshí fúyòng, zhǔyào yòngyú huǎnjiě tóutòng.",
+      "text_native": "Cette boîte de comprimés blancs doit être prise une demi-heure après les repas, principalement pour soulager les maux de tête."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "如果患者吞咽困难，可以将胶囊打开溶解在温开水里送服。",
+      "phonetic": "Rúguǒ huànzhě tūnyàn kùnnán, kěyǐ jiāng jiāonáng dǎkāi róngjiě zài wēnkāishuǐ lǐ sòngfú.",
+      "text_native": "Si le patient a des difficultés à avaler, la gélule peut être ouverte et dissoute dans de l'eau tiède pour être avalée."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "药师特别提醒他，消炎药必须严格按时服用，不能随意中断。",
+      "phonetic": "Yàoshī tèbié tíxǐng tā, xiāoyán yào bìxū yángé ànshí fúyòng, bùnéng suíyì zhōngduàn.",
+      "text_native": "Le pharmacien lui a rappelé en particulier que les anti-inflammatoires doivent être pris strictement à l'heure et ne peuvent être interrompus arbitrairement."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "某些药物空腹服用效果更好，但对胃黏膜有一定的刺激性。",
+      "phonetic": "Mǒuxiē yàowù kōngfù fúyòng xiàoguǒ gèng hǎo, dàn duì wèi niánmó yǒu yīdìng de cìjīxìng.",
+      "text_native": "Certains médicaments ont un meilleur effet lorsqu'ils sont pris à jeun, mais ils ont un certain effet irritant sur la muqueuse gastrique."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "在服药期间，患者应当注意饮食清淡，避免食用辛辣和油腻的食物。",
+      "phonetic": "Zài fúyòng qījiān, huànzhě yīngdāng zhùyì yǐnshí qīngdàn, bìmiǎn shíyòng xīnlà hé yóunì de shíwù.",
+      "text_native": "Pendant la période de prise des médicaments, le patient doit faire attention à une alimentation légère et éviter de consommer des aliments épicés et gras."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "这些不当的饮食习惯可能会影响药物的吸收，甚至降低疗效。",
+      "phonetic": "Zhèxiē búdàng de yǐnshí xíguàn kěnéng huì yǐngxiǎng yàowù de xīshōu, shènzhì jiàngdī liáoxiào.",
+      "text_native": "Ces mauvaises habitudes alimentaires pourraient affecter l'absorption des médicaments et même réduire l'efficacité du traitement."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "每天应该喝足够的水，这样有助于身体代谢多余的成分。",
+      "phonetic": "Měitiān yīnggāi hē zúgòu de shuǐ, zhèyàng yǒuzhùyú shēntǐ dàixiè duōyú de chéngfèn.",
+      "text_native": "Il faut boire suffisamment d'eau chaque jour, ce qui aide le corps à éliminer les composants excédentaires."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "如果因为工作繁忙而漏服了一次，千万不要在下一次服用双倍剂量。",
+      "phonetic": "Rúguǒ yīnwèi gōngzuò fánmáng ér lòufú le yī cì, qiānwàn bùyào zài xià yī cì fúyòng shuāngbèi jìliàng.",
+      "text_native": "Si vous oubliez une prise à cause d'un travail chargé, ne prenez surtout pas une double dose lors de la prochaine prise."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "正确的做法是尽快补上，或者直接跳过并按原计划继续定时定量。",
+      "phonetic": "Zhèngquè de zuòfǎ shì jǐnkuài bǔ shàng, huòzhě zhíjiē tiàoguò bìng àn yuán jìhuà jìxù dìngshí dìngliàng.",
+      "text_native": "La bonne méthode est de rattraper le retard dès que possible, ou de sauter directement et de continuer à respecter le plan initial à heure fixe et en quantité fixe."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "切忌擅自加量，因为这样做不仅没有帮助，反而可能导致副作用加重。",
+      "phonetic": "Qièjì shànzì jiāliàng, yīnwèi zhèyàng zuò bùjǐn méiyǒu bāngzhù, fǎn'ér kěnéng dǎozhì fùzuòyòng jiāzhòng.",
+      "text_native": "Il est strictement interdit d'augmenter la dose de sa propre initiative, car cela n'aide pas et peut au contraire aggraver les effets secondaires."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "张先生认真地听着，并不时在笔记本上记录药师强调的重点。",
+      "phonetic": "Zhāng xiānsheng rènzhēn de tīngzhe, bìng bùshí zài bǐjìběn shàng jìlù yàoshī qiángdiào de zhòngdiǎn.",
+      "text_native": "Monsieur Zhang écoutait attentivement et notait de temps en temps dans son carnet les points importants soulignés par le pharmacien."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "药师拿出一个小药盒，帮他把不同时间吃的小药片分门别类装好。",
+      "phonetic": "Yàoshī ná chū yī gè xiǎo yàohé, bāng tā bǎ bùtóng shíjiān chī de xiǎo yàopiàn fēnménbièlèi zhuāng hǎo.",
+      "text_native": "Le pharmacien a sorti une petite boîte à pilules et l'a aidé à classer et ranger les petits comprimés à prendre à différents moments."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "为了防止家里的小孩误服，这些药必须存放在阴凉干燥且高处的地方。",
+      "phonetic": "Wèile fángzhǐ jiālǐ de xiǎohái wùfú, zhèxiē yào bìxū cúnfàng zài yīnliáng gānzào qiě gāochù de dìfāng.",
+      "text_native": "Afin d'éviter que les enfants à la maison ne les prennent par erreur, ces médicaments doivent être conservés dans un endroit frais, sec et en hauteur."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "密封包装可以有效保护药品免受潮湿环境的影响而变质。",
+      "phonetic": "Mìfēng bāozhuāng kěyǐ yǒuxiào bǎohù yàopǐn miǎn shòu cháoshī huánjìng de yǐngxiǎng ér biànzhì.",
+      "text_native": "L'emballage scellé peut protéger efficacement les médicaments contre les altérations causées par un environnement humide."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "在用药期间，患者应当密切观察自身的反应，注意体温的变化。",
+      "phonetic": "Zài yòngyào qījiān, huànzhě yīngdāng mìqiè guānchá zìshēn de fǎnyìng, zhùyì tǐwēn de biànhuà.",
+      "text_native": "Pendant la période de médication, le patient doit observer de près ses propres réactions et faire attention aux changements de température corporelle."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "如果出现头晕、恶心或者皮肤过敏等异常症状，必须立即停药。",
+      "phonetic": "Rúguǒ chūxiàn tóuyūn, ěxīn huòzhě pífū guòmǐn děng yìcháng zhèngzhuàng, bìxū lìjí tíngyào.",
+      "text_native": "Si des symptômes anormaux tels que des vertiges, des nausées ou des allergies cutanées apparaissent, il faut immédiatement arrêter le médicament."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "遇到严重的不适感时，应当及时去医院咨询专业医生并调整方案。",
+      "phonetic": "Yùdào yánzhòng de búshì gǎn shí, yīngdāng jíshí qù yīyuàn zīxún zhuānyè yīshēng bìng tiáozhěng fāng'àn.",
+      "text_native": "En cas de malaise grave, il faut se rendre rapidement à l'hôpital pour consulter un médecin professionnel et ajuster le plan de traitement."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "不要因为症状稍微减轻就擅自减量或者完全停止治疗。",
+      "phonetic": "Bùyào yīnwèi zhèngzhuàng shāowēi jiǎnqīng jiù shànzì jiǎntliàng huòzhě wánquán tíngzhǐ zhìliáo.",
+      "text_native": "Ne réduisez pas la dose de votre propre chef ou n'arrêtez pas complètement le traitement simplement parce que les symptômes s'atténuent légèrement."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "坚持完成整个疗程，才能保证身体完全恢复健康状态。",
+      "phonetic": "Jiānchí wánchéng zhěnggè liáochéng, cáinéng bǎozhèng shēntǐ wánquán huīfù jiànkāng zhuàngtài.",
+      "text_native": "Il faut persister à terminer l'ensemble du cycle de traitement pour s'assurer que le corps retrouve pleinement un état de santé."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "药师微笑着鼓励他保持乐观的心态，祝愿他早日康复。",
+      "phonetic": "Yàoshī wēixiào zhe gǔlì tā bǎochí lèguān de xīntài, zhùyuàn tā zǎorì kāngfù.",
+      "text_native": "Le pharmacien a souri pour l'encourager à garder un état d'esprit optimiste et lui a souhaité un prompt rétablissement."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "张先生连声道谢，把药盒仔细地放进随身携带的背包里。",
+      "phonetic": "Zhāng xiānsheng liánshēng xièxiè, bǎ yào hé zǐxì de fàng jìn suíshēn xiédài de bèibāo lǐ.",
+      "text_native": "Monsieur Zhang a répété ses remerciements et a soigneusement rangé la boîte à pilules dans le sac à dos qu'il portait sur lui."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "离开医院前，他在手机里设置了几个闹钟来提醒自己按时吃药。",
+      "phonetic": "Líkāi yīyuàn qián, tā zài shǒujī lǐ shèzhì le jǐ gè nàozhōng lái tíxǐng zìjǐ ànshí chī yào.",
+      "text_native": "Avant de quitter l'hôpital, il a réglé plusieurs réveils sur son téléphone portable pour se rappeler de prendre ses médicaments à l'heure."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "这次买药的经历让他深刻认识到了合理用药的重要意义。",
+      "phonetic": "Zhè cì mǎi yào de jīnglì ràng tā shēnkè rènshí dào le hélǐ yòngyào de zhòngyào yìyì.",
+      "text_native": "Cette expérience d'achat de médicaments lui a fait réaliser profondément l'importance d'une utilisation rationnelle des médicaments."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "遵照医嘱不仅能提高治疗效果，还能有效避免不必要的健康风险。",
+      "phonetic": "Zūnzhào yīzhǔ bùjǐn néng tígāo zhìliáo xiàoguǒ, hái néng yǒuxiào bìmiǎn bù bìyào de jiànkāng fēngxiǎn.",
+      "text_native": "Suivre les instructions du médecin permet non seulement d'améliorer l'effet du traitement, mais aussi d'éviter efficacement les risques pour la santé inutiles."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "他决定回家后把说明书重新阅读一遍，确保每一个细节都掌握清楚。",
+      "phonetic": "Tā juédìng huí jiā hòu bǎ shuōmíngshū chóngxīn yuèdú yī biàn, quèbǎo měi yī gè xìjié dōu zhǎngwò qīngchǔ.",
+      "text_native": "Il a décidé de relire la notice une fois rentré chez lui, afin de s'assurer de bien maîtriser chaque détail."
+    }
+  ]
+}

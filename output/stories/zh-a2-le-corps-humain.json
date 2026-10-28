@@ -1,0 +1,190 @@
+{
+  "title": "我的健康生活",
+  "new_vocabulary": [
+    "生病", "感冒", "发烧", "咳嗽", "喉咙", "痛", "药", "医院", "医生", "检查",
+    "休息", "多", "热", "茶", "水果", "维生素", "免疫力", "恢复", "力量", "精神",
+    "跑步", "公园", "新鲜", "空气", "呼吸", "皮肤", "流汗", "舒服", "微笑", "生活"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "今天早晨，我起床的时候觉得身体很不舒服。",
+      "phonetic": "Jīntiān zǎochén, wǒ qǐchuáng de shíhòu juéde shēntǐ hěn bù shūfu.",
+      "text_native": "Ce matin, au réveil, je ne me sentais pas du tout bien dans mon corps."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "我的头有一点儿痛，喉咙也很不舒服。",
+      "phonetic": "Wǒ de tóu yǒu yìdiǎnr tòng, hóulóng yě hěn bù shūfu.",
+      "text_native": "J'avais un peu mal à la tête et la gorge très irritée."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "我照镜子，看到自己的脸有一点儿红。",
+      "phonetic": "Wǒ zhào jìngzi, kàn dào zìjǐ de liǎn yǒu yìdiǎnr hóng.",
+      "text_native": "Je me suis regardé dans le miroir et j'ai vu que mon visage était un peu rouge."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "妈妈走过来摸我的额头，说我可能发烧了。",
+      "phonetic": "Māma zǒu guòlái mō wǒ de étóu, shuō wǒ kěnéng fāshāole.",
+      "text_native": "Maman s'est approchée, a touché mon front et a dit que j'avais probablement de la fièvre."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "因为感冒了，我今天不能去工作。",
+      "phonetic": "Yīnwèi gǎnmàole, wǒ jīntiān bùnéng qù gōngzuò.",
+      "text_native": "À cause de ce rhume, je ne pouvais pas aller travailler aujourd'hui."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "我的肚子也觉得不太舒服，没有胃口吃早饭。",
+      "phonetic": "Wǒ de dùzi yě juéde bú tài shūfu, méiyǒu wèikǒu chī zǎofàn.",
+      "text_native": "Mon ventre ne se sentait pas très bien non plus, je n'avais pas d'appétit pour le petit-déjeuner."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "虽然不饿，但我还是喝了一杯热茶。",
+      "phonetic": "Suīrán bú è, dàn wǒ háishì hēle yì bēi rè chá.",
+      "text_native": "Même si je n'avais pas faim, j'ai quand même bu une tasse de thé chaud."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "吃完药以后，我决定在床上好好休息。",
+      "phonetic": "Chī wán yào yǐhòu, wǒ juédìng zài chuángshàng hǎohǎo xiūxí.",
+      "text_native": "Après avoir pris mes médicaments, j'ai décidé de me reposer bien comme il faut au lit."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "闭上眼睛，我很快就睡着了。",
+      "phonetic": "Bì shàng yǎnjīng, wǒ hěn kuài jiù shuìzháole.",
+      "text_native": "En fermant les yeux, je me suis endormi très rapidement."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "到了下午，我觉得咳嗽严重了一些。",
+      "phonetic": "Dàole xiàwǔ, wǒ juéde késòu yánzhòngle yìxiē.",
+      "text_native": "Vers l'après-midi, j'ai trouvé que ma toux était devenue un peu plus grave."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "爸爸陪我去附近的医院看医生。",
+      "phonetic": "Bàba péi wǒ qù fùjìn de yīyuàn kàn yīshēng.",
+      "text_native": "Papa m'a accompagné à l'hôpital du coin pour voir un médecin."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "医生用听诊器检查我的心跳和呼吸。",
+      "phonetic": "Yīshēng yòng tīngzhěnqì jiǎnchá wǒ de xīntiào hé hūxī.",
+      "text_native": "Le médecin a utilisé un stéthoscope pour examiner mes battements de cœur et ma respiration."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "他看了看我的鼻子和耳朵，问了我几个问题。",
+      "phonetic": "Tā kànle kàn wǒ de bízi hé ěrduǒ, wènle wǒ jǐ gè wèntí.",
+      "text_native": "Il a regardé my nez et mes oreilles, puis m'a posé quelques questions."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "医生说：“你只是普通的感冒，不用担心。”",
+      "phonetic": "Yīshēng shuō: “Nǐ zhǐshì pǔtōng de gǎnmào, búyòng dānxīn.”",
+      "text_native": "Le médecin a dit : « C'est juste un rhume ordinaire, ne t'inquiète pas. »"
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "他给我开了一些药，并让我多喝水。",
+      "phonetic": "Tā gěi wǒ kāile yìxiē yào, bìng ràng wǒ duō hē shuǐ.",
+      "text_native": "Il m'a prescrit des médicaments et m'a dit de boire beaucoup d'eau."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "回家以后，我按时吃药，坐在沙发上听轻柔的音乐。",
+      "phonetic": "Huí jiā yǐhòu, wǒ ànshí chī yào, zuò zài shāfā shàng tīng qīngróu de yīnyuè.",
+      "text_native": "De retour à la maison, j'ai pris mes médicaments à l'heure et me suis assis sur le canapé en écoutant de la musique douce."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "妈妈切了一些新鲜的水果给我吃，补充维生素。",
+      "phonetic": "Māma qiēle yìxiē xīnxiān de shuǐguǒ gěi wǒ chī, bǔchōng wéishēngsù.",
+      "text_native": "Maman a coupé des fruits frais pour que je les mange afin de faire le plein de vitamines."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "苹果和香蕉对恢复健康很有帮助。",
+      "phonetic": "Píngguǒ hé xiāngjiāo duì huīfù jiànkāng hěn yǒu bāngzhù.",
+      "text_native": "Les pommes et les bananes aident beaucoup à retrouver la santé."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "到了晚上，我的体温终于正常了。",
+      "phonetic": "Dào le wǎnshàng, wǒ de tǐwēn zhōngyú zhèngchángle.",
+      "text_native": "Le soir venu, ma température corporelle est enfin redevenue normale."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "我觉得精神好多了，脸上也有了笑容。",
+      "phonetic": "Wǒ juéde jīngshén hǎo duōle, liǎn shàng yě yǒule xiàoróng.",
+      "text_native": "Je me sentais beaucoup plus en forme et j'avais retrouvé le sourire aux lèvres."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "第二天早上醒来，我已经完全好了。",
+      "phonetic": "Dì èr tiān zǎoshang xǐng lái, wǒ yǐjīng wánquán hǎole.",
+      "text_native": "Le lendemain matin au réveil, j'étais complètement guéri."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "为了增强身体的免疫力，我决定开始做运动。",
+      "phonetic": "Wèile zēngqiáng shēntǐ de miǎnyìlì, wǒ juédìng kāishǐ zuò yùndòng.",
+      "text_native": "Afin de renforcer l'immunité de mon corps, j'ai décidé de commencer à faire du sport."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "下午下班后，我去附近的公园跑步。",
+      "phonetic": "Xiàwǔ xiàbān hòu, wǒ qù fùjìn de gōngyuán pǎobù.",
+      "text_native": "Après le travail l'après-midi, je suis allé courir au parc voisin."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "公园里有很多树，空气非常新鲜。",
+      "phonetic": "Gōngyuán lǐ yǒu hěnduō shù, kōngqì fēicháng xīnxiān.",
+      "text_native": "Il y a beaucoup d'arbres dans le parc et l'air y est très frais."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "我迈开双腿，轻松地向前走路和慢跑。",
+      "phonetic": "Wǒ màikāi shuāng tuǐ, qīngsōng de xiànqián zǒulù hé mànpǎo.",
+      "text_native": "J'ai bougé mes deux jambes et j'ai marché et trottiné vers l'avant avec aisance."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "跑了一会儿，我的皮肤开始微微流汗。",
+      "phonetic": "Pǎole yí huìr, wǒ de pífū kāishǐ wēiwēi liúhàn.",
+      "text_native": "Après avoir couru un moment, ma peau a commencé à transpirer légèrement."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "虽然觉得有一点儿累，但是全身都很舒服。",
+      "phonetic": "Suīrán juéde yǒu yìdiǎnr lèi, dànshì quánshēn dōu hěn shūfu.",
+      "text_native": "Même si je me sentais un peu fatigué, tout mon corps se sentait très bien."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "运动让我的双手和双脚都充满了力量。",
+      "phonetic": "Yùndòng ràng wǒ de shuāngshǒu hé shuāngjiǎo dōu chōngmǎnle lìliàng.",
+      "text_native": "Le sport a rempli mes mains et mes pieds d'énergie."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "回到家洗个热水澡，我高兴地对自己微笑。",
+      "phonetic": "Huí dào jiā xǐ gè rèshuǐ zǎo, wǒ gāoxìng de duì zìjǐ wēixiào.",
+      "text_native": "De retour à la maison après une douche chaude, j'ai souri à moi-même avec joie."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "我明白了健康的生活对每个人都多么重要。",
+      "phonetic": "Wǒ míngbáile jiànkāng de shēnghuó duì měi gè rén dōu duōme zhòngyào.",
+      "text_native": "J'ai compris à quel point une vie saine est importante pour tout le monde."
+    }
+  ]
+}

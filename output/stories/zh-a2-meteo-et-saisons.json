@@ -1,0 +1,217 @@
+{
+  "title": "四季的变化",
+  "new_vocabulary": [
+    "变化",
+    "四季",
+    "气温",
+    "度",
+    "季节",
+    "风扇",
+    "扇子",
+    "游泳",
+    "池",
+    "树叶",
+    "黄色",
+    "红色",
+    "落",
+    "刮",
+    "毛衣",
+    "围巾",
+    "手套",
+    "滑雪",
+    "堆",
+    "雪人",
+    "气象",
+    "预报",
+    "出门",
+    "带",
+    "伞",
+    "阴天",
+    "晴天",
+    "感觉",
+    "健康",
+    "生活"
+  ],
+  "sentences": [
+    {
+      "sequence_order": 1,
+      "text_target": "一年有四个季节，气温常常有很大的变化。",
+      "phonetic": "Yì nián yǒu sì gè jìjié, qìwēn chángcháng yǒu hěn dà de biànhuà.",
+      "text_native": "Il y a quatre saisons dans une année, et les températures changent souvent beaucoup."
+    },
+    {
+      "sequence_order": 2,
+      "text_target": "春天到了，天气慢慢变暖和了。",
+      "phonetic": "Chūntiān dào le, tiānqì mànmàn biàn nuǎnhuo le.",
+      "text_native": "Le printemps est arrivé, et le temps se réchauffe doucement."
+    },
+    {
+      "sequence_order": 3,
+      "text_target": "公园里的草地变绿了，花儿也开了。",
+      "phonetic": "Gōngyuán lǐ de cǎodì biàn lǜ le, huār yě kāi le.",
+      "text_native": "La pelouse du parc est devenue verte et les fleurs ont aussi éclos."
+    },
+    {
+      "sequence_order": 4,
+      "text_target": "王先生喜欢在这个时候去外面散步。",
+      "phonetic": "Wáng xiānshēng xǐhuan zài zhège shíhou qù wàimiàn sànbù.",
+      "text_native": "Monsieur Wang aime aller se promener dehors à cette période."
+    },
+    {
+      "sequence_order": 5,
+      "text_target": "可是春天的天气经常刮风，有时候还下雨。",
+      "phonetic": "Kěshì chūntiān de tiānqì jīngcháng guā fēng, yǒu shíhou hái xià yǔ.",
+      "text_native": "Mais le temps du printemps est souvent venteux et il pleut parfois aussi."
+    },
+    {
+      "sequence_order": 6,
+      "text_target": "他每次出门都会带一把伞。",
+      "phonetic": "Tā měicì chūmén dōu huì dài yì bǎ sǎn.",
+      "text_native": "Chaque fois qu'il sort, il prend un parapluie."
+    },
+    {
+      "sequence_order": 7,
+      "text_target": "过了几个月，夏天就来了。",
+      "phonetic": "Guò le jǐ gè yuè, xiàtiān jiù lái le.",
+      "text_native": "Quelques mois plus tard, l'été est arrivé."
+    },
+    {
+      "sequence_order": 8,
+      "text_target": "这时候气温很高，常常有三十多度。",
+      "phonetic": "Zhè shíhou qìwēn hěn gāo, chángcháng yǒu sānshí duō dù.",
+      "text_native": "À ce moment-là, la température est très élevée, souvent plus de trente degrés."
+    },
+    {
+      "sequence_order": 9,
+      "text_target": "王先生在家里开着风扇，喝着冷水。",
+      "phonetic": "Wáng xiānshēng zài jiālǐ kāi zhe fēngshàn, hē zhe lěngshuǐ.",
+      "text_native": "Monsieur Wang met le ventilateur chez lui et boit de l'eau fraîche."
+    },
+    {
+      "sequence_order": 10,
+      "text_target": "周末的时候，他喜欢去游泳池游泳。",
+      "phonetic": "Zhōumò de shíhou, tā xǐhuan qù yóuyǒngchí yóuyǒng.",
+      "text_native": "Le week-end, il aime aller nager à la piscine."
+    },
+    {
+      "sequence_order": 11,
+      "text_target": "夏天的晴天很多，太阳非常大。",
+      "phonetic": "Xiàtiān de qíngtiān hěn duō, tàiyáng fēicháng dà.",
+      "text_native": "Il y a beaucoup de journées ensoleillées en été, et le soleil est très fort."
+    },
+    {
+      "sequence_order": 12,
+      "text_target": "热的时候，大家都想吃冰淇淋。",
+      "phonetic": "Rè de shíhou, dàjiā dōu xiǎng chī bīngqílín.",
+      "text_native": "Quand il fait chaud, tout le monde a envie de manger des glaces."
+    },
+    {
+      "sequence_order": 13,
+      "text_target": "秋天到了，天气变得很凉爽。",
+      "phonetic": "Qiūtiān dào le, tiānqì biàn de hěn liángshuǎng.",
+      "text_native": "L'automne est arrivé, et le temps est devenu très frais."
+    },
+    {
+      "sequence_order": 14,
+      "text_target": "树上的叶子慢慢变成黄色和红色。",
+      "phonetic": "Shù shàng de yèzi mànmàn biàn chéng huángsè hé hóngsè.",
+      "text_native": "Les feuilles sur les arbres deviennent lentement jaunes et rouges."
+    },
+    {
+      "sequence_order": 15,
+      "text_target": "秋风一刮，叶子就从树上落下来。",
+      "phonetic": "Qiūfēng yī guā, yèzi jiù cóng shù shàng luò xiàlái.",
+      "text_native": "Dès que le vent d'automne souffle, les feuilles tombent des arbres."
+    },
+    {
+      "sequence_order": 16,
+      "text_target": "这是一个金黄色的季节，非常漂亮。",
+      "phonetic": "Zhè shì yī gè jīnhuángsè de jìjié, fēicháng piàoliang.",
+      "text_native": "C'est une saison de couleur jaune dorée, extrêmement jolie."
+    },
+    {
+      "sequence_order": 17,
+      "text_target": "王先生喜欢在秋天的下午看书。",
+      "phonetic": "Wáng xiānshēng xǐhuan zài qiūtiān de xiàwǔ kàn shū.",
+      "text_native": "Monsieur Wang aime lire des livres les après-midi d'automne."
+    },
+    {
+      "sequence_order": 18,
+      "text_target": "可是好天气不长，冬天很快就到了。",
+      "phonetic": "Kěshì hǎo tiānqì bù cháng, dōngtiān hěn kuài jiù dào le.",
+      "text_native": "Mais le beau temps ne dure pas longtemps, et l'hiver arrive très vite."
+    },
+    {
+      "sequence_order": 19,
+      "text_target": "冬天的气温很低，有时达到零下。",
+      "phonetic": "Dōngtiān de qìwēn hěn dī, yǒushí dádào língxià.",
+      "text_native": "La température en hiver est très basse, atteignant parfois des valeurs négatives."
+    },
+    {
+      "sequence_order": 20,
+      "text_target": "出门的时候，他要穿厚衣服和毛衣。",
+      "phonetic": "Chūmén de shíhou, tā yào chuān hòu yīfu hé máoyī.",
+      "text_native": "Quand il sort, il doit porter des vêtements épais et un pull."
+    },
+    {
+      "sequence_order": 21,
+      "text_target": "他还会戴上围巾和手套来保暖。",
+      "phonetic": "Tā hái huì dài shàng wéijīn hé shǒutào lái bǎǒnuǎn.",
+      "text_native": "Il mettra aussi une écharpe et des gants pour se tenir chaud."
+    },
+    {
+      "sequence_order": 22,
+      "text_target": "有时候外面会下大雪，世界一片白。",
+      "phonetic": "Yǒu shíhou wàimiàn huì xià dà xuě, shìjiè yī piàn bái.",
+      "text_native": "Parfois, il neige beaucoup dehors et le monde devient tout blanc."
+    },
+    {
+      "sequence_order": 23,
+      "text_target": "孩子们在雪地里开心地堆雪人。",
+      "phonetic": "Háizimen zài xuědì lǐ kāixīn de duī xuěrén.",
+      "text_native": "Les enfants fabriquent joyeusement un bonhomme de neige dans la neige."
+    },
+    {
+      "sequence_order": 24,
+      "text_target": "王先生每天早上起床后先看气象预报。",
+      "phonetic": "Wáng xiānshēng měitiān zǎochén qǐchuáng hòu xiān kàn qìxiàng yùbào.",
+      "text_native": "Chaque matin, après s'être levé, Monsieur Wang regarde d'abord les prévisions météo."
+    },
+    {
+      "sequence_order": 25,
+      "text_target": "今天的气象预报说外面是阴天。",
+      "phonetic": "Jīntiān de qìxiàng yùbào shuō wàimiàn shì yīntiān.",
+      "text_native": "Les prévisions météo d'aujourd'hui annoncent un temps couvert dehors."
+    },
+    {
+      "sequence_order": 26,
+      "text_target": "虽然没有太阳，但是感觉不太冷。",
+      "phonetic": "Suīrán méiyǒu tàiyáng, dànshì gǎnjué bù tài lěng.",
+      "text_native": "Bien qu'il n'y ait pas de soleil, on ne sent pas trop de froid."
+    },
+    {
+      "sequence_order": 27,
+      "text_target": "他喝了一杯热茶，觉得很舒服。",
+      "phonetic": "Tā hē le yī bēi rè chá, juéde hěn shūfu.",
+      "text_native": "Il a bu une tasse de thé chaud et s'est senti très à l'aise."
+    },
+    {
+      "sequence_order": 28,
+      "text_target": "不同的季节让生活变得很丰富。",
+      "phonetic": "Bùtóng de jìjié ràng shēnghuó biàn de hěn fēngfù.",
+      "text_native": "Les différentes saisons rendent la vie très riche en variété."
+    },
+    {
+      "sequence_order": 29,
+      "text_target": "注意天气的变化对身体健康很重要。",
+      "phonetic": "Zhùyì tiānqì de biànhuà duì shēntǐ jiànkāng hěn zhòngyào.",
+      "text_native": "Faire attention aux changements de temps est très important pour la santé corporelle."
+    },
+    {
+      "sequence_order": 30,
+      "text_target": "他希望明天有一个好天气去公园。",
+      "phonetic": "Tā xīwàng míngtiān yǒu yī gè hǎo tiānqì qù gōngyuán.",
+      "text_native": "Il espère qu'il fera beau temps demain pour aller au parc."
+    }
+  ]
+}
