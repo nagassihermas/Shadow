@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nagassihermas.shadow",
+    "sha256_cert_fingerprints": ["17:F6:3A:9D:F0:CD:5E:57:11:A7:CB:C1:95:E4:CA:E0:1E:2C:9F:5F:98:36:5A:E1:8D:A2:AA:F2:EA:27:23:B8"]
+  }
+}]
