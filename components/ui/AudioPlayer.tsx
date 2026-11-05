@@ -103,7 +103,7 @@ export function AudioPlayer({
         type="button"
         onClick={handlePlay}
         className={cn(
-          'inline-flex items-center justify-center rounded-full transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/50',
+          'inline-flex items-center justify-center rounded-full transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light',
           sizeClasses[size],
           isPlaying
             ? 'bg-primary text-background shadow-md animate-pulse'

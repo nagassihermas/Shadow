@@ -391,7 +391,7 @@ export default function BlocksPage() {
               </div>
 
               {generateError && (
-                <div className="text-xs text-danger bg-danger-subtle p-2.5 rounded border border-danger/30">
+                <div className="text-xs text-text bg-danger-subtle p-2.5 rounded border border-danger/30">
                   {generateError}
                 </div>
               )}

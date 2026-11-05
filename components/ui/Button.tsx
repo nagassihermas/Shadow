@@ -29,19 +29,19 @@ export const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
     ref
   ) => {
     const baseStyles =
-      'inline-flex items-center justify-center font-medium transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/40 active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none select-none';
+      'inline-flex items-center justify-center font-medium transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light active:scale-[0.98] disabled:opacity-45 disabled:pointer-events-none select-none';
 
     const variants = {
       primary:
-        'bg-primary text-background font-semibold hover:bg-primary-hover shadow-sm',
+        'bg-gradient-to-r from-primary to-primary-light text-background font-semibold hover:from-primary-hover hover:to-primary shadow-sm',
       secondary:
         'bg-secondary text-background font-medium hover:bg-secondary-hover shadow-sm',
       outline:
-        'border border-surface-border bg-transparent text-text hover:bg-surface-hover hover:border-textMuted/40',
+        'border border-surface-border bg-transparent text-text hover:bg-surface-hover hover:border-text-muted/40',
       ghost:
         'bg-transparent text-text hover:bg-surface-hover hover:text-text',
       danger:
-        'bg-danger text-text font-medium hover:opacity-90 shadow-sm',
+        'bg-danger text-background font-semibold hover:opacity-90 shadow-sm',
       subtle:
         'bg-surface-hover text-text hover:bg-surface-border text-text',
     };

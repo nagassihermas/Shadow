@@ -45,10 +45,10 @@ export function Badge({
         computedStyle = 'bg-secondary/20 text-secondary border border-secondary/30';
         break;
       case 'success':
-        computedStyle = 'bg-success/20 text-success border border-success/30';
+        computedStyle = 'bg-success/20 text-text border border-success/40';
         break;
       case 'danger':
-        computedStyle = 'bg-danger/20 text-danger border border-danger/30';
+        computedStyle = 'bg-danger/20 text-text border border-danger/40';
         break;
       case 'level':
         computedStyle = 'bg-surface-elevated text-secondary font-mono font-semibold border border-secondary/30';

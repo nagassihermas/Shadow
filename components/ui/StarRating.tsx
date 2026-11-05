@@ -51,7 +51,7 @@ export function StarRating({
               onMouseEnter={() => !readOnly && setHoverValue(rating)}
               onMouseLeave={() => !readOnly && setHoverValue(null)}
               className={cn(
-                'group p-1.5 rounded-md transition-all duration-150 relative focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/50',
+                'group p-1.5 rounded-md transition-all duration-150 relative focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light',
                 readOnly
                   ? 'cursor-default'
                   : 'cursor-pointer hover:bg-surface-hover hover:scale-110 active:scale-95',

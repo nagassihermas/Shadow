@@ -29,7 +29,7 @@ export function ProgressBar({
   };
 
   const fillVariants = {
-    primary: 'bg-primary',
+    primary: 'bg-gradient-to-r from-primary to-primary-light',
     secondary: 'bg-secondary',
     success: 'bg-success',
   };
