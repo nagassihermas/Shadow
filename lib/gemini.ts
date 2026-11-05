@@ -1,7 +1,8 @@
+import 'server-only';
 import { GoogleGenerativeAI } from '@google/generative-ai';
-import { Language, CECRLLevel } from '@/types';
+import type { Language, CECRLLevel } from '@/types';
 
-const apiKey = process.env.NEXT_PUBLIC_GEMINI_API_KEY || process.env.GEMINI_API_KEY || '';
+const apiKey = process.env.GEMINI_API_KEY || '';
 
 export const genAI = new GoogleGenerativeAI(apiKey);
 
