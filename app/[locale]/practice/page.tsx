@@ -2,15 +2,17 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Mic, Sparkles, Layers, ArrowRight, Play } from 'lucide-react';
+import { BookOpen, Mic, Sparkles, Layers, ArrowRight, Play } from 'lucide-react';
 import { Header } from '@/components/navigation/Header';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
+import { useDictionary } from '@/lib/i18n/DictionaryProvider';
 import { getStoredBlocks, getStoredPhrases, getSelectedLanguage, setSelectedLanguage } from '@/lib/storage';
 import { ThemeBlock, Phrase, Language } from '@/types';
 
 export default function PracticeHubPage() {
+  const { dict } = useDictionary();
   const [currentLang, setCurrentLang] = useState<Language>('EN');
   const [blocks, setBlocks] = useState<ThemeBlock[]>([]);
   const [phrases, setPhrases] = useState<Phrase[]>([]);
@@ -105,6 +107,25 @@ export default function PracticeHubPage() {
             )}
           </Card>
         </div>
+
+        <Card
+          variant="elevated"
+          padding="md"
+          className="flex flex-col justify-between space-y-4 border-l-4 border-l-primary-light"
+        >
+          <div className="space-y-2">
+            <div className="w-10 h-10 rounded-full bg-primary/15 flex items-center justify-center text-primary-light">
+              <BookOpen className="w-5 h-5" aria-hidden="true" />
+            </div>
+            <h3 className="text-base font-bold text-text">{dict.stories.title}</h3>
+            <p className="text-xs text-text-muted leading-relaxed">{dict.stories.practiceBody}</p>
+          </div>
+          <Link href="/stories" className="w-full pt-2">
+            <Button variant="subtle" size="md" fullWidth rightIcon={<ArrowRight className="w-4 h-4" />}>
+              {dict.stories.practiceCta}
+            </Button>
+          </Link>
+        </Card>
 
         {/* Sélection par Bloc Thématique */}
         <div className="space-y-3 pt-2">

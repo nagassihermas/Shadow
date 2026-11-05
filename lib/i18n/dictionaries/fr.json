@@ -116,5 +116,82 @@
     "step3": "Choisis « Supprimer mon compte » et confirme avec ton mot de passe.",
     "dataDeleted": "Sont supprimés : ton profil, tes blocs personnalisés et tes données de pratique enregistrées sur le serveur.",
     "contact": "Pour demander la suppression sans accès à l'application, écris à :"
+  },
+  "audio": {
+    "play": "Écouter la prononciation",
+    "stop": "Arrêter la lecture",
+    "changeSpeed": "Modifier la vitesse de lecture",
+    "slow": "0.7x (Lent)",
+    "normal": "1.0x (Normal)"
+  },
+  "rating": {
+    "prompt": "Sélectionnez votre niveau de maîtrise",
+    "rate": "Noter {rating} sur 5",
+    "levels": [
+      {
+        "title": "1 - Échec",
+        "hint": "Oubli complet / Révision immédiate"
+      },
+      {
+        "title": "2 - Difficile",
+        "hint": "Rappel très laborieux"
+      },
+      {
+        "title": "3 - Correct",
+        "hint": "Rappel avec effort normal"
+      },
+      {
+        "title": "4 - Bien",
+        "hint": "Rappel fluide et rapide"
+      },
+      {
+        "title": "5 - Parfait",
+        "hint": "Maîtrise instantanée et aisée"
+      }
+    ]
+  },
+  "stories": {
+    "title": "Histoires",
+    "searchPlaceholder": "Rechercher une histoire…",
+    "levelLabel": "Niveau",
+    "categoryLabel": "Catégorie",
+    "allLevels": "Tous",
+    "allCategories": "Toutes",
+    "categories": {
+      "quotidien": "Quotidien",
+      "voyage": "Voyage",
+      "travail": "Travail",
+      "sante": "Santé"
+    },
+    "found": "{count} histoires",
+    "sentences": "{count} phrases",
+    "mastery": {
+      "NEW": "Nouveau",
+      "LEARNING": "En apprentissage",
+      "MASTERED": "Maîtrisé"
+    },
+    "due": "À réviser",
+    "nextReview": "Prochaine révision : {date}",
+    "loadError": "Impossible de charger les histoires.",
+    "retry": "Réessayer",
+    "empty": "Aucune histoire ne correspond à tes filtres.",
+    "resetFilters": "Réinitialiser les filtres",
+    "listen": "Écouter l'histoire",
+    "pause": "Pause",
+    "resume": "Reprendre",
+    "stop": "Arrêter",
+    "speed": "Vitesse de lecture",
+    "phonetic": "Phonétique",
+    "translation": "Traduction",
+    "finished": "J'ai terminé",
+    "ratingTitle": "Comment s'est passée cette lecture ?",
+    "ratingSubtitle": "Ta note fixe la date de la prochaine révision.",
+    "saveRating": "Enregistrer la note",
+    "resultTitle": "Lecture enregistrée",
+    "nextStory": "Histoire suivante",
+    "reread": "Relire",
+    "backToList": "Retour à la liste",
+    "practiceBody": "Lis et écoute des récits complets adaptés à ton niveau, puis note ta compréhension.",
+    "practiceCta": "Ouvrir les histoires"
   }
 }

@@ -2,12 +2,12 @@
 
 import React from 'react';
 import { cn } from '@/lib/utils';
-import { MasteryStatus, CECRLLevel, Language } from '@/types';
+import { MasteryStatus, CECRLLevel, Language, StoryLevel } from '@/types';
 
 export interface BadgeProps extends React.HTMLAttributes<HTMLSpanElement> {
   variant?: 'default' | 'primary' | 'secondary' | 'success' | 'danger' | 'outline' | 'mastery' | 'level';
   masteryStatus?: MasteryStatus;
-  level?: CECRLLevel;
+  level?: CECRLLevel | StoryLevel;
   language?: Language;
   size?: 'sm' | 'md';
 }

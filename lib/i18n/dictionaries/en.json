@@ -116,5 +116,82 @@
     "step3": "Choose “Delete my account” and confirm with your password.",
     "dataDeleted": "This deletes your profile, your custom blocks and your practice data stored on the server.",
     "contact": "To request deletion without access to the app, write to:"
+  },
+  "audio": {
+    "play": "Listen to the pronunciation",
+    "stop": "Stop playback",
+    "changeSpeed": "Change playback speed",
+    "slow": "0.7x (Slow)",
+    "normal": "1.0x (Normal)"
+  },
+  "rating": {
+    "prompt": "Select your level of mastery",
+    "rate": "Rate {rating} out of 5",
+    "levels": [
+      {
+        "title": "1 - Failed",
+        "hint": "Forgot completely / Review now"
+      },
+      {
+        "title": "2 - Hard",
+        "hint": "Very laborious recall"
+      },
+      {
+        "title": "3 - Fair",
+        "hint": "Recall with normal effort"
+      },
+      {
+        "title": "4 - Good",
+        "hint": "Smooth, quick recall"
+      },
+      {
+        "title": "5 - Perfect",
+        "hint": "Instant, effortless mastery"
+      }
+    ]
+  },
+  "stories": {
+    "title": "Stories",
+    "searchPlaceholder": "Search for a story…",
+    "levelLabel": "Level",
+    "categoryLabel": "Category",
+    "allLevels": "All",
+    "allCategories": "All",
+    "categories": {
+      "quotidien": "Daily life",
+      "voyage": "Travel",
+      "travail": "Work",
+      "sante": "Health"
+    },
+    "found": "{count} stories",
+    "sentences": "{count} sentences",
+    "mastery": {
+      "NEW": "New",
+      "LEARNING": "Learning",
+      "MASTERED": "Mastered"
+    },
+    "due": "Due",
+    "nextReview": "Next review: {date}",
+    "loadError": "Couldn't load the stories.",
+    "retry": "Try again",
+    "empty": "No story matches your filters.",
+    "resetFilters": "Reset filters",
+    "listen": "Listen to the story",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "speed": "Playback speed",
+    "phonetic": "Phonetics",
+    "translation": "Translation",
+    "finished": "I'm done",
+    "ratingTitle": "How did this reading go?",
+    "ratingSubtitle": "Your rating sets the next review date.",
+    "saveRating": "Save rating",
+    "resultTitle": "Reading saved",
+    "nextStory": "Next story",
+    "reread": "Read again",
+    "backToList": "Back to the list",
+    "practiceBody": "Read and listen to complete stories at your level, then rate your understanding.",
+    "practiceCta": "Open stories"
   }
 }

@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { Star } from 'lucide-react';
 import { StarRating as StarRatingType } from '@/types';
+import { useDictionary } from '@/lib/i18n/DictionaryProvider';
 import { cn } from '@/lib/utils';
 
 export interface StarRatingProps {
@@ -14,14 +15,6 @@ export interface StarRatingProps {
   className?: string;
 }
 
-const RATING_LABELS: Record<StarRatingType, { title: string; hint: string }> = {
-  1: { title: '1 - Échec', hint: 'Oubli complet / Révision immédiate' },
-  2: { title: '2 - Difficile', hint: 'Rappel très laborieux' },
-  3: { title: '3 - Correct', hint: 'Rappel avec effort normal' },
-  4: { title: '4 - Bien', hint: 'Rappel fluide et rapide' },
-  5: { title: '5 - Parfait', hint: 'Maîtrise instantanée et aisée' },
-};
-
 export function StarRating({
   value = null,
   onChange,
@@ -30,6 +23,8 @@ export function StarRating({
   showLabels = false,
   className,
 }: StarRatingProps) {
+  const { dict } = useDictionary();
+  const labels = dict.rating.levels;
   const [hoverValue, setHoverValue] = useState<StarRatingType | null>(null);
 
   const starSizes = {
@@ -62,7 +57,7 @@ export function StarRating({
                   : 'cursor-pointer hover:bg-surface-hover hover:scale-110 active:scale-95',
                 isSelected && !readOnly && 'bg-surface-subtle ring-1 ring-secondary/30'
               )}
-              aria-label={`Noter ${rating} sur 5`}
+              aria-label={dict.rating.rate.replace('{rating}', String(rating))}
             >
               <Star
                 className={cn(
@@ -87,15 +82,15 @@ export function StarRating({
           {activeValue > 0 ? (
             <>
               <p className="text-xs font-medium text-text">
-                {RATING_LABELS[activeValue as StarRatingType]?.title}
+                {labels[activeValue - 1]?.title}
               </p>
               <p className="text-[11px] text-text-muted">
-                {RATING_LABELS[activeValue as StarRatingType]?.hint}
+                {labels[activeValue - 1]?.hint}
               </p>
             </>
           ) : (
             <p className="text-[11px] text-text-muted">
-              Sélectionnez votre niveau de maîtrise
+              {dict.rating.prompt}
             </p>
           )}
         </div>
