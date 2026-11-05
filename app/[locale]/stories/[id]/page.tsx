@@ -219,7 +219,7 @@ export default function StoryReaderPage() {
         <div className="max-w-xl mx-auto px-4 pt-6">
           <Card variant="elevated" padding="lg" className="space-y-5 text-center">
             <div>
-              <h1 className="text-lg font-bold text-text">{t.ratingTitle}</h1>
+              <h2 className="text-lg font-bold text-text">{t.ratingTitle}</h2>
               <p className="text-sm text-text-muted mt-1">{t.ratingSubtitle}</p>
             </div>
             <StarRating value={rating} onChange={setRating} size="lg" showLabels />
@@ -242,7 +242,7 @@ export default function StoryReaderPage() {
             <div className="mx-auto w-12 h-12 rounded-full bg-primary-subtle text-primary flex items-center justify-center">
               <CheckCircle2 className="w-6 h-6" aria-hidden="true" />
             </div>
-            <h1 className="text-lg font-bold text-text">{t.resultTitle}</h1>
+            <h2 className="text-lg font-bold text-text">{t.resultTitle}</h2>
             <Badge masteryStatus={result.mastery_status}>{t.mastery[result.mastery_status]}</Badge>
             {nextReview && (
               <p className="text-sm text-text-muted">

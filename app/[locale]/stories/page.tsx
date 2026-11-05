@@ -114,7 +114,7 @@ export default function StoriesPage() {
 
         <div className="space-y-1.5">
           <p className="text-[11px] font-semibold text-text-muted uppercase tracking-wider">{t.levelLabel}</p>
-          <div className="flex items-center gap-1.5 overflow-x-auto pb-1">
+          <div className="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
             <FilterChip active={level === 'ALL'} onClick={() => setLevel('ALL')}>
               {t.allLevels}
             </FilterChip>
@@ -128,7 +128,7 @@ export default function StoriesPage() {
 
         <div className="space-y-1.5">
           <p className="text-[11px] font-semibold text-text-muted uppercase tracking-wider">{t.categoryLabel}</p>
-          <div className="flex items-center gap-1.5 overflow-x-auto pb-1">
+          <div className="flex items-center gap-1.5 overflow-x-auto pb-1 no-scrollbar">
             <FilterChip active={category === 'ALL'} onClick={() => setCategory('ALL')}>
               {t.allCategories}
             </FilterChip>
