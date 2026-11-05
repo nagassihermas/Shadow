@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Sparkles, Mic, Layers, ArrowRight, Flame, Clock, CheckCircle2, BookOpen } from 'lucide-react';
+import { useAuth } from '@/components/auth/AuthProvider';
 import { Header } from '@/components/navigation/Header';
 import { Card, CardContent } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
@@ -16,9 +17,13 @@ import {
   getStoredPracticeLogs,
 } from '@/lib/storage';
 import { calculateCECRLProgress, CECRL_DISCLAIMER } from '@/lib/cecrl';
+import { useDictionary } from '@/lib/i18n/DictionaryProvider';
+import { getDisplayName } from '@/lib/profile';
 import { Language, ThemeBlock, Phrase, PracticeLog } from '@/types';
 
 export default function HomePage() {
+  const { dict } = useDictionary();
+  const { profile } = useAuth();
   const [currentLang, setCurrentLang] = useState<Language>('EN');
   const [blocks, setBlocks] = useState<ThemeBlock[]>([]);
   const [phrases, setPhrases] = useState<Phrase[]>([]);
@@ -86,7 +91,7 @@ export default function HomePage() {
         <div className="flex items-center justify-between">
           <div>
             <h2 className="text-xl font-bold text-text tracking-tight">
-              Bonjour Alexandre
+              {dict.home.greeting.replace('{name}', getDisplayName(profile)).trim()}
             </h2>
             <p className="text-xs text-text-muted mt-0.5">
               Langue active :{' '}

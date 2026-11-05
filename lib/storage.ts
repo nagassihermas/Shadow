@@ -1,7 +1,7 @@
 'use client';
 
 import { ThemeBlock, Phrase, PracticeLog, User, Language, StarRating, Story, StorySentence } from '@/types';
-import { INITIAL_BLOCKS, INITIAL_PHRASES, INITIAL_PRACTICE_LOGS, INITIAL_USER, INITIAL_STORIES, INITIAL_STORY_SENTENCES } from './mock-data';
+import { INITIAL_BLOCKS, INITIAL_PHRASES, INITIAL_PRACTICE_LOGS, INITIAL_STORIES, INITIAL_STORY_SENTENCES } from './mock-data';
 import { processFsrsReview } from './fsrs';
 
 const ACTIVE_UID_KEY = 'shadow_active_uid';
@@ -98,13 +98,25 @@ export function deleteLocalUserData(uid: string): void {
     .forEach((key) => localStorage.removeItem(key));
 }
 
+function emptyUser(): User {
+  return {
+    id: getActiveUid() ?? ANONYMOUS_PREFIX,
+    email: '',
+    name: null,
+    target_languages: ['EN', 'ZH'],
+    cecrl_level_by_lang: { EN: 'A1', ZH: 'A1' },
+    created_at: new Date().toISOString(),
+  };
+}
+
+/** Dernier profil connu (cache hors ligne) ; la table profiles fait foi. */
 export function getStoredUser(): User {
-  if (!isClient()) return INITIAL_USER;
+  if (!isClient()) return emptyUser();
   try {
     const data = localStorage.getItem(STORAGE_KEYS.USER);
-    return data ? JSON.parse(data) : INITIAL_USER;
+    return data ? JSON.parse(data) : emptyUser();
   } catch {
-    return INITIAL_USER;
+    return emptyUser();
   }
 }
 

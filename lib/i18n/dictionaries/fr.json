@@ -7,7 +7,9 @@
     "home": "Accueil",
     "blocks": "Blocs",
     "practice": "Pratique",
-    "stats": "Stats"
+    "stats": "Stats",
+    "stories": "Histoires",
+    "profile": "Profil"
   },
   "auth": {
     "emailLabel": "Adresse e-mail",
@@ -71,5 +73,48 @@
   "TODO_practice_page": "__NEEDS_SOURCE__",
   "TODO_stats_page": "__NEEDS_SOURCE__",
   "TODO_shadowing_page": "__NEEDS_SOURCE__",
-  "TODO_recall_page": "__NEEDS_SOURCE__"
+  "TODO_recall_page": "__NEEDS_SOURCE__",
+  "home": {
+    "greeting": "Bonjour {name}"
+  },
+  "profile": {
+    "title": "Profil",
+    "identity": "Identité",
+    "nameLabel": "Nom d'affichage",
+    "emailReadOnly": "L'adresse e-mail ne peut pas être modifiée pour le moment.",
+    "preferences": "Préférences",
+    "studiedLanguages": "Langues étudiées",
+    "studiedLanguagesHint": "Garde au moins une langue.",
+    "defaultLanguage": "Langue de pratique par défaut",
+    "languageEN": "Anglais",
+    "languageZH": "Chinois",
+    "save": "Enregistrer",
+    "saved": "Profil enregistré.",
+    "saveFailed": "Enregistrement impossible. Réessaie.",
+    "offlineNotice": "Tu es hors ligne : ces informations viennent de ton appareil et ne peuvent pas être modifiées.",
+    "progress": "Progression",
+    "viewStats": "Voir les statistiques",
+    "security": "Sécurité",
+    "currentPasswordLabel": "Mot de passe actuel",
+    "currentPasswordWrong": "Mot de passe incorrect.",
+    "changePassword": "Changer le mot de passe",
+    "passwordChanged": "Mot de passe modifié.",
+    "signOut": "Se déconnecter",
+    "dangerZone": "Zone sensible",
+    "deleteAccount": "Supprimer mon compte",
+    "deleteTitle": "Supprimer ton compte ?",
+    "deleteBody": "Ton profil, tes blocs personnalisés et tes données de pratique enregistrées sur le serveur seront supprimés, ainsi que les données locales de cet appareil. Cette action est définitive.",
+    "deleteConfirm": "Supprimer définitivement",
+    "deleteFailed": "La suppression a échoué. Réessaie plus tard.",
+    "cancel": "Annuler"
+  },
+  "deleteAccountPage": {
+    "title": "Supprimer un compte Shadow",
+    "intro": "Tu peux supprimer ton compte de l'application Shadow à tout moment, directement depuis l'application :",
+    "step1": "Connecte-toi à Shadow.",
+    "step2": "Ouvre l'onglet Profil.",
+    "step3": "Choisis « Supprimer mon compte » et confirme avec ton mot de passe.",
+    "dataDeleted": "Sont supprimés : ton profil, tes blocs personnalisés et tes données de pratique enregistrées sur le serveur.",
+    "contact": "Pour demander la suppression sans accès à l'application, écris à :"
+  }
 }

@@ -7,7 +7,9 @@
     "home": "Home",
     "blocks": "Blocks",
     "practice": "Practice",
-    "stats": "Stats"
+    "stats": "Stats",
+    "stories": "Stories",
+    "profile": "Profile"
   },
   "auth": {
     "emailLabel": "Email address",
@@ -71,5 +73,48 @@
   "TODO_practice_page": "__NEEDS_SOURCE__",
   "TODO_stats_page": "__NEEDS_SOURCE__",
   "TODO_shadowing_page": "__NEEDS_SOURCE__",
-  "TODO_recall_page": "__NEEDS_SOURCE__"
+  "TODO_recall_page": "__NEEDS_SOURCE__",
+  "home": {
+    "greeting": "Hello {name}"
+  },
+  "profile": {
+    "title": "Profile",
+    "identity": "Identity",
+    "nameLabel": "Display name",
+    "emailReadOnly": "Your email address can't be changed for now.",
+    "preferences": "Preferences",
+    "studiedLanguages": "Languages you study",
+    "studiedLanguagesHint": "Keep at least one language.",
+    "defaultLanguage": "Default practice language",
+    "languageEN": "English",
+    "languageZH": "Chinese",
+    "save": "Save",
+    "saved": "Profile saved.",
+    "saveFailed": "Couldn't save. Try again.",
+    "offlineNotice": "You're offline: this information comes from your device and can't be changed.",
+    "progress": "Progress",
+    "viewStats": "View statistics",
+    "security": "Security",
+    "currentPasswordLabel": "Current password",
+    "currentPasswordWrong": "Incorrect password.",
+    "changePassword": "Change password",
+    "passwordChanged": "Password changed.",
+    "signOut": "Sign out",
+    "dangerZone": "Danger zone",
+    "deleteAccount": "Delete my account",
+    "deleteTitle": "Delete your account?",
+    "deleteBody": "Your profile, custom blocks and practice data stored on the server will be deleted, along with the local data on this device. This can't be undone.",
+    "deleteConfirm": "Delete permanently",
+    "deleteFailed": "Deletion failed. Try again later.",
+    "cancel": "Cancel"
+  },
+  "deleteAccountPage": {
+    "title": "Delete a Shadow account",
+    "intro": "You can delete your Shadow account at any time, directly from the app:",
+    "step1": "Sign in to Shadow.",
+    "step2": "Open the Profile tab.",
+    "step3": "Choose “Delete my account” and confirm with your password.",
+    "dataDeleted": "This deletes your profile, your custom blocks and your practice data stored on the server.",
+    "contact": "To request deletion without access to the app, write to:"
+  }
 }

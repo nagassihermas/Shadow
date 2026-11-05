@@ -13,22 +13,37 @@ import { usePathname } from 'next/navigation';
 import type { User as AuthUser } from '@supabase/supabase-js';
 import { createClient } from '@/lib/supabase/client';
 import { stripLocalePrefix } from '@/lib/i18n/config';
-import { clearActiveUid, getActiveUid, setActiveUid } from '@/lib/storage';
+import { fetchProfile } from '@/lib/profile';
+import { clearActiveUid, getActiveUid, getStoredUser, saveUser, setActiveUid } from '@/lib/storage';
+import type { User } from '@/types';
 
 const PUBLIC_PATHS = ['/login', '/reset-password', '/delete-account'];
 
 interface AuthContextValue {
   user: AuthUser | null;
+  profile: User | null;
   loading: boolean;
+  setProfile: (profile: User) => void;
   signOut: (options?: { redirectTo?: string }) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
 
+function profileFromSession(user: AuthUser): User {
+  const displayName = user.user_metadata?.display_name;
+  return {
+    ...getStoredUser(),
+    id: user.id,
+    email: user.email ?? '',
+    name: typeof displayName === 'string' ? displayName : null,
+  };
+}
+
 export function AuthProvider({ children }: { children: ReactNode }) {
   const supabase = useMemo(() => createClient(), []);
   const pathname = stripLocalePrefix(usePathname());
   const [user, setUser] = useState<AuthUser | null>(null);
+  const [profile, setProfile] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -47,8 +62,23 @@ export function AuthProvider({ children }: { children: ReactNode }) {
           setActiveUid(sessionUser.id);
           // Pages already read storage under the previous uid. The read-back
           // guards against a reload loop when localStorage is unavailable.
-          if (getActiveUid() === sessionUser.id) window.location.reload();
+          if (getActiveUid() === sessionUser.id) {
+            window.location.reload();
+            return;
+          }
         }
+
+        const cached = getStoredUser();
+        setProfile(cached.email ? cached : profileFromSession(sessionUser));
+        fetchProfile(sessionUser.id)
+          .then((fresh) => {
+            if (cancelled || !fresh) return;
+            saveUser(fresh);
+            setProfile(fresh);
+          })
+          .catch(() => {
+            // Offline or server error: the cached profile stays on screen.
+          });
         return;
       }
 
@@ -81,7 +111,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     [supabase]
   );
 
-  const value = useMemo(() => ({ user, loading, signOut }), [user, loading, signOut]);
+  const value = useMemo(
+    () => ({ user, profile, loading, setProfile, signOut }),
+    [user, profile, loading, signOut]
+  );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
 }
