@@ -6,10 +6,15 @@ import { usePathname } from 'next/navigation';
 import { Home, Layers, Sparkles, BarChart3 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { useDictionary } from '@/lib/i18n/DictionaryProvider';
+import { stripLocalePrefix } from '@/lib/i18n/config';
+
+const HIDDEN_ON = ['/login', '/reset-password', '/delete-account'];
 
 export function BottomNav() {
-  const pathname = usePathname();
+  const pathname = stripLocalePrefix(usePathname());
   const { dict } = useDictionary();
+
+  if (HIDDEN_ON.includes(pathname)) return null;
 
   const navItems = [
     {
