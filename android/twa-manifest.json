@@ -1,0 +1,46 @@
+{
+  "packageId": "com.nagassihermas.shadow",
+  "host": "shadow-hn.vercel.app",
+  "name": "Shadow — Apprentissage Langues",
+  "launcherName": "Shadow",
+  "display": "standalone",
+  "themeColor": "#1C1B1A",
+  "themeColorDark": "#1C1B1A",
+  "navigationColor": "#1C1B1A",
+  "navigationColorDark": "#1C1B1A",
+  "navigationDividerColor": "#1C1B1A",
+  "navigationDividerColorDark": "#1C1B1A",
+  "backgroundColor": "#1C1B1A",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://shadow-hn.vercel.app/icons/icon-512.png",
+  "maskableIconUrl": "https://shadow-hn.vercel.app/icons/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:/Users/ROYALCOMPUTER/.shadow-signing/shadow-release.keystore",
+    "alias": "shadow"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://shadow-hn.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alwaysShowNotification": false,
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://shadow-hn.vercel.app/",
+  "minSdkVersion": 24,
+  "orientation": "portrait",
+  "fingerprints": [
+    {
+      "name": "release",
+      "value": "17:F6:3A:9D:F0:CD:5E:57:11:A7:CB:C1:95:E4:CA:E0:1E:2C:9F:5F:98:36:5A:E1:8D:A2:AA:F2:EA:27:23:B8"
+    }
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1.0.0"
+}
