@@ -1,5 +1,5 @@
 // Bump on every change to STATIC_ASSETS: `activate` deletes all other caches.
-const CACHE_NAME = 'shadow-pwa-v2';
+const CACHE_NAME = 'shadow-pwa-v3';
 
 // Only assets that are public and never redirect. Pages must NOT be listed:
 // for a logged-out visitor they redirect to /login, and serving a cached
@@ -58,6 +58,25 @@ self.addEventListener('fetch', (event) => {
       fetch(event.request).catch(() => {
         return new Response(OFFLINE_HTML, {
           headers: { 'Content-Type': 'text/html; charset=utf-8' },
+        });
+      })
+    );
+    return;
+  }
+
+  const url = new URL(event.request.url);
+  if (url.origin === self.location.origin && url.pathname.startsWith('/data/stories/')) {
+    // Stale-while-revalidate: stories stay readable offline once opened.
+    event.respondWith(
+      caches.open(CACHE_NAME).then((cache) => {
+        return cache.match(event.request).then((cached) => {
+          const network = fetch(event.request).then((response) => {
+            if (response.ok) cache.put(event.request, response.clone());
+            return response;
+          });
+          if (!cached) return network;
+          event.waitUntil(network.catch(() => undefined));
+          return cached;
         });
       })
     );
