@@ -1,5 +1,5 @@
 // Bump on every change to STATIC_ASSETS: `activate` deletes all other caches.
-const CACHE_NAME = 'shadow-pwa-v3';
+const CACHE_NAME = 'shadow-pwa-v4';
 
 // Only assets that are public and never redirect. Pages must NOT be listed:
 // for a logged-out visitor they redirect to /login, and serving a cached
@@ -19,7 +19,7 @@ const OFFLINE_HTML = `<!doctype html>
 <style>
   body { margin: 0; min-height: 100vh; display: flex; flex-direction: column; align-items: center;
          justify-content: center; gap: 16px; padding: 24px; box-sizing: border-box; text-align: center;
-         background: #1C1B1A; color: #F5F2EC; font-family: system-ui, sans-serif; }
+         background: #0E1110; color: #F2F4F3; font-family: system-ui, sans-serif; }
   button { padding: 10px 20px; border: 1px solid currentColor; border-radius: 8px;
            background: none; color: inherit; font: inherit; }
 </style>
