@@ -1,14 +1,34 @@
-const CACHE_NAME = 'shadow-pwa-v1';
+// Bump on every change to STATIC_ASSETS: `activate` deletes all other caches.
+const CACHE_NAME = 'shadow-pwa-v2';
 
+// Only assets that are public and never redirect. Pages must NOT be listed:
+// for a logged-out visitor they redirect to /login, and serving a cached
+// redirected response to a navigation is a network error (blank page).
 const STATIC_ASSETS = [
-  '/',
-  '/manifest.json',
-  '/icons/icon-192.svg',
-  '/icons/icon-512.svg',
-  '/blocks',
-  '/practice',
-  '/stats',
+  '/icons/icon-192.png',
+  '/icons/icon-512.png',
+  '/icons/icon-maskable-512.png',
 ];
+
+const OFFLINE_HTML = `<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shadow</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+         justify-content: center; gap: 16px; padding: 24px; box-sizing: border-box; text-align: center;
+         background: #1C1B1A; color: #F5F2EC; font-family: system-ui, sans-serif; }
+  button { padding: 10px 20px; border: 1px solid currentColor; border-radius: 8px;
+           background: none; color: inherit; font: inherit; }
+</style>
+</head>
+<body>
+<p>Vous êtes hors ligne. Reconnectez-vous à Internet pour continuer.</p>
+<button onclick="location.reload()">Réessayer</button>
+</body>
+</html>`;
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -32,14 +52,21 @@ self.addEventListener('activate', (event) => {
 
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
+
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request).catch(() => {
+        return new Response(OFFLINE_HTML, {
+          headers: { 'Content-Type': 'text/html; charset=utf-8' },
+        });
+      })
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then((cached) => {
-      return (
-        cached ||
-        fetch(event.request).catch(() => {
-          return caches.match('/');
-        })
-      );
+      return cached || fetch(event.request);
     })
   );
 });
