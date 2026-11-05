@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useMemo, useState } from 'react';
+import React, { useState } from 'react';
 import { Loader2 } from 'lucide-react';
 import { PasswordCriteria } from '@/components/auth/PasswordCriteria';
 import { PasswordInput } from '@/components/auth/PasswordInput';
@@ -21,7 +21,6 @@ interface Errors {
 export function ChangePasswordForm({ email, disabled }: { email: string; disabled: boolean }) {
   const { dict } = useDictionary();
   const t = dict.profile;
-  const supabase = useMemo(() => createClient(), []);
 
   const [current, setCurrent] = useState('');
   const [next, setNext] = useState('');
@@ -45,7 +44,7 @@ export function ChangePasswordForm({ email, disabled }: { email: string; disable
     setErrors({});
     setSubmitting(true);
     try {
-      const { error: verifyError } = await supabase.auth.signInWithPassword({ email, password: current });
+      const { error: verifyError } = await createClient().auth.signInWithPassword({ email, password: current });
       if (verifyError) {
         const key = matchAuthErrorKey(verifyError);
         setErrors(
@@ -54,7 +53,7 @@ export function ChangePasswordForm({ email, disabled }: { email: string; disable
         return;
       }
 
-      const { error } = await supabase.auth.updateUser({ password: next });
+      const { error } = await createClient().auth.updateUser({ password: next });
       if (error) {
         const key = matchAuthErrorKey(error);
         setErrors(

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useMemo, useState } from 'react';
+import React, { useState } from 'react';
 import { Loader2 } from 'lucide-react';
 import { useAuth } from '@/components/auth/AuthProvider';
 import { PasswordInput } from '@/components/auth/PasswordInput';
@@ -23,7 +23,6 @@ export function DeleteAccountDialog({
   const { dict } = useDictionary();
   const t = dict.profile;
   const { signOut } = useAuth();
-  const supabase = useMemo(() => createClient(), []);
 
   const [password, setPassword] = useState('');
   const [error, setError] = useState<string | null>(null);
@@ -35,14 +34,14 @@ export function DeleteAccountDialog({
     setError(null);
     setSubmitting(true);
     try {
-      const { error: verifyError } = await supabase.auth.signInWithPassword({ email, password });
+      const { error: verifyError } = await createClient().auth.signInWithPassword({ email, password });
       if (verifyError) {
         const key = matchAuthErrorKey(verifyError);
         setError(key === 'invalidCredentials' ? t.currentPasswordWrong : dict.auth.errors[key]);
         return;
       }
 
-      const { error: deleteError } = await supabase.rpc('delete_own_account');
+      const { error: deleteError } = await createClient().rpc('delete_own_account');
       if (deleteError) {
         console.error('delete_own_account failed:', deleteError.code);
         setError(t.deleteFailed);

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { Suspense, useEffect, useMemo, useState } from 'react';
+import React, { Suspense, useEffect, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { AlertTriangle, CheckCircle2, Loader2 } from 'lucide-react';
@@ -29,7 +29,6 @@ function ResetForm() {
   const { dict } = useDictionary();
   const t = dict.auth;
   const searchParams = useSearchParams();
-  const supabase = useMemo(() => createClient(), []);
 
   const [status, setStatus] = useState<Status>('checking');
   const [password, setPassword] = useState('');
@@ -46,14 +45,14 @@ function ResetForm() {
 
     const {
       data: { subscription },
-    } = supabase.auth.onAuthStateChange((event) => {
+    } = createClient().auth.onAuthStateChange((event) => {
       if (event === 'PASSWORD_RECOVERY') markReady();
     });
 
     const check = async () => {
       const {
         data: { session },
-      } = await supabase.auth.getSession();
+      } = await createClient().auth.getSession();
       if (cancelled) return;
       if (session) markReady();
       else setStatus((current) => (current === 'checking' ? 'invalid' : current));
@@ -72,7 +71,7 @@ function ResetForm() {
       if (timer) clearTimeout(timer);
       subscription.unsubscribe();
     };
-  }, [supabase, searchParams]);
+  }, [searchParams]);
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -88,7 +87,7 @@ function ResetForm() {
     setErrors({});
     setSubmitting(true);
     try {
-      const { error } = await supabase.auth.updateUser({ password });
+      const { error } = await createClient().auth.updateUser({ password });
       if (error) {
         const key = matchAuthErrorKey(error);
         setErrors(fieldForAuthError(key) === 'password' ? { password: t.errors[key] } : { form: t.errors[key] });

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { Suspense, useEffect, useMemo, useRef, useState } from 'react';
+import React, { Suspense, useEffect, useRef, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Loader2, MailCheck } from 'lucide-react';
 import { Button } from '@/components/ui/Button';
@@ -30,7 +30,6 @@ function LoginForm() {
   const { dict } = useDictionary();
   const t = dict.auth;
   const searchParams = useSearchParams();
-  const supabase = useMemo(() => createClient(), []);
 
   const [view, setView] = useState<View>('signin');
   const [displayName, setDisplayName] = useState('');
@@ -55,23 +54,23 @@ function LoginForm() {
     (async () => {
       const {
         data: { session },
-      } = await supabase.auth.getSession();
+      } = await createClient().auth.getSession();
       if (!session || cancelled) return;
       // The middleware sent this visitor here, so a local session may be stale
       // (deleted account). Going to / on it alone would loop with the middleware.
-      const { data, error } = await supabase.auth.getUser();
+      const { data, error } = await createClient().auth.getUser();
       if (cancelled) return;
       if (data.user) {
         setActiveUid(data.user.id);
         window.location.assign('/');
       } else if (error && error.status && error.status < 500) {
-        await supabase.auth.signOut({ scope: 'local' });
+        await createClient().auth.signOut({ scope: 'local' });
       }
     })();
     return () => {
       cancelled = true;
     };
-  }, [supabase]);
+  }, []);
 
   useEffect(() => {
     return () => {
@@ -103,7 +102,7 @@ function LoginForm() {
   }
 
   async function handleSignIn() {
-    const { data, error } = await supabase.auth.signInWithPassword({ email, password });
+    const { data, error } = await createClient().auth.signInWithPassword({ email, password });
     if (error) return showError(matchAuthErrorKey(error));
     setActiveUid(data.user.id);
     window.location.assign('/');
@@ -118,7 +117,7 @@ function LoginForm() {
       setFieldErrors({ confirm: t.passwordsMismatch });
       return;
     }
-    const { data, error } = await supabase.auth.signUp({
+    const { data, error } = await createClient().auth.signUp({
       email,
       password,
       options: {
@@ -136,7 +135,7 @@ function LoginForm() {
   }
 
   async function handleForgot() {
-    const { error } = await supabase.auth.resetPasswordForEmail(email, {
+    const { error } = await createClient().auth.resetPasswordForEmail(email, {
       redirectTo: `${window.location.origin}/auth/callback?next=/reset-password`,
     });
     if (error) return showError(matchAuthErrorKey(error));

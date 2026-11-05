@@ -40,7 +40,6 @@ function profileFromSession(user: AuthUser): User {
 }
 
 export function AuthProvider({ children }: { children: ReactNode }) {
-  const supabase = useMemo(() => createClient(), []);
   const pathname = stripLocalePrefix(usePathname());
   const [user, setUser] = useState<AuthUser | null>(null);
   const [profile, setProfile] = useState<User | null>(null);
@@ -51,7 +50,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const isPublic = PUBLIC_PATHS.includes(pathname);
 
     // getSession() reads local storage, so this also works offline.
-    supabase.auth.getSession().then(({ data: { session }, error }) => {
+    createClient().auth.getSession().then(({ data: { session }, error }) => {
       if (cancelled) return;
       const sessionUser = session?.user ?? null;
       setUser(sessionUser);
@@ -89,7 +88,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
     const {
       data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
+    } = createClient().auth.onAuthStateChange((_event, session) => {
       setUser(session?.user ?? null);
     });
 
@@ -99,16 +98,16 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     };
     // Runs once per full page load: pathname only decides the first redirect.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [supabase]);
+  }, []);
 
   const signOut = useCallback(
     async ({ redirectTo = '/login' }: { redirectTo?: string } = {}) => {
       // 'local' never fails on a deleted account or an unreachable server.
-      await supabase.auth.signOut({ scope: 'local' });
+      await createClient().auth.signOut({ scope: 'local' });
       clearActiveUid();
       window.location.assign(redirectTo);
     },
-    [supabase]
+    []
   );
 
   const value = useMemo(
