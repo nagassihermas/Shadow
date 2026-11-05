@@ -3,11 +3,14 @@ import { generateThemeBlockWithGemini } from '@/lib/gemini';
 import { createClient } from '@/lib/supabase/server';
 import type { CECRLLevel, Language } from '@/types';
 
+// 20 phrases take noticeably longer to generate than the platform default allows.
+export const maxDuration = 100;
+
 const LANGUAGES: readonly Language[] = ['EN', 'ZH'];
 const LEVELS: readonly CECRLLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 const MAX_TOPIC_LENGTH = 200;
 const MAX_COUNT = 30;
-const DEFAULT_COUNT = 5;
+const DEFAULT_COUNT = 20;
 
 interface BlockRequest {
   topic: string;

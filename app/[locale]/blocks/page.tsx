@@ -25,7 +25,7 @@ export default function BlocksPage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [topicInput, setTopicInput] = useState('');
   const [targetLevel, setTargetLevel] = useState<CECRLLevel>('A2');
-  const [phraseCount, setPhraseCount] = useState<number>(5);
+  const [phraseCount, setPhraseCount] = useState<number>(20);
   const [isGenerating, setIsGenerating] = useState(false);
   const [generateError, setGenerateError] = useState<string | null>(null);
 
