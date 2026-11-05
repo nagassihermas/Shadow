@@ -11,37 +11,37 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#6B8F71", // vert sauge
-          hover: "#5E7E63",
-          light: "#7F9F84",
-          subtle: "rgba(107, 143, 113, 0.15)",
+          DEFAULT: "#2EB872", // émeraude
+          hover: "#249A5E",
+          light: "#4FD08F",
+          subtle: "rgba(46, 184, 114, 0.14)",
         },
         secondary: {
-          DEFAULT: "#B8A088", // beige argile
-          hover: "#A78F77",
-          light: "#C7B39E",
-          subtle: "rgba(184, 160, 136, 0.15)",
+          DEFAULT: "#D4A24C", // or
+          hover: "#BC8C3A",
+          light: "#E3BB72",
+          subtle: "rgba(212, 162, 76, 0.14)",
         },
-        background: "#1C1B1A", // gris pierre très sombre
+        background: "#0E1110", // vert-noir neutre
         surface: {
-          DEFAULT: "#282625", // gris chaud
-          subtle: "#22201F",
-          hover: "#34312F",
-          border: "#3D3936",
-          elevated: "#302E2C",
+          DEFAULT: "#161B19",
+          subtle: "#121614",
+          hover: "#1E2522",
+          border: "#2A332F",
+          elevated: "#1C2320",
         },
         text: {
-          DEFAULT: "#E8E4DD", // blanc cassé
-          muted: "#8A8580", // gris moyen
-          dim: "#5C5854",
+          DEFAULT: "#F2F4F3",
+          muted: "#9AA7A1",
+          dim: "#66726C", // décoratif ou grande taille uniquement (3,5:1)
         },
         success: {
-          DEFAULT: "#5A7A5F", // vert sauge foncé
-          subtle: "rgba(90, 122, 95, 0.15)",
+          DEFAULT: "#3FA66B",
+          subtle: "rgba(63, 166, 107, 0.15)",
         },
         danger: {
-          DEFAULT: "#A6624F", // terracotta mat
-          subtle: "rgba(166, 98, 79, 0.15)",
+          DEFAULT: "#E5604D",
+          subtle: "rgba(229, 96, 77, 0.15)",
         },
       },
       fontFamily: {
