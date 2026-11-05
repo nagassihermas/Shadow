@@ -6,6 +6,7 @@ import { LOCALES, DEFAULT_LOCALE, type Locale } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import { DictionaryProvider } from '@/lib/i18n/DictionaryProvider';
 import { LocaleBootstrap } from '@/components/i18n/LocaleBootstrap';
+import { AuthProvider } from '@/components/auth/AuthProvider';
 
 export const metadata: Metadata = {
   title: 'Shadow — Apprentissage des Langues (Anglais & Chinois)',
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: '#1C1B1A',
+  themeColor: '#0E1110',
   width: 'device-width',
   initialScale: 1,
   maximumScale: 1,
@@ -53,10 +54,12 @@ export default async function RootLayout({
     <html lang={locale} className="dark">
       <body className="bg-background text-text selection:bg-primary/30 selection:text-text min-h-screen">
         <DictionaryProvider dict={dict} locale={locale}>
-          <LocaleBootstrap />
-          <PWARegister />
-          <main className="min-h-screen flex flex-col">{children}</main>
-          <BottomNav />
+          <AuthProvider>
+            <LocaleBootstrap />
+            <PWARegister />
+            <main className="min-h-screen flex flex-col">{children}</main>
+            <BottomNav />
+          </AuthProvider>
         </DictionaryProvider>
       </body>
     </html>

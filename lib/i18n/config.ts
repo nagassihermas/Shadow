@@ -10,6 +10,16 @@ export const DEFAULT_LOCALE: Locale = 'fr';
  */
 export const LOCALE_COOKIE = 'NEXT_LOCALE';
 
+/**
+ * usePathname() can return the rewritten path (/fr/blocks) during server
+ * rendering and the visible one (/blocks) in the browser: compare on this.
+ */
+export function stripLocalePrefix(pathname: string): string {
+  const [, first, ...rest] = pathname.split('/');
+  if (!(LOCALES as readonly string[]).includes(first)) return pathname;
+  return `/${rest.join('/')}`;
+}
+
 export const LOCALE_LABELS: Record<Locale, string> = {
   fr: 'Français',
   en: 'English',

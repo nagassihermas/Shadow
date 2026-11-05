@@ -25,7 +25,7 @@ export default function BlocksPage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [topicInput, setTopicInput] = useState('');
   const [targetLevel, setTargetLevel] = useState<CECRLLevel>('A2');
-  const [phraseCount, setPhraseCount] = useState<number>(5);
+  const [phraseCount, setPhraseCount] = useState<number>(20);
   const [isGenerating, setIsGenerating] = useState(false);
   const [generateError, setGenerateError] = useState<string | null>(null);
 
@@ -391,7 +391,7 @@ export default function BlocksPage() {
               </div>
 
               {generateError && (
-                <div className="text-xs text-danger bg-danger-subtle p-2.5 rounded border border-danger/30">
+                <div className="text-xs text-text bg-danger-subtle p-2.5 rounded border border-danger/30">
                   {generateError}
                 </div>
               )}

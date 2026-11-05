@@ -7,18 +7,191 @@
     "home": "Home",
     "blocks": "Blocks",
     "practice": "Practice",
-    "stats": "Stats"
+    "stats": "Stats",
+    "stories": "Stories",
+    "profile": "Profile"
   },
   "auth": {
     "emailLabel": "Email address",
-    "sendMagicLink": "Send magic link",
-    "sending": "Sending…",
-    "magicLinkSent": "Link sent — check your inbox.",
-    "error": "Failed to send. Try again."
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm password",
+    "newPasswordLabel": "New password",
+    "displayNameLabel": "Display name (optional)",
+    "signInTitle": "Sign in",
+    "signInSubtitle": "Pick up your training where you left off.",
+    "signUpTitle": "Create an account",
+    "signUpSubtitle": "It only takes a few seconds to get started.",
+    "forgotTitle": "Forgot password",
+    "forgotSubtitle": "Enter your email and we'll send you a reset link.",
+    "signIn": "Sign in",
+    "signUp": "Create my account",
+    "sendResetLink": "Send the link",
+    "forgotPassword": "Forgot password?",
+    "toSignUp": "No account yet? Sign up",
+    "toSignIn": "Already have an account? Sign in",
+    "backToSignIn": "Back to sign in",
+    "loading": "Loading…",
+    "retryIn": "Try again in {seconds}s",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "criteriaTitle": "Your password must contain:",
+    "criteria": {
+      "minLength": "At least {min} characters"
+    },
+    "passwordsMismatch": "Passwords do not match.",
+    "checkEmailTitle": "Check your inbox",
+    "checkEmailBody": "We sent you a link to confirm your address. You can sign in after that.",
+    "resetSentTitle": "Email sent",
+    "resetSentBody": "If an account exists for this address, you'll receive a reset link.",
+    "resetTitle": "New password",
+    "resetSubtitle": "Choose your account password.",
+    "resetInvalidTitle": "Invalid link",
+    "resetInvalidBody": "This link has expired or was already used. Request a new one from the sign-in screen.",
+    "passwordUpdatedTitle": "Password updated",
+    "passwordUpdatedBody": "Your new password has been saved.",
+    "updatePassword": "Save password",
+    "goHome": "Go to home",
+    "notices": {
+      "confirmFailed": "If your email is confirmed, sign in with your password.",
+      "accountDeleted": "Your account has been deleted."
+    },
+    "errors": {
+      "invalidCredentials": "Incorrect email or password.",
+      "emailTaken": "This email address is already in use.",
+      "invalidEmail": "This email address is not valid.",
+      "emailNotConfirmed": "Confirm your email address before signing in.",
+      "weakPassword": "This password is too weak.",
+      "samePassword": "The new password must be different from the old one.",
+      "reauthenticationNeeded": "Sign in again before changing your password.",
+      "rateLimited": "Too many attempts. Try again in a moment.",
+      "signupDisabled": "Sign-ups are closed for now.",
+      "network": "Can't connect. Check your network.",
+      "generic": "Something went wrong. Try again."
+    }
   },
   "TODO_blocks_page": "__NEEDS_SOURCE__",
   "TODO_practice_page": "__NEEDS_SOURCE__",
   "TODO_stats_page": "__NEEDS_SOURCE__",
   "TODO_shadowing_page": "__NEEDS_SOURCE__",
-  "TODO_recall_page": "__NEEDS_SOURCE__"
+  "TODO_recall_page": "__NEEDS_SOURCE__",
+  "home": {
+    "greeting": "Hello {name}"
+  },
+  "profile": {
+    "title": "Profile",
+    "identity": "Identity",
+    "nameLabel": "Display name",
+    "emailReadOnly": "Your email address can't be changed for now.",
+    "preferences": "Preferences",
+    "studiedLanguages": "Languages you study",
+    "studiedLanguagesHint": "Keep at least one language.",
+    "defaultLanguage": "Default practice language",
+    "languageEN": "English",
+    "languageZH": "Chinese",
+    "save": "Save",
+    "saved": "Profile saved.",
+    "saveFailed": "Couldn't save. Try again.",
+    "offlineNotice": "You're offline: this information comes from your device and can't be changed.",
+    "progress": "Progress",
+    "viewStats": "View statistics",
+    "security": "Security",
+    "currentPasswordLabel": "Current password",
+    "currentPasswordWrong": "Incorrect password.",
+    "changePassword": "Change password",
+    "passwordChanged": "Password changed.",
+    "signOut": "Sign out",
+    "dangerZone": "Danger zone",
+    "deleteAccount": "Delete my account",
+    "deleteTitle": "Delete your account?",
+    "deleteBody": "Your profile, custom blocks and practice data stored on the server will be deleted, along with the local data on this device. This can't be undone.",
+    "deleteConfirm": "Delete permanently",
+    "deleteFailed": "Deletion failed. Try again later.",
+    "cancel": "Cancel"
+  },
+  "deleteAccountPage": {
+    "title": "Delete a Shadow account",
+    "intro": "You can delete your Shadow account at any time, directly from the app:",
+    "step1": "Sign in to Shadow.",
+    "step2": "Open the Profile tab.",
+    "step3": "Choose “Delete my account” and confirm with your password.",
+    "dataDeleted": "This deletes your profile, your custom blocks and your practice data stored on the server.",
+    "contact": "To request deletion without access to the app, write to:"
+  },
+  "audio": {
+    "play": "Listen to the pronunciation",
+    "stop": "Stop playback",
+    "changeSpeed": "Change playback speed",
+    "slow": "0.7x (Slow)",
+    "normal": "1.0x (Normal)"
+  },
+  "rating": {
+    "prompt": "Select your level of mastery",
+    "rate": "Rate {rating} out of 5",
+    "levels": [
+      {
+        "title": "1 - Failed",
+        "hint": "Forgot completely / Review now"
+      },
+      {
+        "title": "2 - Hard",
+        "hint": "Very laborious recall"
+      },
+      {
+        "title": "3 - Fair",
+        "hint": "Recall with normal effort"
+      },
+      {
+        "title": "4 - Good",
+        "hint": "Smooth, quick recall"
+      },
+      {
+        "title": "5 - Perfect",
+        "hint": "Instant, effortless mastery"
+      }
+    ]
+  },
+  "stories": {
+    "title": "Stories",
+    "searchPlaceholder": "Search for a story…",
+    "levelLabel": "Level",
+    "categoryLabel": "Category",
+    "allLevels": "All",
+    "allCategories": "All",
+    "categories": {
+      "quotidien": "Daily life",
+      "voyage": "Travel",
+      "travail": "Work",
+      "sante": "Health"
+    },
+    "found": "{count} stories",
+    "sentences": "{count} sentences",
+    "mastery": {
+      "NEW": "New",
+      "LEARNING": "Learning",
+      "MASTERED": "Mastered"
+    },
+    "due": "Due",
+    "nextReview": "Next review: {date}",
+    "loadError": "Couldn't load the stories.",
+    "retry": "Try again",
+    "empty": "No story matches your filters.",
+    "resetFilters": "Reset filters",
+    "listen": "Listen to the story",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "speed": "Playback speed",
+    "phonetic": "Phonetics",
+    "translation": "Translation",
+    "finished": "I'm done",
+    "ratingTitle": "How did this reading go?",
+    "ratingSubtitle": "Your rating sets the next review date.",
+    "saveRating": "Save rating",
+    "resultTitle": "Reading saved",
+    "nextStory": "Next story",
+    "reread": "Read again",
+    "backToList": "Back to the list",
+    "practiceBody": "Read and listen to complete stories at your level, then rate your understanding.",
+    "practiceCta": "Open stories"
+  }
 }

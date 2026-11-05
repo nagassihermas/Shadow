@@ -157,7 +157,7 @@ export function AudioRecorderComponent({
   return (
     <div className={cn('flex flex-col items-center gap-4 w-full', className)}>
       {errorMessage && (
-        <div className="text-xs text-danger bg-danger-subtle p-2.5 rounded border border-danger/30 text-center w-full">
+        <div className="text-xs text-text bg-danger-subtle p-2.5 rounded border border-danger/30 text-center w-full">
           {errorMessage}
         </div>
       )}

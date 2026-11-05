@@ -34,7 +34,7 @@ export function Header({
       )}
     >
       <div className="max-w-xl mx-auto flex items-center justify-between">
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 min-w-0">
           {showBack ? (
             <Link
               href={backHref}
@@ -60,7 +60,12 @@ export function Header({
               <div className="w-7 h-7 rounded bg-surface-elevated border border-surface-border flex items-center justify-center text-primary font-bold text-sm tracking-tighter">
                 S
               </div>
-              <span className="font-semibold text-text tracking-tight text-base group-hover:text-primary transition-colors">
+              <span
+                className={cn(
+                  'font-semibold text-text tracking-tight text-base group-hover:text-primary transition-colors',
+                  title && 'hidden sm:inline'
+                )}
+              >
                 Shadow
               </span>
             </Link>
@@ -73,7 +78,7 @@ export function Header({
           )}
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 shrink-0">
           {/* Sélecteur de langue d'interface */}
           <LocaleSwitcher />
 

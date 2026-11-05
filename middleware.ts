@@ -1,11 +1,31 @@
 import { createServerClient } from '@supabase/ssr';
+import { isAuthRetryableFetchError, type AuthError, type User } from '@supabase/supabase-js';
 import { NextRequest, NextResponse } from 'next/server';
 import { LOCALES, DEFAULT_LOCALE, LOCALE_COOKIE, type Locale } from './lib/i18n/config';
 
-// Routes that must stay reachable WITHOUT a session (login screen itself).
+// Routes that must stay reachable WITHOUT a session.
 // /auth/callback is handled separately below — it's excluded from the
 // locale rewrite entirely (see matcher), same treatment as /api.
-const PUBLIC_ROUTES = ['/login'];
+const PUBLIC_ROUTES = ['/login', '/reset-password', '/delete-account'];
+
+type AuthStatus = 'authenticated' | 'unauthenticated' | 'unknown';
+
+/**
+ * Separates "this visitor has no valid session" from "we could not find out".
+ * Only the former may redirect to /login: a Supabase outage or a network
+ * failure must not throw a signed-in user out of the app.
+ */
+function classifyAuthResult(user: User | null, error: AuthError | null): AuthStatus {
+  if (user) return 'authenticated';
+  if (!error) return 'unauthenticated';
+  if (isAuthRetryableFetchError(error)) return 'unknown';
+  if (error.status === 0 || error.status === 429 || (error.status ?? 0) >= 500) return 'unknown';
+  return 'unauthenticated';
+}
+
+function isPublicRoute(pathname: string): boolean {
+  return PUBLIC_ROUTES.some((route) => pathname === route || pathname.startsWith(`${route}/`));
+}
 
 function resolveLocaleFromCookie(request: NextRequest): Locale | null {
   const cookieValue = request.cookies.get(LOCALE_COOKIE)?.value;
@@ -59,20 +79,34 @@ export async function middleware(request: NextRequest) {
   // IMPORTANT per Supabase's documented pattern: do not remove this call or
   // insert logic between client creation and this line — getUser() is what
   // actually performs the token refresh and cookie rewrite.
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
+  let authStatus: AuthStatus;
+  try {
+    const { data, error } = await supabase.auth.getUser();
+    authStatus = classifyAuthResult(data.user, error);
+  } catch {
+    authStatus = 'unknown';
+  }
 
   // ── 2. Route protection ──────────────────────────────────────────────────
   const pathname = request.nextUrl.pathname;
-  const isPublicRoute = PUBLIC_ROUTES.some((route) => pathname.startsWith(route));
 
-  if (!user && !isPublicRoute) {
-    const loginUrl = request.nextUrl.clone();
-    loginUrl.pathname = '/login';
-    const redirectResponse = NextResponse.redirect(loginUrl);
+  const redirectTo = (target: string) => {
+    const url = request.nextUrl.clone();
+    url.pathname = target;
+    url.search = '';
+    const redirectResponse = NextResponse.redirect(url);
     response.cookies.getAll().forEach((cookie) => redirectResponse.cookies.set(cookie));
     return redirectResponse;
+  };
+
+  if (authStatus === 'unauthenticated' && !isPublicRoute(pathname)) {
+    return redirectTo('/login');
+  }
+
+  // /reset-password and /delete-account stay open to signed-in users: the
+  // recovery link lands on the former with a session already established.
+  if (authStatus === 'authenticated' && pathname === '/login') {
+    return redirectTo('/');
   }
 
   // ── 3. Interface-locale resolution + transparent rewrite ────────────────
@@ -92,7 +126,7 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: [
-    '/((?!api|auth/callback|_next/static|_next/image|favicon.ico|manifest.json|sw.js|icons/|.well-known/).*)',
-  ],
+  // Everything except /api, /auth/callback, Next internals and any path with a
+  // dot (static files from public/, whatever their folder).
+  matcher: ['/((?!api/|auth/callback|_next/|.*\\.).*)'],
 };

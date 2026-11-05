@@ -3,13 +3,18 @@
 import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, Layers, Sparkles, BarChart3 } from 'lucide-react';
+import { BookOpen, Home, Layers, Sparkles, UserRound } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { useDictionary } from '@/lib/i18n/DictionaryProvider';
+import { stripLocalePrefix } from '@/lib/i18n/config';
+
+const HIDDEN_ON = ['/login', '/reset-password', '/delete-account'];
 
 export function BottomNav() {
-  const pathname = usePathname();
+  const pathname = stripLocalePrefix(usePathname());
   const { dict } = useDictionary();
+
+  if (HIDDEN_ON.includes(pathname)) return null;
 
   const navItems = [
     {
@@ -25,22 +30,28 @@ export function BottomNav() {
       isActive: pathname.startsWith('/blocks'),
     },
     {
+      label: dict.nav.stories,
+      href: '/stories',
+      icon: BookOpen,
+      isActive: pathname.startsWith('/stories'),
+    },
+    {
       label: dict.nav.practice,
       href: '/practice',
       icon: Sparkles,
       isActive: pathname.startsWith('/practice'),
     },
     {
-      label: dict.nav.stats,
-      href: '/stats',
-      icon: BarChart3,
-      isActive: pathname.startsWith('/stats'),
+      label: dict.nav.profile,
+      href: '/profile',
+      icon: UserRound,
+      isActive: pathname.startsWith('/profile') || pathname.startsWith('/stats'),
     },
   ];
 
   return (
     <nav className="fixed bottom-0 left-0 right-0 z-40 bg-surface/95 backdrop-blur-md border-t border-surface-border safe-area-bottom">
-      <div className="max-w-md mx-auto px-4 h-16 flex items-center justify-around">
+      <div className="max-w-md mx-auto px-1 h-16 flex items-center justify-around">
         {navItems.map((item) => {
           const Icon = item.icon;
           const active = item.isActive;
@@ -50,7 +61,7 @@ export function BottomNav() {
               key={item.href}
               href={item.href}
               className={cn(
-                'flex flex-col items-center justify-center flex-1 py-1.5 transition-all duration-200 group relative',
+                'flex flex-col items-center justify-center flex-1 min-w-0 py-1.5 transition-all duration-200 group relative',
                 active ? 'text-primary' : 'text-text-muted hover:text-text'
               )}
             >
@@ -65,7 +76,7 @@ export function BottomNav() {
               />
               <span
                 className={cn(
-                  'text-[11px] font-medium tracking-tight mt-1 transition-colors',
+                  'text-[11px] font-medium tracking-tight mt-1 transition-colors truncate max-w-full',
                   active ? 'text-text font-semibold' : 'text-text-muted'
                 )}
               >

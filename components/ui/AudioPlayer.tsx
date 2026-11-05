@@ -1,8 +1,9 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Volume2, VolumeX, Pause, Play, RotateCcw } from 'lucide-react';
 import { Language } from '@/types';
+import { useDictionary } from '@/lib/i18n/DictionaryProvider';
 import { speakTextNative } from '@/lib/tts';
 import { cn } from '@/lib/utils';
 
@@ -29,11 +30,20 @@ export function AudioPlayer({
   onPlayStart,
   onPlayEnd,
 }: AudioPlayerProps) {
+  const { dict } = useDictionary();
   const [isPlaying, setIsPlaying] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState<number>(0.9);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    return () => {
+      audioRef.current?.pause();
+    };
+  }, []);
 
   const handlePlay = async () => {
     if (isPlaying) {
+      audioRef.current?.pause();
       if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
         window.speechSynthesis.cancel();
       }
@@ -47,6 +57,7 @@ export function AudioPlayer({
 
     if (audioUrl) {
       const audio = new Audio(audioUrl);
+      audioRef.current = audio;
       audio.playbackRate = playbackSpeed;
       audio.onended = () => {
         setIsPlaying(false);
@@ -92,14 +103,14 @@ export function AudioPlayer({
         type="button"
         onClick={handlePlay}
         className={cn(
-          'inline-flex items-center justify-center rounded-full transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary/50',
+          'inline-flex items-center justify-center rounded-full transition-all duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-light',
           sizeClasses[size],
           isPlaying
             ? 'bg-primary text-background shadow-md animate-pulse'
             : 'bg-surface-elevated text-text hover:bg-surface-hover hover:text-primary border border-surface-border'
         )}
-        title={isPlaying ? 'Arrêter la lecture' : 'Écouter la prononciation'}
-        aria-label={isPlaying ? 'Arrêter la lecture' : 'Écouter la prononciation'}
+        title={isPlaying ? dict.audio.stop : dict.audio.play}
+        aria-label={isPlaying ? dict.audio.stop : dict.audio.play}
       >
         {isPlaying ? (
           <Volume2 className={cn(iconSizes[size], 'animate-bounce')} />
@@ -114,9 +125,9 @@ export function AudioPlayer({
           type="button"
           onClick={toggleSpeed}
           className="text-[11px] px-2 py-1 rounded bg-surface-subtle border border-surface-border text-text-muted hover:text-text hover:bg-surface-hover transition-colors"
-          title="Modifier la vitesse de lecture"
+          title={dict.audio.changeSpeed}
         >
-          {playbackSpeed === 0.7 ? '0.7x (Lent)' : '1.0x (Normal)'}
+          {playbackSpeed === 0.7 ? dict.audio.slow : dict.audio.normal}
         </button>
       )}
     </div>

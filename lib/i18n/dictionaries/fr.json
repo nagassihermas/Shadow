@@ -7,18 +7,191 @@
     "home": "Accueil",
     "blocks": "Blocs",
     "practice": "Pratique",
-    "stats": "Stats"
+    "stats": "Stats",
+    "stories": "Histoires",
+    "profile": "Profil"
   },
   "auth": {
     "emailLabel": "Adresse e-mail",
-    "sendMagicLink": "Recevoir le lien de connexion",
-    "sending": "Envoi en cours…",
-    "magicLinkSent": "Lien envoyé — vérifie ta boîte mail.",
-    "error": "Échec de l'envoi. Réessaie."
+    "passwordLabel": "Mot de passe",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "newPasswordLabel": "Nouveau mot de passe",
+    "displayNameLabel": "Nom d'affichage (facultatif)",
+    "signInTitle": "Connexion",
+    "signInSubtitle": "Reprends ton entraînement là où tu l'as laissé.",
+    "signUpTitle": "Créer un compte",
+    "signUpSubtitle": "Quelques secondes suffisent pour commencer.",
+    "forgotTitle": "Mot de passe oublié",
+    "forgotSubtitle": "Saisis ton e-mail : nous t'enverrons un lien de réinitialisation.",
+    "signIn": "Se connecter",
+    "signUp": "Créer mon compte",
+    "sendResetLink": "Envoyer le lien",
+    "forgotPassword": "Mot de passe oublié ?",
+    "toSignUp": "Pas encore de compte ? Inscris-toi",
+    "toSignIn": "Déjà un compte ? Connecte-toi",
+    "backToSignIn": "Retour à la connexion",
+    "loading": "Chargement…",
+    "retryIn": "Réessayer dans {seconds} s",
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
+    "criteriaTitle": "Ton mot de passe doit contenir :",
+    "criteria": {
+      "minLength": "Au moins {min} caractères"
+    },
+    "passwordsMismatch": "Les mots de passe ne correspondent pas.",
+    "checkEmailTitle": "Vérifie ta boîte mail",
+    "checkEmailBody": "Nous t'avons envoyé un lien pour confirmer ton adresse. Tu pourras ensuite te connecter.",
+    "resetSentTitle": "E-mail envoyé",
+    "resetSentBody": "Si un compte existe avec cette adresse, tu vas recevoir un lien de réinitialisation.",
+    "resetTitle": "Nouveau mot de passe",
+    "resetSubtitle": "Choisis le mot de passe de ton compte.",
+    "resetInvalidTitle": "Lien invalide",
+    "resetInvalidBody": "Ce lien a expiré ou a déjà été utilisé. Demande-en un nouveau depuis l'écran de connexion.",
+    "passwordUpdatedTitle": "Mot de passe modifié",
+    "passwordUpdatedBody": "Ton nouveau mot de passe est enregistré.",
+    "updatePassword": "Enregistrer le mot de passe",
+    "goHome": "Aller à l'accueil",
+    "notices": {
+      "confirmFailed": "Si ton e-mail est confirmé, connecte-toi avec ton mot de passe.",
+      "accountDeleted": "Ton compte a été supprimé."
+    },
+    "errors": {
+      "invalidCredentials": "E-mail ou mot de passe incorrect.",
+      "emailTaken": "Cette adresse e-mail est déjà utilisée.",
+      "invalidEmail": "Cette adresse e-mail n'est pas valide.",
+      "emailNotConfirmed": "Confirme ton adresse e-mail avant de te connecter.",
+      "weakPassword": "Ce mot de passe est trop faible.",
+      "samePassword": "Le nouveau mot de passe doit être différent de l'ancien.",
+      "reauthenticationNeeded": "Reconnecte-toi avant de changer ton mot de passe.",
+      "rateLimited": "Trop de tentatives. Réessaie dans un instant.",
+      "signupDisabled": "Les inscriptions sont fermées pour le moment.",
+      "network": "Connexion impossible. Vérifie ton réseau.",
+      "generic": "Une erreur est survenue. Réessaie."
+    }
   },
   "TODO_blocks_page": "__NEEDS_SOURCE__",
   "TODO_practice_page": "__NEEDS_SOURCE__",
   "TODO_stats_page": "__NEEDS_SOURCE__",
   "TODO_shadowing_page": "__NEEDS_SOURCE__",
-  "TODO_recall_page": "__NEEDS_SOURCE__"
+  "TODO_recall_page": "__NEEDS_SOURCE__",
+  "home": {
+    "greeting": "Bonjour {name}"
+  },
+  "profile": {
+    "title": "Profil",
+    "identity": "Identité",
+    "nameLabel": "Nom d'affichage",
+    "emailReadOnly": "L'adresse e-mail ne peut pas être modifiée pour le moment.",
+    "preferences": "Préférences",
+    "studiedLanguages": "Langues étudiées",
+    "studiedLanguagesHint": "Garde au moins une langue.",
+    "defaultLanguage": "Langue de pratique par défaut",
+    "languageEN": "Anglais",
+    "languageZH": "Chinois",
+    "save": "Enregistrer",
+    "saved": "Profil enregistré.",
+    "saveFailed": "Enregistrement impossible. Réessaie.",
+    "offlineNotice": "Tu es hors ligne : ces informations viennent de ton appareil et ne peuvent pas être modifiées.",
+    "progress": "Progression",
+    "viewStats": "Voir les statistiques",
+    "security": "Sécurité",
+    "currentPasswordLabel": "Mot de passe actuel",
+    "currentPasswordWrong": "Mot de passe incorrect.",
+    "changePassword": "Changer le mot de passe",
+    "passwordChanged": "Mot de passe modifié.",
+    "signOut": "Se déconnecter",
+    "dangerZone": "Zone sensible",
+    "deleteAccount": "Supprimer mon compte",
+    "deleteTitle": "Supprimer ton compte ?",
+    "deleteBody": "Ton profil, tes blocs personnalisés et tes données de pratique enregistrées sur le serveur seront supprimés, ainsi que les données locales de cet appareil. Cette action est définitive.",
+    "deleteConfirm": "Supprimer définitivement",
+    "deleteFailed": "La suppression a échoué. Réessaie plus tard.",
+    "cancel": "Annuler"
+  },
+  "deleteAccountPage": {
+    "title": "Supprimer un compte Shadow",
+    "intro": "Tu peux supprimer ton compte de l'application Shadow à tout moment, directement depuis l'application :",
+    "step1": "Connecte-toi à Shadow.",
+    "step2": "Ouvre l'onglet Profil.",
+    "step3": "Choisis « Supprimer mon compte » et confirme avec ton mot de passe.",
+    "dataDeleted": "Sont supprimés : ton profil, tes blocs personnalisés et tes données de pratique enregistrées sur le serveur.",
+    "contact": "Pour demander la suppression sans accès à l'application, écris à :"
+  },
+  "audio": {
+    "play": "Écouter la prononciation",
+    "stop": "Arrêter la lecture",
+    "changeSpeed": "Modifier la vitesse de lecture",
+    "slow": "0.7x (Lent)",
+    "normal": "1.0x (Normal)"
+  },
+  "rating": {
+    "prompt": "Sélectionnez votre niveau de maîtrise",
+    "rate": "Noter {rating} sur 5",
+    "levels": [
+      {
+        "title": "1 - Échec",
+        "hint": "Oubli complet / Révision immédiate"
+      },
+      {
+        "title": "2 - Difficile",
+        "hint": "Rappel très laborieux"
+      },
+      {
+        "title": "3 - Correct",
+        "hint": "Rappel avec effort normal"
+      },
+      {
+        "title": "4 - Bien",
+        "hint": "Rappel fluide et rapide"
+      },
+      {
+        "title": "5 - Parfait",
+        "hint": "Maîtrise instantanée et aisée"
+      }
+    ]
+  },
+  "stories": {
+    "title": "Histoires",
+    "searchPlaceholder": "Rechercher une histoire…",
+    "levelLabel": "Niveau",
+    "categoryLabel": "Catégorie",
+    "allLevels": "Tous",
+    "allCategories": "Toutes",
+    "categories": {
+      "quotidien": "Quotidien",
+      "voyage": "Voyage",
+      "travail": "Travail",
+      "sante": "Santé"
+    },
+    "found": "{count} histoires",
+    "sentences": "{count} phrases",
+    "mastery": {
+      "NEW": "Nouveau",
+      "LEARNING": "En apprentissage",
+      "MASTERED": "Maîtrisé"
+    },
+    "due": "À réviser",
+    "nextReview": "Prochaine révision : {date}",
+    "loadError": "Impossible de charger les histoires.",
+    "retry": "Réessayer",
+    "empty": "Aucune histoire ne correspond à tes filtres.",
+    "resetFilters": "Réinitialiser les filtres",
+    "listen": "Écouter l'histoire",
+    "pause": "Pause",
+    "resume": "Reprendre",
+    "stop": "Arrêter",
+    "speed": "Vitesse de lecture",
+    "phonetic": "Phonétique",
+    "translation": "Traduction",
+    "finished": "J'ai terminé",
+    "ratingTitle": "Comment s'est passée cette lecture ?",
+    "ratingSubtitle": "Ta note fixe la date de la prochaine révision.",
+    "saveRating": "Enregistrer la note",
+    "resultTitle": "Lecture enregistrée",
+    "nextStory": "Histoire suivante",
+    "reread": "Relire",
+    "backToList": "Retour à la liste",
+    "practiceBody": "Lis et écoute des récits complets adaptés à ton niveau, puis note ta compréhension.",
+    "practiceCta": "Ouvrir les histoires"
+  }
 }

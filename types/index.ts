@@ -93,6 +93,42 @@ export interface StorySentence {
   created_at: string;
 }
 
+export type StoryCategory = 'quotidien' | 'voyage' | 'travail' | 'sante';
+
+/** Entrée de public/data/stories/index.json. */
+export interface StoryMeta {
+  id: string;
+  title: string;
+  category: StoryCategory;
+  level: StoryLevel;
+  language: Language;
+  sentence_count: number;
+}
+
+export interface StorySentenceContent {
+  sequence_order: number;
+  text_target: string;
+  phonetic: string | null;
+  text_native: string;
+}
+
+/** Contenu de public/data/stories/<id>.json. */
+export interface StoryDetail extends StoryMeta {
+  sentences: StorySentenceContent[];
+}
+
+/** État d'une histoire pour un utilisateur, seule partie stockée localement. */
+export interface StoryProgress {
+  star_rating: StarRating;
+  fsrs_state: FSRSStateData;
+  mastery_status: MasteryStatus;
+}
+
+export interface StoryReaderPrefs {
+  showPhonetic: boolean;
+  showTranslation: boolean;
+}
+
 export interface CECRLThreshold {
   language: Language;
   level: CECRLLevel;

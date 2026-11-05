@@ -1,31 +1,128 @@
 'use client';
 
-import { ThemeBlock, Phrase, PracticeLog, User, Language, StarRating, Story, StorySentence } from '@/types';
-import { INITIAL_BLOCKS, INITIAL_PHRASES, INITIAL_PRACTICE_LOGS, INITIAL_USER, INITIAL_STORIES, INITIAL_STORY_SENTENCES } from './mock-data';
+import { ThemeBlock, Phrase, PracticeLog, User, Language, StarRating, StoryMeta, StoryProgress, StoryReaderPrefs } from '@/types';
+import { INITIAL_BLOCKS, INITIAL_PHRASES, INITIAL_PRACTICE_LOGS } from './mock-data';
+import { getAudioUrl, getBlockAudioSlug } from './audio';
 import { processFsrsReview } from './fsrs';
 
-const STORAGE_KEYS = {
-  USER: 'shadow_user_v1',
-  BLOCKS: 'shadow_blocks_v1',
-  PHRASES: 'shadow_phrases_v1',
-  LOGS: 'shadow_logs_v1',
-  SELECTED_LANG: 'shadow_selected_lang_v1',
-  STORIES: 'shadow_stories_v1',
-  STORY_SENTENCES: 'shadow_story_sentences_v1',
+const ACTIVE_UID_KEY = 'shadow_active_uid';
+const ANONYMOUS_PREFIX = 'anon';
+
+const STORAGE_SUFFIXES = {
+  USER: 'user_v1',
+  BLOCKS: 'blocks_v1',
+  PHRASES: 'phrases_v1',
+  LOGS: 'logs_v1',
+  SELECTED_LANG: 'selected_lang_v1',
+  STORY_PROGRESS: 'story_progress_v1',
+  STORY_PREFS: 'story_prefs_v1',
 };
+
+// Jamais utilisées par une page : effacées, sans reprise, lors de la migration.
+const OBSOLETE_LEGACY_KEYS = ['shadow_stories_v1', 'shadow_story_sentences_v1'];
 
 // Vérification de la disponibilité du localStorage côté client
 function isClient(): boolean {
   return typeof window !== 'undefined';
 }
 
+/**
+ * Compte actif sur cet appareil. Lu de façon synchrone car toutes les
+ * fonctions de ce module le sont ; AuthProvider le réaligne sur la session.
+ */
+export function getActiveUid(): string | null {
+  if (!isClient()) return null;
+  try {
+    return localStorage.getItem(ACTIVE_UID_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export function setActiveUid(uid: string): void {
+  if (!isClient()) return;
+  try {
+    migrateLegacyData(uid);
+    localStorage.setItem(ACTIVE_UID_KEY, uid);
+  } catch {
+    // localStorage indisponible : les données restent sous le préfixe anonyme.
+  }
+}
+
+export function clearActiveUid(): void {
+  if (!isClient()) return;
+  try {
+    localStorage.removeItem(ACTIVE_UID_KEY);
+  } catch {
+    // Rien à effacer.
+  }
+}
+
+function storageKey(suffix: string, uid: string | null = getActiveUid()): string {
+  return `shadow_${uid ?? ANONYMOUS_PREFIX}_${suffix}`;
+}
+
+// Accesseurs : la clé dépend du compte actif au moment de la lecture.
+const STORAGE_KEYS = {
+  get USER() { return storageKey(STORAGE_SUFFIXES.USER); },
+  get BLOCKS() { return storageKey(STORAGE_SUFFIXES.BLOCKS); },
+  get PHRASES() { return storageKey(STORAGE_SUFFIXES.PHRASES); },
+  get LOGS() { return storageKey(STORAGE_SUFFIXES.LOGS); },
+  get SELECTED_LANG() { return storageKey(STORAGE_SUFFIXES.SELECTED_LANG); },
+  get STORY_PROGRESS() { return storageKey(STORAGE_SUFFIXES.STORY_PROGRESS); },
+  get STORY_PREFS() { return storageKey(STORAGE_SUFFIXES.STORY_PREFS); },
+};
+
+/**
+ * Migration unique : les données de l'époque sans compte (clés non préfixées)
+ * reviennent au premier compte connecté sur l'appareil. L'utilisateur factice
+ * n'est pas repris : le profil réel le remplace.
+ */
+function migrateLegacyData(uid: string): void {
+  OBSOLETE_LEGACY_KEYS.forEach((key) => localStorage.removeItem(key));
+
+  const suffixes = Object.values(STORAGE_SUFFIXES);
+  const legacyKey = (suffix: string) => `shadow_${suffix}`;
+
+  if (!suffixes.some((suffix) => localStorage.getItem(legacyKey(suffix)) !== null)) return;
+  if (suffixes.some((suffix) => localStorage.getItem(storageKey(suffix, uid)) !== null)) return;
+
+  suffixes.forEach((suffix) => {
+    const value = localStorage.getItem(legacyKey(suffix));
+    if (value === null) return;
+    if (suffix !== STORAGE_SUFFIXES.USER) localStorage.setItem(storageKey(suffix, uid), value);
+    localStorage.removeItem(legacyKey(suffix));
+  });
+}
+
+/** Efface toutes les données locales d'un compte (suppression du compte). */
+export function deleteLocalUserData(uid: string): void {
+  if (!isClient()) return;
+  const prefix = `shadow_${uid}_`;
+  Object.keys(localStorage)
+    .filter((key) => key.startsWith(prefix))
+    .forEach((key) => localStorage.removeItem(key));
+}
+
+function emptyUser(): User {
+  return {
+    id: getActiveUid() ?? ANONYMOUS_PREFIX,
+    email: '',
+    name: null,
+    target_languages: ['EN', 'ZH'],
+    cecrl_level_by_lang: { EN: 'A1', ZH: 'A1' },
+    created_at: new Date().toISOString(),
+  };
+}
+
+/** Dernier profil connu (cache hors ligne) ; la table profiles fait foi. */
 export function getStoredUser(): User {
-  if (!isClient()) return INITIAL_USER;
+  if (!isClient()) return emptyUser();
   try {
     const data = localStorage.getItem(STORAGE_KEYS.USER);
-    return data ? JSON.parse(data) : INITIAL_USER;
+    return data ? JSON.parse(data) : emptyUser();
   } catch {
-    return INITIAL_USER;
+    return emptyUser();
   }
 }
 
@@ -108,8 +205,15 @@ export function savePhrases(phrases: Phrase[]): void {
 }
 
 export function getPhrasesByBlockId(blockId: string): Phrase[] {
-  const phrases = getStoredPhrases();
-  return phrases.filter((p) => p.block_id === blockId);
+  const block = getBlockById(blockId);
+  // L'index audio suit l'ordre des phrases du bloc ; les blocs générés n'ont pas d'audio.
+  const audioSlug = block && !block.is_custom ? getBlockAudioSlug(block.language, block.title) : null;
+  return getStoredPhrases()
+    .filter((p) => p.block_id === blockId)
+    .map((p, index) => ({
+      ...p,
+      audio_url: p.audio_url ?? (audioSlug ? getAudioUrl('block', audioSlug, index) : null),
+    }));
 }
 
 export function getStoredPracticeLogs(): PracticeLog[] {
@@ -213,7 +317,7 @@ export function recordDailyActivity(
   } else {
     logs.push({
       id: `log-${Date.now()}`,
-      user_id: 'user-001',
+      user_id: getActiveUid(),
       date: today,
       language,
       minutes_practiced: minutesToAdd,
@@ -264,169 +368,57 @@ export function addCustomBlockWithPhrases(
 }
 
 /**
- * Récupère les histoires stockées, enrichies avec le nombre de phrases
+ * Progression de toutes les histoires, indexée par id. Le contenu des histoires
+ * vient de public/data/stories (voir lib/stories.ts) et n'est jamais copié ici.
  */
-export function getStoredStories(language?: Language): Story[] {
-  let stories: Story[] = INITIAL_STORIES;
-  if (isClient()) {
-    try {
-      const data = localStorage.getItem(STORAGE_KEYS.STORIES);
-      if (data) {
-        stories = JSON.parse(data);
-      } else {
-        localStorage.setItem(STORAGE_KEYS.STORIES, JSON.stringify(INITIAL_STORIES));
-      }
-    } catch {
-      stories = INITIAL_STORIES;
-    }
+export function getAllStoryProgress(): Record<string, StoryProgress> {
+  if (!isClient()) return {};
+  try {
+    const data = localStorage.getItem(STORAGE_KEYS.STORY_PROGRESS);
+    return data ? JSON.parse(data) : {};
+  } catch {
+    return {};
   }
-
-  const sentences = getStoredStorySentences();
-
-  const enrichedStories = stories.map((s) => {
-    const storySentences = sentences.filter((sent) => sent.story_id === s.id);
-    return {
-      ...s,
-      sentence_count: storySentences.length || s.sentence_count || 0,
-    };
-  });
-
-  if (language) {
-    return enrichedStories.filter((s) => s.language === language);
-  }
-  return enrichedStories;
 }
 
-export function saveStories(stories: Story[]): void {
-  if (!isClient()) return;
-  localStorage.setItem(STORAGE_KEYS.STORIES, JSON.stringify(stories));
-}
-
-export function getStoryById(id: string): Story | undefined {
-  const stories = getStoredStories();
-  const story = stories.find((s) => s.id === id);
-  if (!story) return undefined;
-  const sentences = getStorySentences(id);
-  return {
-    ...story,
-    sentences,
-    sentence_count: sentences.length,
-  };
-}
-
-export function getStoredStorySentences(): StorySentence[] {
-  let sentences: StorySentence[] = INITIAL_STORY_SENTENCES;
-  if (isClient()) {
-    try {
-      const data = localStorage.getItem(STORAGE_KEYS.STORY_SENTENCES);
-      if (data) {
-        sentences = JSON.parse(data);
-      } else {
-        localStorage.setItem(STORAGE_KEYS.STORY_SENTENCES, JSON.stringify(INITIAL_STORY_SENTENCES));
-      }
-    } catch {
-      sentences = INITIAL_STORY_SENTENCES;
-    }
-  }
-  return sentences;
-}
-
-export function saveStorySentences(sentences: StorySentence[]): void {
-  if (!isClient()) return;
-  localStorage.setItem(STORAGE_KEYS.STORY_SENTENCES, JSON.stringify(sentences));
+export function getStoryProgress(id: string): StoryProgress | undefined {
+  return getAllStoryProgress()[id];
 }
 
 /**
- * Récupère les phrases d'une histoire triées par sequence_order
- */
-export function getStorySentences(storyId: string): StorySentence[] {
-  const sentences = getStoredStorySentences();
-  return sentences
-    .filter((s) => s.story_id === storyId)
-    .sort((a, b) => a.sequence_order - b.sequence_order);
-}
-
-/**
- * Met à jour une histoire suite à une révision FSRS globale
+ * Note une histoire : le calendrier FSRS est global à l'histoire, pas par phrase.
  */
 export function recordStoryReview(
-  storyId: string,
+  story: Pick<StoryMeta, 'id' | 'language' | 'sentence_count'>,
   starRating: StarRating
-): { story: Story; previousMastery: string; newMastery: string } {
-  const stories = getStoredStories();
-  const index = stories.findIndex((s) => s.id === storyId);
+): StoryProgress {
+  const allProgress = getAllStoryProgress();
+  const previous = allProgress[story.id];
 
-  if (index === -1) {
-    throw new Error(`Histoire introuvable : ${storyId}`);
-  }
+  const { fsrs_state, mastery_status } = processFsrsReview(previous?.fsrs_state, starRating);
+  const progress: StoryProgress = { star_rating: starRating, fsrs_state, mastery_status };
 
-  const currentStory = stories[index];
-  const previousMastery = currentStory.mastery_status;
+  allProgress[story.id] = progress;
+  localStorage.setItem(STORAGE_KEYS.STORY_PROGRESS, JSON.stringify(allProgress));
 
-  // Calcul FSRS global sur l'histoire
-  const { fsrs_state, mastery_status } = processFsrsReview(
-    currentStory.fsrs_state,
-    starRating
-  );
-
-  const updatedStory: Story = {
-    ...currentStory,
-    star_rating: starRating,
-    fsrs_state,
-    mastery_status,
-  };
-
-  stories[index] = updatedStory;
-  saveStories(stories);
-
-  // Enregistrement de l'activité du jour
-  const isNewLearned = previousMastery === 'NEW' && mastery_status !== 'NEW';
-  recordDailyActivity(currentStory.language, 3, currentStory.sentence_count || 5, isNewLearned ? 1 : 0);
-
-  return {
-    story: updatedStory,
-    previousMastery,
-    newMastery: mastery_status,
-  };
+  recordDailyActivity(story.language, 3, story.sentence_count, previous ? 0 : 1);
+  return progress;
 }
 
-/**
- * Ajoute une histoire personnalisée avec ses phrases ordonnées
- */
-export function addCustomStoryWithSentences(
-  storyData: Omit<Story, 'id' | 'created_at' | 'sentence_count'>,
-  sentencesData: Array<{ text_target: string; phonetic?: string; text_native: string; audio_url?: string }>
-): Story {
-  const storyId = `story-custom-${Date.now()}`;
-  const newStory: Story = {
-    ...storyData,
-    id: storyId,
-    is_custom: true,
-    created_at: new Date().toISOString(),
-    sentence_count: sentencesData.length,
-    mastery_status: 'NEW',
-    star_rating: null,
-    fsrs_state: null,
-  };
+export function getStoryReaderPrefs(): StoryReaderPrefs {
+  const defaults: StoryReaderPrefs = { showPhonetic: true, showTranslation: true };
+  if (!isClient()) return defaults;
+  try {
+    const data = localStorage.getItem(STORAGE_KEYS.STORY_PREFS);
+    return data ? { ...defaults, ...JSON.parse(data) } : defaults;
+  } catch {
+    return defaults;
+  }
+}
 
-  const stories = getStoredStories();
-  stories.unshift(newStory);
-  saveStories(stories);
-
-  const currentSentences = getStoredStorySentences();
-  const newSentences: StorySentence[] = sentencesData.map((s, idx) => ({
-    id: `story-sent-custom-${Date.now()}-${idx + 1}`,
-    story_id: storyId,
-    sequence_order: idx + 1,
-    text_target: s.text_target,
-    phonetic: s.phonetic || null,
-    text_native: s.text_native,
-    audio_url: s.audio_url || null,
-    created_at: new Date().toISOString(),
-  }));
-
-  saveStorySentences([...currentSentences, ...newSentences]);
-  return { ...newStory, sentences: newSentences };
+export function saveStoryReaderPrefs(prefs: StoryReaderPrefs): void {
+  if (!isClient()) return;
+  localStorage.setItem(STORAGE_KEYS.STORY_PREFS, JSON.stringify(prefs));
 }
 
 /**
@@ -434,11 +426,9 @@ export function addCustomStoryWithSentences(
  */
 export function resetDataToMock(): void {
   if (!isClient()) return;
-  localStorage.setItem(STORAGE_KEYS.USER, JSON.stringify(INITIAL_USER));
   localStorage.setItem(STORAGE_KEYS.BLOCKS, JSON.stringify(INITIAL_BLOCKS));
   localStorage.setItem(STORAGE_KEYS.PHRASES, JSON.stringify(INITIAL_PHRASES));
   localStorage.setItem(STORAGE_KEYS.LOGS, JSON.stringify(INITIAL_PRACTICE_LOGS));
-  localStorage.setItem(STORAGE_KEYS.STORIES, JSON.stringify(INITIAL_STORIES));
-  localStorage.setItem(STORAGE_KEYS.STORY_SENTENCES, JSON.stringify(INITIAL_STORY_SENTENCES));
+  localStorage.removeItem(STORAGE_KEYS.STORY_PROGRESS);
 }
 

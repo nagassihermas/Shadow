@@ -7,18 +7,191 @@
     "home": "首页",
     "blocks": "词块",
     "practice": "练习",
-    "stats": "统计"
+    "stats": "统计",
+    "stories": "故事",
+    "profile": "我的"
   },
   "auth": {
     "emailLabel": "电子邮箱",
-    "sendMagicLink": "发送登录链接",
-    "sending": "发送中…",
-    "magicLinkSent": "链接已发送，请查收邮箱。",
-    "error": "发送失败，请重试。"
+    "passwordLabel": "密码",
+    "confirmPasswordLabel": "确认密码",
+    "newPasswordLabel": "新密码",
+    "displayNameLabel": "显示名称（可选）",
+    "signInTitle": "登录",
+    "signInSubtitle": "从上次停下的地方继续练习。",
+    "signUpTitle": "创建账户",
+    "signUpSubtitle": "只需几秒钟即可开始。",
+    "forgotTitle": "忘记密码",
+    "forgotSubtitle": "输入邮箱，我们会发送重置链接。",
+    "signIn": "登录",
+    "signUp": "创建账户",
+    "sendResetLink": "发送链接",
+    "forgotPassword": "忘记密码？",
+    "toSignUp": "还没有账户？立即注册",
+    "toSignIn": "已有账户？立即登录",
+    "backToSignIn": "返回登录",
+    "loading": "加载中…",
+    "retryIn": "{seconds} 秒后重试",
+    "showPassword": "显示密码",
+    "hidePassword": "隐藏密码",
+    "criteriaTitle": "密码须包含：",
+    "criteria": {
+      "minLength": "至少 {min} 个字符"
+    },
+    "passwordsMismatch": "两次输入的密码不一致。",
+    "checkEmailTitle": "请查收邮件",
+    "checkEmailBody": "我们已发送确认链接，确认后即可登录。",
+    "resetSentTitle": "邮件已发送",
+    "resetSentBody": "如果该邮箱已注册，你将收到重置链接。",
+    "resetTitle": "新密码",
+    "resetSubtitle": "请设置账户密码。",
+    "resetInvalidTitle": "链接无效",
+    "resetInvalidBody": "此链接已过期或已被使用。请在登录页重新申请。",
+    "passwordUpdatedTitle": "密码已修改",
+    "passwordUpdatedBody": "新密码已保存。",
+    "updatePassword": "保存密码",
+    "goHome": "返回首页",
+    "notices": {
+      "confirmFailed": "如果邮箱已确认，请使用密码登录。",
+      "accountDeleted": "你的账户已删除。"
+    },
+    "errors": {
+      "invalidCredentials": "邮箱或密码不正确。",
+      "emailTaken": "该邮箱已被使用。",
+      "invalidEmail": "邮箱地址无效。",
+      "emailNotConfirmed": "请先确认邮箱再登录。",
+      "weakPassword": "密码强度太低。",
+      "samePassword": "新密码不能与旧密码相同。",
+      "reauthenticationNeeded": "修改密码前请重新登录。",
+      "rateLimited": "尝试次数过多，请稍后再试。",
+      "signupDisabled": "暂未开放注册。",
+      "network": "无法连接，请检查网络。",
+      "generic": "出错了，请重试。"
+    }
   },
   "TODO_blocks_page": "__NEEDS_SOURCE__",
   "TODO_practice_page": "__NEEDS_SOURCE__",
   "TODO_stats_page": "__NEEDS_SOURCE__",
   "TODO_shadowing_page": "__NEEDS_SOURCE__",
-  "TODO_recall_page": "__NEEDS_SOURCE__"
+  "TODO_recall_page": "__NEEDS_SOURCE__",
+  "home": {
+    "greeting": "你好，{name}"
+  },
+  "profile": {
+    "title": "个人资料",
+    "identity": "身份信息",
+    "nameLabel": "显示名称",
+    "emailReadOnly": "邮箱地址暂时无法修改。",
+    "preferences": "偏好设置",
+    "studiedLanguages": "学习语言",
+    "studiedLanguagesHint": "至少保留一种语言。",
+    "defaultLanguage": "默认练习语言",
+    "languageEN": "英语",
+    "languageZH": "中文",
+    "save": "保存",
+    "saved": "资料已保存。",
+    "saveFailed": "保存失败，请重试。",
+    "offlineNotice": "你已离线：这些信息来自本设备，无法修改。",
+    "progress": "学习进度",
+    "viewStats": "查看统计",
+    "security": "安全",
+    "currentPasswordLabel": "当前密码",
+    "currentPasswordWrong": "密码不正确。",
+    "changePassword": "修改密码",
+    "passwordChanged": "密码已修改。",
+    "signOut": "退出登录",
+    "dangerZone": "危险操作",
+    "deleteAccount": "删除我的账户",
+    "deleteTitle": "确定删除账户？",
+    "deleteBody": "你的资料、自定义词块和服务器上的练习数据都将被删除，本设备上的数据也会清除。此操作无法撤销。",
+    "deleteConfirm": "永久删除",
+    "deleteFailed": "删除失败，请稍后再试。",
+    "cancel": "取消"
+  },
+  "deleteAccountPage": {
+    "title": "删除 Shadow 账户",
+    "intro": "你可以随时在 Shadow 应用内删除账户：",
+    "step1": "登录 Shadow。",
+    "step2": "打开“我的”标签页。",
+    "step3": "选择“删除我的账户”，并输入密码确认。",
+    "dataDeleted": "将删除你的资料、自定义词块和服务器上的练习数据。",
+    "contact": "如无法使用应用，可发送邮件申请删除："
+  },
+  "audio": {
+    "play": "收听发音",
+    "stop": "停止播放",
+    "changeSpeed": "调整播放速度",
+    "slow": "0.7x（慢速）",
+    "normal": "1.0x（正常）"
+  },
+  "rating": {
+    "prompt": "请选择掌握程度",
+    "rate": "评 {rating} 分（满分 5 分）",
+    "levels": [
+      {
+        "title": "1 - 失败",
+        "hint": "完全忘记 / 立即复习"
+      },
+      {
+        "title": "2 - 困难",
+        "hint": "回忆非常吃力"
+      },
+      {
+        "title": "3 - 一般",
+        "hint": "正常努力后回忆"
+      },
+      {
+        "title": "4 - 良好",
+        "hint": "回忆流畅迅速"
+      },
+      {
+        "title": "5 - 完美",
+        "hint": "不假思索，完全掌握"
+      }
+    ]
+  },
+  "stories": {
+    "title": "故事",
+    "searchPlaceholder": "搜索故事…",
+    "levelLabel": "级别",
+    "categoryLabel": "分类",
+    "allLevels": "全部",
+    "allCategories": "全部",
+    "categories": {
+      "quotidien": "日常",
+      "voyage": "旅行",
+      "travail": "工作",
+      "sante": "健康"
+    },
+    "found": "{count} 个故事",
+    "sentences": "{count} 句",
+    "mastery": {
+      "NEW": "新内容",
+      "LEARNING": "学习中",
+      "MASTERED": "已掌握"
+    },
+    "due": "待复习",
+    "nextReview": "下次复习：{date}",
+    "loadError": "无法加载故事。",
+    "retry": "重试",
+    "empty": "没有符合筛选条件的故事。",
+    "resetFilters": "重置筛选",
+    "listen": "收听故事",
+    "pause": "暂停",
+    "resume": "继续",
+    "stop": "停止",
+    "speed": "播放速度",
+    "phonetic": "注音",
+    "translation": "翻译",
+    "finished": "我读完了",
+    "ratingTitle": "这次阅读感觉如何？",
+    "ratingSubtitle": "你的评分决定下次复习日期。",
+    "saveRating": "保存评分",
+    "resultTitle": "阅读已记录",
+    "nextStory": "下一个故事",
+    "reread": "重新阅读",
+    "backToList": "返回列表",
+    "practiceBody": "阅读并收听适合你水平的完整故事，然后为理解程度评分。",
+    "practiceCta": "打开故事"
+  }
 }
