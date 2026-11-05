@@ -4,19 +4,98 @@ import { ThemeBlock, Phrase, PracticeLog, User, Language, StarRating, Story, Sto
 import { INITIAL_BLOCKS, INITIAL_PHRASES, INITIAL_PRACTICE_LOGS, INITIAL_USER, INITIAL_STORIES, INITIAL_STORY_SENTENCES } from './mock-data';
 import { processFsrsReview } from './fsrs';
 
-const STORAGE_KEYS = {
-  USER: 'shadow_user_v1',
-  BLOCKS: 'shadow_blocks_v1',
-  PHRASES: 'shadow_phrases_v1',
-  LOGS: 'shadow_logs_v1',
-  SELECTED_LANG: 'shadow_selected_lang_v1',
-  STORIES: 'shadow_stories_v1',
-  STORY_SENTENCES: 'shadow_story_sentences_v1',
+const ACTIVE_UID_KEY = 'shadow_active_uid';
+const ANONYMOUS_PREFIX = 'anon';
+
+const STORAGE_SUFFIXES = {
+  USER: 'user_v1',
+  BLOCKS: 'blocks_v1',
+  PHRASES: 'phrases_v1',
+  LOGS: 'logs_v1',
+  SELECTED_LANG: 'selected_lang_v1',
+  STORIES: 'stories_v1',
+  STORY_SENTENCES: 'story_sentences_v1',
 };
 
 // Vérification de la disponibilité du localStorage côté client
 function isClient(): boolean {
   return typeof window !== 'undefined';
+}
+
+/**
+ * Compte actif sur cet appareil. Lu de façon synchrone car toutes les
+ * fonctions de ce module le sont ; AuthProvider le réaligne sur la session.
+ */
+export function getActiveUid(): string | null {
+  if (!isClient()) return null;
+  try {
+    return localStorage.getItem(ACTIVE_UID_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export function setActiveUid(uid: string): void {
+  if (!isClient()) return;
+  try {
+    migrateLegacyData(uid);
+    localStorage.setItem(ACTIVE_UID_KEY, uid);
+  } catch {
+    // localStorage indisponible : les données restent sous le préfixe anonyme.
+  }
+}
+
+export function clearActiveUid(): void {
+  if (!isClient()) return;
+  try {
+    localStorage.removeItem(ACTIVE_UID_KEY);
+  } catch {
+    // Rien à effacer.
+  }
+}
+
+function storageKey(suffix: string, uid: string | null = getActiveUid()): string {
+  return `shadow_${uid ?? ANONYMOUS_PREFIX}_${suffix}`;
+}
+
+// Accesseurs : la clé dépend du compte actif au moment de la lecture.
+const STORAGE_KEYS = {
+  get USER() { return storageKey(STORAGE_SUFFIXES.USER); },
+  get BLOCKS() { return storageKey(STORAGE_SUFFIXES.BLOCKS); },
+  get PHRASES() { return storageKey(STORAGE_SUFFIXES.PHRASES); },
+  get LOGS() { return storageKey(STORAGE_SUFFIXES.LOGS); },
+  get SELECTED_LANG() { return storageKey(STORAGE_SUFFIXES.SELECTED_LANG); },
+  get STORIES() { return storageKey(STORAGE_SUFFIXES.STORIES); },
+  get STORY_SENTENCES() { return storageKey(STORAGE_SUFFIXES.STORY_SENTENCES); },
+};
+
+/**
+ * Migration unique : les données de l'époque sans compte (clés non préfixées)
+ * reviennent au premier compte connecté sur l'appareil. L'utilisateur factice
+ * n'est pas repris : le profil réel le remplace.
+ */
+function migrateLegacyData(uid: string): void {
+  const suffixes = Object.values(STORAGE_SUFFIXES);
+  const legacyKey = (suffix: string) => `shadow_${suffix}`;
+
+  if (!suffixes.some((suffix) => localStorage.getItem(legacyKey(suffix)) !== null)) return;
+  if (suffixes.some((suffix) => localStorage.getItem(storageKey(suffix, uid)) !== null)) return;
+
+  suffixes.forEach((suffix) => {
+    const value = localStorage.getItem(legacyKey(suffix));
+    if (value === null) return;
+    if (suffix !== STORAGE_SUFFIXES.USER) localStorage.setItem(storageKey(suffix, uid), value);
+    localStorage.removeItem(legacyKey(suffix));
+  });
+}
+
+/** Efface toutes les données locales d'un compte (suppression du compte). */
+export function deleteLocalUserData(uid: string): void {
+  if (!isClient()) return;
+  const prefix = `shadow_${uid}_`;
+  Object.keys(localStorage)
+    .filter((key) => key.startsWith(prefix))
+    .forEach((key) => localStorage.removeItem(key));
 }
 
 export function getStoredUser(): User {
@@ -213,7 +292,7 @@ export function recordDailyActivity(
   } else {
     logs.push({
       id: `log-${Date.now()}`,
-      user_id: 'user-001',
+      user_id: getActiveUid(),
       date: today,
       language,
       minutes_practiced: minutesToAdd,
@@ -434,7 +513,6 @@ export function addCustomStoryWithSentences(
  */
 export function resetDataToMock(): void {
   if (!isClient()) return;
-  localStorage.setItem(STORAGE_KEYS.USER, JSON.stringify(INITIAL_USER));
   localStorage.setItem(STORAGE_KEYS.BLOCKS, JSON.stringify(INITIAL_BLOCKS));
   localStorage.setItem(STORAGE_KEYS.PHRASES, JSON.stringify(INITIAL_PHRASES));
   localStorage.setItem(STORAGE_KEYS.LOGS, JSON.stringify(INITIAL_PRACTICE_LOGS));
